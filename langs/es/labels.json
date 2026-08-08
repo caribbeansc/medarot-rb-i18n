@@ -458,7 +458,8 @@
   },
   {
    "src": "73c5747c7d9b",
-   "t": "Paga 6 de costo de carga.\r\nInflige a 1 Medabot objetivo un daño igual al poder de este Medabot"
+   "t": "Paga 6 de costo de carga.\r\nInflige a 1 Medabot objetivo un daño igual al poder de este Medabot",
+   "note": "developer note left in the scene, never shown in game"
   },
   {
    "src": "743806abcacf",
@@ -702,7 +703,8 @@
   },
   {
    "src": "9f653feec9ba",
-   "t": "Te damos la bienvenida a Medarot Card Robattle Next.\r\nAhora te enseñaré las bases de la Robobatalla de cartas.\r\nEmpecemos con la Práctica 1.\r\n"
+   "t": "Te damos la bienvenida a Medarot Card Robattle Next.\r\nAhora te enseñaré las bases de la Robobatalla de cartas.\r\nEmpecemos con la Práctica 1.\r\n",
+   "note": "developer note left in the scene, never shown in game"
   },
   {
    "src": "9ff283a1f4dc",
