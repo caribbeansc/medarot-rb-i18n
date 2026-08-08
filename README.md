@@ -37,7 +37,7 @@ right-click the game, then **Extract Data** and **RomFS**, into an empty folder.
 Other routes are in [docs/SETUP.md](docs/SETUP.md).
 
 ```
-git clone https://github.com/caribbeanwebdev/medarot-rb-i18n
+git clone https://github.com/caribbeansc/medarot-rb-i18n
 cd medarot-rb-i18n
 pip install -r requirements.txt
 python mrb.py

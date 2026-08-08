@@ -21,7 +21,7 @@ python3 --version       # macOS / Linux
 ## 2. This repository and its dependencies
 
 ```
-git clone https://github.com/caribbeanwebdev/medarot-rb-i18n
+git clone https://github.com/caribbeansc/medarot-rb-i18n
 cd medarot-rb-i18n
 
 python -m venv .venv
