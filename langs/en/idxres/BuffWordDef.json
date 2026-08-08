@@ -111,7 +111,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1d274aeb90bf",
-   "t": "The target's power drops by 3000 during a\nnormal attack. Power returns after combat."
+   "t": "The target's power drops by 3000 during a normal attack. Power returns after combat."
   },
   {
    "row": "BuffWord08",
@@ -125,7 +125,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "356c2c94e04f",
-   "t": "This Medabot cannot use any ability (Action).\nThis Medabot cannot be swapped by Re-transfer."
+   "t": "This Medabot cannot use any ability (Action). This Medabot cannot be swapped by Re-transfer."
   },
   {
    "row": "BuffWord09",
@@ -139,7 +139,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "194abcb5cfa8",
-   "t": "This Medabot cannot take any action.\nThis Medabot cannot be swapped by Re-transfer."
+   "t": "This Medabot cannot take any action. This Medabot cannot be swapped by Re-transfer."
   },
   {
    "row": "BuffWord10",
@@ -475,7 +475,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "cf5cf180f078",
-   "t": "Opponents can only normal attack Medabots with Guard.\nGuard is a trait."
+   "t": "Opponents can only normal attack Medabots with Guard. Guard is a trait."
   },
   {
    "row": "BuffWord34",
@@ -545,7 +545,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "31adaf8b5f66",
-   "t": "When a Cross Attack with this Medabot destroys an opposing Medabot, choose 1 opposing part and destroy it."
+   "t": "When a Cross Attack with this Medabot destroys an\nopposing Medabot, choose 1 opposing part and destroy it."
   },
   {
    "row": "BuffWord39",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8f0616ac2beb",
-   "t": "When this Medabot destroys the opposing leader's part or Barrier, choose 1 part and destroy it."
+   "t": "When this Medabot destroys the opposing leader's\npart or Barrier, choose 1 part and destroy it."
   },
   {
    "row": "BuffWord40",
@@ -573,7 +573,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "d3b94fc41099",
-   "t": "Until the start of your next turn, all your Medabots gain 2000 power when hit by a normal attack.\nThis effect lasts until the start of your next turn."
+   "t": "Until the start of your next turn, all your Medabots gain 2000 power when\nhit by a normal attack. This effect lasts until the start of your next turn."
   },
   {
    "row": "BuffWord41",
@@ -601,7 +601,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fde2826b5a51",
-   "t": "Nullifies one opposing effect that targets this Medabot.\n\"Targeting effects\" choose this Medabot with an ability (Action), Medaforce, tactic, Medafighter and so on.\nLeader-fixed, all-target and random effects are excluded."
+   "t": "Nullifies one opposing effect that targets this Medabot. \"Targeting effects\"\nchoose this Medabot with an ability (Action), Medaforce, tactic, Medafighter\nand so on. Leader-fixed, all-target and random effects are excluded."
   },
   {
    "row": "BuffWord43",
@@ -615,7 +615,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "9e78930e5206",
-   "t": "This Medabot cannot choose a normal attack\nor Cross Attack."
+   "t": "This Medabot cannot choose a normal attack or Cross Attack."
   },
   {
    "row": "BuffWord44",
@@ -657,7 +657,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "39ec9c11d5a1",
-   "t": "When this Medabot takes damage on the enemy\nturn, deal the same damage to 1 random\nenemy Medabot."
+   "t": "When this Medabot takes damage on the enemy turn,\ndeal the same damage to 1 random enemy Medabot."
   },
   {
    "row": "BuffWord47",
@@ -671,7 +671,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "0dcfdad35f06",
-   "t": "When hit by a normal attack, this Medabot's power increases by 2000. Power returns to normal afterwards."
+   "t": "When hit by a normal attack, this Medabot's power\nincreases by 2000. Power returns to normal afterwards."
   },
   {
    "row": "BuffWord48",
@@ -769,7 +769,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "17af5d95a622",
-   "t": "Until the start of your next turn, this Medabot gains 2000 power when hit by a normal attack.\nPower returns to normal after the attack."
+   "t": "Until the start of your next turn, this Medabot gains 2000 power when\nhit by a normal attack. Power returns to normal after the attack."
   },
   {
    "row": "BuffWord55",
@@ -832,7 +832,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "963ac9ad55ef",
-   "t": "When the opposing player chooses a Medabot as a target,\nthey must choose this Medabot if possible."
+   "t": "When the opposing player chooses a Medabot as a\ntarget, they must choose this Medabot if possible."
   },
   {
    "row": "BuffWord60",
@@ -902,7 +902,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b187ec158aed",
-   "t": "When this Medabot takes a normal attack, the target gets [Bind] until the end of the opponent's turn."
+   "t": "When this Medabot takes a normal attack, the target\ngets [Bind] until the end of the opponent's turn."
   },
   {
    "row": "BuffWord65",
@@ -916,7 +916,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1e32d38c9e81",
-   "t": "When this Medabot takes a normal attack, its power increases by 4000. After the attack, power returns to normal."
+   "t": "When this Medabot takes a normal attack, its power increases\nby 4000. After the attack, power returns to normal."
   },
   {
    "row": "BuffWord66",
@@ -937,7 +937,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "bec50b849102",
-   "t": "When this Medabot normal attacks the enemy Leader, your opponent draws 2 cards. If their hand then holds 6 or more cards, they choose 1 of their parts and destroy it."
+   "t": "When this Medabot normal attacks the enemy Leader, your opponent draws 2 cards. If\ntheir hand then holds 6 or more cards, they choose 1 of their parts and destroy it."
   },
   {
    "row": "BuffWord68",
@@ -951,7 +951,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "9782065fe08d",
-   "t": "Return power to its base value. Any power increase or decrease applied before this effect is nullified."
+   "t": "Return power to its base value. Any power increase\nor decrease applied before this effect is nullified."
   },
   {
    "row": "BuffWord69",
@@ -965,7 +965,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "cddadecd69e1",
-   "t": "When this Medabot takes damage on the opponent's turn, deal that damage minus 2000 to the enemy Leader."
+   "t": "When this Medabot takes damage on the opponent's turn,\ndeal that damage minus 2000 to the enemy Leader."
   },
   {
    "row": "BuffWord70",
@@ -979,7 +979,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "27e68883eb22",
-   "t": "Continuous: At the end of your turn, if\nbarrier is not at max, turn 1 card in your\nhand into barrier."
+   "t": "Continuous: At the end of your turn, if barrier is\nnot at max, turn 1 card in your hand into barrier."
   },
   {
    "row": "BuffWord71",
@@ -1007,7 +1007,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8b2a6163baeb",
-   "t": "At the end of your turn, if your Barrier is not at its maximum, you may choose 1 card in your hand and make it a Barrier."
+   "t": "At the end of your turn, if your Barrier is not at its maximum,\nyou may choose 1 card in your hand and make it a Barrier."
   },
   {
    "row": "BuffWord73",
@@ -1091,7 +1091,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8dc034bde819",
-   "t": "Until the start of your next turn, effects that target this Medabot are nullified.\n\"Targeting effects\" are effects that choose this Medabot, such as abilities (actions), Medaforce, tactics or Medafighters.\nLeader-fixed, all-target and random effects are not included."
+   "t": "Until the start of your next turn, effects that target this Medabot are nullified.\n\"Targeting effects\" are those that choose this Medabot: abilities (actions), Medaforce,\ntactics or Medafighters. Leader-fixed, all-target and random effects are not included."
   },
   {
    "row": "BuffWord79",

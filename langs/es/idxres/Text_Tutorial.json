@@ -76,7 +76,7 @@
    "sub": 0,
    "col": "text",
    "src": "f7d1d564f2cd",
-   "t": "<size=-5>Práctica 2</size>\n<size=-15>-Sobre los Medabots de Soporte-</size>"
+   "t": "<size=-5>Práctica 2</size> <size=-15>-Sobre\nlos Medabots de Soporte-</size>"
   },
   {
    "row": "Tutorial_PracticeName03",
@@ -111,14 +111,14 @@
    "sub": 0,
    "col": "text",
    "src": "57a2d5eef55a",
-   "t": "<size=-5>Práctica 7</size>\n<size=-15>-Sobre las cartas de Táctica-</size>"
+   "t": "<size=-5>Práctica 7</size> <size=-15>-Sobre\nlas cartas de Táctica-</size>"
   },
   {
    "row": "Tutorial_PracticeName08",
    "sub": 0,
    "col": "text",
    "src": "f9c0aa354d89",
-   "t": "<size=-5>Práctica 8</size>\n<size=-15>-Sobre las cartas de Medaguerrero-</size>"
+   "t": "<size=-5>Práctica 8</size> <size=-15>-Sobre\nlas cartas de Medaguerrero-</size>"
   },
   {
    "row": "Tutorial_PracticeNameTry",
@@ -160,7 +160,7 @@
    "sub": 0,
    "col": "text",
    "src": "8528f1e35ae9",
-   "t": "En este juego de cartas lucharás junto a tu compañero, el Medabot Líder."
+   "t": "En este juego de cartas lucharás junto\na tu compañero, el Medabot Líder."
   },
   {
    "row": "Tutorial_Practice01_Message02",
@@ -174,7 +174,7 @@
    "sub": 0,
    "col": "text",
    "src": "a12bad8abb1c",
-   "t": "En la Robobatalla de cartas, ganas si el Líder rival deja de funcionar."
+   "t": "En la Robobatalla de cartas, ganas\nsi el Líder rival deja de funcionar."
   },
   {
    "row": "Tutorial_Practice01_Message04",
@@ -195,7 +195,7 @@
    "sub": 0,
    "col": "text",
    "src": "9a43d6c37c12",
-   "t": "Aquí se muestran las acciones que\neste Medabot puede realizar.\nCasi toda acción requiere un costo\nde acción."
+   "t": "Aquí se muestran las acciones que este Medabot puede\nrealizar. Casi toda acción requiere un costo de acción."
   },
   {
    "row": "Tutorial_Practice01_Message07",
@@ -209,7 +209,7 @@
    "sub": 0,
    "col": "text",
    "src": "bf9a9e89f3dc",
-   "t": "Por ejemplo, un Ataque normal consume la Energía que indica este número."
+   "t": "Por ejemplo, un Ataque normal consume\nla Energía que indica este número."
   },
   {
    "row": "Tutorial_Practice01_Message09",
@@ -237,28 +237,28 @@
    "sub": 0,
    "col": "text",
    "src": "0b5556d1d758",
-   "t": "Se compara el Poder de ambos: el más bajo deja de funcionar."
+   "t": "Se compara el Poder de ambos:\nel más bajo deja de funcionar."
   },
   {
    "row": "Tutorial_Practice01_Message13",
    "sub": 0,
    "col": "text",
    "src": "216582bf4898",
-   "t": "Tu ataque al Líder rival tuvo éxito,\npero no dejó de funcionar.\nFue porque la Barrera lo protegía."
+   "t": "Tu ataque al Líder rival tuvo éxito, pero no dejó\nde funcionar. Fue porque la Barrera lo protegía."
   },
   {
    "row": "Tutorial_Practice01_Message14",
    "sub": 0,
    "col": "text",
    "src": "86c262a54ea8",
-   "t": "¡Pero ese ataque acabó con la Barrera\nque protegía al Líder rival!\nAhora que no tiene Barrera, si tu\nataque tiene éxito, dejará de funcionar."
+   "t": "¡Pero ese ataque acabó con la Barrera que protegía\nal Líder rival! Ahora que no tiene Barrera, si tu\nataque tiene éxito, dejará de funcionar."
   },
   {
    "row": "Tutorial_Practice01_Message15",
    "sub": 0,
    "col": "text",
    "src": "3c2fb7ba636c",
-   "t": "Al actuar, un Medabot pasa al estado\nRecalentado.\nEn estado Recalentado no puede actuar."
+   "t": "Al actuar, un Medabot pasa al estado Recalentado.\nEn estado Recalentado no puede actuar."
   },
   {
    "row": "Tutorial_Practice01_Message16",
@@ -272,14 +272,14 @@
    "sub": 0,
    "col": "text",
    "src": "fa129cbf70ad",
-   "t": "Ahora comienza el turno del rival.\nEn este juego, tu turno y el del rival\nse alternan uno tras otro."
+   "t": "Ahora comienza el turno del rival. En este juego,\ntu turno y el del rival se alternan uno tras otro."
   },
   {
    "row": "Tutorial_Practice01_Message18",
    "sub": 0,
    "col": "text",
    "src": "bf33271b1ea9",
-   "t": "¡Llegó tu turno!\nAl inicio del turno, el estado\nRecalentado se enfría y tus Medabots\npueden volver a actuar."
+   "t": "¡Llegó tu turno! Al inicio del turno,\nel estado Recalentado se enfría y tus\nMedabots pueden volver a actuar."
   },
   {
    "row": "Tutorial_Practice01_Message19",
@@ -293,7 +293,7 @@
    "sub": 0,
    "col": "text",
    "src": "a77c7e8529fb",
-   "t": "El Líder rival dejó de funcionar.\n¡Es tu victoria!"
+   "t": "El Líder rival dejó de funcionar. ¡Es tu victoria!"
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title01",
@@ -307,7 +307,7 @@
    "sub": 0,
    "col": "text",
    "src": "9470fabb2cd5",
-   "t": "Las acciones de los Medabots requieren\nun costo de acción.\n\nEmpiezas con 10 de Energía y ganas 1\npor turno, hasta un máximo de 16.\nLa Energía se restaura por completo\nal inicio de tu turno."
+   "t": "Las acciones de los Medabots tienen un costo de acción.\nEmpiezas con 10 de Energía y ganas 1 por turno, hasta\n16. Se restaura entera al inicio de tu turno."
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title02",
@@ -321,7 +321,7 @@
    "sub": 0,
    "col": "text",
    "src": "9c7b3806a050",
-   "t": "Si tu Poder es mayor que el del rival,\nharás que deje de funcionar.\n\n¡Si el Poder es igual, ambos dejarán\nde funcionar!"
+   "t": "Si tu Poder es mayor que el del rival,\nharás que deje de funcionar. ¡Si el Poder\nes igual, ambos dejarán de funcionar!"
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title03",
@@ -335,7 +335,7 @@
    "sub": 0,
    "col": "text",
    "src": "e29e2aa09645",
-   "t": "La Barrera es un dispositivo especial\nque protege al Medabot Líder.\nMientras la tenga, el Líder no dejará\nde funcionar.\nAl destruirse una Barrera, tu Energía\naumenta y puedes actuar más.\nSu valor inicial y máximo suele ser 6."
+   "t": "La Barrera protege al Medabot Líder: mientras la tenga,\nno dejará de funcionar. Al destruirse una, ganas Energía\ny actúas más. Su valor inicial y máximo suele ser 6."
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title04",
@@ -349,35 +349,35 @@
    "sub": 0,
    "col": "text",
    "src": "c7a570c7bed6",
-   "t": "Un Medabot Recalentado no puede actuar\nhasta que se enfríe.\n\nAdemás, si lo atacan mientras está\nRecalentado, no puede contraatacar.\nPor eso, aunque el Poder sea igual,\nsolo él dejará de funcionar."
+   "t": "Un Medabot Recalentado no puede actuar hasta enfriarse,\ny si lo atacan tampoco puede contraatacar. Por eso,\naunque el Poder sea igual, solo él dejará de funcionar."
   },
   {
    "row": "Tutorial_Practice02_Message01",
    "sub": 0,
    "col": "text",
    "src": "214607b41d8b",
-   "t": "En una Robobatalla no se lucha solo\ncon un Medabot.\nCoordina a varios Medabots y busca\nla victoria."
+   "t": "En una Robobatalla no se lucha solo con un Medabot.\nCoordina a varios Medabots y busca la victoria."
   },
   {
    "row": "Tutorial_Practice02_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "872a29c6fcc6",
-   "t": "En una Robobatalla no se lucha con un\nsolo Medabot.\nCoordina a varios Medabots para lograr\nla victoria."
+   "t": "En una Robobatalla no se lucha con un solo Medabot.\nCoordina a varios Medabots para lograr la victoria."
   },
   {
    "row": "Tutorial_Practice02_Message02",
    "sub": 0,
    "col": "text",
    "src": "718823f1aa04",
-   "t": "Primero, transfiere a un Medabot que\nno sea el Líder.\nPuedes transferir durante la Fase de\npreparación y la Fase final."
+   "t": "Primero, transfiere a un Medabot que no\nsea el Líder. Puedes transferir durante\nla Fase de preparación y la Fase final."
   },
   {
    "row": "Tutorial_Practice02_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "ab66d89a056b",
-   "t": "Primero, transfiere a un Medabot que\nno sea el Líder.\nPuedes transferir en la Fase de\npreparación o en la Fase final."
+   "t": "Primero, transfiere a un Medabot que no\nsea el Líder. Puedes transferir en la\nFase de preparación o en la Fase final."
   },
   {
    "row": "Tutorial_Practice02_Message03",
@@ -426,35 +426,35 @@
    "sub": 0,
    "col": "text",
    "src": "2a37062f567b",
-   "t": "¡Excelente!\nLos Medabots que luchan junto a tu\nLíder se llaman [Medabots de Soporte]."
+   "t": "¡Excelente! Los Medabots que luchan junto a\ntu Líder se llaman [Medabots de Soporte]."
   },
   {
    "row": "Tutorial_Practice02_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "3304370f201e",
-   "t": "¡Excelente!\nLos Medabots que salen a tu campo y\nluchan junto a tu Líder se llaman\nMedabots de Soporte."
+   "t": "¡Excelente! Los Medabots que salen a tu campo y luchan\njunto a tu Líder se llaman Medabots de Soporte."
   },
   {
    "row": "Tutorial_Practice02_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "2688cc6c1436",
-   "t": "Ahora, veamos el campo del rival.\nSus Medabots tienen Poder de 5000 o más.\nTal como están, tus Medabots no podrán\nhacerles frente."
+   "t": "Ahora, veamos el campo del rival. Sus Medabots\ntienen Poder de 5000 o más. Tal como están,\ntus Medabots no podrán hacerles frente."
   },
   {
    "row": "Tutorial_Practice02_Message07",
    "sub": 0,
    "col": "text",
    "src": "6d761ede5545",
-   "t": "Mira a tus Medabots de Soporte.\nAl transferirse, quedan en estado\nRecalentado. Como no pueden actuar,\ntermina tu turno aquí."
+   "t": "Mira a tus Medabots de Soporte. Al\ntransferirse, quedan en estado Recalentado.\nComo no pueden actuar, termina tu turno aquí."
   },
   {
    "row": "Tutorial_Practice02_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "2b6d7ca82ea6",
-   "t": "Ahora mira a tus Medabots de Soporte.\nLos recién transferidos quedan en\nestado Recalentado.\nNo hay más que hacer: termina tu turno."
+   "t": "Ahora mira a tus Medabots de Soporte. Los recién\ntransferidos quedan en estado Recalentado. No\nhay más que hacer: termina tu turno."
   },
   {
    "row": "Tutorial_Practice02_Message07_1",
@@ -482,21 +482,21 @@
    "sub": 0,
    "col": "text_en",
    "src": "5ffbfc20f1d6",
-   "t": "Todos tus Medabots ya pueden actuar.\nPara vencer a los poderosos Medabots\nrivales, atácalos en equipo."
+   "t": "Todos tus Medabots ya pueden actuar. Para vencer a\nlos poderosos Medabots rivales, atácalos en equipo."
   },
   {
    "row": "Tutorial_Practice02_Message08_1",
    "sub": 0,
    "col": "text",
    "src": "7315d31de99f",
-   "t": "Ahora, veamos el campo del rival.\nSus Medabots tienen Poder de 5000 o más.\nTal como están, tus Medabots no\nparecen poder ganarles."
+   "t": "Ahora, veamos el campo del rival. Sus Medabots\ntienen Poder de 5000 o más. Tal como están,\ntus Medabots no parecen poder ganarles."
   },
   {
    "row": "Tutorial_Practice02_Message08_2",
    "sub": 0,
    "col": "text",
    "src": "45fe24de591d",
-   "t": "Así que, para vencer a esos poderosos\nMedabots, haz que los tuyos ataquen\nen equipo."
+   "t": "Así que, para vencer a esos poderosos\nMedabots, haz que los tuyos ataquen en equipo."
   },
   {
    "row": "Tutorial_Practice02_Message08_3",
@@ -531,14 +531,14 @@
    "sub": 0,
    "col": "text",
    "src": "0da70123c936",
-   "t": "El Ataque cruzado combina la fuerza de\nvarios Medabots en un solo ataque.\n¡Aunque el Poder de uno no baste, en\nequipo pueden vencer a los más fuertes!"
+   "t": "El Ataque cruzado combina la fuerza de varios\nMedabots en un solo ataque. ¡Aunque el Poder de uno\nno baste, en equipo pueden vencer a los más fuertes!"
   },
   {
    "row": "Tutorial_Practice02_Message10",
    "sub": 0,
    "col": "text_en",
    "src": "44bcfebfe9b5",
-   "t": "El Ataque cruzado consiste en atacar\ncon varios Medabots a la vez.\n¡Cooperando, hasta Medabots con poco\nPoder pueden vencer a los más fuertes!"
+   "t": "El Ataque cruzado consiste en atacar con varios\nMedabots a la vez. ¡Cooperando, hasta Medabots\ncon poco Poder pueden vencer a los más fuertes!"
   },
   {
    "row": "Tutorial_Practice02_Message11",
@@ -559,14 +559,14 @@
    "sub": 0,
    "col": "text",
    "src": "c17fb5484f76",
-   "t": "Elige a los Medabots participantes.\nEsta vez elige a los 3 y confirma con\nel botón."
+   "t": "Elige a los Medabots participantes. Esta\nvez elige a los 3 y confirma con el botón."
   },
   {
    "row": "Tutorial_Practice02_Message12",
    "sub": 0,
    "col": "text_en",
    "src": "7a575a9036e9",
-   "t": "Elige Ataque cruzado y luego a los\nMedabots que participarán.\nElige a los 3."
+   "t": "Elige Ataque cruzado y luego a los\nMedabots que participarán. Elige a los 3."
   },
   {
    "row": "Tutorial_Practice02_Message12_1",
@@ -601,21 +601,21 @@
    "sub": 0,
    "col": "text",
    "src": "0c95b3dd250a",
-   "t": "Un Ataque cruzado consume tanta Energía como Medabots participen."
+   "t": "Un Ataque cruzado consume tanta\nEnergía como Medabots participen."
   },
   {
    "row": "Tutorial_Practice02_Message14",
    "sub": 0,
    "col": "text_en",
    "src": "bb764d588654",
-   "t": "Pero consumiste tanta Energía como\nMedabots participaron.\nPor eso ya no puedes actuar este turno.\nTermina tu turno aquí."
+   "t": "Pero consumiste tanta Energía como Medabots\nparticiparon. Por eso ya no puedes actuar\neste turno. Termina tu turno aquí."
   },
   {
    "row": "Tutorial_Practice02_Message14_1",
    "sub": 0,
    "col": "text",
    "src": "c20f929ae84d",
-   "t": "Con la Energía restante ya no puedes\nactuar más.\nAquí termina tu turno."
+   "t": "Con la Energía restante ya no puedes\nactuar más. Aquí termina tu turno."
   },
   {
    "row": "Tutorial_Practice02_Message15",
@@ -636,7 +636,7 @@
    "sub": 0,
    "col": "text",
    "src": "b22567b9e4d1",
-   "t": "Ahora haz un Ataque cruzado con todos contra el Líder rival."
+   "t": "Ahora haz un Ataque cruzado con\ntodos contra el Líder rival."
   },
   {
    "row": "Tutorial_Practice02_Message15_1",
@@ -650,28 +650,28 @@
    "sub": 0,
    "col": "text",
    "src": "c11849b76318",
-   "t": "¡Excelente!\nEl Ataque cruzado al Líder puede\ndestruir varias Barreras y Medapartes\nsegún el número de participantes."
+   "t": "¡Excelente! El Ataque cruzado al Líder\npuede destruir varias Barreras y Medapartes\nsegún el número de participantes."
   },
   {
    "row": "Tutorial_Practice02_Message16",
    "sub": 0,
    "col": "text_en",
    "src": "c045b1503345",
-   "t": "Excelente.\nEl Ataque cruzado al Líder puede\ndestruir varias Barreras y Medapartes\nsegún el número de participantes."
+   "t": "Excelente. El Ataque cruzado al Líder puede\ndestruir varias Barreras y Medapartes según\nel número de participantes."
   },
   {
    "row": "Tutorial_Practice02_Message17",
    "sub": 0,
    "col": "text",
    "src": "9c399cde63a6",
-   "t": "Cuantos más Medabots participen, más\nfuerte es el Ataque cruzado, pero\ntambién gasta más Energía.\n¡Cuida tu Energía y lucha en equipo!"
+   "t": "Cuantos más Medabots participen, más fuerte\nes el Ataque cruzado, pero también gasta más\nEnergía. ¡Cuida tu Energía y lucha en equipo!"
   },
   {
    "row": "Tutorial_Practice02_Message17",
    "sub": 0,
    "col": "text_en",
    "src": "6d228c608ba1",
-   "t": "El Ataque cruzado requiere el costo de\nacción de cada Medabot participante.\nSi sumas los costos de tus Soportes y\ntransfieres para usar tu Energía sin\ndesperdicio, ¡la victoria está cerca!"
+   "t": "El Ataque cruzado cuesta el costo de acción de cada\nparticipante. Suma los de tus Soportes y transfiere\nsin desperdiciar Energía: ¡la victoria estará cerca!"
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title01",
@@ -720,14 +720,14 @@
    "sub": 0,
    "col": "text",
    "src": "97e80e95bcf9",
-   "t": "Medabots que luchan junto al Líder.\nSi dejan de funcionar, desaparecen\ndel campo."
+   "t": "Medabots que luchan junto al Líder. Si\ndejan de funcionar, desaparecen del campo."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Body02",
    "sub": 0,
    "col": "text_en",
    "src": "97e80e95bcf9",
-   "t": "Medabots que luchan junto al Líder.\nSi dejan de funcionar, desaparecen\ndel campo."
+   "t": "Medabots que luchan junto al Líder. Si\ndejan de funcionar, desaparecen del campo."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title03",
@@ -748,14 +748,14 @@
    "sub": 0,
    "col": "text",
    "src": "2eb2a311844b",
-   "t": "Suma el Poder de varios Medabots para\nlanzar un Ataque normal contra un solo\nMedabot."
+   "t": "Suma el Poder de varios Medabots para lanzar\nun Ataque normal contra un solo Medabot."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Body03",
    "sub": 0,
    "col": "text_en",
    "src": "8678af4a1633",
-   "t": "Suma el Poder de varios Medabots para\nlanzar un Ataque normal contra un solo\nMedabot.\nOjo: si el Poder del Ataque cruzado y\nel del rival son iguales, todos los\nparticipantes dejarán de funcionar."
+   "t": "Suma el Poder de varios Medabots para hacer un Ataque\nnormal a uno solo. Ojo: si su Poder iguala al del\nrival, todos los participantes dejarán de funcionar."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title04",
@@ -776,119 +776,119 @@
    "sub": 0,
    "col": "text",
    "src": "4478e06f42f2",
-   "t": "Por cada participante extra, destruyes\n+1 Barrera o Medaparte del Líder rival.\nSi no le quedan Barreras ni Medapartes,\ndejará de funcionar."
+   "t": "Por cada participante extra, destruyes +1 Barrera\no Medaparte del Líder rival. Si no le quedan\nBarreras ni Medapartes, dejará de funcionar."
   },
   {
    "row": "Tutorial_Practice03_Message01",
    "sub": 0,
    "col": "text",
    "src": "b69f3eefeae8",
-   "t": "Los Medabots son robots que luchan\ncambiando libremente sus Medapartes.\nMira la formación rival y equipa las\nMedapartes más eficaces para ganar."
+   "t": "Los Medabots son robots que luchan cambiando\nlibremente sus Medapartes. Mira la formación rival\ny equipa las Medapartes más eficaces para ganar."
   },
   {
    "row": "Tutorial_Practice03_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "b69f3eefeae8",
-   "t": "Los Medabots son robots que luchan\ncambiando libremente sus Medapartes.\nMira la formación rival y equipa las\nMedapartes más eficaces para ganar."
+   "t": "Los Medabots son robots que luchan cambiando\nlibremente sus Medapartes. Mira la formación rival\ny equipa las Medapartes más eficaces para ganar."
   },
   {
    "row": "Tutorial_Practice03_Message02",
    "sub": 0,
    "col": "text",
    "src": "70b69e433d7c",
-   "t": "Las Medapartes se cambian durante la\nFase de preparación.\nAntes de equipar, revisa primero la\nsituación del tablero."
+   "t": "Las Medapartes se cambian durante la Fase de preparación.\nAntes de equipar, revisa primero la situación del tablero."
   },
   {
    "row": "Tutorial_Practice03_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "ea5465391f14",
-   "t": "Solo puedes cambiar Medapartes durante\nla Fase de preparación.\nAhora es la Fase de preparación:\n¡equipa una Medaparte!"
+   "t": "Solo puedes cambiar Medapartes durante\nla Fase de preparación. Ahora es la Fase\nde preparación: ¡equipa una Medaparte!"
   },
   {
    "row": "Tutorial_Practice03_Message03",
    "sub": 0,
    "col": "text",
    "src": "4b8e04042266",
-   "t": "El Líder rival tiene 6000 de Poder.\nTal como estás, no podrás causarle\ndaño alguno."
+   "t": "El Líder rival tiene 6000 de Poder. Tal\ncomo estás, no podrás causarle daño alguno."
   },
   {
    "row": "Tutorial_Practice03_Message03",
    "sub": 0,
    "col": "text_en",
    "src": "e654301f901a",
-   "t": "Fíjate en el tablero: el Líder rival\ntiene 6000 de Poder.\nParece que tus ataques no van a\nsurtir efecto."
+   "t": "Fíjate en el tablero: el Líder rival tiene 6000 de\nPoder. Parece que tus ataques no van a surtir efecto."
   },
   {
    "row": "Tutorial_Practice03_Message04",
    "sub": 0,
    "col": "text",
    "src": "c372d1b3e55f",
-   "t": "Para subir el Poder de tu Líder, revisa la Medaparte del brazo derecho."
+   "t": "Para subir el Poder de tu Líder,\nrevisa la Medaparte del brazo derecho."
   },
   {
    "row": "Tutorial_Practice03_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "dc4aaa242a56",
-   "t": "Primero, para subir el Poder, revisa la Medaparte del brazo derecho."
+   "t": "Primero, para subir el Poder, revisa\nla Medaparte del brazo derecho."
   },
   {
    "row": "Tutorial_Practice03_Message05",
    "sub": 0,
    "col": "text",
    "src": "5a06d3a504d1",
-   "t": "Aquí eliges, entre las Medapartes de\ntu mazo, cuáles equipar a tu Líder.\nEquipa Turmeron."
+   "t": "Aquí eliges, entre las Medapartes de tu mazo,\ncuáles equipar a tu Líder. Equipa Turmeron."
   },
   {
    "row": "Tutorial_Practice03_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "5a06d3a504d1",
-   "t": "Aquí eliges, entre las Medapartes de\ntu mazo, cuáles equipar a tu Líder.\nEquipa Turmeron."
+   "t": "Aquí eliges, entre las Medapartes de tu mazo,\ncuáles equipar a tu Líder. Equipa Turmeron."
   },
   {
    "row": "Tutorial_Practice03_Message06",
    "sub": 0,
    "col": "text",
    "src": "842512ab440c",
-   "t": "La Medaparte del brazo derecho tiene\nPoder +1000, así que al equiparla tu\nLíder ganó 1000 de Poder.\nCon esto igualas al Líder rival."
+   "t": "La Medaparte del brazo derecho tiene Poder\n+1000, así que al equiparla tu Líder ganó 1000\nde Poder. Con esto igualas al Líder rival."
   },
   {
    "row": "Tutorial_Practice03_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "717fd7ace55a",
-   "t": "La Medaparte del brazo derecho tiene\nPoder +1000, así que al equiparla tu\nLíder ganó 1000 de Poder.\nAsí igualaste el Poder del Líder rival."
+   "t": "La Medaparte del brazo derecho tiene Poder +1000,\nasí que al equiparla tu Líder ganó 1000 de Poder.\nAsí igualaste el Poder del Líder rival."
   },
   {
    "row": "Tutorial_Practice03_Message07",
    "sub": 0,
    "col": "text",
    "src": "10ce64bda5d4",
-   "t": "Durante la Fase de preparación puedes\ncambiar Medapartes cuantas veces\nquieras, así que no te preocupes si\nte equivocas al equipar."
+   "t": "Durante la Fase de preparación puedes cambiar\nMedapartes cuantas veces quieras, así que no\nte preocupes si te equivocas al equipar."
   },
   {
    "row": "Tutorial_Practice03_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "10ce64bda5d4",
-   "t": "Durante la Fase de preparación puedes\ncambiar Medapartes cuantas veces\nquieras, así que no te preocupes si\nte equivocas al equipar."
+   "t": "Durante la Fase de preparación puedes cambiar\nMedapartes cuantas veces quieras, así que no\nte preocupes si te equivocas al equipar."
   },
   {
    "row": "Tutorial_Practice03_Message08",
    "sub": 0,
    "col": "text",
    "src": "cff09ded2323",
-   "t": "Ahora querrás atacar al rival, pero\nsi su Líder tiene el mismo Poder que\ntú, recibirás su contraataque."
+   "t": "Ahora querrás atacar al rival, pero si su Líder tiene\nel mismo Poder que tú, recibirás su contraataque."
   },
   {
    "row": "Tutorial_Practice03_Message08",
    "sub": 0,
    "col": "text_en",
    "src": "cff09ded2323",
-   "t": "Ahora querrás atacar al rival, pero\nsi su Líder tiene el mismo Poder que\ntú, recibirás su contraataque."
+   "t": "Ahora querrás atacar al rival, pero si su Líder tiene\nel mismo Poder que tú, recibirás su contraataque."
   },
   {
    "row": "Tutorial_Practice03_Message09",
@@ -923,28 +923,28 @@
    "sub": 0,
    "col": "text",
    "src": "3b03b3347cee",
-   "t": "Un Líder con Medapartes equipadas\npuede usar las habilidades de estas.\nUnder Tube tiene la habilidad Disparo a\ndistancia, que posee [Francotiro]."
+   "t": "Un Líder con Medapartes equipadas puede usar las\nhabilidades de estas. Under Tube tiene la habilidad\nDisparo a distancia, que posee [Francotiro]."
   },
   {
    "row": "Tutorial_Practice03_Message11",
    "sub": 0,
    "col": "text_en",
    "src": "fda813f35c73",
-   "t": "Un Líder con Medapartes equipadas\npuede usar las habilidades de estas.\nUnder Tube tiene la habilidad Disparo a\ndistancia, que posee [Francotiro]."
+   "t": "Un Líder con Medapartes equipadas puede usar las\nhabilidades de estas. Under Tube tiene la habilidad\nDisparo a distancia, que posee [Francotiro]."
   },
   {
    "row": "Tutorial_Practice03_Message12",
    "sub": 0,
    "col": "text",
    "src": "59024291ca77",
-   "t": "Con Disparo a distancia dañas al\nobjetivo que elijas.\nA diferencia del Ataque normal, no\ncorres riesgo de contraataque."
+   "t": "Con Disparo a distancia dañas al objetivo\nque elijas. A diferencia del Ataque\nnormal, no corres riesgo de contraataque."
   },
   {
    "row": "Tutorial_Practice03_Message12",
    "sub": 0,
    "col": "text_en",
    "src": "59024291ca77",
-   "t": "Con Disparo a distancia dañas al\nobjetivo que elijas.\nA diferencia del Ataque normal, no\ncorres riesgo de contraataque."
+   "t": "Con Disparo a distancia dañas al objetivo\nque elijas. A diferencia del Ataque\nnormal, no corres riesgo de contraataque."
   },
   {
    "row": "Tutorial_Practice03_Message13",
@@ -979,42 +979,42 @@
    "sub": 0,
    "col": "text",
    "src": "e4b5644ca72e",
-   "t": "Pero, aunque el rival ya no tenía\nBarreras, no dejó de funcionar.\nEs que se defendió con una Medaparte.\nLos ataques al Líder se pueden recibir\ncon Barreras o con Medapartes."
+   "t": "Pero el rival no dejó de funcionar aunque ya no tenía\nBarreras: se defendió con una Medaparte. Los ataques\nal Líder se reciben con Barreras o Medapartes."
   },
   {
    "row": "Tutorial_Practice03_Message15",
    "sub": 0,
    "col": "text_en",
    "src": "e6152df265ee",
-   "t": "Pero, aunque el rival no tenía Barrera\ndesplegada, no dejó de funcionar.\nLa razón es que se defendió con una\nMedaparte.\nLos ataques al Líder se pueden recibir\ncon Barreras y también con Medapartes."
+   "t": "Pero el rival no dejó de funcionar aunque no tenía\nBarrera desplegada: se defendió con una Medaparte. Los\nataques al Líder se reciben con Barreras y Medapartes."
   },
   {
    "row": "Tutorial_Practice03_Message16",
    "sub": 0,
    "col": "text",
    "src": "e8df49fe786a",
-   "t": "¡El rival ya no tiene Barrera ni Medapartes: es hora de vencerlo!"
+   "t": "¡El rival ya no tiene Barrera ni\nMedapartes: es hora de vencerlo!"
   },
   {
    "row": "Tutorial_Practice03_Message16",
    "sub": 0,
    "col": "text_en",
    "src": "e8df49fe786a",
-   "t": "¡El rival ya no tiene Barrera ni Medapartes: es hora de vencerlo!"
+   "t": "¡El rival ya no tiene Barrera ni\nMedapartes: es hora de vencerlo!"
   },
   {
    "row": "Tutorial_Practice03_Message17",
    "sub": 0,
    "col": "text",
    "src": "a98b99bb435d",
-   "t": "Pero tu Medabot está en estado\nRecalentado y no puede actuar.\nAun así, hay un método especial para\nque actúe una vez más."
+   "t": "Pero tu Medabot está en estado Recalentado\ny no puede actuar. Aun así, hay un método\nespecial para que actúe una vez más."
   },
   {
    "row": "Tutorial_Practice03_Message17",
    "sub": 0,
    "col": "text_en",
    "src": "d2cc47c1c56d",
-   "t": "Pero tu Medabot está en estado\nRecalentado y no puede actuar.\nNormalmente aquí ya no podría moverse,\npero con un método especial puede\nactuar una vez más."
+   "t": "Pero tu Medabot está en estado Recalentado y no puede\nactuar. Normalmente aquí ya no podría moverse, pero\ncon un método especial puede actuar una vez más."
   },
   {
    "row": "Tutorial_Practice03_Message18",
@@ -1035,14 +1035,14 @@
    "sub": 0,
    "col": "text",
    "src": "22d05caa0538",
-   "t": "Con este Enfriamiento rápido puedes\nenfriar al instante a un Medabot\nRecalentado y dejarlo listo para actuar."
+   "t": "Con este Enfriamiento rápido puedes enfriar al instante\na un Medabot Recalentado y dejarlo listo para actuar."
   },
   {
    "row": "Tutorial_Practice03_Message19",
    "sub": 0,
    "col": "text_en",
    "src": "2cff7b515d42",
-   "t": "Con este Enfriamiento rápido puedes\nenfriar al instante a un Medabot\nRecalentado y dejarlo listo para actuar."
+   "t": "Con este Enfriamiento rápido puedes enfriar al instante\na un Medabot Recalentado y dejarlo listo para actuar."
   },
   {
    "row": "Tutorial_Practice03_Message20",
@@ -1084,7 +1084,7 @@
    "sub": 0,
    "col": "text",
    "src": "75dbf186941f",
-   "t": "Cartas que cambian el rendimiento del\nMedabot. Solo el Líder puede equiparlas.\nEl brazo derecho otorga estadísticas\nbase; el izquierdo, habilidades.\nLas habilidades de las Medapartes\nequipadas cuentan como del Líder."
+   "t": "Cartas que cambian el rendimiento del Medabot; solo el\nLíder las equipa. El brazo derecho da estadísticas base\ny el izquierdo, habilidades, que pasan a ser del Líder."
   },
   {
    "row": "Tutorial_Practice03_Dialog_Title02",
@@ -1098,7 +1098,7 @@
    "sub": 0,
    "col": "text",
    "src": "7fa48fca9b63",
-   "t": "Se activa pagando el costo de acción.\nFrancotiro inflige al rival elegido un\ndaño igual a tu poder.\nA diferencia del ataque normal, el\nrival no te contraatacará."
+   "t": "Se activa pagando el costo de acción. Francotiro inflige\nal rival elegido un daño igual a tu poder. A diferencia\ndel ataque normal, el rival no te contraatacará."
   },
   {
    "row": "Tutorial_Practice03_Dialog_Title03",
@@ -1112,7 +1112,7 @@
    "sub": 0,
    "col": "text",
    "src": "fd7add6f7ef4",
-   "t": "Cuando tu Líder reciba daño que lo\nharía dejar de funcionar, puedes\nprotegerlo recibiendo el daño con la\nBarrera o con piezas."
+   "t": "Cuando tu Líder reciba daño que lo haría dejar\nde funcionar, puedes protegerlo recibiendo el\ndaño con la Barrera o con piezas."
   },
   {
    "row": "Tutorial_Practice03_Dialog_Title04",
@@ -1126,35 +1126,35 @@
    "sub": 0,
    "col": "text",
    "src": "b070914a6ca1",
-   "t": "Al descartar tantas cartas como indique\nel costo de enfriamiento rápido, el\nMedabot se enfría al instante y queda\nlisto para actuar.\nPuede usarse cuantas veces quieras por\nturno."
+   "t": "Descarta tantas cartas como indique el costo de\nenfriamiento rápido y el Medabot se enfría al instante.\nPuedes hacerlo cuantas veces quieras por turno."
   },
   {
    "row": "Tutorial_Practice04_Message01",
    "sub": 0,
    "col": "text",
    "src": "aa168a985471",
-   "t": "Aquí te explicaré cómo defenderte de los ataques del rival."
+   "t": "Aquí te explicaré cómo defenderte\nde los ataques del rival."
   },
   {
    "row": "Tutorial_Practice04_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "aa168a985471",
-   "t": "Aquí te explicaré cómo defenderte de los ataques del rival."
+   "t": "Aquí te explicaré cómo defenderte\nde los ataques del rival."
   },
   {
    "row": "Tutorial_Practice04_Message02",
    "sub": 0,
    "col": "text",
    "src": "c2b267ef4fbb",
-   "t": "En la práctica anterior te conté que,\ncuando tu Líder recibe daño que lo\nharía dejar de funcionar, puedes\nprotegerlo recibiendo el daño con la\nBarrera o con piezas."
+   "t": "En la práctica anterior te conté que, cuando tu Líder\nrecibe daño que lo haría dejar de funcionar, puedes\nprotegerlo recibiendo el daño con la Barrera o con piezas."
   },
   {
    "row": "Tutorial_Practice04_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "7c6477796bf6",
-   "t": "En la práctica anterior te conté que\npuedes proteger a tu Líder recibiendo\ncon la Barrera o con piezas el daño que\nlo haría dejar de funcionar."
+   "t": "En la práctica anterior te conté que puedes\nproteger a tu Líder recibiendo con la Barrera o con\npiezas el daño que lo haría dejar de funcionar."
   },
   {
    "row": "Tutorial_Practice04_Message03",
@@ -1168,7 +1168,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "44806c795747",
-   "t": "Recibamos un ataque de verdad para que experimentes cómo defenderte."
+   "t": "Recibamos un ataque de verdad para\nque experimentes cómo defenderte."
   },
   {
    "row": "Tutorial_Practice04_Message04",
@@ -1189,56 +1189,56 @@
    "sub": 0,
    "col": "text",
    "src": "69ffbf7f7d8d",
-   "t": "Este ícono muestra el número de piezas\nque te quedan.\nIndica que en ambos brazos tienes 2\npiezas de repuesto además de las que\nllevas equipadas."
+   "t": "Este ícono muestra el número de piezas que te\nquedan. Indica que en ambos brazos tienes 2 piezas\nde repuesto además de las que llevas equipadas."
   },
   {
    "row": "Tutorial_Practice04_Message06",
    "sub": 0,
    "col": "text",
    "src": "6c92bb43394b",
-   "t": "Si tienes piezas de repuesto, defenderte del ataque rival con una pieza es un recurso eficaz."
+   "t": "Si tienes piezas de repuesto, defenderte del\nataque rival con una pieza es un recurso eficaz."
   },
   {
    "row": "Tutorial_Practice04_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "151dd1d28d52",
-   "t": "Si tienes piezas de repuesto, defenderte del ataque rival con una pieza será un recurso eficaz."
+   "t": "Si tienes piezas de repuesto, defenderte del\nataque rival con una pieza será un recurso eficaz."
   },
   {
    "row": "Tutorial_Practice04_Message07",
    "sub": 0,
    "col": "text",
    "src": "1ac9cf177369",
-   "t": "Si un ataque rival inflige a tu Líder\ndaño que lo haría dejar de funcionar,\naparecerá esta pantalla para elegir\nentre Barrera o pieza."
+   "t": "Si un ataque rival inflige a tu Líder daño que\nlo haría dejar de funcionar, aparecerá esta\npantalla para elegir entre Barrera o pieza."
   },
   {
    "row": "Tutorial_Practice04_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "cc7106c84ed8",
-   "t": "Si un ataque rival inflige a tu Líder\ndaño que lo haría dejar de funcionar,\naparecerá esta pantalla para elegir\nentre Barrera o pieza.\nEsta vez, recibámoslo con una pieza."
+   "t": "Si un ataque rival haría que tu Líder dejara de\nfuncionar, aparece esta pantalla para elegir entre\nBarrera o pieza. Esta vez, recibámoslo con una pieza."
   },
   {
    "row": "Tutorial_Practice04_Message08",
    "sub": 0,
    "col": "text",
    "src": "2cf33234603b",
-   "t": "Esta vez queda poca Barrera, así que\nrecibiremos el daño con una pieza.\nPero antes, veamos el tablero."
+   "t": "Esta vez queda poca Barrera, así que recibiremos el\ndaño con una pieza. Pero antes, veamos el tablero."
   },
   {
    "row": "Tutorial_Practice04_Message09",
    "sub": 0,
    "col": "text",
    "src": "826d9b828f3d",
-   "t": "El Lily Madonna rival está atacando.\nEste Medabot usa 6 de energía al\natacar, así que, tras el ataque, al\nrival le quedarán 4 de energía."
+   "t": "El Lily Madonna rival está atacando. Este Medabot\nusa 6 de energía al atacar, así que, tras el\nataque, al rival le quedarán 4 de energía."
   },
   {
    "row": "Tutorial_Practice04_Message09",
    "sub": 0,
    "col": "text_en",
    "src": "8ae76bd385a2",
-   "t": "El Lily Madonna rival está atacando.\nPor lo tanto, tras esta acción, la\nenergía del rival quedará en 4."
+   "t": "El Lily Madonna rival está atacando. Por lo tanto,\ntras esta acción, la energía del rival quedará en 4."
   },
   {
    "row": "Tutorial_Practice04_Message10",
@@ -1266,14 +1266,14 @@
    "sub": 0,
    "col": "text_en",
    "src": "b5a98d32b8d9",
-   "t": "Si te defiendes con el brazo derecho,\nperderás el poder +1000 que este\notorga, tu Líder quedará con 5000 de\npoder y el Warbandit también podrá\natacarte."
+   "t": "Si te defiendes con el brazo derecho, perderás el\npoder +1000 que este otorga, tu Líder quedará con\n5000 de poder y el Warbandit también podrá atacarte."
   },
   {
    "row": "Tutorial_Practice04_Message12",
    "sub": 0,
    "col": "text",
    "src": "2d60fb868d46",
-   "t": "Como resultado, cuando el Warbandit de\n5000 de poder te ataque, tu Barrera o\nuna pieza será destruida."
+   "t": "Como resultado, cuando el Warbandit de 5000 de poder\nte ataque, tu Barrera o una pieza será destruida."
   },
   {
    "row": "Tutorial_Practice04_Message12",
@@ -1301,21 +1301,21 @@
    "sub": 0,
    "col": "text",
    "src": "d353d06433c1",
-   "t": "Perdiste el brazo izquierdo, pero\nevitaste recibir más daño.\nComo puedes equipar piezas en tu\npróximo turno, conviene defenderte\njusto cuando ya pensabas cambiar de\npieza."
+   "t": "Perdiste el brazo izquierdo, pero evitaste más daño.\nComo puedes equipar piezas en tu próximo turno,\nconviene defenderte cuando ya pensabas cambiarlas."
   },
   {
    "row": "Tutorial_Practice04_Message14",
    "sub": 0,
    "col": "text_en",
    "src": "f41e5cbe2b02",
-   "t": "Perdiste el brazo izquierdo, pero\nevitaste recibir más daño.\nComo puedes equipar piezas en tu\npróximo turno, conviene defenderte\njusto cuando ya pensabas cambiar de\npieza."
+   "t": "Perdiste el brazo izquierdo, pero evitaste más daño.\nComo puedes equipar piezas en tu próximo turno,\nconviene defenderte cuando ya pensabas cambiarlas."
   },
   {
    "row": "Tutorial_Practice04_Message14_1",
    "sub": 0,
    "col": "text",
    "src": "6b44ded7530c",
-   "t": "Es importante decidir si defenderte con\nla Barrera o con piezas según la\nBarrera restante y la situación del\ntablero."
+   "t": "Es importante decidir si defenderte con\nla Barrera o con piezas según la Barrera\nrestante y la situación del tablero."
   },
   {
    "row": "Tutorial_Practice04_Message15",
@@ -1329,7 +1329,7 @@
    "sub": 0,
    "col": "text",
    "src": "04308f069999",
-   "t": "Al comenzar la Robobatalla, robas 6 cartas en la primera Fase de robo."
+   "t": "Al comenzar la Robobatalla, robas 6\ncartas en la primera Fase de robo."
   },
   {
    "row": "Tutorial_Practice05_Message01",
@@ -1343,14 +1343,14 @@
    "sub": 0,
    "col": "text",
    "src": "6d4ef4a28ada",
-   "t": "Solo en el robo inicial de la\nRobobatalla puedes volver a robar\ncartas.\nPrimero, revisa tu mano actual."
+   "t": "Solo en el robo inicial de la Robobatalla puedes\nvolver a robar cartas. Primero, revisa tu mano actual."
   },
   {
    "row": "Tutorial_Practice05_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "1fcc4ddff0a0",
-   "t": "Solo en el primer robo del turno 1\npuedes volver a robar cartas.\nRevisa tu mano actual."
+   "t": "Solo en el primer robo del turno 1 puedes\nvolver a robar cartas. Revisa tu mano actual."
   },
   {
    "row": "Tutorial_Practice05_Message03",
@@ -1371,14 +1371,14 @@
    "sub": 0,
    "col": "text",
    "src": "5a0b36b250a5",
-   "t": "Las cartas con Límite de Barrera no\npueden usarse al principio, cuando la\nBarrera aún no ha sido destruida.\nEn estos casos, devuélvelas al mazo y\nroba cartas nuevas."
+   "t": "Las cartas con Límite de Barrera no pueden usarse al\nprincipio, cuando la Barrera aún no ha sido destruida. En\nestos casos, devuélvelas al mazo y roba cartas nuevas."
   },
   {
    "row": "Tutorial_Practice05_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "a34ab4051f6b",
-   "t": "Las cartas con Límite de Barrera no\npueden usarse al principio, cuando la\nBarrera aún no ha sido destruida.\nEn esos casos, devuelve esas cartas al\nmazo y roba nuevas."
+   "t": "Las cartas con Límite de Barrera no pueden usarse al\nprincipio, cuando la Barrera aún no ha sido destruida. En\nesos casos, devuelve esas cartas al mazo y roba nuevas."
   },
   {
    "row": "Tutorial_Practice05_Message05",
@@ -1392,7 +1392,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "aaa7bedae60d",
-   "t": "Selecciona las cartas con Límite de Barrera y presiona el botón Confirmar."
+   "t": "Selecciona las cartas con Límite de\nBarrera y presiona el botón Confirmar."
   },
   {
    "row": "Tutorial_Practice05_Message06",
@@ -1413,21 +1413,21 @@
    "sub": 0,
    "col": "text",
    "src": "944a682c0989",
-   "t": "Volver a robar es útil cuando no tienes\nMedabots de Soporte para transferir o\ntienes muchas cartas poco útiles al\ninicio.\nConserva las cartas que quieras usar y\ncambia pensando en tu siguiente jugada."
+   "t": "Volver a robar sirve si no tienes Soportes que transferir\no si te sobran cartas poco útiles. Conserva las que\nquieras usar y cambia pensando en tu siguiente jugada."
   },
   {
    "row": "Tutorial_Practice05_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "ec0c30f09f1c",
-   "t": "Cambia las cartas con Límite de Barrera\no las de una mano sin Medabots, y\nconserva las que quieras usar sin\nfalta.\nLo ideal es cambiar cartas pensando en\ntu siguiente jugada."
+   "t": "Cambia las cartas con Límite de Barrera o una mano\nsin Medabots, y conserva las que quieras usar. Lo\nideal es cambiar pensando en tu siguiente jugada."
   },
   {
    "row": "Tutorial_Practice05_Message08",
    "sub": 0,
    "col": "text",
    "src": "4cdaa3b6b174",
-   "t": "Ahora te explicaré el límite de mano.\nAvancemos hasta el final de la Fase\nfinal."
+   "t": "Ahora te explicaré el límite de mano.\nAvancemos hasta el final de la Fase final."
   },
   {
    "row": "Tutorial_Practice05_Message08",
@@ -1441,21 +1441,21 @@
    "sub": 0,
    "col": "text",
    "src": "0bb5fb73289c",
-   "t": "Aunque al inicio robaste 6 cartas, al\nterminar la Fase final solo puedes\nconservar 5.\nSi tienes más de 5, deberás descartar\nhasta quedarte con 5."
+   "t": "Aunque al inicio robaste 6 cartas, al terminar la\nFase final solo puedes conservar 5. Si tienes más\nde 5, deberás descartar hasta quedarte con 5."
   },
   {
    "row": "Tutorial_Practice05_Message09",
    "sub": 0,
    "col": "text_en",
    "src": "e73e05359739",
-   "t": "Al principio te dije que el límite de\nmano es de 5 cartas.\nPor eso, si al final del turno tienes\nmás de 5, deberás descartar hasta\nquedarte con 5."
+   "t": "Al principio te dije que el límite de mano es de\n5 cartas. Por eso, si al final del turno tienes\nmás de 5, deberás descartar hasta quedarte con 5."
   },
   {
    "row": "Tutorial_Practice05_Message10",
    "sub": 0,
    "col": "text",
    "src": "97ed25c890e5",
-   "t": "Ahora tienes 6 cartas, así que debes\ndescartar 1.\nElige la carta que descartarás y\nconfirma con el botón."
+   "t": "Ahora tienes 6 cartas, así que debes descartar 1. Elige\nla carta que descartarás y confirma con el botón."
   },
   {
    "row": "Tutorial_Practice05_Message10",
@@ -1476,35 +1476,35 @@
    "sub": 0,
    "col": "text_en",
    "src": "4da71e7da4c0",
-   "t": "Cuidado: si no usas ninguna carta, tu mano se desperdiciará."
+   "t": "Cuidado: si no usas ninguna\ncarta, tu mano se desperdiciará."
   },
   {
    "row": "Tutorial_Practice05_Message12",
    "sub": 0,
    "col": "text",
    "src": "b876569fc561",
-   "t": "Acabo de decirte que solo puedes\nconservar 5 cartas, pero en realidad\npuedes tener algunas más."
+   "t": "Acabo de decirte que solo puedes conservar 5\ncartas, pero en realidad puedes tener algunas más."
   },
   {
    "row": "Tutorial_Practice05_Message12",
    "sub": 0,
    "col": "text_en",
    "src": "aa8f1ad0091d",
-   "t": "Acabo de decirte que el límite de mano\nes de 5, pero en realidad puedes tener\nalgunas cartas más."
+   "t": "Acabo de decirte que el límite de mano es de 5,\npero en realidad puedes tener algunas cartas más."
   },
   {
    "row": "Tutorial_Practice05_Message13",
    "sub": 0,
    "col": "text",
    "src": "8bfff7cc5879",
-   "t": "Cuando la Barrera es destruida, las\ncartas que la formaban pasan a la parte\ninferior derecha.\nEstas cartas se llaman «Mano de\nBarrera».\nSe usan igual que la mano normal, pero\nno cuentan para el límite de mano."
+   "t": "Al destruirse la Barrera, las cartas que la formaban\npasan abajo a la derecha: es la «Mano de Barrera». Se usa\nigual que la mano normal, pero no cuenta para su límite."
   },
   {
    "row": "Tutorial_Practice05_Message13",
    "sub": 0,
    "col": "text_en",
    "src": "62adbe785f9d",
-   "t": "Cuando la Barrera es destruida, las\ncartas pasan a la parte inferior\nderecha.\nEsta zona se llama Mano de Barrera.\nSus cartas no cuentan para el límite de\nmano y pueden usarse en cualquier\nmomento."
+   "t": "Al destruirse la Barrera, las cartas pasan abajo a la\nderecha: esa zona es la Mano de Barrera. Sus cartas no\ncuentan para el límite y pueden usarse cuando quieras."
   },
   {
    "row": "Tutorial_Practice05_Message14",
@@ -1525,49 +1525,49 @@
    "sub": 0,
    "col": "text",
    "src": "a04ca227c57a",
-   "t": "A partir del turno 2, en la Fase de\nrobo puedes descartar las cartas que no\nnecesites y robar hasta tener 6."
+   "t": "A partir del turno 2, en la Fase de robo puedes descartar\nlas cartas que no necesites y robar hasta tener 6."
   },
   {
    "row": "Tutorial_Practice05_Message15",
    "sub": 0,
    "col": "text_en",
    "src": "b69f5737cf9e",
-   "t": "En la Fase de robo puedes descartar las\ncartas que no necesites y ajustar tu\nmano hasta un máximo de 6.\nLa Mano de Barrera no cuenta como mano\nnormal, así que no puede descartarse.\nTambién puedes robar hasta 6 sin\ndescartar y pasar a la Fase de\npreparación."
+   "t": "En la Fase de robo descartas lo que no necesites y\najustas tu mano hasta 6. La Mano de Barrera no puede\ndescartarse. También puedes robar hasta 6 sin descartar."
   },
   {
    "row": "Tutorial_Practice05_Message16",
    "sub": 0,
    "col": "text",
    "src": "22da163069de",
-   "t": "A diferencia del cambio inicial, las\ncartas que descartes aquí van al\nDescarte y no vuelven al mazo.\nLa Mano de Barrera no cuenta como mano\nnormal, así que no puede descartarse."
+   "t": "A diferencia del cambio inicial, lo que descartes aquí\nva al Descarte y no vuelve al mazo. La Mano de Barrera\nno cuenta como mano normal y no puede descartarse."
   },
   {
    "row": "Tutorial_Practice05_Message16",
    "sub": 0,
    "col": "text_en",
    "src": "8b8ab1078cb3",
-   "t": "A diferencia del cambio inicial, las\ncartas que elijas aquí van al Descarte\ny no vuelven al mazo."
+   "t": "A diferencia del cambio inicial, las cartas que\nelijas aquí van al Descarte y no vuelven al mazo."
   },
   {
    "row": "Tutorial_Practice05_Message17",
    "sub": 0,
    "col": "text",
    "src": "a07c7c5c6859",
-   "t": "Puedes robar muchas cartas cada turno,\npero cuidado con robar de más.\nSi intentas robar sin cartas en el\nmazo, perderás la Robobatalla."
+   "t": "Puedes robar muchas cartas cada turno, pero\ncuidado con robar de más. Si intentas robar sin\ncartas en el mazo, perderás la Robobatalla."
   },
   {
    "row": "Tutorial_Practice05_Message17",
    "sub": 0,
    "col": "text_en",
    "src": "856434b78abf",
-   "t": "Puedes robar muchas cartas cada turno,\npero cuidado con robar de más.\nEn este juego, si intentas robar sin\ncartas en el mazo, perderás.\nPlanea tu estrategia vigilando cuántas\ncartas quedan en tu mazo."
+   "t": "Puedes robar muchas cartas cada turno, pero cuidado con\npasarte: si intentas robar sin cartas en el mazo, pierdes.\nVigila cuántas te quedan al planear tu estrategia."
   },
   {
    "row": "Tutorial_Practice05_Message17_1",
    "sub": 0,
    "col": "text",
    "src": "47df6f4b133e",
-   "t": "Administra bien tu mano para llevar ventaja en la Robobatalla."
+   "t": "Administra bien tu mano para\nllevar ventaja en la Robobatalla."
   },
   {
    "row": "Tutorial_Practice05_Message18",
@@ -1602,14 +1602,14 @@
    "sub": 0,
    "col": "text",
    "src": "06fe89519e00",
-   "t": "Carta que puede usarse cuando tu\nBarrera restante es igual o menor al\nnúmero indicado."
+   "t": "Carta que puede usarse cuando tu Barrera\nrestante es igual o menor al número indicado."
   },
   {
    "row": "Tutorial_Practice05_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "06fe89519e00",
-   "t": "Carta que puede usarse cuando tu\nBarrera restante es igual o menor al\nnúmero indicado."
+   "t": "Carta que puede usarse cuando tu Barrera\nrestante es igual o menor al número indicado."
   },
   {
    "row": "Tutorial_Practice05_Dialog_Title02",
@@ -1630,70 +1630,70 @@
    "sub": 0,
    "col": "text",
    "src": "ee69102d59dc",
-   "t": "La Barrera se forma convirtiendo las 6\ncartas superiores del mazo.\nCuando la Barrera es destruida, esas\ncartas pasan a una zona especial.\nAllí se tratan aparte de la mano normal\ny forman una mano especial que puede\nusarse en cualquier momento."
+   "t": "La Barrera se forma con las 6 cartas superiores del\nmazo. Al destruirse, pasan a una zona especial: son\nuna mano aparte de la normal, usable cuando quieras."
   },
   {
    "row": "Tutorial_Practice05_Dialog_Body02",
    "sub": 0,
    "col": "text_en",
    "src": "ee69102d59dc",
-   "t": "La Barrera se forma convirtiendo las 6\ncartas superiores del mazo.\nCuando la Barrera es destruida, esas\ncartas pasan a una zona especial.\nAllí se tratan aparte de la mano normal\ny forman una mano especial que puede\nusarse en cualquier momento."
+   "t": "La Barrera se forma con las 6 cartas superiores del\nmazo. Al destruirse, pasan a una zona especial: son\nuna mano aparte de la normal, usable cuando quieras."
   },
   {
    "row": "Tutorial_Practice06_Message01",
    "sub": 0,
    "col": "text",
    "src": "64a427ca5594",
-   "t": "La medalla integrada en cada Medabot\nposee una técnica especial llamada\nMedafuerza."
+   "t": "La medalla integrada en cada Medabot posee\nuna técnica especial llamada Medafuerza."
   },
   {
    "row": "Tutorial_Practice06_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "64a427ca5594",
-   "t": "La medalla integrada en cada Medabot\nposee una técnica especial llamada\nMedafuerza."
+   "t": "La medalla integrada en cada Medabot posee\nuna técnica especial llamada Medafuerza."
   },
   {
    "row": "Tutorial_Practice06_Message02",
    "sub": 0,
    "col": "text",
    "src": "e3289dcbbb6b",
-   "t": "Todas las Medafuerzas tienen efectos\npoderosos.\nEso sí, siempre tienen Límite de\nBarrera y solo pueden activarse cuando\ntu Barrera se ha reducido."
+   "t": "Todas las Medafuerzas tienen efectos poderosos.\nEso sí, siempre tienen Límite de Barrera y solo\npueden activarse cuando tu Barrera se ha reducido."
   },
   {
    "row": "Tutorial_Practice06_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "5a092fc26b87",
-   "t": "Las Medafuerzas siempre tienen Límite\nde Barrera.\nEs decir, como vimos en la Práctica 5,\nson técnicas que solo pueden activarse\ncuando tu Barrera se ha reducido."
+   "t": "Las Medafuerzas siempre tienen Límite de Barrera. Es\ndecir, como vimos en la Práctica 5, son técnicas que\nsolo pueden activarse cuando tu Barrera se ha reducido."
   },
   {
    "row": "Tutorial_Practice06_Message03",
    "sub": 0,
    "col": "text",
    "src": "f97a1ba0bd95",
-   "t": "En tu campo está la Medafuerza\n[Disparo Simultáneo], pero su Límite de\nBarrera es 2 y aún no puede activarse."
+   "t": "En tu campo está la Medafuerza [Disparo Simultáneo],\npero su Límite de Barrera es 2 y aún no puede activarse."
   },
   {
    "row": "Tutorial_Practice06_Message03",
    "sub": 0,
    "col": "text_en",
    "src": "7f633e0285ab",
-   "t": "En tu campo está Disparo Simultáneo,\npero su Límite de Barrera es 2 y no\npuede activarse."
+   "t": "En tu campo está Disparo Simultáneo, pero su\nLímite de Barrera es 2 y no puede activarse."
   },
   {
    "row": "Tutorial_Practice06_Message04",
    "sub": 0,
    "col": "text",
    "src": "f2ddff5039b0",
-   "t": "El ataque rival destruyó tu Barrera.\n¡Pero gracias a ese ataque,\n[Disparo Simultáneo] ya puede\nactivarse!"
+   "t": "El ataque rival destruyó tu Barrera. ¡Pero gracias a\nese ataque, [Disparo Simultáneo] ya puede activarse!"
   },
   {
    "row": "Tutorial_Practice06_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "81642a24c178",
-   "t": "El ataque rival destruyó tu Barrera.\n¡Pero gracias a ese ataque, Disparo\nSimultáneo ya puede activarse!\nUsa la técnica especial y contraataca."
+   "t": "El ataque rival destruyó tu Barrera. ¡Pero\ngracias a ese ataque, Disparo Simultáneo ya puede\nactivarse! Usa la técnica especial y contraataca."
   },
   {
    "row": "Tutorial_Practice06_Message04_1",
@@ -1721,7 +1721,7 @@
    "sub": 0,
    "col": "text",
    "src": "0f9fa1ff0228",
-   "t": "La Medafuerza es tu carta de triunfo\npara el momento decisivo.\nTras usarla una vez, no podrá activarse\nde nuevo en esa Robobatalla.\nElige bien el momento para usarla."
+   "t": "La Medafuerza es tu carta de triunfo para el momento\ndecisivo. Tras usarla una vez, no podrá activarse de nuevo\nen esa Robobatalla. Elige bien el momento para usarla."
   },
   {
    "row": "Tutorial_Practice06_Message05",
@@ -1756,14 +1756,14 @@
    "sub": 0,
    "col": "text",
    "src": "6903e5088b91",
-   "t": "Las cartas de Táctica dan órdenes\nespeciales a tus Medabots.\nEso sí, no puedes usarlas si no hay en\nel campo un Medabot capaz de cumplir\nesa orden."
+   "t": "Las cartas de Táctica dan órdenes especiales a tus\nMedabots. Eso sí, no puedes usarlas si no hay en\nel campo un Medabot capaz de cumplir esa orden."
   },
   {
    "row": "Tutorial_Practice07_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "6903e5088b91",
-   "t": "Las cartas de Táctica dan órdenes\nespeciales a tus Medabots.\nEso sí, no puedes usarlas si no hay en\nel campo un Medabot capaz de cumplir\nesa orden."
+   "t": "Las cartas de Táctica dan órdenes especiales a tus\nMedabots. Eso sí, no puedes usarlas si no hay en\nel campo un Medabot capaz de cumplir esa orden."
   },
   {
    "row": "Tutorial_Practice07_Message03",
@@ -1784,42 +1784,42 @@
    "sub": 0,
    "col": "text",
    "src": "57dce63ef0ee",
-   "t": "¿Ves que el Ninninja desplegado en el campo tiene un ícono?"
+   "t": "¿Ves que el Ninninja desplegado\nen el campo tiene un ícono?"
   },
   {
    "row": "Tutorial_Practice07_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "57dce63ef0ee",
-   "t": "¿Ves que el Ninninja desplegado en el campo tiene un ícono?"
+   "t": "¿Ves que el Ninninja desplegado\nen el campo tiene un ícono?"
   },
   {
    "row": "Tutorial_Practice07_Message05",
    "sub": 0,
    "col": "text",
    "src": "369bf68985b0",
-   "t": "Significa que posee lo necesario para\nusar cartas de Táctica de tipo Combate.\nEsto se llama [Reserva táctica]."
+   "t": "Significa que posee lo necesario para usar cartas de\nTáctica de tipo Combate. Esto se llama [Reserva táctica]."
   },
   {
    "row": "Tutorial_Practice07_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "ec1766dfd991",
-   "t": "Significa que posee lo necesario para\nusar cartas de Táctica de tipo Combate.\nEsto se llama Reserva táctica."
+   "t": "Significa que posee lo necesario para usar cartas de\nTáctica de tipo Combate. Esto se llama Reserva táctica."
   },
   {
    "row": "Tutorial_Practice07_Message06",
    "sub": 0,
    "col": "text",
    "src": "f5963526da9a",
-   "t": "Y aquí se muestra el total de Reserva\ntáctica de tus Medabots."
+   "t": "Y aquí se muestra el total de\nReserva táctica de tus Medabots."
   },
   {
    "row": "Tutorial_Practice07_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "f5963526da9a",
-   "t": "Y aquí se muestra el total de Reserva\ntáctica de tus Medabots."
+   "t": "Y aquí se muestra el total de\nReserva táctica de tus Medabots."
   },
   {
    "row": "Tutorial_Practice07_Message07",
@@ -1840,14 +1840,14 @@
    "sub": 0,
    "col": "text",
    "src": "8797519aba00",
-   "t": "Ataque de Distracción se usa gastando 2\nReservas de Combate.\n¿Ves que 2 puntos del total de Reserva\ntáctica están brillando?"
+   "t": "Ataque de Distracción se usa gastando 2\nReservas de Combate. ¿Ves que 2 puntos del\ntotal de Reserva táctica están brillando?"
   },
   {
    "row": "Tutorial_Practice07_Message08",
    "sub": 0,
    "col": "text_en",
    "src": "8797519aba00",
-   "t": "Ataque de Distracción se usa gastando 2\nReservas de Combate.\n¿Ves que 2 puntos del total de Reserva\ntáctica están brillando?"
+   "t": "Ataque de Distracción se usa gastando 2\nReservas de Combate. ¿Ves que 2 puntos del\ntotal de Reserva táctica están brillando?"
   },
   {
    "row": "Tutorial_Practice07_Message09",
@@ -1868,14 +1868,14 @@
    "sub": 0,
    "col": "text",
    "src": "9c9e1c9345db",
-   "t": "Todos los Medabots de Soporte rivales\ndejaron de funcionar.\nLas cartas de Táctica son poderosas\nporque surten efecto al instante, pero\ndebes tener en cuenta la Reserva\ntáctica de tus Medabots en el campo."
+   "t": "Todos los Soportes rivales dejaron de funcionar. Las\ncartas de Táctica actúan al instante y son potentes,\npero debes vigilar la Reserva táctica de tu campo."
   },
   {
    "row": "Tutorial_Practice07_Message10",
    "sub": 0,
    "col": "text_en",
    "src": "9c9e1c9345db",
-   "t": "Todos los Medabots de Soporte rivales\ndejaron de funcionar.\nLas cartas de Táctica son poderosas\nporque surten efecto al instante, pero\ndebes tener en cuenta la Reserva\ntáctica de tus Medabots en el campo."
+   "t": "Todos los Soportes rivales dejaron de funcionar. Las\ncartas de Táctica actúan al instante y son potentes,\npero debes vigilar la Reserva táctica de tu campo."
   },
   {
    "row": "Tutorial_Practice07_Message11",
@@ -1910,14 +1910,14 @@
    "sub": 0,
    "col": "text",
    "src": "c16bc3934e24",
-   "t": "Se consume al usar cartas de Táctica.\nUna vez gastada, no se repone hasta el\npróximo turno."
+   "t": "Se consume al usar cartas de Táctica. Una vez\ngastada, no se repone hasta el próximo turno."
   },
   {
    "row": "Tutorial_Practice07_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "c16bc3934e24",
-   "t": "Se consume al usar cartas de Táctica.\nUna vez gastada, no se repone hasta el\npróximo turno."
+   "t": "Se consume al usar cartas de Táctica. Una vez\ngastada, no se repone hasta el próximo turno."
   },
   {
    "row": "Tutorial_Practice07_Dialog_Title02",
@@ -1938,28 +1938,28 @@
    "sub": 0,
    "col": "text",
    "src": "c66a053fbb54",
-   "t": "Carta que se usa gastando Reserva\ntáctica.\nSu efecto se activa al instante."
+   "t": "Carta que se usa gastando Reserva\ntáctica. Su efecto se activa al instante."
   },
   {
    "row": "Tutorial_Practice07_Dialog_Body02",
    "sub": 0,
    "col": "text_en",
    "src": "c66a053fbb54",
-   "t": "Carta que se usa gastando Reserva\ntáctica.\nSu efecto se activa al instante."
+   "t": "Carta que se usa gastando Reserva\ntáctica. Su efecto se activa al instante."
   },
   {
    "row": "Tutorial_Practice08_Message01",
    "sub": 0,
    "col": "text",
    "src": "1dbc2204d5ee",
-   "t": "Las cartas de Medaguerrero te permiten\ntomar prestada la fuerza de un\nMedaguerrero para llevar ventaja."
+   "t": "Las cartas de Medaguerrero te permiten tomar prestada\nla fuerza de un Medaguerrero para llevar ventaja."
   },
   {
    "row": "Tutorial_Practice08_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "1dbc2204d5ee",
-   "t": "Las cartas de Medaguerrero te permiten\ntomar prestada la fuerza de un\nMedaguerrero para llevar ventaja."
+   "t": "Las cartas de Medaguerrero te permiten tomar prestada\nla fuerza de un Medaguerrero para llevar ventaja."
   },
   {
    "row": "Tutorial_Practice08_Message02",
@@ -1973,7 +1973,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "6e268cb8271f",
-   "t": "Como las cartas de Táctica, surten\nefecto al instante y además no\nrequieren ningún costo."
+   "t": "Como las cartas de Táctica, surten efecto al\ninstante y además no requieren ningún costo."
   },
   {
    "row": "Tutorial_Practice08_Message03",
@@ -1994,21 +1994,21 @@
    "sub": 0,
    "col": "text",
    "src": "ff3b90d320eb",
-   "t": "¡Los Medabots de tipo Combate en el\ncampo se fortalecieron!\nLas cartas de Medaguerrero tienen\nefectos poderosos, pero su uso tiene\nlímites."
+   "t": "¡Los Medabots de tipo Combate en el campo se\nfortalecieron! Las cartas de Medaguerrero tienen\nefectos poderosos, pero su uso tiene límites."
   },
   {
    "row": "Tutorial_Practice08_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "88fddbab5e02",
-   "t": "¡Los Medabots de tipo Combate en el\ncampo se fortalecieron!\nEstas cartas no requieren costo y\ntienen efectos poderosos.\nPero su uso tiene límites. Mira aquí."
+   "t": "¡Los Medabots de tipo Combate en el campo se\nfortalecieron! Estas cartas no requieren costo y tienen\nefectos poderosos. Pero su uso tiene límites. Mira aquí."
   },
   {
    "row": "Tutorial_Practice08_Message04_1",
    "sub": 0,
    "col": "text",
    "src": "c8ce8dde9f74",
-   "t": "Solo puedes tomar prestada la fuerza de 1 Medaguerrero por turno."
+   "t": "Solo puedes tomar prestada la\nfuerza de 1 Medaguerrero por turno."
   },
   {
    "row": "Tutorial_Practice08_Message04_2",
@@ -2022,14 +2022,14 @@
    "sub": 0,
    "col": "text",
    "src": "108e9de2e6c2",
-   "t": "Este ícono indica si ya usaste una\ncarta de Medaguerrero este turno.\nSi se muestra la cara de un\nMedaguerrero, no podrás usar otra carta\nde Medaguerrero en ese turno."
+   "t": "Este ícono indica si ya usaste una carta de Medaguerrero\neste turno. Si se muestra la cara de un Medaguerrero, no\npodrás usar otra carta de Medaguerrero en ese turno."
   },
   {
    "row": "Tutorial_Practice08_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "9541a8b06b12",
-   "t": "Este ícono indica si ya usaste una\ncarta de Medaguerrero este turno.\nSi muestra la cara de un Medaguerrero,\nno podrás usar otra en ese turno.\nEs decir, solo puedes tomar prestada la\nfuerza de un Medaguerrero por turno."
+   "t": "Este ícono indica si ya usaste una carta de\nMedaguerrero este turno. Si muestra su cara, no podrás\nusar otra: solo cuentas con un Medaguerrero por turno."
   },
   {
    "row": "Tutorial_Practice08_Message06",
@@ -2078,28 +2078,28 @@
    "sub": 0,
    "col": "text",
    "src": "6b3fc4625bf8",
-   "t": "Carta que solo puede usarse 1 vez por\nturno.\nSurte efecto al instante, pero es clave\npensar bien qué carta de Medaguerrero\nusar."
+   "t": "Carta que solo puede usarse 1 vez por turno.\nSurte efecto al instante, pero es clave\npensar bien qué carta de Medaguerrero usar."
   },
   {
    "row": "Tutorial_Practice08_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "6935f70e2f37",
-   "t": "Carta que solo puede usarse 1 vez por\nturno.\nSurte efecto al instante, pero debes\npensar qué carta de Medaguerrero usar."
+   "t": "Carta que solo puede usarse 1 vez por\nturno. Surte efecto al instante, pero debes\npensar qué carta de Medaguerrero usar."
   },
   {
    "row": "Tutorial_PracticeKBT_Message01",
    "sub": 0,
    "col": "text",
    "src": "7520d037f200",
-   "t": "Obtuviste un mazo de Disparo con\nMetabee como Líder.\n¡Domina el disparo a distancia y apunta\na quien quieras!"
+   "t": "Obtuviste un mazo de Disparo con Metabee como Líder.\n¡Domina el disparo a distancia y apunta a quien quieras!"
   },
   {
    "row": "Tutorial_PracticeKBT_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "b1e520458bb1",
-   "t": "Obtuviste un mazo de Disparo con\nMetabee como Líder.\n¡Domina el disparo a distancia y apunta\na quien quieras!"
+   "t": "Obtuviste un mazo de Disparo con Metabee como Líder.\n¡Domina el disparo a distancia y apunta a quien quieras!"
   },
   {
    "row": "Tutorial_PracticeKBT_Dialog_Title01",
@@ -2113,28 +2113,28 @@
    "sub": 0,
    "col": "text",
    "src": "112522aa09dc",
-   "t": "La habilidad [Francotiro] inflige al\nMedabot objetivo un daño igual a tu\npoder.\nSi aumentas tu poder, podrás hacer que\nrivales más poderosos dejen de\nfuncionar.\nAdemás, este ataque no recibe\ncontraataque del rival."
+   "t": "[Francotiro] inflige al Medabot objetivo un daño igual a\ntu poder. Si lo aumentas, harás que dejen de funcionar\nrivales más poderosos. Además, no recibe contraataque."
   },
   {
    "row": "Tutorial_PracticeKBT_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "bbf3452d5890",
-   "t": "Las cartas con [Francotiro] infligen al\nMedabot elegido un daño igual a tu\npoder.\nSi aumentas tu poder, podrás hacer que\nrivales más poderosos dejen de\nfuncionar.\nEsta acción no recibe contraataque."
+   "t": "Las cartas con [Francotiro] infligen al Medabot elegido\nun daño igual a tu poder. Si lo aumentas, harás que dejen\nde funcionar rivales más fuertes. No recibe contraataque."
   },
   {
    "row": "Tutorial_PracticeKWG_Message01",
    "sub": 0,
    "col": "text",
    "src": "421c2b233c0e",
-   "t": "Obtuviste un mazo de Combate con\nRokusho como Líder.\n¡Supera el poder del rival en el cuerpo\na cuerpo y ataca con todo!"
+   "t": "Obtuviste un mazo de Combate con Rokusho\ncomo Líder. ¡Supera el poder del rival\nen el cuerpo a cuerpo y ataca con todo!"
   },
   {
    "row": "Tutorial_PracticeKWG_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "eb95e744c306",
-   "t": "Obtuviste un mazo de Combate con\nRokusho como Líder.\n¡Supera el poder del rival en el cuerpo\na cuerpo y ataca con todo!"
+   "t": "Obtuviste un mazo de Combate con Rokusho\ncomo Líder. ¡Supera el poder del rival\nen el cuerpo a cuerpo y ataca con todo!"
   },
   {
    "row": "Tutorial_PracticeKWG_Dialog_Title01",
@@ -2148,28 +2148,28 @@
    "sub": 0,
    "col": "text",
    "src": "444da66b4a3c",
-   "t": "La habilidad [Frenesí] aumenta tu poder\nen 2000 solo en el momento de atacar al\nrival.\n\n¡Ataca sin miedo incluso a rivales más\npoderosos y consigue la victoria!"
+   "t": "La habilidad [Frenesí] aumenta tu poder en 2000 solo en\nel momento de atacar al rival. ¡Ataca sin miedo incluso\na rivales más poderosos y consigue la victoria!"
   },
   {
    "row": "Tutorial_PracticeKWG_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "b7b7a1eb5cf2",
-   "t": "La habilidad [Frenesí] tiene el efecto\nde aumentar tu poder en 2000 solo al\natacar al rival.\n\n¡Ataca incluso a rivales más poderosos\ny consigue la victoria!"
+   "t": "La habilidad [Frenesí] tiene el efecto de aumentar tu\npoder en 2000 solo al atacar al rival. ¡Ataca incluso\na rivales más poderosos y consigue la victoria!"
   },
   {
    "row": "Tutorial_PracticeChallenge01_Message01",
    "sub": 0,
    "col": "text",
    "src": "795e80586112",
-   "t": "Con las prácticas hasta ahora, ya\naprendiste lo básico de la Robobatalla.\nAhora busca la victoria en una\nRobobatalla real aplicando todo lo\naprendido."
+   "t": "Con las prácticas hasta ahora, ya aprendiste lo\nbásico de la Robobatalla. Ahora busca la victoria en\nuna Robobatalla real aplicando todo lo aprendido."
   },
   {
    "row": "Tutorial_PracticeChallenge01_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "39c07208b8de",
-   "t": "Con las prácticas hasta ahora, ya\naprendiste lo básico de la Robobatalla.\nAhora busca la victoria en una\nRobobatalla real repasando todo lo\naprendido."
+   "t": "Con las prácticas hasta ahora, ya aprendiste lo\nbásico de la Robobatalla. Ahora busca la victoria en\nuna Robobatalla real repasando todo lo aprendido."
   },
   {
    "row": "Tutorial_Skip_Body_Trial",

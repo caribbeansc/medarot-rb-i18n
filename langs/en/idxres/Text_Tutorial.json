@@ -83,7 +83,7 @@
    "sub": 0,
    "col": "text",
    "src": "68170238071a",
-   "t": "<size=-5>Practice 3</size>\n<size=-15>-About Parts-</size>"
+   "t": "<size=-5>Practice 3</size> <size=-15>-About Parts-</size>"
   },
   {
    "row": "Tutorial_PracticeName04",
@@ -160,7 +160,7 @@
    "sub": 0,
    "col": "text",
    "src": "8528f1e35ae9",
-   "t": "In this card game you fight alongside your partner, the Leader Medabot."
+   "t": "In this card game you fight alongside\nyour partner, the Leader Medabot."
   },
   {
    "row": "Tutorial_Practice01_Message02",
@@ -174,7 +174,7 @@
    "sub": 0,
    "col": "text",
    "src": "a12bad8abb1c",
-   "t": "In Card Robattle, you win when the enemy Leader ceases to function."
+   "t": "In Card Robattle, you win when the\nenemy Leader ceases to function."
   },
   {
    "row": "Tutorial_Practice01_Message04",
@@ -195,7 +195,7 @@
    "sub": 0,
    "col": "text",
    "src": "9a43d6c37c12",
-   "t": "These are the actions this Medabot can take.\nMost actions require an action cost."
+   "t": "These are the actions this Medabot can\ntake. Most actions require an action cost."
   },
   {
    "row": "Tutorial_Practice01_Message07",
@@ -209,7 +209,7 @@
    "sub": 0,
    "col": "text",
    "src": "bf9a9e89f3dc",
-   "t": "A normal attack, for example, spends the amount of Energy shown here."
+   "t": "A normal attack, for example, spends\nthe amount of Energy shown here."
   },
   {
    "row": "Tutorial_Practice01_Message09",
@@ -244,21 +244,21 @@
    "sub": 0,
    "col": "text",
    "src": "216582bf4898",
-   "t": "Your attack hit the enemy Leader, but it did not cease to function.\nA Barrier was protecting the Leader."
+   "t": "Your attack hit the enemy Leader, but it did not cease\nto function. A Barrier was protecting the Leader."
   },
   {
    "row": "Tutorial_Practice01_Message14",
    "sub": 0,
    "col": "text",
    "src": "86c262a54ea8",
-   "t": "That attack did wipe out the Barrier guarding the enemy Leader!\nWith no Barrier left, a successful attack makes it cease to function."
+   "t": "That attack did wipe out the Barrier guarding\nthe enemy Leader! With no Barrier left, a\nsuccessful attack makes it cease to function."
   },
   {
    "row": "Tutorial_Practice01_Message15",
    "sub": 0,
    "col": "text",
    "src": "3c2fb7ba636c",
-   "t": "A Medabot becomes overheated once it acts.\nWhile overheated it cannot act."
+   "t": "A Medabot becomes overheated once it\nacts. While overheated it cannot act."
   },
   {
    "row": "Tutorial_Practice01_Message16",
@@ -272,14 +272,14 @@
    "sub": 0,
    "col": "text",
    "src": "fa129cbf70ad",
-   "t": "Now it passes to the opponent's turn.\nIn this game your turn and theirs alternate over and over."
+   "t": "Now it passes to the opponent's turn. In this game\nyour turn and theirs alternate over and over."
   },
   {
    "row": "Tutorial_Practice01_Message18",
    "sub": 0,
    "col": "text",
    "src": "bf33271b1ea9",
-   "t": "Your turn has come around.\nAt turn start, overheated Medabots cool down and can act again."
+   "t": "Your turn has come around. At turn start,\noverheated Medabots cool down and can act again."
   },
   {
    "row": "Tutorial_Practice01_Message19",
@@ -293,7 +293,7 @@
    "sub": 0,
    "col": "text",
    "src": "a77c7e8529fb",
-   "t": "The enemy Leader ceased to function.\nYou win!"
+   "t": "The enemy Leader ceased to function. You win!"
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title01",
@@ -307,7 +307,7 @@
    "sub": 0,
    "col": "text",
    "src": "9470fabb2cd5",
-   "t": "A Medabot's actions require an action cost.\n\nYou start with 10 Energy and gain 1 each turn, up to a maximum of 16.\nEnergy is fully restored at the start of your turn."
+   "t": "A Medabot's actions require an action cost. You start\nwith 10 Energy and gain 1 each turn, up to a maximum of\n16. Energy is fully restored at the start of your turn."
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title02",
@@ -321,7 +321,7 @@
    "sub": 0,
    "col": "text",
    "src": "9c7b3806a050",
-   "t": "If your power is higher than the enemy's,\nyou make it cease to function.\n\nIf both powers are equal, both cease to function!"
+   "t": "If your power is higher than the enemy's,\nyou make it cease to function. If both\npowers are equal, both cease to function!"
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title03",
@@ -335,7 +335,7 @@
    "sub": 0,
    "col": "text",
    "src": "e29e2aa09645",
-   "t": "A Barrier is a special device that guards the Leader Medabot.\nWhile one remains, the Leader cannot cease to function.\nDestroying a Barrier grants Energy, so you can act more.\nBarriers normally start at 6, which is also the maximum."
+   "t": "A Barrier guards the Leader Medabot: while one remains, it\ncannot cease to function. Destroying one grants Energy,\nletting you act more. Barriers start and cap at 6."
   },
   {
    "row": "Tutorial_Practice01_Dialog_Title04",
@@ -349,7 +349,7 @@
    "sub": 0,
    "col": "text",
    "src": "c7a570c7bed6",
-   "t": "An overheated Medabot cannot act until it cools down.\n\nIt also cannot counterattack while overheated.\nSo even at equal power, only it ceases to function."
+   "t": "An overheated Medabot cannot act until it cools\ndown. It also cannot counterattack while overheated.\nSo even at equal power, only it ceases to function."
   },
   {
    "row": "Tutorial_Practice02_Message01",
@@ -363,28 +363,28 @@
    "sub": 0,
    "col": "text_en",
    "src": "872a29c6fcc6",
-   "t": "A Robattle is not fought by a single Medabot.\nLink several Medabots together and go for the win."
+   "t": "A Robattle is not fought by a single Medabot. Link\nseveral Medabots together and go for the win."
   },
   {
    "row": "Tutorial_Practice02_Message02",
    "sub": 0,
    "col": "text",
    "src": "718823f1aa04",
-   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer during the Preparation Phase and the End Phase."
+   "t": "First, transfer a Medabot other than your Leader. You can\ntransfer during the Preparation Phase and the End Phase."
   },
   {
    "row": "Tutorial_Practice02_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "ab66d89a056b",
-   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer in the Preparation Phase or the End Phase."
+   "t": "First, transfer a Medabot other than your Leader. You\ncan transfer in the Preparation Phase or the End Phase."
   },
   {
    "row": "Tutorial_Practice02_Message03",
    "sub": 0,
    "col": "text",
    "src": "d41da3f174a9",
-   "t": "Right now there are 2 Medabots in your [Hand].\nTransfer these Medabots to the field."
+   "t": "Right now there are 2 Medabots in your\n[Hand]. Transfer these Medabots to the field."
   },
   {
    "row": "Tutorial_Practice02_Message03",
@@ -426,35 +426,35 @@
    "sub": 0,
    "col": "text",
    "src": "2a37062f567b",
-   "t": "Excellent!\nMedabots that fight alongside your Leader\nare called [Support Medabots]."
+   "t": "Excellent! Medabots that fight alongside\nyour Leader are called [Support Medabots]."
   },
   {
    "row": "Tutorial_Practice02_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "3304370f201e",
-   "t": "Excellent!\nMedabots on your field that fight alongside your Leader\nare called Support Medabots."
+   "t": "Excellent! Medabots on your field that fight\nalongside your Leader are called Support Medabots."
   },
   {
    "row": "Tutorial_Practice02_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "2688cc6c1436",
-   "t": "Now take a look at the enemy field.\nEvery Medabot lined up there has 5000 power or more.\nAs things stand, your Medabots are no match for them."
+   "t": "Now take a look at the enemy field. Every Medabot\nlined up there has 5000 power or more. As things\nstand, your Medabots are no match for them."
   },
   {
    "row": "Tutorial_Practice02_Message07",
    "sub": 0,
    "col": "text",
    "src": "6d761ede5545",
-   "t": "Look at your Support Medabots.\nA Medabot that has been transferred is overheated.\nIt cannot act while overheated, so end the turn here."
+   "t": "Look at your Support Medabots. A Medabot that\nhas been transferred is overheated. It cannot\nact while overheated, so end the turn here."
   },
   {
    "row": "Tutorial_Practice02_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "2b6d7ca82ea6",
-   "t": "Now look at your Support Medabots again.\nMedabots that were just transferred end up overheated.\nThere is nothing left to do, so end the turn."
+   "t": "Now look at your Support Medabots again. Medabots\nthat were just transferred end up overheated.\nThere is nothing left to do, so end the turn."
   },
   {
    "row": "Tutorial_Practice02_Message07_1",
@@ -475,21 +475,21 @@
    "sub": 0,
    "col": "text",
    "src": "c5a5db313c21",
-   "t": "Your turn has come, and your Medabots have cooled down and can act."
+   "t": "Your turn has come, and your Medabots\nhave cooled down and can act."
   },
   {
    "row": "Tutorial_Practice02_Message08",
    "sub": 0,
    "col": "text_en",
    "src": "5ffbfc20f1d6",
-   "t": "All of your Medabots can move now.\nWork together to attack and take down their strong Medabots."
+   "t": "All of your Medabots can move now. Work together\nto attack and take down their strong Medabots."
   },
   {
    "row": "Tutorial_Practice02_Message08_1",
    "sub": 0,
    "col": "text",
    "src": "7315d31de99f",
-   "t": "Now take a look at the enemy field.\nEvery enemy Medabot has 5000 power or more.\nAs things stand, your Medabots cannot win."
+   "t": "Now take a look at the enemy field. Every\nenemy Medabot has 5000 power or more. As\nthings stand, your Medabots cannot win."
   },
   {
    "row": "Tutorial_Practice02_Message08_2",
@@ -531,14 +531,14 @@
    "sub": 0,
    "col": "text",
    "src": "0da70123c936",
-   "t": "A Cross Attack is a tactic where several Medabots join forces to attack.\nEven if one lacks power, teamwork can take down a strong Medabot!"
+   "t": "A Cross Attack is a tactic where several Medabots\njoin forces to attack. Even if one lacks power,\nteamwork can take down a strong Medabot!"
   },
   {
    "row": "Tutorial_Practice02_Message10",
    "sub": 0,
    "col": "text_en",
    "src": "44bcfebfe9b5",
-   "t": "A Cross Attack is a tactic where several Medabots attack at once.\nEven low-power Medabots can work together to take down a mightier one!"
+   "t": "A Cross Attack is a tactic where several\nMedabots attack at once. Even low-power Medabots\ncan work together to take down a mightier one!"
   },
   {
    "row": "Tutorial_Practice02_Message11",
@@ -559,14 +559,14 @@
    "sub": 0,
    "col": "text",
    "src": "c17fb5484f76",
-   "t": "Choose the Medabots that join in.\nSelect all 3 this time, then press the button."
+   "t": "Choose the Medabots that join in. Select\nall 3 this time, then press the button."
   },
   {
    "row": "Tutorial_Practice02_Message12",
    "sub": 0,
    "col": "text_en",
    "src": "7a575a9036e9",
-   "t": "Select Cross Attack, then choose the Medabots that join in.\nSelect all 3 of them."
+   "t": "Select Cross Attack, then choose the\nMedabots that join in. Select all 3 of them."
   },
   {
    "row": "Tutorial_Practice02_Message12_1",
@@ -601,21 +601,21 @@
    "sub": 0,
    "col": "text",
    "src": "0c95b3dd250a",
-   "t": "A Cross Attack spends 1 Energy for each Medabot that joins in."
+   "t": "A Cross Attack spends 1 Energy\nfor each Medabot that joins in."
   },
   {
    "row": "Tutorial_Practice02_Message14",
    "sub": 0,
    "col": "text_en",
    "src": "bb764d588654",
-   "t": "However, it spent 1 Energy for each Medabot that joined in.\nSo you cannot act any more this turn.\nEnd the turn here."
+   "t": "However, it spent 1 Energy for each\nMedabot that joined in. So you cannot act\nany more this turn. End the turn here."
   },
   {
    "row": "Tutorial_Practice02_Message14_1",
    "sub": 0,
    "col": "text",
    "src": "c20f929ae84d",
-   "t": "You cannot act any more with the Energy left.\nThat ends the turn."
+   "t": "You cannot act any more with the\nEnergy left. That ends the turn."
   },
   {
    "row": "Tutorial_Practice02_Message15",
@@ -650,28 +650,28 @@
    "sub": 0,
    "col": "text",
    "src": "c11849b76318",
-   "t": "Excellent!\nA Cross Attack on a Leader can destroy more\nBarriers and parts the more Medabots join in."
+   "t": "Excellent! A Cross Attack on a Leader can destroy\nmore Barriers and parts the more Medabots join in."
   },
   {
    "row": "Tutorial_Practice02_Message16",
    "sub": 0,
    "col": "text_en",
    "src": "c045b1503345",
-   "t": "Excellent.\nA Cross Attack on a Leader destroys more\nBarriers and parts the more Medabots join in."
+   "t": "Excellent. A Cross Attack on a Leader destroys\nmore Barriers and parts the more Medabots join in."
   },
   {
    "row": "Tutorial_Practice02_Message17",
    "sub": 0,
    "col": "text",
    "src": "9c399cde63a6",
-   "t": "The more Medabots join a Cross Attack, the stronger it is,\nbut it costs that much more Energy.\nWatch your Energy and fight together with your team!"
+   "t": "The more Medabots join a Cross Attack, the stronger\nit is, but it costs that much more Energy. Watch\nyour Energy and fight together with your team!"
   },
   {
    "row": "Tutorial_Practice02_Message17",
    "sub": 0,
    "col": "text_en",
    "src": "6d228c608ba1",
-   "t": "A Cross Attack's cost equals the number of Medabots joining in.\nAdd up your Support Medabots' action costs and\ntransfer so no Energy is wasted, and victory gets much closer!"
+   "t": "A Cross Attack costs one action per Medabot joining\nin. Add up your Supports' action costs and transfer\nso no Energy is wasted: victory gets much closer!"
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title01",
@@ -720,14 +720,14 @@
    "sub": 0,
    "col": "text",
    "src": "97e80e95bcf9",
-   "t": "Medabots that fight alongside the Leader.\nIf it ceases to function, it leaves the field."
+   "t": "Medabots that fight alongside the Leader. If\nit ceases to function, it leaves the field."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Body02",
    "sub": 0,
    "col": "text_en",
    "src": "97e80e95bcf9",
-   "t": "Medabots that fight alongside the Leader.\nIf it ceases to function, it leaves the field."
+   "t": "Medabots that fight alongside the Leader. If\nit ceases to function, it leaves the field."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title03",
@@ -755,7 +755,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "8678af4a1633",
-   "t": "Combine the power of several Medabots to make\na normal attack on a single Medabot.\nBe careful: if the Cross Attack's power ties the\ndefender's, every Medabot joining in ceases to function."
+   "t": "Combine several Medabots' power for a normal attack on one\nMedabot. Careful: if the Cross Attack ties the defender's\npower, every Medabot joining in ceases to function."
   },
   {
    "row": "Tutorial_Practice02_Dialog_Title04",
@@ -776,21 +776,21 @@
    "sub": 0,
    "col": "text",
    "src": "4478e06f42f2",
-   "t": "Each extra Medabot joining in destroys\n1 more Barrier or part of the enemy Leader.\nWith no Barriers or parts left, it ceases to function."
+   "t": "Each extra Medabot joining in destroys 1 more\nBarrier or part of the enemy Leader. With no\nBarriers or parts left, it ceases to function."
   },
   {
    "row": "Tutorial_Practice03_Message01",
    "sub": 0,
    "col": "text",
    "src": "b69f3eefeae8",
-   "t": "Medabots are robots that can freely rearrange their parts.\nCheck the enemy's build and swap in effective parts to win."
+   "t": "Medabots are robots that can freely\nrearrange their parts. Check the enemy's\nbuild and swap in effective parts to win."
   },
   {
    "row": "Tutorial_Practice03_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "b69f3eefeae8",
-   "t": "Medabots are robots that can freely rearrange their parts.\nCheck the enemy's build and swap in effective parts to win."
+   "t": "Medabots are robots that can freely\nrearrange their parts. Check the enemy's\nbuild and swap in effective parts to win."
   },
   {
    "row": "Tutorial_Practice03_Message02",
@@ -804,28 +804,28 @@
    "sub": 0,
    "col": "text_en",
    "src": "ea5465391f14",
-   "t": "Parts can only be swapped during the Preparation Phase.\nIt is the Preparation Phase now, so equip a part right away!"
+   "t": "Parts can only be swapped during the Preparation Phase. It\nis the Preparation Phase now, so equip a part right away!"
   },
   {
    "row": "Tutorial_Practice03_Message03",
    "sub": 0,
    "col": "text",
    "src": "4b8e04042266",
-   "t": "The enemy Leader has 6000 power.\nAs things stand, you cannot damage it."
+   "t": "The enemy Leader has 6000 power. As\nthings stand, you cannot damage it."
   },
   {
    "row": "Tutorial_Practice03_Message03",
    "sub": 0,
    "col": "text_en",
    "src": "e654301f901a",
-   "t": "Look at the field. The enemy Leader has 6000 power.\nYour attacks are not going to get through."
+   "t": "Look at the field. The enemy Leader has 6000\npower. Your attacks are not going to get through."
   },
   {
    "row": "Tutorial_Practice03_Message04",
    "sub": 0,
    "col": "text",
    "src": "c372d1b3e55f",
-   "t": "So, to raise your Leader's power, check its right arm part."
+   "t": "So, to raise your Leader's\npower, check its right arm part."
   },
   {
    "row": "Tutorial_Practice03_Message04",
@@ -860,35 +860,35 @@
    "sub": 0,
    "col": "text_en",
    "src": "717fd7ace55a",
-   "t": "The right arm part carries Power +1000,\nso your leader's Power went up by 1000.\nNow you're even with the enemy leader's Power."
+   "t": "The right arm part carries Power +1000, so\nyour leader's Power went up by 1000. Now\nyou're even with the enemy leader's Power."
   },
   {
    "row": "Tutorial_Practice03_Message07",
    "sub": 0,
    "col": "text",
    "src": "10ce64bda5d4",
-   "t": "Parts can be swapped any number of times\nin the Preparation Phase, so a wrong pick is fine."
+   "t": "Parts can be swapped any number of times in the\nPreparation Phase, so a wrong pick is fine."
   },
   {
    "row": "Tutorial_Practice03_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "10ce64bda5d4",
-   "t": "Parts can be swapped any number of times\nin the Preparation Phase, so a wrong pick is fine."
+   "t": "Parts can be swapped any number of times in the\nPreparation Phase, so a wrong pick is fine."
   },
   {
    "row": "Tutorial_Practice03_Message08",
    "sub": 0,
    "col": "text",
    "src": "cff09ded2323",
-   "t": "Now, you may want to attack right away, but\nif their Power ties yours, they counterattack."
+   "t": "Now, you may want to attack right away, but if\ntheir Power ties yours, they counterattack."
   },
   {
    "row": "Tutorial_Practice03_Message08",
    "sub": 0,
    "col": "text_en",
    "src": "cff09ded2323",
-   "t": "Now, you may want to attack right away, but\nif their Power ties yours, they counterattack."
+   "t": "Now, you may want to attack right away, but if\ntheir Power ties yours, they counterattack."
   },
   {
    "row": "Tutorial_Practice03_Message09",
@@ -979,14 +979,14 @@
    "sub": 0,
    "col": "text",
    "src": "e4b5644ca72e",
-   "t": "But the enemy's Barrier was gone, and still\nit didn't cease to functioning: a part blocked.\nBoth Barriers and parts can take a leader's hits."
+   "t": "But the enemy's Barrier was gone, and still it\ndidn't cease to functioning: a part blocked. Both\nBarriers and parts can take a leader's hits."
   },
   {
    "row": "Tutorial_Practice03_Message15",
    "sub": 0,
    "col": "text_en",
    "src": "e6152df265ee",
-   "t": "But the enemy had no Barrier up, and still\nit didn't cease to functioning: a part defended it.\nBoth Barriers and parts can take a leader's hits."
+   "t": "But the enemy had no Barrier up, and still it\ndidn't cease to functioning: a part defended it.\nBoth Barriers and parts can take a leader's hits."
   },
   {
    "row": "Tutorial_Practice03_Message16",
@@ -1084,7 +1084,7 @@
    "sub": 0,
    "col": "text",
    "src": "75dbf186941f",
-   "t": "A card that alters a Medabot's performance.\nLeader only: right arm stats, left arm ability.\nThe equipped part's abilities become the leader's."
+   "t": "A card that alters a Medabot's performance. Leader\nonly: right arm stats, left arm ability. The\nequipped part's abilities become the leader's."
   },
   {
    "row": "Tutorial_Practice03_Dialog_Title02",
@@ -1098,7 +1098,7 @@
    "sub": 0,
    "col": "text",
    "src": "7fa48fca9b63",
-   "t": "Activated by paying the action cost.\nSnipe deals your Power as damage to one enemy.\nUnlike a normal attack, there is no counter."
+   "t": "Activated by paying the action cost. Snipe\ndeals your Power as damage to one enemy.\nUnlike a normal attack, there is no counter."
   },
   {
    "row": "Tutorial_Practice03_Dialog_Title03",
@@ -1161,7 +1161,7 @@
    "sub": 0,
    "col": "text",
    "src": "f581bf862d54",
-   "t": "Now let's take a real attack and see\nhow defending works firsthand."
+   "t": "Now let's take a real attack and\nsee how defending works firsthand."
   },
   {
    "row": "Tutorial_Practice04_Message03",
@@ -1217,7 +1217,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "cc7106c84ed8",
-   "t": "When an attack would stop your leader,\nthis screen asks for a Barrier or a part.\nThis time, take it with a part."
+   "t": "When an attack would stop your leader, this screen asks\nfor a Barrier or a part. This time, take it with a part."
   },
   {
    "row": "Tutorial_Practice04_Message08",
@@ -1231,7 +1231,7 @@
    "sub": 0,
    "col": "text",
    "src": "826d9b828f3d",
-   "t": "The enemy's Lily Madonna is attacking now.\nThis Medabot spends 6 energy to attack,\nso afterwards they will have 4 energy left."
+   "t": "The enemy's Lily Madonna is attacking now.\nThis Medabot spends 6 energy to attack, so\nafterwards they will have 4 energy left."
   },
   {
    "row": "Tutorial_Practice04_Message09",
@@ -1252,7 +1252,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "bbc01445b775",
-   "t": "So they still have the energy left\nfor Warbandit to attack too."
+   "t": "So they still have the energy\nleft for Warbandit to attack too."
   },
   {
    "row": "Tutorial_Practice04_Message11",
@@ -1266,7 +1266,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "b5a98d32b8d9",
-   "t": "Defend with the right arm and you lose its\nPower +1000, so at 5000 Warbandit can hit you too."
+   "t": "Defend with the right arm and you lose its Power\n+1000, so at 5000 Warbandit can hit you too."
   },
   {
    "row": "Tutorial_Practice04_Message12",
@@ -1329,14 +1329,14 @@
    "sub": 0,
    "col": "text",
    "src": "04308f069999",
-   "t": "When a Robattle starts, you draw 6 cards in the first Draw Phase."
+   "t": "When a Robattle starts, you draw\n6 cards in the first Draw Phase."
   },
   {
    "row": "Tutorial_Practice05_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "76f2bd749df9",
-   "t": "In the Draw Phase you first draw 6 cards.\nYour hand limit, though, is 5."
+   "t": "In the Draw Phase you first draw 6\ncards. Your hand limit, though, is 5."
   },
   {
    "row": "Tutorial_Practice05_Message02",
@@ -1350,7 +1350,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "1fcc4ddff0a0",
-   "t": "Only the first draw on turn 1 can be redrawn.\nTake a look at your current hand."
+   "t": "Only the first draw on turn 1 can be\nredrawn. Take a look at your current hand."
   },
   {
    "row": "Tutorial_Practice05_Message03",
@@ -1385,7 +1385,7 @@
    "sub": 0,
    "col": "text",
    "src": "88019ccbd8ec",
-   "t": "Select every card with Barrier Limit,\nthen confirm with the button."
+   "t": "Select every card with Barrier\nLimit, then confirm with the button."
   },
   {
    "row": "Tutorial_Practice05_Message05",
@@ -1434,7 +1434,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "1012fec999f5",
-   "t": "Now let's talk about the hand limit.\nEnd your turn once."
+   "t": "Now let's talk about the hand limit. End your turn once."
   },
   {
    "row": "Tutorial_Practice05_Message09",
@@ -1448,7 +1448,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "e73e05359739",
-   "t": "We said the hand limit is 5 cards.\nSo if you end your turn with more than 5,\nyou must discard down to 5."
+   "t": "We said the hand limit is 5 cards. So if you end your\nturn with more than 5, you must discard down to 5."
   },
   {
    "row": "Tutorial_Practice05_Message10",
@@ -1483,7 +1483,7 @@
    "sub": 0,
    "col": "text",
    "src": "b876569fc561",
-   "t": "We just said \"you can hold 5 cards,\" but\nyou can actually hold a few more."
+   "t": "We just said \"you can hold 5 cards,\"\nbut you can actually hold a few more."
   },
   {
    "row": "Tutorial_Practice05_Message12",
@@ -1539,14 +1539,14 @@
    "sub": 0,
    "col": "text",
    "src": "22da163069de",
-   "t": "Unlike the opening redraw, cards discarded\nhere go to the discard pile, not the deck.\nBarrier Hand isn't hand, so you can't discard it."
+   "t": "Unlike the opening redraw, cards discarded here\ngo to the discard pile, not the deck. Barrier\nHand isn't hand, so you can't discard it."
   },
   {
    "row": "Tutorial_Practice05_Message16",
    "sub": 0,
    "col": "text_en",
    "src": "8b8ab1078cb3",
-   "t": "Unlike the redraw, cards chosen here go to\nthe discard pile and don't return to the deck."
+   "t": "Unlike the redraw, cards chosen here go to the\ndiscard pile and don't return to the deck."
   },
   {
    "row": "Tutorial_Practice05_Message17",
@@ -1630,14 +1630,14 @@
    "sub": 0,
    "col": "text",
    "src": "ee69102d59dc",
-   "t": "Barriers are made from the top 6 cards of\nyour deck. A broken Barrier's card moves to\nits own area, apart from hand, usable anytime."
+   "t": "Barriers are made from the top 6 cards of your\ndeck. A broken Barrier's card moves to its own\narea, apart from hand, usable anytime."
   },
   {
    "row": "Tutorial_Practice05_Dialog_Body02",
    "sub": 0,
    "col": "text_en",
    "src": "ee69102d59dc",
-   "t": "Barriers are made from the top 6 cards of\nyour deck. A broken Barrier's card moves to\nits own area, apart from hand, usable anytime."
+   "t": "Barriers are made from the top 6 cards of your\ndeck. A broken Barrier's card moves to its own\narea, apart from hand, usable anytime."
   },
   {
    "row": "Tutorial_Practice06_Message01",
@@ -1658,14 +1658,14 @@
    "sub": 0,
    "col": "text",
    "src": "e3289dcbbb6b",
-   "t": "Every Medaforce has a powerful effect.\nBut each one carries a Barrier Limit,\nso it fires only once your Barriers drop."
+   "t": "Every Medaforce has a powerful effect.\nBut each one carries a Barrier Limit, so\nit fires only once your Barriers drop."
   },
   {
    "row": "Tutorial_Practice06_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "5a092fc26b87",
-   "t": "Every Medaforce carries a Barrier Limit.\nAs Practice 5 explained, it's a special attack\nyou can use only after your Barriers drop."
+   "t": "Every Medaforce carries a Barrier Limit. As\nPractice 5 explained, it's a special attack\nyou can use only after your Barriers drop."
   },
   {
    "row": "Tutorial_Practice06_Message03",
@@ -1679,7 +1679,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "7f633e0285ab",
-   "t": "You have Volley Fire on your field,\nbut its Barrier Limit of 2 blocks it for now."
+   "t": "You have Volley Fire on your field, but\nits Barrier Limit of 2 blocks it for now."
   },
   {
    "row": "Tutorial_Practice06_Message04",
@@ -1693,7 +1693,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "81642a24c178",
-   "t": "The enemy attack destroyed your Barrier.\nBut it also made Volley Fire usable!\nUse your Medaforce now and strike back."
+   "t": "The enemy attack destroyed your Barrier.\nBut it also made Volley Fire usable! Use\nyour Medaforce now and strike back."
   },
   {
    "row": "Tutorial_Practice06_Message04_1",
@@ -1721,7 +1721,7 @@
    "sub": 0,
    "col": "text",
    "src": "0f9fa1ff0228",
-   "t": "Medaforce is your trump card in a pinch.\nOnce used, it is gone for that Robattle.\nPick your moment carefully."
+   "t": "Medaforce is your trump card in a pinch. Once used, it\nis gone for that Robattle. Pick your moment carefully."
   },
   {
    "row": "Tutorial_Practice06_Message05",
@@ -1798,28 +1798,28 @@
    "sub": 0,
    "col": "text",
    "src": "369bf68985b0",
-   "t": "It means it holds what is needed to play\nStrike type Tactics cards.\nThis is called [Tactics Stock]."
+   "t": "It means it holds what is needed to play Strike\ntype Tactics cards. This is called [Tactics Stock]."
   },
   {
    "row": "Tutorial_Practice07_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "ec1766dfd991",
-   "t": "It means it holds what is needed to play\nStrike type Tactics cards.\nThis is called Tactics Stock."
+   "t": "It means it holds what is needed to play Strike\ntype Tactics cards. This is called Tactics Stock."
   },
   {
    "row": "Tutorial_Practice07_Message06",
    "sub": 0,
    "col": "text",
    "src": "f5963526da9a",
-   "t": "And here is the total Tactics Stock\nheld by your Medabots."
+   "t": "And here is the total Tactics Stock held by your Medabots."
   },
   {
    "row": "Tutorial_Practice07_Message06",
    "sub": 0,
    "col": "text_en",
    "src": "f5963526da9a",
-   "t": "And here is the total Tactics Stock\nheld by your Medabots."
+   "t": "And here is the total Tactics Stock held by your Medabots."
   },
   {
    "row": "Tutorial_Practice07_Message07",
@@ -1840,14 +1840,14 @@
    "sub": 0,
    "col": "text",
    "src": "8797519aba00",
-   "t": "Disruptive Attack costs 2 Melee Stock.\nSee the 2 lit up in your Tactics Stock total?"
+   "t": "Disruptive Attack costs 2 Melee Stock. See\nthe 2 lit up in your Tactics Stock total?"
   },
   {
    "row": "Tutorial_Practice07_Message08",
    "sub": 0,
    "col": "text_en",
    "src": "8797519aba00",
-   "t": "Disruptive Attack costs 2 Melee Stock.\nSee the 2 lit up in your Tactics Stock total?"
+   "t": "Disruptive Attack costs 2 Melee Stock. See\nthe 2 lit up in your Tactics Stock total?"
   },
   {
    "row": "Tutorial_Practice07_Message09",
@@ -1868,14 +1868,14 @@
    "sub": 0,
    "col": "text",
    "src": "9c9e1c9345db",
-   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
+   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them, but\nmind the Stock your Medabots hold."
   },
   {
    "row": "Tutorial_Practice07_Message10",
    "sub": 0,
    "col": "text_en",
    "src": "9c9e1c9345db",
-   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
+   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them, but\nmind the Stock your Medabots hold."
   },
   {
    "row": "Tutorial_Practice07_Message11",
@@ -1910,14 +1910,14 @@
    "sub": 0,
    "col": "text",
    "src": "c16bc3934e24",
-   "t": "Spent when you play a Tactics card.\nIt does not refill until your next turn."
+   "t": "Spent when you play a Tactics card. It\ndoes not refill until your next turn."
   },
   {
    "row": "Tutorial_Practice07_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "c16bc3934e24",
-   "t": "Spent when you play a Tactics card.\nIt does not refill until your next turn."
+   "t": "Spent when you play a Tactics card. It\ndoes not refill until your next turn."
   },
   {
    "row": "Tutorial_Practice07_Dialog_Title02",
@@ -1966,14 +1966,14 @@
    "sub": 0,
    "col": "text",
    "src": "e697a638386d",
-   "t": "Medafighter cards have no cost and take\neffect the moment you play them."
+   "t": "Medafighter cards have no cost and\ntake effect the moment you play them."
   },
   {
    "row": "Tutorial_Practice08_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "6e268cb8271f",
-   "t": "Like Tactics cards they take effect at once,\nand they cost you nothing at all."
+   "t": "Like Tactics cards they take effect at\nonce, and they cost you nothing at all."
   },
   {
    "row": "Tutorial_Practice08_Message03",
@@ -2001,7 +2001,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "88fddbab5e02",
-   "t": "Your Strike type Medabots got stronger!\nThis card costs nothing and hits hard.\nBut its use is limited. Look here."
+   "t": "Your Strike type Medabots got stronger! This card costs\nnothing and hits hard. But its use is limited. Look here."
   },
   {
    "row": "Tutorial_Practice08_Message04_1",
@@ -2022,7 +2022,7 @@
    "sub": 0,
    "col": "text",
    "src": "108e9de2e6c2",
-   "t": "This icon shows whether you have played a\nMedafighter card this turn. If a face is\nshown, you cannot play one this turn."
+   "t": "This icon shows whether you have played\na Medafighter card this turn. If a face\nis shown, you cannot play one this turn."
   },
   {
    "row": "Tutorial_Practice08_Message05",
@@ -2078,14 +2078,14 @@
    "sub": 0,
    "col": "text",
    "src": "6b3fc4625bf8",
-   "t": "A card you can play only once per turn.\nIt takes effect the moment you play it,\nso choosing which one matters."
+   "t": "A card you can play only once per turn. It takes effect\nthe moment you play it, so choosing which one matters."
   },
   {
    "row": "Tutorial_Practice08_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "6935f70e2f37",
-   "t": "A card you can play only once per turn.\nJust playing it gives the effect, but you\nmust think about which one to use."
+   "t": "A card you can play only once per turn.\nJust playing it gives the effect, but\nyou must think about which one to use."
   },
   {
    "row": "Tutorial_PracticeKBT_Message01",
@@ -2099,7 +2099,7 @@
    "sub": 0,
    "col": "text_en",
    "src": "b1e520458bb1",
-   "t": "You got a Shoot deck led by Metabee.\nUse long-range fire to snipe them freely!"
+   "t": "You got a Shoot deck led by Metabee. Use\nlong-range fire to snipe them freely!"
   },
   {
    "row": "Tutorial_PracticeKBT_Dialog_Title01",
@@ -2113,7 +2113,7 @@
    "sub": 0,
    "col": "text",
    "src": "112522aa09dc",
-   "t": "[Snipe] deals damage equal to your power.\nRaise your power to make tougher foes\ncease to function. It draws no counterattack."
+   "t": "[Snipe] deals damage equal to your power.\nRaise your power to make tougher foes cease\nto function. It draws no counterattack."
   },
   {
    "row": "Tutorial_PracticeKBT_Dialog_Body01",
@@ -2127,7 +2127,7 @@
    "sub": 0,
    "col": "text",
    "src": "421c2b233c0e",
-   "t": "You got a Melee deck led by Rokusho.\nBeat their power up close and go all out!"
+   "t": "You got a Melee deck led by Rokusho. Beat\ntheir power up close and go all out!"
   },
   {
    "row": "Tutorial_PracticeKWG_Message01",
@@ -2148,28 +2148,28 @@
    "sub": 0,
    "col": "text",
    "src": "444da66b4a3c",
-   "t": "An ability marked [Frenzy] raises your\npower by 2000 only as you attack.\n\nAttack even stronger foes and win!"
+   "t": "An ability marked [Frenzy] raises your power by 2000\nonly as you attack. Attack even stronger foes and win!"
   },
   {
    "row": "Tutorial_PracticeKWG_Dialog_Body01",
    "sub": 0,
    "col": "text_en",
    "src": "b7b7a1eb5cf2",
-   "t": "An ability marked [Frenzy] takes effect\nonly as you attack: power up by 2000.\n\nAttack foes stronger than you and win!"
+   "t": "An ability marked [Frenzy] takes effect\nonly as you attack: power up by 2000.\nAttack foes stronger than you and win!"
   },
   {
    "row": "Tutorial_PracticeChallenge01_Message01",
    "sub": 0,
    "col": "text",
    "src": "795e80586112",
-   "t": "The Practice so far taught you the basics\nof Robattle. Now put it all to use in a\nreal Robattle and go for the win!"
+   "t": "The Practice so far taught you the basics of Robattle. Now\nput it all to use in a real Robattle and go for the win!"
   },
   {
    "row": "Tutorial_PracticeChallenge01_Message01",
    "sub": 0,
    "col": "text_en",
    "src": "39c07208b8de",
-   "t": "The Practice so far has taught you\nthe basics of Robattle. Now try a real\nRobattle and go for the win!"
+   "t": "The Practice so far has taught you the basics of\nRobattle. Now try a real Robattle and go for the win!"
   },
   {
    "row": "Tutorial_Skip_Body_Trial",

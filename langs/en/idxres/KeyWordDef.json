@@ -13,7 +13,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "a924d61f6cdc",
-   "t": "Deal damage equal to your own power to 1\nenemy Medabot."
+   "t": "Deal damage equal to your own power to 1 enemy Medabot."
   },
   {
    "row": "KeyWord01",
@@ -27,7 +27,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "25a2fe726456",
-   "t": "Enemy normal attacks can only target\nMedabots with Guard. Guard is a trait."
+   "t": "Enemy normal attacks can only target Medabots with Guard. Guard is a trait."
   },
   {
    "row": "KeyWord02",
@@ -41,7 +41,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1d274aeb90bf",
-   "t": "The target's power drops by 3000 during a\nnormal attack. Power returns after combat."
+   "t": "The target's power drops by 3000 during a normal attack. Power returns after combat."
   },
   {
    "row": "KeyWord03",
@@ -55,7 +55,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b5eddecb34c4",
-   "t": "Quick cooldown costs 2 more for the target\nMedabot."
+   "t": "Quick cooldown costs 2 more for the target Medabot."
   },
   {
    "row": "KeyWord04",
@@ -69,7 +69,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "bed7df7f69da",
-   "t": "The target cannot activate any abilities\n(actions) or be swapped by re-transfer."
+   "t": "The target cannot activate any abilities (actions) or be swapped by re-transfer."
   },
   {
    "row": "KeyWord05",
@@ -83,7 +83,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "ad48f76626bf",
-   "t": "The target Medabot cannot take any actions\nor be swapped by re-transfer."
+   "t": "The target Medabot cannot take any actions or be swapped by re-transfer."
   },
   {
    "row": "KeyWord06",
@@ -97,7 +97,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "85842603e24f",
-   "t": "This Medabot's power rises by 2000 during a\nnormal attack. Power returns after the attack."
+   "t": "This Medabot's power rises by 2000 during a normal attack. Power returns after the attack."
   },
   {
    "row": "KeyWord07",
@@ -125,7 +125,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8c915f1a517e",
-   "t": "Takes effect while barrier is at or below\nthe listed value."
+   "t": "Takes effect while barrier is at or below the listed value."
   },
   {
    "row": "KeyWord09",
@@ -139,7 +139,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "22a21d3bfb6d",
-   "t": "Raises the target's power until your next\ndraw phase"
+   "t": "Raises the target's power until your next draw phase"
   },
   {
    "row": "KeyWord10",
@@ -153,7 +153,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "9e78930e5206",
-   "t": "This Medabot cannot choose a normal attack\nor Cross Attack."
+   "t": "This Medabot cannot choose a normal attack or Cross Attack."
   },
   {
    "row": "KeyWord11",
@@ -167,7 +167,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8561367833ca",
-   "t": "Can be activated while barrier is at or below\nthe listed value."
+   "t": "Can be activated while barrier is at or below the listed value."
   },
   {
    "row": "KeyWord12",
@@ -181,7 +181,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "77b4a2d9e9c0",
-   "t": "Can be activated while barrier is not at max.\nYou may turn 1 card in your hand into barrier."
+   "t": "Can be activated while barrier is not at max. You may turn 1 card in your hand into barrier."
   },
   {
    "row": "KeyWord13",
@@ -195,7 +195,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "db57491bde75",
-   "t": "A support Medabot moving to the discard pile.\nA leader's part or barrier being destroyed."
+   "t": "A support Medabot moving to the discard pile. A leader's part or barrier being destroyed."
   },
   {
    "row": "KeyWord14",
@@ -223,7 +223,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "4a4622bbb754",
-   "t": "Activated by spending the listed number of\nset points."
+   "t": "Activated by spending the listed number of set points."
   },
   {
    "row": "KeyWord17",
@@ -237,7 +237,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "21c1e9f29668",
-   "t": "When the enemy leader activates an ability\n(action), destroy 1 of their parts.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy leader activates an ability (action), destroy 1\nof their parts. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord16",
@@ -251,7 +251,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "7e4906cf9d2f",
-   "t": "When an enemy Medabot activates an ability\n(action), send up to 3 cards from the top of\ntheir deck to the discard pile.\nA trap is destroyed the moment it activates."
+   "t": "When an enemy Medabot activates an ability (action), send up to 3 cards from the\ntop of their deck to the discard pile. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord18",
@@ -265,7 +265,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8c834e2e3214",
-   "t": "When the enemy uses a tactics card, send up\nto 3 cards from the top of their deck to the\ndiscard pile.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy uses a tactics card, send up to 3 cards from the top of their\ndeck to the discard pile. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord21",
@@ -279,7 +279,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "58999ef8546b",
-   "t": "When the enemy leader makes a normal attack,\ndeal 10000 damage to all enemy Medabots.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy leader makes a normal attack, deal 10000 damage to\nall enemy Medabots. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord22",
@@ -293,7 +293,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b72a33958679",
-   "t": "When the enemy leader activates an ability\n(action), deal 10000 damage to all enemy\nMedabots.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy leader activates an ability (action), deal 10000 damage\nto all enemy Medabots. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord23",
@@ -307,7 +307,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "f8a23f3a62cf",
-   "t": "When the enemy uses a barrier hand card in\nthe action phase, after that effect resolves,\noverheat all enemy Medabots.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy uses a barrier hand card in the action phase, after that effect\nresolves, overheat all enemy Medabots. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord24",
@@ -321,7 +321,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fcc760c3dd41",
-   "t": "When the enemy uses a card from hand in the\naction phase, after that effect resolves, deal\n10000 damage to all enemy Medabots.\nA trap is destroyed the moment it activates."
+   "t": "When the enemy uses a card from hand in the action phase, after that effect resolves,\ndeal 10000 damage to all enemy Medabots. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord19",
@@ -335,7 +335,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "968dc7958696",
-   "t": "When an enemy Medabot's power rises outside\nof a normal attack, choose 1 enemy support\nand return it to the deck.\nA trap is destroyed the moment it activates."
+   "t": "When an enemy Medabot's power rises outside of a normal attack, choose 1 enemy\nsupport and return it to the deck. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord20",
@@ -349,7 +349,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "4ac1c74078d2",
-   "t": "When an enemy Medabot activates an ability\n(action), negate it unless the target is a\n[Shoot] or [Strike] type.\nA trap is destroyed the moment it activates."
+   "t": "When an enemy Medabot activates an ability (action), negate it unless the target\nis a [Shoot] or [Strike] type. A trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord26",
@@ -363,7 +363,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b7c4f5fc159d",
-   "t": "Continuous: Your Medabots' action costs are\nreduced by 1 (never below 1)."
+   "t": "Continuous: Your Medabots' action costs are reduced by 1 (never below 1)."
   },
   {
    "row": "KeyWord30",
@@ -377,7 +377,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "27e68883eb22",
-   "t": "Continuous: At the end of your turn, if\nbarrier is not at max, turn 1 card in your\nhand into barrier."
+   "t": "Continuous: At the end of your turn, if barrier is\nnot at max, turn 1 card in your hand into barrier."
   },
   {
    "row": "KeyWord27",
@@ -391,7 +391,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "4b94f33ec1ac",
-   "t": "Continuous: Your Medaforce damage increases\nby 2000."
+   "t": "Continuous: Your Medaforce damage increases by 2000."
   },
   {
    "row": "KeyWord25",
@@ -405,7 +405,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "c49600213101",
-   "t": "Continuous: At the end of the enemy turn,\n[Revive: 6 or more]"
+   "t": "Continuous: At the end of the enemy turn, [Revive: 6 or more]"
   },
   {
    "row": "KeyWord29",
@@ -433,7 +433,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b655fa4ccc12",
-   "t": "Continuous: Max energy becomes 10 for all\nplayers."
+   "t": "Continuous: Max energy becomes 10 for all players."
   },
   {
    "row": "KeyWord31",
@@ -461,7 +461,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "740fd9a8ef44",
-   "t": "Takes effect while barrier is at or below\nthe listed value."
+   "t": "Takes effect while barrier is at or below the listed value."
   },
   {
    "row": "KeyWord33",
@@ -489,7 +489,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "6439b210cc78",
-   "t": "Until the end of your next turn, your max\nenergy increases by 1 (current value does\nnot increase)."
+   "t": "Until the end of your next turn, your max energy\nincreases by 1 (current value does not increase)."
   },
   {
    "row": "KeyWord35",
@@ -503,7 +503,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "c7fc324b5e65",
-   "t": "Until the end of your next turn, gain 1 random\ntactics stock of your leader's type."
+   "t": "Until the end of your next turn, gain 1 random tactics stock of your leader's type."
   },
   {
    "row": "KeyWord36",
@@ -517,7 +517,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fbeb2f3fe585",
-   "t": "Choose 1 of your Medabots. Its quick cooldown\ncost becomes 2 until your next turn starts."
+   "t": "Choose 1 of your Medabots. Its quick cooldown cost becomes 2 until your next turn starts."
   },
   {
    "row": "KeyWord37",
@@ -531,7 +531,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "18133a4cf082",
-   "t": "After Medachange, both arm parts are replaced\nby the following cards."
+   "t": "After Medachange, both arm parts are replaced by the following cards."
   },
   {
    "row": "KeyWord38",
@@ -545,7 +545,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "18133a4cf082",
-   "t": "After Medachange, both arm parts are replaced\nby the following cards."
+   "t": "After Medachange, both arm parts are replaced by the following cards."
   },
   {
    "row": "KeyWord39",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "39ec9c11d5a1",
-   "t": "When this Medabot takes damage on the enemy\nturn, deal the same damage to 1 random\nenemy Medabot."
+   "t": "When this Medabot takes damage on the enemy turn,\ndeal the same damage to 1 random enemy Medabot."
   },
   {
    "row": "KeyWord40",
@@ -573,7 +573,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "2a58e75b19fe",
-   "t": "When the enemy player chooses a Medabot as\na target, they must choose this Medabot if\npossible."
+   "t": "When the enemy player chooses a Medabot as a\ntarget, they must choose this Medabot if possible."
   },
   {
    "row": "KeyWord41",
@@ -587,7 +587,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "2e1f4a4e7f5e",
-   "t": "Can be activated while there is an open slot.\nRandomly choose 1 Medabot in your discard\npile with charge X or more (or X or less) and\ntransfer a copy of it overheated."
+   "t": "Can be activated while there is an open slot. Randomly choose 1 Medabot in your discard\npile with charge X or more (or X or less) and transfer a copy of it overheated."
   },
   {
    "row": "KeyWord42",
@@ -601,7 +601,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "692687cc4d71",
-   "t": "Takes effect while this Medabot's power is X\nor more."
+   "t": "Takes effect while this Medabot's power is X or more."
   },
   {
    "row": "KeyWord43",
@@ -615,7 +615,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "0e2654b29aed",
-   "t": "If this Medabot never overheated during your\nturn, takes effect at the end of the turn."
+   "t": "If this Medabot never overheated during your turn, takes effect at the end of the turn."
   },
   {
    "row": "KeyWord44",
@@ -629,7 +629,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "121572b8e75f",
-   "t": "Deal damage equal to your own power to the\ntarget."
+   "t": "Deal damage equal to your own power to the target."
   },
   {
    "row": "KeyWord45",
@@ -643,7 +643,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "5b92f35aa311",
-   "t": "Gain tactics stock while the specified Medabot\nhas this part equipped."
+   "t": "Gain tactics stock while the specified Medabot has this part equipped."
   },
   {
    "row": "KeyWord46",
@@ -657,7 +657,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "076389a33c1d",
-   "t": "Banished Medabots do not go to the discard\npile."
+   "t": "Banished Medabots do not go to the discard pile."
   },
   {
    "row": "KeyWord47",
@@ -671,7 +671,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "3cbca6b8f8ae",
-   "t": "These are: [Shock] [Freeze] [Bind] [Burn]\n[Action Cost Up] [Quick Cooldown Cost Up]\n[Trait Sealed] [Deathlock] [Tactics Cost Up]."
+   "t": "These are: [Shock] [Freeze] [Bind] [Burn] [Action Cost Up] [Quick\nCooldown Cost Up] [Trait Sealed] [Deathlock] [Tactics Cost Up]."
   }
  ]
 }

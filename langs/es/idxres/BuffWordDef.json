@@ -55,7 +55,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "57bb6525d046",
-   "t": "El poder cambia a {0}. Se anulan los aumentos y reducciones de poder aplicados antes de este efecto."
+   "t": "El poder cambia a {0}. Se anulan los aumentos y\nreducciones de poder aplicados antes de este efecto."
   },
   {
    "row": "BuffWord04",
@@ -111,7 +111,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1d274aeb90bf",
-   "t": "Cuando el Medabot afectado usa un\nataque normal, su poder se reduce\nen 3000.\nTras el combate, el poder se restaura."
+   "t": "Cuando el Medabot afectado usa un ataque normal, su poder\nse reduce en 3000. Tras el combate, el poder se restaura."
   },
   {
    "row": "BuffWord08",
@@ -125,7 +125,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "356c2c94e04f",
-   "t": "Este Medabot no puede activar ninguna\nhabilidad (acción).\nEste Medabot no puede cambiarse\nmediante retransferencia."
+   "t": "Este Medabot no puede activar ninguna habilidad (acción).\nEste Medabot no puede cambiarse mediante retransferencia."
   },
   {
    "row": "BuffWord09",
@@ -139,7 +139,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "194abcb5cfa8",
-   "t": "Este Medabot no puede realizar\nninguna acción.\nEste Medabot no puede cambiarse\nmediante retransferencia."
+   "t": "Este Medabot no puede realizar ninguna acción. Este\nMedabot no puede cambiarse mediante retransferencia."
   },
   {
    "row": "BuffWord10",
@@ -475,7 +475,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "cf5cf180f078",
-   "t": "Los Medabots rivales solo pueden atacar\nnormalmente a Medabots con Guardia.\nGuardia es un Rasgo."
+   "t": "Los Medabots rivales solo pueden atacar normalmente\na Medabots con Guardia. Guardia es un Rasgo."
   },
   {
    "row": "BuffWord34",
@@ -489,7 +489,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1b0822d8631f",
-   "t": "Los Medabots rivales solo pueden elegir como objetivo de ataque normal a Medabots con Guardia."
+   "t": "Los Medabots rivales solo pueden elegir como\nobjetivo de ataque normal a Medabots con Guardia."
   },
   {
    "row": "BuffWord35",
@@ -517,7 +517,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "204e05b6d8c0",
-   "t": "Al recibir una habilidad (acción), el Medabot de Soporte rival de tipo [Disparo] vuelve al mazo."
+   "t": "Al recibir una habilidad (acción), el Medabot de\nSoporte rival de tipo [Disparo] vuelve al mazo."
   },
   {
    "row": "BuffWord37",
@@ -545,7 +545,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "31adaf8b5f66",
-   "t": "Al destruir un Medabot rival con un Ataque cruzado que incluya a este Medabot, elige 1 pieza del rival y destrúyela."
+   "t": "Al destruir un Medabot rival con un Ataque cruzado que\nincluya a este Medabot, elige 1 pieza del rival y destrúyela."
   },
   {
    "row": "BuffWord39",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8f0616ac2beb",
-   "t": "Cuando este Medabot destruye una pieza o Barrera del Líder rival, elige 1 pieza y destrúyela."
+   "t": "Cuando este Medabot destruye una pieza o Barrera\ndel Líder rival, elige 1 pieza y destrúyela."
   },
   {
    "row": "BuffWord40",
@@ -573,7 +573,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "d3b94fc41099",
-   "t": "Hasta el inicio de tu próximo turno,\ncuando tus Medabots reciben un ataque\nnormal, su poder aumenta en 2000.\nEste efecto dura hasta el inicio\nde tu próximo turno."
+   "t": "Hasta el inicio de tu próximo turno, cuando tus Medabots reciben un ataque normal,\nsu poder aumenta en 2000. Este efecto dura hasta el inicio de tu próximo turno."
   },
   {
    "row": "BuffWord41",
@@ -601,7 +601,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fde2826b5a51",
-   "t": "Anula 1 vez un efecto del rival que\nelija a este Medabot como objetivo.\n«Elegir como objetivo» se refiere a\nefectos de habilidad (acción),\nMedafuerza, Táctica o Medaguerrero\nque seleccionan a este Medabot.\nNo incluye efectos fijos al Líder,\nglobales ni aleatorios."
+   "t": "Anula 1 vez un efecto del rival que elija a este Medabot como objetivo. «Elegir como\nobjetivo» se refiere a efectos de habilidad (acción), Medafuerza, Táctica o Medaguerrero\nque seleccionan a este Medabot. No incluye efectos fijos al Líder, globales ni aleatorios."
   },
   {
    "row": "BuffWord43",
@@ -629,7 +629,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "7669fd94e06c",
-   "t": "Cuando una pieza o Barrera del Líder vaya a ser destruida, este Medabot se destruye en su lugar."
+   "t": "Cuando una pieza o Barrera del Líder vaya a ser\ndestruida, este Medabot se destruye en su lugar."
   },
   {
    "row": "BuffWord45",
@@ -657,7 +657,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "39ec9c11d5a1",
-   "t": "Cuando este Medabot recibe daño en el turno rival, inflige el mismo daño a 1 Medabot rival aleatorio."
+   "t": "Cuando este Medabot recibe daño en el turno rival,\ninflige el mismo daño a 1 Medabot rival aleatorio."
   },
   {
    "row": "BuffWord47",
@@ -671,7 +671,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "0dcfdad35f06",
-   "t": "Cuando este Medabot recibe un ataque normal, su poder aumenta en 2000. Tras el ataque, el poder se restaura."
+   "t": "Cuando este Medabot recibe un ataque normal, su poder\naumenta en 2000. Tras el ataque, el poder se restaura."
   },
   {
    "row": "BuffWord48",
@@ -769,7 +769,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "17af5d95a622",
-   "t": "Hasta el inicio de tu próximo turno,\nsi este Medabot recibe un ataque\nnormal, su poder aumenta en 2000.\nTras el ataque rival, el poder\nse restaura."
+   "t": "Hasta el inicio de tu próximo turno, si este Medabot recibe un ataque normal,\nsu poder aumenta en 2000. Tras el ataque rival, el poder se restaura."
   },
   {
    "row": "BuffWord55",
@@ -832,7 +832,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "963ac9ad55ef",
-   "t": "Cuando el jugador rival elige un\nMedabot como objetivo, debe elegir\na este Medabot siempre que sea posible."
+   "t": "Cuando el jugador rival elige un Medabot como objetivo,\ndebe elegir a este Medabot siempre que sea posible."
   },
   {
    "row": "BuffWord60",
@@ -860,7 +860,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "6ac44a1a98eb",
-   "t": "Cuando este Medabot ataca normalmente o recibe un ataque normal, el objetivo queda en [Congelación]."
+   "t": "Cuando este Medabot ataca normalmente o recibe un\nataque normal, el objetivo queda en [Congelación]."
   },
   {
    "row": "BuffWord62",
@@ -874,7 +874,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "13580a6ca7a2",
-   "t": "Cuando se usa una carta de Táctica de tipo [Apoyo], inflige 6000 de daño a 1 Medabot rival aleatorio."
+   "t": "Cuando se usa una carta de Táctica de tipo [Apoyo],\ninflige 6000 de daño a 1 Medabot rival aleatorio."
   },
   {
    "row": "BuffWord63",
@@ -888,7 +888,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "087aa695c7b0",
-   "t": "Cuando este Medabot ataca normalmente en solitario, inflige daño adicional igual a su poder actual."
+   "t": "Cuando este Medabot ataca normalmente en solitario,\ninflige daño adicional igual a su poder actual."
   },
   {
    "row": "BuffWord64",
@@ -902,7 +902,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b187ec158aed",
-   "t": "Cuando este Medabot recibe un ataque normal, el objetivo queda en [Atadura] hasta el final del turno rival."
+   "t": "Cuando este Medabot recibe un ataque normal, el objetivo\nqueda en [Atadura] hasta el final del turno rival."
   },
   {
    "row": "BuffWord65",
@@ -916,7 +916,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1e32d38c9e81",
-   "t": "Cuando este Medabot recibe un ataque normal, su poder aumenta en 4000. Tras el ataque, el poder se restaura."
+   "t": "Cuando este Medabot recibe un ataque normal, su poder\naumenta en 4000. Tras el ataque, el poder se restaura."
   },
   {
    "row": "BuffWord66",
@@ -937,7 +937,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "bec50b849102",
-   "t": "Cuando este Medabot ataca normalmente al Líder rival, el jugador rival roba 2 cartas de su mazo. Si con este efecto su mano llega a 6 o más cartas, el rival elige 1 de sus piezas y la destruye."
+   "t": "Cuando este Medabot ataca normalmente al Líder rival, el jugador\nrival roba 2 cartas de su mazo. Si con este efecto su mano llega\na 6 o más cartas, el rival elige 1 de sus piezas y la destruye."
   },
   {
    "row": "BuffWord68",
@@ -951,7 +951,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "9782065fe08d",
-   "t": "El poder vuelve a su valor base. Se anulan los aumentos y reducciones de poder aplicados antes de este efecto."
+   "t": "El poder vuelve a su valor base. Se anulan los aumentos\ny reducciones de poder aplicados antes de este efecto."
   },
   {
    "row": "BuffWord69",
@@ -965,7 +965,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "cddadecd69e1",
-   "t": "Cuando este Medabot recibe daño en el turno rival, inflige al Líder rival ese daño reducido en 2000."
+   "t": "Cuando este Medabot recibe daño en el turno rival,\ninflige al Líder rival ese daño reducido en 2000."
   },
   {
    "row": "BuffWord70",
@@ -979,7 +979,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "27e68883eb22",
-   "t": "Permanente: al final de tu turno, si tu Barrera no está al máximo, elige 1 carta de tu mano y conviértela en Barrera."
+   "t": "Permanente: al final de tu turno, si tu Barrera no está al\nmáximo, elige 1 carta de tu mano y conviértela en Barrera."
   },
   {
    "row": "BuffWord71",
@@ -1007,7 +1007,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8b2a6163baeb",
-   "t": "Al final de tu turno, si tu Barrera no está al máximo, puedes elegir 1 carta de tu mano y convertirla en Barrera."
+   "t": "Al final de tu turno, si tu Barrera no está al máximo,\npuedes elegir 1 carta de tu mano y convertirla en Barrera."
   },
   {
    "row": "BuffWord73",
@@ -1091,7 +1091,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8dc034bde819",
-   "t": "Hasta el inicio de tu próximo turno,\nanula los efectos que elijan a este\nMedabot como objetivo.\n«Elegir como objetivo» se refiere a\nefectos de habilidad (acción),\nMedafuerza, Táctica o Medaguerrero\nque seleccionan a este Medabot.\nNo incluye efectos fijos al Líder,\nglobales ni aleatorios."
+   "t": "Hasta el inicio de tu próximo turno, anula los efectos que elijan a este Medabot como\nobjetivo. «Elegir como objetivo» son efectos de habilidad (acción), Medafuerza, Táctica o\nMedaguerrero que lo seleccionan. No incluye efectos fijos al Líder, globales ni aleatorios."
   },
   {
    "row": "BuffWord79",

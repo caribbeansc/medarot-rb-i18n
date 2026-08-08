@@ -106,7 +106,13 @@ Rules that matter:
 - Keep `{0}`, `{1}` placeholders exactly as they are.
 - Keep TextMeshPro tags (`<color=#…>`, `<size=…>`, `<nobr>`) exactly as they are.
 - Translate inside `【…】`, keep the brackets.
-- Use `\n` for line breaks, and keep lines under ~46 characters.
+- Use `\n` for line breaks. Menu labels and buttons are tight, so keep those
+  under ~46 characters; the card and keyword description panels (`CardDef`
+  `m_skillText1/2`, `KeyWordDef` and `BuffWordDef` `m_text`) fit 3 lines of
+  ~92. The game word-wraps on its own, so a `\n` only forces an earlier break:
+  splitting those descriptions short pushes them past the panel and the text
+  spills out instead of being clipped. Raise `max_line` in `lang.json` to match
+  the longest panel you actually use.
 - Do not translate text the game already shows in English (`New Record`, `MAX`).
 
 Good places to start, in order of impact per string: `Text_Menu` (186),

@@ -27,7 +27,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "228c98147840",
-   "t": "[Francotiro: solo el Líder]\nSi tienes 2 barreras o menos y este\nefecto destruye una pieza o barrera\ndel Líder rival, elige y destruye\n1 pieza adicional del rival."
+   "t": "[Francotiro: solo el Líder] Si tienes 2 barreras o menos y este efecto destruye\nuna pieza o barrera del Líder rival, elige y destruye 1 pieza adicional del rival."
   },
   {
    "row": "Leader02",
@@ -41,7 +41,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": "Hasta el final del próximo turno rival, anula 1 vez los efectos del rival que elijan a este Medabot como objetivo."
+   "t": "Hasta el final del próximo turno rival, anula 1 vez los\nefectos del rival que elijan a este Medabot como objetivo."
   },
   {
    "row": "Leader03",
@@ -55,7 +55,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "adeedbe6c1b8",
-   "t": "Cuando una de tus piezas es destruida, su poder aumenta en 3000 hasta el inicio de tu próximo turno."
+   "t": "Cuando una de tus piezas es destruida, su poder\naumenta en 3000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Leader04",
@@ -69,7 +69,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0eb4a38e79f1",
-   "t": "Mientras la energía total de ambos\nsea 12 o menos, su poder aumenta\nen 3000."
+   "t": "Mientras la energía total de ambos sea 12 o menos, su poder aumenta en 3000."
   },
   {
    "row": "Leader05",
@@ -97,7 +97,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d20e539a3ce2",
-   "t": "Inflige 4000 de daño a todos los\nMedabots rivales.\nPor cada pieza, barrera y Medabot\ndestruido por este efecto, obtienes\n1 carta táctica [Munición perforante]."
+   "t": "Inflige 4000 de daño a todos los Medabots rivales. Por cada pieza, barrera y\nMedabot destruido por este efecto, obtienes 1 carta táctica [Munición perforante]."
   },
   {
    "row": "Leader06",
@@ -118,7 +118,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9c302f1035e7",
-   "t": "Inflige 6000 de daño al Líder rival y 4000 de daño a todos los Soportes rivales. Hasta el final del próximo turno rival, los costos de acción y de enfriamiento rápido del rival no se reducen por efectos."
+   "t": "Inflige 6000 de daño al Líder rival y 4000 de daño a todos los Soportes\nrivales. Hasta el final del próximo turno rival, los costos de acción y\nde enfriamiento rápido del rival no se reducen por efectos."
   },
   {
    "row": "Leader07",
@@ -153,7 +153,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival con un ataque normal, aplica [Cerrojo] al rival hasta el final de su Fase de acción."
+   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival con un\nataque normal, aplica [Cerrojo] al rival hasta el final de su Fase de acción."
   },
   {
    "row": "Leader09",
@@ -174,7 +174,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": "[Conservación] Hasta el final de tu próximo turno, el costo de acción de este Medabot se reduce en 2 (no baja de 1)."
+   "t": "[Conservación] Hasta el final de tu próximo turno, el costo\nde acción de este Medabot se reduce en 2 (no baja de 1)."
   },
   {
    "row": "Leader11",
@@ -188,7 +188,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "aae9a65fd640",
-   "t": "Si hay un Medabot en estado\n[Congelación] en el campo, el costo\nde enfriamiento rápido de este\nMedabot se reduce en 1 (no baja de 1)."
+   "t": "Si hay un Medabot en estado [Congelación] en el campo, el costo de\nenfriamiento rápido de este Medabot se reduce en 1 (no baja de 1)."
   },
   {
    "row": "Leader12",
@@ -265,7 +265,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": "Mientras tengas 2 o menos cartas en la\nmano, el costo de enfriamiento rápido\nde todos tus Medabots se reduce en 1\n(no baja de 1).\nEste efecto no se acumula."
+   "t": "Mientras tengas 2 o menos cartas en la mano, el costo de enfriamiento rápido de\ntodos tus Medabots se reduce en 1 (no baja de 1). Este efecto no se acumula."
   },
   {
    "row": "Leader16",
@@ -286,7 +286,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3f58db15f580",
-   "t": "Hasta el inicio de tu próximo turno,\nla energía máxima de ambos aumenta en 2.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Hasta el inicio de tu próximo turno, la energía máxima de ambos aumenta\nen 2. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Leader17",
@@ -307,7 +307,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b28f76954347",
-   "t": "Sus piezas cambian a [Memorize] y\n[Remember], y el Líder cambia a\nNavi-Commune."
+   "t": "Sus piezas cambian a [Memorize] y [Remember], y el Líder cambia a Navi-Commune."
   },
   {
    "row": "Leader18",
@@ -349,7 +349,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2fa46faef4a6",
-   "t": "Al final de tu turno, si este Medabot no está Recalentado y tu barrera no está al máximo, activa [Reparación]."
+   "t": "Al final de tu turno, si este Medabot no está Recalentado\ny tu barrera no está al máximo, activa [Reparación]."
   },
   {
    "row": "Leader20",
@@ -384,7 +384,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cfcbf910663e",
-   "t": "Mientras tengas 3 Medabots de tipo [Defensa] en tu campo, el poder de todos tus Medabots aumenta en 2000."
+   "t": "Mientras tengas 3 Medabots de tipo [Defensa] en tu\ncampo, el poder de todos tus Medabots aumenta en 2000."
   },
   {
    "row": "Leader22",
@@ -405,7 +405,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "559c59ca12ba",
-   "t": "Este Medabot anula 1 vez el daño que\nreciba. Este efecto no se acumula.\nHasta el inicio de tu próximo turno,\nobtiene [Guardia]."
+   "t": "Este Medabot anula 1 vez el daño que reciba. Este efecto no se\nacumula. Hasta el inicio de tu próximo turno, obtiene [Guardia]."
   },
   {
    "row": "Leader24",
@@ -496,7 +496,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Francotiro]\nSi el objetivo tiene [Guardia], este\ndaño aumenta en 3000."
+   "t": "[Francotiro] Si el objetivo tiene [Guardia], este daño aumenta en 3000."
   },
   {
    "row": "Support04",
@@ -510,7 +510,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1224955d39f",
-   "t": "[Francotiro]\nSi la carga del objetivo es 8 o más,\neste daño aumenta en 5000."
+   "t": "[Francotiro] Si la carga del objetivo es 8 o más, este daño aumenta en 5000."
   },
   {
    "row": "Support05",
@@ -524,7 +524,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f9d228c389c5",
-   "t": "[Francotiro]\nSi el objetivo está En Espera, este\ndaño aumenta en 3000."
+   "t": "[Francotiro] Si el objetivo está En Espera, este daño aumenta en 3000."
   },
   {
    "row": "Support06",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrera: 3] Cuando este Medabot\nactiva su habilidad (acción), el\ndaño aumenta en 2000."
+   "t": "[Barrera: 3] Cuando este Medabot activa su habilidad (acción), el daño aumenta en 2000."
   },
   {
    "row": "Support09",
@@ -580,7 +580,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrera: 3] Cuando este Medabot\nactiva su habilidad (acción), el\ndaño aumenta en 2000."
+   "t": "[Barrera: 3] Cuando este Medabot activa su habilidad (acción), el daño aumenta en 2000."
   },
   {
    "row": "Support10",
@@ -594,7 +594,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4c4f85656792",
-   "t": "[Barrera: 5] Cuando uno de tus Medabots de tipo [Disparo] activa una habilidad (acción), el daño aumenta en 1000."
+   "t": "[Barrera: 5] Cuando uno de tus Medabots de tipo [Disparo]\nactiva una habilidad (acción), el daño aumenta en 1000."
   },
   {
    "row": "Support11",
@@ -615,7 +615,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "7d57634e3f5e",
-   "t": "Cuando este Medabot destruye al objetivo con [Francotiro], recupera 2 de reserva táctica de tipo [Disparo]."
+   "t": "Cuando este Medabot destruye al objetivo con [Francotiro],\nrecupera 2 de reserva táctica de tipo [Disparo]."
   },
   {
    "row": "Support12",
@@ -643,14 +643,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7d61c8878d5",
-   "t": "Cuando usas una carta táctica de tipo\n[Disparo], activa [Francotiro] contra\n1 Medabot rival al azar."
+   "t": "Cuando usas una carta táctica de tipo [Disparo],\nactiva [Francotiro] contra 1 Medabot rival al azar."
   },
   {
    "row": "Support13",
    "sub": 0,
    "col": "m_skillText2",
    "src": "65a007229473",
-   "t": "[Frenesí]\nEste efecto dura hasta el inicio de\ntu próximo turno."
+   "t": "[Frenesí] Este efecto dura hasta el inicio de tu próximo turno."
   },
   {
    "row": "Support14",
@@ -664,14 +664,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0e0f7d28cb4",
-   "t": "Puede activarse si hay 6 o más\nMedabots de tipo [Disparo] en tu\nDescarte."
+   "t": "Puede activarse si hay 6 o más Medabots de tipo [Disparo] en tu Descarte."
   },
   {
    "row": "Support14",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e0f1172bc90e",
-   "t": "[Francotiro]\nSi este efecto destruye al objetivo,\nobtienes al azar 2 cartas tácticas\nde tipo [Disparo]."
+   "t": "[Francotiro] Si este efecto destruye al objetivo,\nobtienes al azar 2 cartas tácticas de tipo [Disparo]."
   },
   {
    "row": "Support15",
@@ -685,7 +685,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "679c970ccebc",
-   "t": "[Francotiro]\nInflige 6000 de daño adicional al\nobjetivo por cada carta táctica de\ntipo [Disparo] usada este turno\n(máx. 3); esto cuenta como\n[Francotiro]. Luego, destruye este\nMedabot."
+   "t": "[Francotiro] Inflige 6000 de daño adicional al objetivo por\ncada carta táctica de tipo [Disparo] usada este turno (máx. 3);\nesto cuenta como [Francotiro]. Luego, destruye este Medabot."
   },
   {
    "row": "Support16",
@@ -734,7 +734,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrera: 3] Cuando este Medabot\nactiva su habilidad (acción), el\ndaño aumenta en 2000."
+   "t": "[Barrera: 3] Cuando este Medabot activa su habilidad (acción), el daño aumenta en 2000."
   },
   {
    "row": "Support19",
@@ -748,14 +748,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": "[Conservación] Hasta el final de tu próximo turno, el costo de acción de este Medabot se reduce en 2 (no baja de 1)."
+   "t": "[Conservación] Hasta el final de tu próximo turno, el costo\nde acción de este Medabot se reduce en 2 (no baja de 1)."
   },
   {
    "row": "Support19",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d39bde129bca",
-   "t": "[Francotiro]\nSi la carga del objetivo es 8 o más,\neste daño aumenta en 4000."
+   "t": "[Francotiro] Si la carga del objetivo es 8 o más, este daño aumenta en 4000."
   },
   {
    "row": "Support20",
@@ -769,7 +769,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": "Elige 1 Medabot rival e inflígele\n4000 de daño.\nEl objetivo pierde su habilidad\n(rasgo) hasta el final del turno rival."
+   "t": "Elige 1 Medabot rival e inflígele 4000 de daño. El objetivo\npierde su habilidad (rasgo) hasta el final del turno rival."
   },
   {
    "row": "Support21",
@@ -797,7 +797,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e27ca1414052",
-   "t": "Cuando otro Medabot es destruido por\nel efecto de una habilidad, su poder\naumenta en 1000.\n[Umbral: 10000] Cuando este Medabot\ndestruye un Medabot rival, elige y\ndestruye 1 pieza del rival."
+   "t": "Cuando otro Medabot es destruido por el efecto de una habilidad,\nsu poder aumenta en 1000. [Umbral: 10000] Cuando este Medabot\ndestruye un Medabot rival, elige y destruye 1 pieza del rival."
   },
   {
    "row": "Support23",
@@ -811,7 +811,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "67e47f6393fe",
-   "t": "Elige 1 Medabot rival e inflígele\n20000 de daño.\nSi [Francotiro] se activó 2 o más\nveces este turno, inflige 20000 de\ndaño adicional."
+   "t": "Elige 1 Medabot rival e inflígele 20000 de daño. Si [Francotiro] se\nactivó 2 o más veces este turno, inflige 20000 de daño adicional."
   },
   {
    "row": "Support24",
@@ -839,7 +839,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": "[Frenesí]\nCuando este Medabot hace un ataque\nnormal, aplica [Shock] al objetivo\nhasta el final del turno rival."
+   "t": "[Frenesí] Cuando este Medabot hace un ataque normal,\naplica [Shock] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support27",
@@ -853,7 +853,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenesí]\nCuando este Medabot hace un ataque\nnormal, aplica [Quemadura] al objetivo\nhasta el final del turno rival."
+   "t": "[Frenesí] Cuando este Medabot hace un ataque normal, aplica\n[Quemadura] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support28",
@@ -867,7 +867,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de213ee0a632",
-   "t": "Cuando este Medabot hace un ataque normal, si la carga del objetivo es mayor que la suya, su poder aumenta en 1000 por cada punto de diferencia de carga."
+   "t": "Cuando este Medabot hace un ataque normal, si la carga del objetivo es mayor\nque la suya, su poder aumenta en 1000 por cada punto de diferencia de carga."
   },
   {
    "row": "Support29",
@@ -881,7 +881,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "31e4371b2fe5",
-   "t": "Transfiere de tu mano a una casilla libre de tu campo un Medabot con [Límite de Barrera] en estado Recalentado. Luego, pon las 6 cartas superiores de tu mazo en el Descarte."
+   "t": "Transfiere de tu mano a una casilla libre de tu campo un Medabot con [Límite de Barrera]\nen estado Recalentado. Luego, pon las 6 cartas superiores de tu mazo en el Descarte."
   },
   {
    "row": "Support30",
@@ -909,7 +909,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": "[Frenesí]\nCuando este Medabot hace un ataque\nnormal, aplica [Shock] al objetivo\nhasta el final del turno rival."
+   "t": "[Frenesí] Cuando este Medabot hace un ataque normal,\naplica [Shock] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support33",
@@ -923,7 +923,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "Cuando este Medabot destruye una barrera rival con un ataque normal en solitario, destruye 1 barrera adicional."
+   "t": "Cuando este Medabot destruye una barrera rival con un\nataque normal en solitario, destruye 1 barrera adicional."
   },
   {
    "row": "Support34",
@@ -958,14 +958,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d662bdd65c8e",
-   "t": "Si tienes 3 Medabots de tipo [Combate] en tu campo, el poder de todos tus Medabots aumenta en 1000."
+   "t": "Si tienes 3 Medabots de tipo [Combate] en tu campo,\nel poder de todos tus Medabots aumenta en 1000."
   },
   {
    "row": "Support35",
    "sub": 0,
    "col": "m_skillText2",
    "src": "498f4a3a44ca",
-   "t": "Cuando este Medabot hace un ataque normal, aplica [Congelación] al objetivo hasta el final del turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, aplica\n[Congelación] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support36",
@@ -986,7 +986,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "bddd057246b3",
-   "t": "Cuando este Medabot hace o recibe un ataque normal, si el objetivo no fue destruido, el objetivo ataca al azar."
+   "t": "Cuando este Medabot hace o recibe un ataque normal, si\nel objetivo no fue destruido, el objetivo ataca al azar."
   },
   {
    "row": "Support37",
@@ -1028,7 +1028,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenesí]\nCuando este Medabot hace un ataque\nnormal, aplica [Quemadura] al objetivo\nhasta el final del turno rival."
+   "t": "[Frenesí] Cuando este Medabot hace un ataque normal, aplica\n[Quemadura] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support40",
@@ -1049,7 +1049,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenesí]\nCuando este Medabot hace un ataque\nnormal, aplica [Quemadura] al objetivo\nhasta el final del turno rival."
+   "t": "[Frenesí] Cuando este Medabot hace un ataque normal, aplica\n[Quemadura] al objetivo hasta el final del turno rival."
   },
   {
    "row": "Support42",
@@ -1063,7 +1063,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": "Hasta el inicio de tu próximo turno, obtiene: «Cuando el rival elija un Medabot como objetivo, debe elegir a este Medabot siempre que sea posible»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene: «Cuando el rival elija un\nMedabot como objetivo, debe elegir a este Medabot siempre que sea posible»."
   },
   {
    "row": "Support42",
@@ -1084,7 +1084,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": "Elige al azar 1 de tus piezas destruidas y añade una copia a tus piezas de repuesto. Luego, destruye este Medabot."
+   "t": "Elige al azar 1 de tus piezas destruidas y añade una copia\na tus piezas de repuesto. Luego, destruye este Medabot."
   },
   {
    "row": "Support44",
@@ -1105,7 +1105,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2759b302b55",
-   "t": "Cuando haces un ataque cruzado solo con Medabots de tipo [Combate], el costo de acción se reduce en 2."
+   "t": "Cuando haces un ataque cruzado solo con Medabots de\ntipo [Combate], el costo de acción se reduce en 2."
   },
   {
    "row": "Support45",
@@ -1119,14 +1119,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Puede activarse si hay 6 o más\nMedabots de tipo [Combate] en tu\nDescarte."
+   "t": "Puede activarse si hay 6 o más Medabots de tipo [Combate] en tu Descarte."
   },
   {
    "row": "Support45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c7a91eb30ced",
-   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el rival no puede activar la Medafuerza hasta el final de su próximo turno."
+   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el\nrival no puede activar la Medafuerza hasta el final de su próximo turno."
   },
   {
    "row": "Support46",
@@ -1140,7 +1140,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "950449a38c0f",
-   "t": "Tras su ataque normal, este Medabot usa [Remate] contra el mismo objetivo tantas veces como se activó [Frenesí] este turno. Si no hay objetivo, usa [Remate] al azar."
+   "t": "Tras su ataque normal, este Medabot usa [Remate] contra el mismo objetivo tantas\nveces como se activó [Frenesí] este turno. Si no hay objetivo, usa [Remate] al azar."
   },
   {
    "row": "Support47",
@@ -1154,7 +1154,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fb1eac663bd",
-   "t": "Cuando este Medabot destruye con un ataque normal a un Medabot Recalentado, inflige a todos los Medabots rivales un daño igual al poder del Medabot destruido, tantas veces como unidades participaron en ese ataque."
+   "t": "Cuando este Medabot destruye con un ataque normal a un Medabot Recalentado,\ninflige a todos los Medabots rivales un daño igual al poder del Medabot\ndestruido, tantas veces como unidades participaron en ese ataque."
   },
   {
    "row": "Support48",
@@ -1168,14 +1168,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Puede activarse si hay 6 o más\nMedabots de tipo [Combate] en tu\nDescarte."
+   "t": "Puede activarse si hay 6 o más Medabots de tipo [Combate] en tu Descarte."
   },
   {
    "row": "Support48",
    "sub": 0,
    "col": "m_skillText2",
    "src": "7592ccec88a3",
-   "t": "Este Medabot anula 1 vez el daño.\nEste efecto no se acumula.\nHasta el inicio de tu próximo turno,\nobtiene [Superguardia]."
+   "t": "Este Medabot anula 1 vez el daño. Este efecto no se acumula.\nHasta el inicio de tu próximo turno, obtiene [Superguardia]."
   },
   {
    "row": "Support49",
@@ -1189,7 +1189,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5fbeb13b6d9f",
-   "t": "Cuando este Medabot hace un ataque normal, el costo de las [Cartas tácticas] del rival aumenta en 1 hasta el final del turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, el costo de las [Cartas\ntácticas] del rival aumenta en 1 hasta el final del turno rival."
   },
   {
    "row": "Support50",
@@ -1203,7 +1203,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "58fba845ed00",
-   "t": "Cuando este Medabot hace un ataque\nnormal, el objetivo pierde su\nhabilidad (rasgo) hasta el final del\nturno rival.\nCuando este Medabot destruye una\npieza o barrera del Líder rival,\ndestruye 1 pieza adicional del rival."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo pierde su habilidad\n(rasgo) hasta el final del turno rival. Cuando este Medabot destruye una\npieza o barrera del Líder rival, destruye 1 pieza adicional del rival."
   },
   {
    "row": "Support51",
@@ -1224,7 +1224,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Elige 1 de tus Medabots. Su poder\naumenta en 1000 hasta el inicio de\ntu próximo turno.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Elige 1 de tus Medabots. Su poder aumenta en 1000 hasta el inicio de tu\npróximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support53",
@@ -1238,7 +1238,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Elige 1 de tus Medabots. Su poder\naumenta en 1000 hasta el inicio de\ntu próximo turno.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Elige 1 de tus Medabots. Su poder aumenta en 1000 hasta el inicio de tu\npróximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support54",
@@ -1266,7 +1266,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": "Mientras tengas 2 o menos cartas en la\nmano, el costo de enfriamiento rápido\nde todos tus Medabots se reduce en 1\n(no baja de 1).\nEste efecto no se acumula."
+   "t": "Mientras tengas 2 o menos cartas en la mano, el costo de enfriamiento rápido de\ntodos tus Medabots se reduce en 1 (no baja de 1). Este efecto no se acumula."
   },
   {
    "row": "Support56",
@@ -1294,7 +1294,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": "Todos tus Medabots, excepto este,\naumentan su poder en 2000 hasta el\ninicio de tu próximo turno.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Todos tus Medabots, excepto este, aumentan su poder en 2000 hasta el inicio de\ntu próximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support58",
@@ -1308,7 +1308,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a84c9ef10dee",
-   "t": "Hasta el final del turno, la próxima\nhabilidad (acción) que se active\ntendrá costo 0.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Hasta el final del turno, la próxima habilidad (acción) que se active\ntendrá costo 0. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support59",
@@ -1322,7 +1322,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Elige 1 de tus Medabots. Su poder\naumenta en 1000 hasta el inicio de\ntu próximo turno.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Elige 1 de tus Medabots. Su poder aumenta en 1000 hasta el inicio de tu\npróximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support59",
@@ -1343,7 +1343,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": "Todos tus Medabots, excepto este,\naumentan su poder en 2000 hasta el\ninicio de tu próximo turno.\nEste Medabot no puede usar\nenfriamiento rápido este turno."
+   "t": "Todos tus Medabots, excepto este, aumentan su poder en 2000 hasta el inicio de\ntu próximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support61",
@@ -1357,7 +1357,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "02ae37069cba",
-   "t": "Mientras este Medabot esté en el campo, todos los Medabots pierden sus habilidades (rasgos), excepto Ocultación."
+   "t": "Mientras este Medabot esté en el campo, todos los Medabots\npierden sus habilidades (rasgos), excepto Ocultación."
   },
   {
    "row": "Support62",
@@ -1378,7 +1378,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2578b132ae4",
-   "t": "Cuando uno de tus Medabots usa enfriamiento rápido, si no tiene el tipo [Apoyo] y su carga es 4 o más, usa [Remate] contra 1 Medabot rival al azar (máx. 2 veces por turno)."
+   "t": "Cuando uno de tus Medabots usa enfriamiento rápido, si no tiene el tipo [Apoyo] y su\ncarga es 4 o más, usa [Remate] contra 1 Medabot rival al azar (máx. 2 veces por turno)."
   },
   {
    "row": "Support63",
@@ -1392,14 +1392,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0c7eca12f009",
-   "t": "Todos tus Medabots, excepto este, aumentan su poder en 2000 hasta el inicio de tu próximo turno."
+   "t": "Todos tus Medabots, excepto este, aumentan su\npoder en 2000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Support63",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0cf1a111e70b",
-   "t": "Hasta el final del próximo turno rival, anula 1 vez los efectos del rival que elijan a este Medabot como objetivo."
+   "t": "Hasta el final del próximo turno rival, anula 1 vez los\nefectos del rival que elijan a este Medabot como objetivo."
   },
   {
    "row": "Support64",
@@ -1413,7 +1413,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "859c169d075a",
-   "t": "Cuando este Medabot es transferido por un efecto, todos tus Medabots aumentan su poder en 4000 hasta el inicio de tu próximo turno."
+   "t": "Cuando este Medabot es transferido por un efecto, todos tus Medabots\naumentan su poder en 4000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Support65",
@@ -1427,7 +1427,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": "[Reparación]\nA partir del turno 4, este efecto\npuede elegir hasta 2 cartas."
+   "t": "[Reparación] A partir del turno 4, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Support66",
@@ -1483,7 +1483,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": "Elige al azar 1 de tus piezas destruidas y añade una copia a tus piezas de repuesto. Luego, destruye este Medabot."
+   "t": "Elige al azar 1 de tus piezas destruidas y añade una copia\na tus piezas de repuesto. Luego, destruye este Medabot."
   },
   {
    "row": "Support70",
@@ -1497,7 +1497,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Reparación]\nSi tu Mano de Barrera tiene 4 o más\ncartas, este efecto puede elegir\nhasta 2 cartas."
+   "t": "[Reparación] Si tu Mano de Barrera tiene 4 o más\ncartas, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Support71",
@@ -1511,7 +1511,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": "[Reparación]\nA partir del turno 4, este efecto\npuede elegir hasta 2 cartas."
+   "t": "[Reparación] A partir del turno 4, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Support71",
@@ -1553,7 +1553,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": "Todos tus Medabots excepto este aumentan su poder 2000 hasta el inicio de tu próximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
+   "t": "Todos tus Medabots excepto este aumentan su poder 2000 hasta el inicio de tu\npróximo turno. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support73",
@@ -1581,7 +1581,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e863e86b575e",
-   "t": "[Conservación] Aumenta su poder 2000.\n[Umbral: 10000] Al inicio de tu Fase de acción, inflige 10000 de daño 2 veces al líder rival."
+   "t": "[Conservación] Aumenta su poder 2000. [Umbral: 10000] Al inicio de\ntu Fase de acción, inflige 10000 de daño 2 veces al líder rival."
   },
   {
    "row": "Support75",
@@ -1595,14 +1595,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fc94a7d1d61",
-   "t": "Puede activarse si hay 6 o más Medabots\nde tipo [Curación] en tu Descarte."
+   "t": "Puede activarse si hay 6 o más Medabots de tipo [Curación] en tu Descarte."
   },
   {
    "row": "Support75",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4be6ae76d626",
-   "t": "Elimina los [estados negativos curables] de todos tus Medabots. Tus Medabots anulan 1 vez el próximo daño que reciban. Este efecto no se acumula."
+   "t": "Elimina los [estados negativos curables] de todos tus Medabots. Tus Medabots\nanulan 1 vez el próximo daño que reciban. Este efecto no se acumula."
   },
   {
    "row": "Support76",
@@ -1616,7 +1616,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a424783bf0da",
-   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, si tu Mano de Barrera tiene 5 cartas o más y el rival tiene 3 barreras o menos, ganas la Robobatalla."
+   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, si tu Mano de Barrera\ntiene 5 cartas o más y el rival tiene 3 barreras o menos, ganas la Robobatalla."
   },
   {
    "row": "Support77",
@@ -1630,7 +1630,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
   },
   {
    "row": "Support78",
@@ -1651,7 +1651,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "670a205f9293",
-   "t": "Cuando este Medabot destruye una barrera rival con un ataque normal en solitario, destruye 1 barrera adicional."
+   "t": "Cuando este Medabot destruye una barrera rival con un\nataque normal en solitario, destruye 1 barrera adicional."
   },
   {
    "row": "Support79",
@@ -1665,7 +1665,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
   },
   {
    "row": "Support79",
@@ -1714,7 +1714,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "96fe281ee97b",
-   "t": "[Guardia]\nCuando este Medabot recibe un ataque normal, su poder se iguala al del objetivo."
+   "t": "[Guardia] Cuando este Medabot recibe un ataque normal, su poder se iguala al del objetivo."
   },
   {
    "row": "Support82",
@@ -1735,7 +1735,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «No recibe daño de Medabots con habilidad (acción)»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia]\ny «No recibe daño de Medabots con habilidad (acción)»."
   },
   {
    "row": "Support84",
@@ -1798,7 +1798,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «No recibe daño de Medabots con habilidad (acción)»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia]\ny «No recibe daño de Medabots con habilidad (acción)»."
   },
   {
    "row": "Support87",
@@ -1819,7 +1819,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe daño de una habilidad (acción), elige 1 Soporte rival de tipo [Disparo] y devuélvelo al mazo»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe daño\nde una habilidad (acción), elige 1 Soporte rival de tipo [Disparo] y devuélvelo al mazo»."
   },
   {
    "row": "Support88",
@@ -1840,7 +1840,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
   },
   {
    "row": "Support89",
@@ -1861,7 +1861,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Este Medabot no puede quedar en [Shock], [Congelación], [Atadura] ni [Quemadura]»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Este Medabot\nno puede quedar en [Shock], [Congelación], [Atadura] ni [Quemadura]»."
   },
   {
    "row": "Support90",
@@ -1882,7 +1882,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta 2000. Tras el ataque, su poder vuelve a la normalidad»."
   },
   {
    "row": "Support91",
@@ -1903,7 +1903,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8492a48e71a9",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia], «No recibe daño de Medabots con habilidad (acción)» y «Cuando el rival activa una habilidad (acción), inflige 8000 de daño al líder rival»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia], «No recibe\ndaño de Medabots con habilidad (acción)» y «Cuando el rival activa\nuna habilidad (acción), inflige 8000 de daño al líder rival»."
   },
   {
    "row": "Support93",
@@ -1917,7 +1917,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2429e1c9bbc9",
-   "t": "Hasta el inicio de tu próximo turno,\\nobtiene [Guardia] y «El costo de acción\\ndel rival aumenta 1».\nSi tu líder no recibió ataques normales\nen el turno rival anterior, inflige 6000\nde daño a todos los Medabots rivales."
+   "t": "Hasta el inicio de tu próximo turno,\\nobtiene [Guardia] y «El costo de\nacción\\ndel rival aumenta 1». Si tu líder no recibió ataques normales en el\nturno rival anterior, inflige 6000 de daño a todos los Medabots rivales."
   },
   {
    "row": "Support94",
@@ -1959,7 +1959,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "70c7903e8d2a",
-   "t": "Si este Medabot y «Twinkle Star» están en tu campo, obtienes 6 puntos de despliegue al final de tu turno."
+   "t": "Si este Medabot y «Twinkle Star» están en tu campo,\nobtienes 6 puntos de despliegue al final de tu turno."
   },
   {
    "row": "Support96",
@@ -1980,7 +1980,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3bafdfe07945",
-   "t": "Puede activarse si Shiny Star está en tu campo. Las trampas desplegadas actualmente se activarán 2 veces. Este Medabot no puede usar enfriamiento rápido este turno."
+   "t": "Puede activarse si Shiny Star está en tu campo. Las trampas desplegadas actualmente\nse activarán 2 veces. Este Medabot no puede usar enfriamiento rápido este turno."
   },
   {
    "row": "Support97",
@@ -2015,7 +2015,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": "Puede activarse si hay 3 o más Medabots\nde tipo [Despliegue] en tu Descarte."
+   "t": "Puede activarse si hay 3 o más Medabots de tipo [Despliegue] en tu Descarte."
   },
   {
    "row": "Support99",
@@ -2036,7 +2036,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": "Elige 1 Medabot rival, ponlo en estado\nRecalentado e inflígele [Atadura]\nhasta el final del turno rival."
+   "t": "Elige 1 Medabot rival, ponlo en estado Recalentado e\ninflígele [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Support100",
@@ -2057,7 +2057,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a62b073a9a46",
-   "t": "Obtienes 6 puntos de despliegue. Después, pon este Medabot y todas las cartas de tu mano en el Descarte."
+   "t": "Obtienes 6 puntos de despliegue. Después, pon este\nMedabot y todas las cartas de tu mano en el Descarte."
   },
   {
    "row": "Support102",
@@ -2092,7 +2092,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": "Puede activarse si hay 3 o más Medabots\nde tipo [Despliegue] en tu Descarte."
+   "t": "Puede activarse si hay 3 o más Medabots de tipo [Despliegue] en tu Descarte."
   },
   {
    "row": "Support103",
@@ -2113,7 +2113,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5c6ecd5a1762",
-   "t": "Cuando este Medabot hace o recibe un ataque normal, si el objetivo no es de tipo [Despliegue], su poder aumenta 1000 hasta el inicio de tu próximo turno y obtienes 4 puntos de despliegue."
+   "t": "Cuando este Medabot hace o recibe un ataque normal, si el\nobjetivo no es de tipo [Despliegue], su poder aumenta 1000 hasta\nel inicio de tu próximo turno y obtienes 4 puntos de despliegue."
   },
   {
    "row": "Support105",
@@ -2148,7 +2148,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4467e0af9fba",
-   "t": "[Guardia]\nCuando este Medabot recibe un ataque normal, obtienes 4 puntos de despliegue."
+   "t": "[Guardia] Cuando este Medabot recibe un ataque normal, obtienes 4 puntos de despliegue."
   },
   {
    "row": "Support106",
@@ -2169,7 +2169,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e5a8ccbb3de",
-   "t": "Cuando este Medabot es transferido por un efecto, su poder aumenta 4000.\nAdemás, obtienes 4 puntos de despliegue e infliges 8000 de daño a todos los Medabots rivales."
+   "t": "Cuando este Medabot es transferido por un efecto, su poder aumenta 4000. Además,\nobtienes 4 puntos de despliegue e infliges 8000 de daño a todos los Medabots rivales."
   },
   {
    "row": "Support107",
@@ -2211,7 +2211,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e903e5b4b294",
-   "t": "Elige 1 Medabot rival e inflígele 3000 de daño.\nSi este efecto destruye al objetivo, obtienes 1 carta táctica de tipo [Disparo] al azar."
+   "t": "Elige 1 Medabot rival e inflígele 3000 de daño. Si este efecto destruye\nal objetivo, obtienes 1 carta táctica de tipo [Disparo] al azar."
   },
   {
    "row": "Parts01",
@@ -2239,7 +2239,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7d57634e3f5e",
-   "t": "Cuando este Medabot destruye al objetivo con [Francotiro], recuperas 2 de reserva táctica de tipo [Disparo]."
+   "t": "Cuando este Medabot destruye al objetivo con [Francotiro],\nrecuperas 2 de reserva táctica de tipo [Disparo]."
   },
   {
    "row": "Parts02",
@@ -2267,7 +2267,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": "Inflige 4000 de daño a todos los Medabots rivales.\nPor cada pieza, barrera o Medabot destruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
+   "t": "Inflige 4000 de daño a todos los Medabots rivales. Por cada pieza, barrera o Medabot\ndestruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
   },
   {
    "row": "Parts03",
@@ -2309,7 +2309,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": "Inflige 4000 de daño a todos los Medabots rivales.\nPor cada pieza, barrera o Medabot destruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
+   "t": "Inflige 4000 de daño a todos los Medabots rivales. Por cada pieza, barrera o Medabot\ndestruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
   },
   {
    "row": "Parts05",
@@ -2337,7 +2337,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4d985dcfb40f",
-   "t": "[Barrera: 3] Cuando este Medabot\nactiva una habilidad (acción), el daño\naumenta 2000."
+   "t": "[Barrera: 3] Cuando este Medabot activa una habilidad (acción), el daño aumenta 2000."
   },
   {
    "row": "Parts06",
@@ -2365,7 +2365,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0ccc3b9c0ed3",
-   "t": "Inflige 6000 de daño a todos los Medabots rivales.\nPor cada pieza, barrera o Medabot destruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
+   "t": "Inflige 6000 de daño a todos los Medabots rivales. Por cada pieza, barrera o Medabot\ndestruido con este efecto, obtienes 1 carta táctica de tipo [Disparo] al azar."
   },
   {
    "row": "Parts07",
@@ -2407,7 +2407,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f0aa3587fd6a",
-   "t": "Elige 1 Medabot rival e inflígele 5000 de daño.\nSi la reserva táctica del rival es de 5 o más, este daño aumenta 2000."
+   "t": "Elige 1 Medabot rival e inflígele 5000 de daño. Si la reserva\ntáctica del rival es de 5 o más, este daño aumenta 2000."
   },
   {
    "row": "Parts09",
@@ -2435,7 +2435,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Francotiro]\nSi el objetivo tiene [Guardia], este daño aumenta 3000."
+   "t": "[Francotiro] Si el objetivo tiene [Guardia], este daño aumenta 3000."
   },
   {
    "row": "Parts10",
@@ -2463,7 +2463,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "A partir del turno 2, al inicio de tu\nturno, si este Medabot está En Espera,\nel efecto se activa. Al inicio de la\nFase de acción, inflige 6000 de daño\na 1 Medabot rival al azar."
+   "t": "A partir del turno 2, al inicio de tu turno, si este Medabot está En Espera, el efecto se\nactiva. Al inicio de la Fase de acción, inflige 6000 de daño a 1 Medabot rival al azar."
   },
   {
    "row": "Parts11",
@@ -2505,7 +2505,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8d3da2016fe8",
-   "t": "[Francotiro: solo al líder]\nSi este efecto destruye una pieza o\nbarrera del líder rival, elige y destruye\n1 pieza o barrera rival adicional.\nElige 1 pieza propia y destrúyela."
+   "t": "[Francotiro: solo al líder] Si este efecto destruye una pieza o barrera del líder rival,\nelige y destruye 1 pieza o barrera rival adicional. Elige 1 pieza propia y destrúyela."
   },
   {
    "row": "Parts13",
@@ -2533,7 +2533,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": "Elige 1 Medabot rival e inflígele\n6000 de daño.\nEl objetivo queda con [Atadura] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival e inflígele 6000 de daño. El objetivo\nqueda con [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Parts14",
@@ -2561,7 +2561,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "A partir del turno 2, al inicio de tu\nturno, si este Medabot está En Espera,\nel efecto se activa. Al inicio de la\nFase de acción, inflige 6000 de daño\na 1 Medabot rival al azar."
+   "t": "A partir del turno 2, al inicio de tu turno, si este Medabot está En Espera, el efecto se\nactiva. Al inicio de la Fase de acción, inflige 6000 de daño a 1 Medabot rival al azar."
   },
   {
    "row": "Parts15",
@@ -2631,7 +2631,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "A partir del turno 2, al inicio de tu\nturno, si este Medabot está En Espera,\nel efecto se activa. Al inicio de la\nFase de acción, inflige 6000 de daño\na 1 Medabot rival al azar."
+   "t": "A partir del turno 2, al inicio de tu turno, si este Medabot está En Espera, el efecto se\nactiva. Al inicio de la Fase de acción, inflige 6000 de daño a 1 Medabot rival al azar."
   },
   {
    "row": "Parts18",
@@ -2659,7 +2659,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cdaca6324904",
-   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, si al rival le quedan 5 o más piezas, elige y destruye 1 pieza rival adicional."
+   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, si al\nrival le quedan 5 o más piezas, elige y destruye 1 pieza rival adicional."
   },
   {
    "row": "Parts19",
@@ -2729,7 +2729,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d5f4bc0d490",
-   "t": "Cuando este Medabot hace un ataque normal, el objetivo queda con [Shock] hasta el final del turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo\nqueda con [Shock] hasta el final del turno rival."
   },
   {
    "row": "Parts78",
@@ -2799,7 +2799,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "fb7b1295570e",
-   "t": "Si el rival no tiene Soportes en su campo, el costo de acción del ataque normal se reduce 2 (el costo no puede bajar de 1)."
+   "t": "Si el rival no tiene Soportes en su campo, el costo de acción\ndel ataque normal se reduce 2 (el costo no puede bajar de 1)."
   },
   {
    "row": "Parts125",
@@ -2897,7 +2897,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": "Elige 1 Medabot rival e inflígele\n4000 de daño.\nEl objetivo pierde su habilidad (rasgo)\nhasta el final del turno rival."
+   "t": "Elige 1 Medabot rival e inflígele 4000 de daño. El objetivo\npierde su habilidad (rasgo) hasta el final del turno rival."
   },
   {
    "row": "Parts117",
@@ -2925,7 +2925,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "92662fc49e29",
-   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, todos los Medabots rivales quedan con [Shock] hasta el final del turno rival."
+   "t": "Cuando este Medabot destruye una pieza o barrera del líder rival, todos\nlos Medabots rivales quedan con [Shock] hasta el final del turno rival."
   },
   {
    "row": "Parts118",
@@ -2953,7 +2953,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0f66b27f5a56",
-   "t": "[Francotiro]\nSi este efecto inflige daño al líder rival, hasta el final del turno el próximo daño al líder rival se inflige 1 vez adicional."
+   "t": "[Francotiro] Si este efecto inflige daño al líder rival, hasta el final\ndel turno el próximo daño al líder rival se inflige 1 vez adicional."
   },
   {
    "row": "Parts119",
@@ -2995,7 +2995,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "Cuando este Medabot destruye una barrera rival con un ataque normal en solitario, destruye 1 barrera adicional."
+   "t": "Cuando este Medabot destruye una barrera rival con un\nataque normal en solitario, destruye 1 barrera adicional."
   },
   {
    "row": "Parts21",
@@ -3051,7 +3051,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f185894921e9",
-   "t": "Cuando este Medabot hace un ataque normal en solitario, aplica [Remate] a 1 Medabot rival al azar."
+   "t": "Cuando este Medabot hace un ataque normal en\nsolitario, aplica [Remate] a 1 Medabot rival al azar."
   },
   {
    "row": "Parts23",
@@ -3121,7 +3121,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Este Medabot no queda en [Shock], [Congelación], [Atadura] ni [Quemadura]»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Este Medabot\nno queda en [Shock], [Congelación], [Atadura] ni [Quemadura]»."
   },
   {
    "row": "Parts26",
@@ -3149,7 +3149,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "Cuando este Medabot destruye un Medabot rival, recupera 2 de reserva táctica de tipo [Combate]."
+   "t": "Cuando este Medabot destruye un Medabot rival,\nrecupera 2 de reserva táctica de tipo [Combate]."
   },
   {
    "row": "Parts27",
@@ -3247,7 +3247,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "Cuando este Medabot destruye un Medabot rival, recupera 2 de reserva táctica de tipo [Combate]."
+   "t": "Cuando este Medabot destruye un Medabot rival,\nrecupera 2 de reserva táctica de tipo [Combate]."
   },
   {
    "row": "Parts31",
@@ -3289,7 +3289,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "498f4a3a44ca",
-   "t": "Cuando este Medabot hace un ataque normal, el objetivo queda en [Congelación] hasta el final del turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo\nqueda en [Congelación] hasta el final del turno rival."
   },
   {
    "row": "Parts33",
@@ -3317,7 +3317,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65f5d906b47d",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot hace o recibe un ataque normal, el objetivo queda en [Congelación] hasta el final del turno rival»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot hace o recibe\nun ataque normal, el objetivo queda en [Congelación] hasta el final del turno rival»."
   },
   {
    "row": "Parts34",
@@ -3387,7 +3387,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": "Elige 1 Medabot rival, ponlo en estado\nRecalentado y déjalo en [Atadura]\nhasta el final del turno rival."
+   "t": "Elige 1 Medabot rival, ponlo en estado Recalentado y\ndéjalo en [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Parts129",
@@ -3415,7 +3415,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f2e3f915d229",
-   "t": "Cuando este Medabot hace un ataque normal, el objetivo pierde su habilidad (rasgo) y queda en [Atadura] hasta el final del próximo turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo pierde su habilidad\n(rasgo) y queda en [Atadura] hasta el final del próximo turno rival."
   },
   {
    "row": "Parts130",
@@ -3443,7 +3443,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el rival no puede activar la Medafuerza hasta el final del próximo turno."
+   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el\nrival no puede activar la Medafuerza hasta el final del próximo turno."
   },
   {
    "row": "Parts131",
@@ -3485,7 +3485,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el rival no puede activar la Medafuerza hasta el final del próximo turno."
+   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival, el\nrival no puede activar la Medafuerza hasta el final del próximo turno."
   },
   {
    "row": "Parts73",
@@ -3513,7 +3513,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival con un ataque normal, el rival sufre [Cerrojo] hasta el final de su Fase de acción."
+   "t": "Cuando este Medabot destruye una pieza o barrera del Líder rival con un\nataque normal, el rival sufre [Cerrojo] hasta el final de su Fase de acción."
   },
   {
    "row": "Parts74",
@@ -3541,7 +3541,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "Cuando este Medabot destruye una barrera rival con un ataque normal en solitario, destruye 1 barrera adicional."
+   "t": "Cuando este Medabot destruye una barrera rival con un\nataque normal en solitario, destruye 1 barrera adicional."
   },
   {
    "row": "Parts75",
@@ -3583,7 +3583,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "09095d5225d1",
-   "t": "Cuando este Medabot hace un ataque normal al Líder rival, el rival roba 2 cartas de su mazo. Luego, si el rival tiene 6 cartas o más en la mano, destruye 1 pieza rival adicional."
+   "t": "Cuando este Medabot hace un ataque normal al Líder rival, el rival roba 2 cartas de su\nmazo. Luego, si el rival tiene 6 cartas o más en la mano, destruye 1 pieza rival adicional."
   },
   {
    "row": "Parts81",
@@ -3611,7 +3611,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Reparación]\nSi tu Mano de Barrera tiene 4 cartas o más, este efecto puede elegir hasta 2 cartas."
+   "t": "[Reparación] Si tu Mano de Barrera tiene 4 cartas\no más, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Parts82",
@@ -3639,7 +3639,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "13782c29bea4",
-   "t": "Cuando este Medabot destruye un Medabot rival, recupera 2 de reserva táctica de tipo [Apoyo]."
+   "t": "Cuando este Medabot destruye un Medabot rival,\nrecupera 2 de reserva táctica de tipo [Apoyo]."
   },
   {
    "row": "Parts83",
@@ -3681,7 +3681,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc040eda46cb",
-   "t": "Elige 1 Medabot rival e inflige 6000 de daño.\nHasta el inicio de tu próximo turno, obtienes 2 de reserva táctica de tipo [Defensa]."
+   "t": "Elige 1 Medabot rival e inflige 6000 de daño. Hasta el inicio de\ntu próximo turno, obtienes 2 de reserva táctica de tipo [Defensa]."
   },
   {
    "row": "Parts121",
@@ -3709,7 +3709,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cabc0db3e233",
-   "t": "Cuando este Medabot hace un ataque normal, el objetivo queda en [Quemadura] hasta el final del turno rival."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo\nqueda en [Quemadura] hasta el final del turno rival."
   },
   {
    "row": "Parts122",
@@ -3737,7 +3737,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
   },
   {
    "row": "Parts123",
@@ -3779,7 +3779,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": "Hasta el final del turno, el próximo daño al Líder rival inflige el mismo daño 1 vez adicional."
+   "t": "Hasta el final del turno, el próximo daño al Líder\nrival inflige el mismo daño 1 vez adicional."
   },
   {
    "row": "Parts37",
@@ -3807,7 +3807,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "30f9c977e83f",
-   "t": "Hasta el final del turno, cuando uses una carta de Táctica de tipo [Apoyo], inflige 7000 de daño a 1 Medabot rival al azar. Este efecto no se acumula."
+   "t": "Hasta el final del turno, cuando uses una carta de Táctica de tipo [Apoyo],\ninflige 7000 de daño a 1 Medabot rival al azar. Este efecto no se acumula."
   },
   {
    "row": "Parts38",
@@ -3835,7 +3835,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Elige 1 Medabot propio. Su poder aumenta en 1000 hasta el inicio de tu próximo turno.\nEste turno, este Medabot no puede usar enfriamiento rápido."
+   "t": "Elige 1 Medabot propio. Su poder aumenta en 1000 hasta el inicio de tu\npróximo turno. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts39",
@@ -3863,7 +3863,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6603d75a001f",
-   "t": "Se puede activar cuando Navi-Commune\\ntiene equipados [Memorize] y [Remember].\nLas cartas de pieza se convierten en\\n[Drive A] y [Drive B], y el Líder\nhace Medacambio."
+   "t": "Se puede activar cuando Navi-Commune\\ntiene equipados [Memorize] y [Remember]. Las\ncartas de pieza se convierten en\\n[Drive A] y [Drive B], y el Líder hace Medacambio."
   },
   {
    "row": "Parts41",
@@ -3884,7 +3884,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": "Elige 1 Soporte propio; se le suma el poder del Líder hasta el final del turno.\nEste turno, este Medabot no puede usar enfriamiento rápido."
+   "t": "Elige 1 Soporte propio; se le suma el poder del Líder hasta el final\ndel turno. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts41",
@@ -3912,7 +3912,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f6bba3f13a45",
-   "t": "Anula [No puede atacar].\nCuando este Medabot destruye una pieza o barrera del Líder rival, si al rival le quedan 5 piezas o más, elige y destruye 1 pieza rival adicional."
+   "t": "Anula [No puede atacar]. Cuando este Medabot destruye una pieza o barrera del Líder\nrival, si al rival le quedan 5 piezas o más, elige y destruye 1 pieza rival adicional."
   },
   {
    "row": "Parts42",
@@ -3968,14 +3968,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "75c00c2996ac",
-   "t": "Elige 1 Soporte propio. Cuando haga su próximo ataque normal en solitario, aplica [Remate].\nEste turno, este Medabot no puede usar enfriamiento rápido."
+   "t": "Elige 1 Soporte propio. Cuando haga su próximo ataque normal en solitario,\naplica [Remate]. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "Esta pieza no se puede destruir ni cambiar.\nAl defender, no puede ser objetivo."
+   "t": "Esta pieza no se puede destruir ni cambiar. Al defender, no puede ser objetivo."
   },
   {
    "row": "Parts45",
@@ -3996,14 +3996,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": "Elige 1 Soporte propio; se le suma el poder del Líder hasta el final del turno.\nEste turno, este Medabot no puede usar enfriamiento rápido."
+   "t": "Elige 1 Soporte propio; se le suma el poder del Líder hasta el final\ndel turno. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "Esta pieza no se puede destruir ni cambiar.\nAl defender, no puede ser objetivo."
+   "t": "Esta pieza no se puede destruir ni cambiar. Al defender, no puede ser objetivo."
   },
   {
    "row": "Parts46",
@@ -4038,7 +4038,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Reparación]\nSi tu Mano de Barrera tiene 4 cartas o más, este efecto puede elegir hasta 2 cartas."
+   "t": "[Reparación] Si tu Mano de Barrera tiene 4 cartas\no más, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Parts47",
@@ -4094,7 +4094,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "A partir del turno 2, al inicio de tu\nturno, si este Medabot está En Espera,\nel efecto se activa. Al inicio de la\nFase de acción, inflige 6000 de daño a\n1 Medabot rival al azar."
+   "t": "A partir del turno 2, al inicio de tu turno, si este Medabot está En Espera, el efecto se\nactiva. Al inicio de la Fase de acción, inflige 6000 de daño a 1 Medabot rival al azar."
   },
   {
    "row": "Parts49",
@@ -4122,7 +4122,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "25c62f42dedf",
-   "t": "Se puede activar cuando Particle tiene equipados [Naturize] y [Countract].\nLas cartas de pieza se convierten en [Drive A] y [Drive B], y el Líder hace Medacambio."
+   "t": "Se puede activar cuando Particle tiene equipados [Naturize] y [Countract]. Las\ncartas de pieza se convierten en [Drive A] y [Drive B], y el Líder hace Medacambio."
   },
   {
    "row": "Parts51",
@@ -4171,7 +4171,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "03374f41e157",
-   "t": "[Francotiro: solo al Líder]\nSi tienes 2 barreras o menos y este efecto destruye una pieza o barrera del Líder rival, elige y destruye 1 pieza rival adicional."
+   "t": "[Francotiro: solo al Líder] Si tienes 2 barreras o menos y este efecto destruye\nuna pieza o barrera del Líder rival, elige y destruye 1 pieza rival adicional."
   },
   {
    "row": "Parts52",
@@ -4234,7 +4234,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "Esta pieza no se puede destruir ni cambiar.\nAl defender, no puede ser objetivo."
+   "t": "Esta pieza no se puede destruir ni cambiar. Al defender, no puede ser objetivo."
   },
   {
    "row": "Parts55",
@@ -4262,7 +4262,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "Esta pieza no se puede destruir ni cambiar.\nAl defender, no puede ser objetivo."
+   "t": "Esta pieza no se puede destruir ni cambiar. Al defender, no puede ser objetivo."
   },
   {
    "row": "Parts56",
@@ -4297,7 +4297,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
   },
   {
    "row": "Parts57",
@@ -4325,7 +4325,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Francotiro]\nSi el objetivo tiene [Guardia], este daño aumenta en 3000."
+   "t": "[Francotiro] Si el objetivo tiene [Guardia], este daño aumenta en 3000."
   },
   {
    "row": "Parts58",
@@ -4353,7 +4353,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e442d046451b",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, el objetivo queda en [Atadura] hasta el final del turno rival»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe\nun ataque normal, el objetivo queda en [Atadura] hasta el final del turno rival»."
   },
   {
    "row": "Parts59",
@@ -4395,7 +4395,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta en 2000. Tras el ataque, el poder vuelve a la normalidad»."
   },
   {
    "row": "Parts61",
@@ -4451,7 +4451,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": "Hasta el inicio de tu próximo turno, obtiene «Cuando el jugador rival elija un Medabot como objetivo, debe elegir este Medabot siempre que sea posible»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene «Cuando el jugador rival elija\nun Medabot como objetivo, debe elegir este Medabot siempre que sea posible»."
   },
   {
    "row": "Parts63",
@@ -4549,7 +4549,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": "Elige 1 Medabot rival y hazle\n6000 de daño.\nEl objetivo queda en [Atadura] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival y hazle 6000 de daño. El objetivo\nqueda en [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Parts67",
@@ -4647,7 +4647,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": "Hasta el final del próximo turno rival, anula 1 vez los efectos del rival que elijan a este Medabot como objetivo."
+   "t": "Hasta el final del próximo turno rival, anula 1 vez los\nefectos del rival que elijan a este Medabot como objetivo."
   },
   {
    "row": "Parts71",
@@ -4689,7 +4689,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "668179c84c98",
-   "t": "Elige 1 Medabot rival y hazle\n8000 de daño.\nSi este Medabot está en [Quemadura],\ndestruye 1 pieza rival al azar. Hasta\nel inicio de tu próximo turno, este\nMedabot queda en [Quemadura]."
+   "t": "Elige 1 Medabot rival y hazle 8000 de daño. Si este Medabot está en [Quemadura], destruye 1\npieza rival al azar. Hasta el inicio de tu próximo turno, este Medabot queda en [Quemadura]."
   },
   {
    "row": "Parts96",
@@ -4724,7 +4724,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb22a2910309",
-   "t": "Haz 5000 de daño a todos los Soportes\nrivales.\nSi este Medabot estaba En Espera al\ninicio del turno, este daño aumenta\n1000.\nDestierra de la Robobatalla a los\nMedabots destruidos por este efecto."
+   "t": "Haz 5000 de daño a todos los Soportes rivales. Si este Medabot estaba\nEn Espera al inicio del turno, este daño aumenta 1000. Destierra de\nla Robobatalla a los Medabots destruidos por este efecto."
   },
   {
    "row": "Parts108",
@@ -4759,7 +4759,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "69651a23f825",
-   "t": "Elige 1 Medabot y hazle 10000 de daño.\nSi este turno se usó una carta de\nTáctica, destruye además 1 pieza rival.\nElige 1 pieza propia y destrúyela."
+   "t": "Elige 1 Medabot y hazle 10000 de daño. Si este turno se usó una carta de\nTáctica, destruye además 1 pieza rival. Elige 1 pieza propia y destrúyela."
   },
   {
    "row": "Parts110",
@@ -4780,7 +4780,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d39bde129bca",
-   "t": "[Francotiro]\nSi la Carga del objetivo es 8 o más,\neste daño aumenta 4000."
+   "t": "[Francotiro] Si la Carga del objetivo es 8 o más, este daño aumenta 4000."
   },
   {
    "row": "Parts86",
@@ -4815,7 +4815,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e1d979f16955",
-   "t": "Cuando este Medabot hace un ataque normal al líder rival o recibe un ataque normal del líder rival, elige 1 Soporte rival En Espera y devuélvelo al mazo. Si este efecto se produce, destruye 1 pieza rival al azar."
+   "t": "Cuando este Medabot hace un ataque normal al líder rival o recibe un ataque\nnormal del líder rival, elige 1 Soporte rival En Espera y devuélvelo al\nmazo. Si este efecto se produce, destruye 1 pieza rival al azar."
   },
   {
    "row": "Parts98",
@@ -4850,7 +4850,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d995c11a1bb7",
-   "t": "Cuando este Medabot hace o recibe un ataque normal y el objetivo tiene [Guardia], el poder de este Medabot aumenta 4000."
+   "t": "Cuando este Medabot hace o recibe un ataque normal y el objetivo\ntiene [Guardia], el poder de este Medabot aumenta 4000."
   },
   {
    "row": "Parts111",
@@ -4885,7 +4885,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e8a67a76f87",
-   "t": "Cuando este Medabot hace un ataque\nnormal, el objetivo recibe al azar\n[Shock], [Congelación], [Atadura] o\n[Quemadura] hasta el final del turno\nrival.\nCuando este Medabot destruye una pieza\no barrera del líder rival En Espera,\nel rival destruye 1 pieza adicional."
+   "t": "Cuando este Medabot hace un ataque normal, el objetivo recibe al azar [Shock],\n[Congelación], [Atadura] o [Quemadura] hasta el final del turno rival. Cuando este Medabot\ndestruye una pieza o barrera del líder rival En Espera, el rival destruye 1 pieza adicional."
   },
   {
    "row": "Parts113",
@@ -4941,7 +4941,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": "Todos tus Medabots excepto este aumentan su poder 2000 hasta el inicio de tu próximo turno. Este turno, este Medabot no puede usar enfriamiento rápido."
+   "t": "Todos tus Medabots excepto este aumentan su poder 2000 hasta el inicio de tu\npróximo turno. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts104",
@@ -4976,7 +4976,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc115e5e9437",
-   "t": "Todos los Medabots de tipo [Combate] pierden sus habilidades (rasgos), incluidas las de sus piezas, excepto Ocultación."
+   "t": "Todos los Medabots de tipo [Combate] pierden sus habilidades\n(rasgos), incluidas las de sus piezas, excepto Ocultación."
   },
   {
    "row": "Parts115",
@@ -4997,7 +4997,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Elige 1 Medabot propio. Su poder\naumenta 1000 hasta el inicio de tu\npróximo turno.\nEste turno, este Medabot no puede\nusar enfriamiento rápido."
+   "t": "Elige 1 Medabot propio. Su poder aumenta 1000 hasta el inicio de tu\npróximo turno. Este turno, este Medabot no puede usar enfriamiento rápido."
   },
   {
    "row": "Parts90",
@@ -5032,7 +5032,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Reparación]\nSi tu Mano de Barrera tiene 4 cartas\no más, este efecto puede elegir hasta\n2 cartas."
+   "t": "[Reparación] Si tu Mano de Barrera tiene 4 cartas\no más, este efecto puede elegir hasta 2 cartas."
   },
   {
    "row": "Parts106",
@@ -5067,7 +5067,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "bf76df9a4599",
-   "t": "Elimina los [estados negativos\ncurables] de todos tus Medabots.\nReduce en 4 los puntos de\ndespliegue del rival."
+   "t": "Elimina los [estados negativos curables] de todos tus\nMedabots. Reduce en 4 los puntos de despliegue del rival."
   },
   {
    "row": "Parts92",
@@ -5102,7 +5102,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "fa8759c09beb",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un ataque normal, su poder aumenta 4000. Tras el ataque, el poder vuelve a su valor original»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe un\nataque normal, su poder aumenta 4000. Tras el ataque, el poder vuelve a su valor original»."
   },
   {
    "row": "Parts102",
@@ -5137,7 +5137,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe daño de una habilidad (acción), elige 1 Soporte rival de tipo [Disparo] y devuélvelo al mazo»."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y «Cuando este Medabot recibe daño\nde una habilidad (acción), elige 1 Soporte rival de tipo [Disparo] y devuélvelo al mazo»."
   },
   {
    "row": "Parts114",
@@ -5158,7 +5158,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d4cbb8291b8f",
-   "t": "Hasta el inicio de tu próximo turno,\nobtiene [Guardia] y [Contraataque].\nEl daño de [Contraataque] se reduce\n2000 y su objetivo pasa a ser el líder."
+   "t": "Hasta el inicio de tu próximo turno, obtiene [Guardia] y [Contraataque]. El\ndaño de [Contraataque] se reduce 2000 y su objetivo pasa a ser el líder."
   },
   {
    "row": "Parts94",
@@ -5270,7 +5270,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": "Haz 6000 de daño al líder rival.\nSi destruyes una pieza o barrera del\nlíder rival, destruye además 1 pieza\nrival."
+   "t": "Haz 6000 de daño al líder rival. Si destruyes una pieza o\nbarrera del líder rival, destruye además 1 pieza rival."
   },
   {
    "row": "Medaforce01",
@@ -5284,7 +5284,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": "Haz 7000 de daño al líder rival.\nSi destruyes una pieza o barrera del\nlíder rival, destruye además 1 pieza\nrival."
+   "t": "Haz 7000 de daño al líder rival. Si destruyes una pieza o\nbarrera del líder rival, destruye además 1 pieza rival."
   },
   {
    "row": "Medaforce02",
@@ -5382,7 +5382,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": "Haz 6000 de daño al líder rival.\nSi destruyes una pieza o barrera del\nlíder rival, destruye además 1 pieza\nrival."
+   "t": "Haz 6000 de daño al líder rival. Si destruyes una pieza o\nbarrera del líder rival, destruye además 1 pieza rival."
   },
   {
    "row": "Medaforce09",
@@ -5396,7 +5396,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": "Haz 7000 de daño al líder rival.\nSi destruyes una pieza o barrera del\nlíder rival, destruye además 1 pieza\nrival."
+   "t": "Haz 7000 de daño al líder rival. Si destruyes una pieza o\nbarrera del líder rival, destruye además 1 pieza rival."
   },
   {
    "row": "Medaforce10",
@@ -5438,7 +5438,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1a7b4499b00",
-   "t": "Elige 1 Medabot rival y hazle\n4000 de daño.\nEl objetivo queda en [Shock] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival y hazle 4000 de daño. El objetivo\nqueda en [Shock] hasta el final del turno rival."
   },
   {
    "row": "Medaforce13",
@@ -5452,7 +5452,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "25f56a42d686",
-   "t": "Elige 1 Medabot rival y hazle\n5000 de daño.\nEl objetivo queda en [Shock] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival y hazle 5000 de daño. El objetivo\nqueda en [Shock] hasta el final del turno rival."
   },
   {
    "row": "Medaforce14",
@@ -5466,7 +5466,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "52f25b29ccb0",
-   "t": "Elige 1 Medabot rival y hazle\n4000 de daño.\nEl objetivo queda en [Atadura] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival y hazle 4000 de daño. El objetivo\nqueda en [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Medaforce15",
@@ -5480,7 +5480,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "61ffb825257f",
-   "t": "Elige 1 Medabot rival y hazle\n5000 de daño.\nEl objetivo queda en [Atadura] hasta\nel final del turno rival."
+   "t": "Elige 1 Medabot rival y hazle 5000 de daño. El objetivo\nqueda en [Atadura] hasta el final del turno rival."
   },
   {
    "row": "Medaforce16",
@@ -5494,7 +5494,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "52d82e336d05",
-   "t": "Hasta el inicio de tu próximo turno,\nel poder de tu líder aumenta 2000."
+   "t": "Hasta el inicio de tu próximo turno, el poder de tu líder aumenta 2000."
   },
   {
    "row": "Medaforce17",
@@ -5508,7 +5508,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb757a1abd45",
-   "t": "Hasta el inicio de tu próximo turno,\nel poder de tu líder aumenta 4000."
+   "t": "Hasta el inicio de tu próximo turno, el poder de tu líder aumenta 4000."
   },
   {
    "row": "Medaforce18",
@@ -5550,7 +5550,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": "Hasta el inicio de tu próximo turno,\nel poder de todos tus Medabots\naumenta 1000.\nAdemás, mientras dura, anula los\nnuevos efectos que los elijan como\nobjetivo."
+   "t": "Hasta el inicio de tu próximo turno, el poder de todos tus Medabots aumenta 1000.\nAdemás, mientras dura, anula los nuevos efectos que los elijan como objetivo."
   },
   {
    "row": "Medaforce21",
@@ -5564,7 +5564,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": "Hasta el inicio de tu próximo turno,\nel poder de todos tus Medabots\naumenta 1000.\nAdemás, mientras dura, anula los\nnuevos efectos que los elijan como\nobjetivo."
+   "t": "Hasta el inicio de tu próximo turno, el poder de todos tus Medabots aumenta 1000.\nAdemás, mientras dura, anula los nuevos efectos que los elijan como objetivo."
   },
   {
    "row": "Medaforce22",
@@ -5634,7 +5634,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f4517612607",
-   "t": "Elige al azar 1 pieza propia destruida y agrega una copia a tus piezas de reserva. Haz esto 1 vez."
+   "t": "Elige al azar 1 pieza propia destruida y agrega\nuna copia a tus piezas de reserva. Haz esto 1 vez."
   },
   {
    "row": "Medaforce27",
@@ -5648,7 +5648,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "512807f40004",
-   "t": "Elige al azar 1 pieza propia destruida y agrega una copia a tus piezas de reserva. Haz esto 2 veces."
+   "t": "Elige al azar 1 pieza propia destruida y agrega una\ncopia a tus piezas de reserva. Haz esto 2 veces."
   },
   {
    "row": "Medaforce28",
@@ -5662,7 +5662,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": "Permanente: al final de tu turno, si tu barrera no está al máximo, puedes elegir 1 carta de tu mano y convertirla en barrera."
+   "t": "Permanente: al final de tu turno, si tu barrera no está al máximo,\npuedes elegir 1 carta de tu mano y convertirla en barrera."
   },
   {
    "row": "Medaforce29",
@@ -5676,7 +5676,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": "Permanente: al final de tu turno, si tu barrera no está al máximo, puedes elegir 1 carta de tu mano y convertirla en barrera."
+   "t": "Permanente: al final de tu turno, si tu barrera no está al máximo,\npuedes elegir 1 carta de tu mano y convertirla en barrera."
   },
   {
    "row": "Medaforce30",
@@ -5690,7 +5690,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": "Elige 2 cartas de tu mano y\nconviértelas en barreras.\nAl inicio de tu próximo turno,\ndestruye 2 barreras propias."
+   "t": "Elige 2 cartas de tu mano y conviértelas en barreras. Al\ninicio de tu próximo turno, destruye 2 barreras propias."
   },
   {
    "row": "Medaforce31",
@@ -5704,7 +5704,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": "Elige 2 cartas de tu mano y\nconviértelas en barreras.\nAl inicio de tu próximo turno,\ndestruye 2 barreras propias."
+   "t": "Elige 2 cartas de tu mano y conviértelas en barreras. Al\ninicio de tu próximo turno, destruye 2 barreras propias."
   },
   {
    "row": "Medaforce32",
@@ -5746,7 +5746,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe daño de un ataque normal, hace el mismo daño al líder rival."
+   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe\ndaño de un ataque normal, hace el mismo daño al líder rival."
   },
   {
    "row": "Medaforce35",
@@ -5760,7 +5760,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe daño de un ataque normal, hace el mismo daño al líder rival."
+   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe\ndaño de un ataque normal, hace el mismo daño al líder rival."
   },
   {
    "row": "Medaforce36",
@@ -5774,7 +5774,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": "Hasta el inicio de tu próximo turno, tus Medabots reciben la mitad de daño de las habilidades."
+   "t": "Hasta el inicio de tu próximo turno, tus Medabots\nreciben la mitad de daño de las habilidades."
   },
   {
    "row": "Medaforce37",
@@ -5788,7 +5788,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": "Hasta el inicio de tu próximo turno, tus Medabots reciben la mitad de daño de las habilidades."
+   "t": "Hasta el inicio de tu próximo turno, tus Medabots\nreciben la mitad de daño de las habilidades."
   },
   {
    "row": "Medaforce38",
@@ -5802,7 +5802,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": "Hasta el inicio de tu próximo turno,\ncuando un Medabot tuyo recibe un\nataque normal, su poder aumenta 2000.\nEste efecto dura hasta el inicio de\ntu próximo turno."
+   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe un ataque normal,\nsu poder aumenta 2000. Este efecto dura hasta el inicio de tu próximo turno."
   },
   {
    "row": "Medaforce39",
@@ -5816,7 +5816,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": "Hasta el inicio de tu próximo turno,\ncuando un Medabot tuyo recibe un\nataque normal, su poder aumenta 2000.\nEste efecto dura hasta el inicio de\ntu próximo turno."
+   "t": "Hasta el inicio de tu próximo turno, cuando un Medabot tuyo recibe un ataque normal,\nsu poder aumenta 2000. Este efecto dura hasta el inicio de tu próximo turno."
   },
   {
    "row": "Medaforce40",
@@ -6012,7 +6012,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3e6f2b3e630a",
-   "t": "Elige 1 Medabot propio de tipo [Disparo]; su poder aumenta 1000 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 Medabot propio de tipo [Disparo]; su poder\naumenta 1000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Tactics06",
@@ -6026,7 +6026,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Elige 1 Medabot rival al azar y hazle\n6000 de daño.\nHaz esto 2 veces."
+   "t": "Elige 1 Medabot rival al azar y hazle 6000 de daño. Haz esto 2 veces."
   },
   {
    "row": "Tactics07",
@@ -6040,7 +6040,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05143f4d3923",
-   "t": "Elige 1 Soporte rival.\nHasta el final del turno rival, si el\nobjetivo es destruido por [Francotiro],\ndestruye 1 barrera rival."
+   "t": "Elige 1 Soporte rival. Hasta el final del turno rival, si el\nobjetivo es destruido por [Francotiro], destruye 1 barrera rival."
   },
   {
    "row": "Tactics08",
@@ -6054,7 +6054,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7772e496fa39",
-   "t": "Elige 1 Medabot rival al azar\ny hazle 3000 de daño.\nLuego, devuelve esta carta a tu mano.\nAl final de la Fase final del turno\nen que la usaste, ponla en el Descarte."
+   "t": "Elige 1 Medabot rival al azar y hazle 3000 de daño. Luego, devuelve esta carta a tu\nmano. Al final de la Fase final del turno en que la usaste, ponla en el Descarte."
   },
   {
    "row": "Tactics09",
@@ -6068,7 +6068,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f7a1c7083e48",
-   "t": "Elige 1 Medabot tuyo y 1 Medabot rival.\nEl Medabot rival elegido recibe daño\nigual al poder del Medabot tuyo elegido.\nEste efecto también cuenta como\n[Francotiro]."
+   "t": "Elige 1 Medabot tuyo y 1 Medabot rival. El Medabot rival elegido recibe daño igual\nal poder del Medabot tuyo elegido. Este efecto también cuenta como [Francotiro]."
   },
   {
    "row": "Tactics10",
@@ -6152,7 +6152,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "818bdbfcacba",
-   "t": "Elige 1 Medabot tuyo de tipo [Combate] y aumenta su poder en 1000 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 Medabot tuyo de tipo [Combate] y aumenta su\npoder en 1000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Tactics16",
@@ -6166,7 +6166,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Elige 1 Medabot rival al azar y hazle\n6000 de daño.\nHaz esto 2 veces."
+   "t": "Elige 1 Medabot rival al azar y hazle 6000 de daño. Haz esto 2 veces."
   },
   {
    "row": "Tactics17",
@@ -6180,7 +6180,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "292d41f27425",
-   "t": "Elige 1 Medabot rival.\nHasta el final del turno rival, el\nobjetivo recibe al azar 1 de estos:\n[Shock], [Congelación], [Atadura]\no [Quemadura]."
+   "t": "Elige 1 Medabot rival. Hasta el final del turno rival, el objetivo recibe\nal azar 1 de estos: [Shock], [Congelación], [Atadura] o [Quemadura]."
   },
   {
    "row": "Tactics18",
@@ -6194,7 +6194,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a66c7b41248",
-   "t": "Elige 1 Medabot tuyo. Hasta el final\ndel turno, cuando el objetivo destruya\nun Medabot con un ataque cruzado,\nelige 1 pieza rival y destrúyela.\nEste efecto se pierde tras activarse\n1 vez."
+   "t": "Elige 1 Medabot tuyo. Hasta el final del turno, cuando el\nobjetivo destruya un Medabot con un ataque cruzado, elige 1 pieza\nrival y destrúyela. Este efecto se pierde tras activarse 1 vez."
   },
   {
    "row": "Tactics19",
@@ -6208,7 +6208,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "10d8aebaf3bf",
-   "t": "Elige 1 Medabot tuyo con [Frenesí]\nque esté En Espera.\nEl objetivo hace un ataque normal a\n1 Medabot rival al azar.\nDespués, recibe daño igual a su\npropio poder (este daño no puede\nreducirse)."
+   "t": "Elige 1 Medabot tuyo con [Frenesí] que esté En Espera. El objetivo\nhace un ataque normal a 1 Medabot rival al azar. Después, recibe\ndaño igual a su propio poder (este daño no puede reducirse)."
   },
   {
    "row": "Tactics30",
@@ -6264,7 +6264,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2cf6f324ecd",
-   "t": "Elige 1 Medabot tuyo.\nHasta el final del turno, cuando el\nobjetivo destruya una pieza o barrera\ndel líder rival, elige 1 pieza rival\ny destrúyela.\nEste efecto se pierde tras activarse\n1 vez."
+   "t": "Elige 1 Medabot tuyo. Hasta el final del turno, cuando el objetivo\ndestruya una pieza o barrera del líder rival, elige 1 pieza rival\ny destrúyela. Este efecto se pierde tras activarse 1 vez."
   },
   {
    "row": "Tactics34",
@@ -6320,7 +6320,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2ebc50943378",
-   "t": "Elige 1 Soporte tuyo y aplícale enfriamiento rápido. Al final de la Fase final, devuelve el objetivo al mazo."
+   "t": "Elige 1 Soporte tuyo y aplícale enfriamiento rápido. Al\nfinal de la Fase final, devuelve el objetivo al mazo."
   },
   {
    "row": "Tactics38",
@@ -6404,7 +6404,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cd9825c65668",
-   "t": "[Revivir: 6 o más]\nEl Medabot revivido por este efecto\naumenta su poder en 4000."
+   "t": "[Revivir: 6 o más] El Medabot revivido por este efecto aumenta su poder en 4000."
   },
   {
    "row": "Tactics44",
@@ -6418,7 +6418,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cef552d87d32",
-   "t": "Elige 1 Medabot tuyo de tipo [Curación] y aumenta su poder en 1000 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 Medabot tuyo de tipo [Curación] y aumenta su\npoder en 1000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Tactics45",
@@ -6460,7 +6460,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b0583f834bef",
-   "t": "[Revivir: 4 o menos]\nEl Medabot revivido por este efecto\naumenta su poder en 1000."
+   "t": "[Revivir: 4 o menos] El Medabot revivido por este efecto aumenta su poder en 1000."
   },
   {
    "row": "Tactics48",
@@ -6544,7 +6544,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a3be133a0f80",
-   "t": "Elige 1 Soporte tuyo.\nHasta el inicio de tu próximo turno,\nel objetivo obtiene [Guardia] y\n[No puede atacar], y aumenta su\npoder en 4000."
+   "t": "Elige 1 Soporte tuyo. Hasta el inicio de tu próximo turno, el objetivo\nobtiene [Guardia] y [No puede atacar], y aumenta su poder en 4000."
   },
   {
    "row": "Tactics24",
@@ -6558,7 +6558,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ef3e4a6a2ff",
-   "t": "Elige 1 Medabot tuyo de tipo [Defensa] y aumenta su poder en 1000 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 Medabot tuyo de tipo [Defensa] y aumenta su\npoder en 1000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Tactics25",
@@ -6572,7 +6572,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "283bac25142a",
-   "t": "Elige 1 Medabot tuyo con [Guardia].\nHasta el inicio de tu próximo turno,\nel objetivo obtiene [No puede atacar]\ny aumenta su poder en 3000."
+   "t": "Elige 1 Medabot tuyo con [Guardia]. Hasta el inicio de tu próximo turno,\nel objetivo obtiene [No puede atacar] y aumenta su poder en 3000."
   },
   {
    "row": "Tactics26",
@@ -6586,7 +6586,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b486077ea969",
-   "t": "Todos tus Medabots anulan cualquier\ndaño 1 sola vez.\nEste efecto no se acumula."
+   "t": "Todos tus Medabots anulan cualquier daño 1 sola vez. Este efecto no se acumula."
   },
   {
    "row": "Tactics27",
@@ -6600,7 +6600,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "da2978776556",
-   "t": "Elige 1 Soporte tuyo.\nHasta el inicio de tu próximo turno,\ncuando una pieza o barrera de tu\nlíder vaya a ser destruida, el\nobjetivo se destruye en su lugar."
+   "t": "Elige 1 Soporte tuyo. Hasta el inicio de tu próximo turno, cuando una pieza o\nbarrera de tu líder vaya a ser destruida, el objetivo se destruye en su lugar."
   },
   {
    "row": "Tactics28",
@@ -6614,7 +6614,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "871fe3b3bbb9",
-   "t": "Elige 1 Medabot tuyo; anulará\ncualquier daño 1 sola vez.\nEste efecto no se acumula."
+   "t": "Elige 1 Medabot tuyo; anulará cualquier daño 1 sola vez. Este efecto no se acumula."
   },
   {
    "row": "Tactics29",
@@ -6628,7 +6628,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "68dc231af114",
-   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots reducen en 2000 el daño que reciben de la Medafuerza."
+   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots\nreducen en 2000 el daño que reciben de la Medafuerza."
   },
   {
    "row": "Tactics50",
@@ -6656,7 +6656,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1f9b7ea21390",
-   "t": "Elige 1 Soporte tuyo y ponlo en el\nDescarte.\nObtienes 4 puntos de despliegue."
+   "t": "Elige 1 Soporte tuyo y ponlo en el Descarte. Obtienes 4 puntos de despliegue."
   },
   {
    "row": "Tactics52",
@@ -6698,7 +6698,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a4f86b013ba",
-   "t": "Elige 1 Medabot tuyo de tipo [Despliegue] y aumenta su poder en 1000 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 Medabot tuyo de tipo [Despliegue] y aumenta\nsu poder en 1000 hasta el inicio de tu próximo turno."
   },
   {
    "row": "Tactics55",
@@ -6712,7 +6712,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9ee23737b91c",
-   "t": "Elige 1 Medabot tuyo de tipo [Despliegue] y aumenta su poder en 2000 hasta el final del turno."
+   "t": "Elige 1 Medabot tuyo de tipo [Despliegue] y\naumenta su poder en 2000 hasta el final del turno."
   },
   {
    "row": "Tactics56",
@@ -6726,7 +6726,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Elige 1 Medabot rival al azar y hazle\n6000 de daño.\nHaz esto 2 veces."
+   "t": "Elige 1 Medabot rival al azar y hazle 6000 de daño. Haz esto 2 veces."
   },
   {
    "row": "Tactics57",
@@ -6796,7 +6796,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6439b210cc78",
-   "t": "Hasta el final de tu próximo turno, tu energía máxima aumenta en 1 (el valor actual no aumenta)."
+   "t": "Hasta el final de tu próximo turno, tu energía\nmáxima aumenta en 1 (el valor actual no aumenta)."
   },
   {
    "row": "Tactics62",
@@ -6810,7 +6810,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b19e1d3b1434",
-   "t": "Hasta el final de tu próximo turno,\nobtienes 1 reserva táctica del tipo\nde tu líder."
+   "t": "Hasta el final de tu próximo turno, obtienes 1 reserva táctica del tipo de tu líder."
   },
   {
    "row": "Tactics63",
@@ -6824,7 +6824,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3604bf96110e",
-   "t": "Elige 1 Medabot tuyo; hasta el final del turno, su costo de enfriamiento rápido pasa a ser 2."
+   "t": "Elige 1 Medabot tuyo; hasta el final del turno,\nsu costo de enfriamiento rápido pasa a ser 2."
   },
   {
    "row": "Tactics64",
@@ -6838,7 +6838,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a94abf77fac",
-   "t": "Hasta el final del turno, el costo de acción de tu líder se reduce en 1 (el costo no baja de 1)."
+   "t": "Hasta el final del turno, el costo de acción de\ntu líder se reduce en 1 (el costo no baja de 1)."
   },
   {
    "row": "Tactics65",
@@ -6852,7 +6852,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab1816466a1",
-   "t": "Hasta el final del turno, el costo de enfriamiento rápido de tu líder se reduce en 1 (el costo no baja de 1)."
+   "t": "Hasta el final del turno, el costo de enfriamiento rápido\nde tu líder se reduce en 1 (el costo no baja de 1)."
   },
   {
    "row": "Tactics66",
@@ -6880,7 +6880,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "091b542fb28a",
-   "t": "Hasta el inicio de tu próximo turno, tu líder reduce en 3000 el daño de Medafuerza que recibe."
+   "t": "Hasta el inicio de tu próximo turno, tu líder\nreduce en 3000 el daño de Medafuerza que recibe."
   },
   {
    "row": "Tactics68",
@@ -6894,7 +6894,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dc76ec42a511",
-   "t": "Hasta el inicio de tu próximo turno, cuando tu líder reciba un ataque normal, su poder aumenta en 2000; tras el ataque vuelve a su valor original."
+   "t": "Hasta el inicio de tu próximo turno, cuando tu líder reciba un ataque\nnormal, su poder aumenta en 2000; tras el ataque vuelve a su valor original."
   },
   {
    "row": "Tactics69",
@@ -6908,7 +6908,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "256cdebf61c9",
-   "t": "Hasta el inicio de tu próximo turno, tu líder reduce en 1000 el daño de habilidades que recibe."
+   "t": "Hasta el inicio de tu próximo turno, tu líder\nreduce en 1000 el daño de habilidades que recibe."
   },
   {
    "row": "Tactics70",
@@ -7020,7 +7020,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "27833cda32c8",
-   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots de tipo [Disparo] y [Combate] aumentan su poder en 1000."
+   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots\nde tipo [Disparo] y [Combate] aumentan su poder en 1000."
   },
   {
    "row": "Medarotter07",
@@ -7034,7 +7034,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d74fcbf0edb",
-   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots de tipo [Apoyo], [Curación], [Defensa] y [Despliegue] aumentan su poder en 1000."
+   "t": "Hasta el inicio de tu próximo turno, todos tus Medabots de tipo [Apoyo],\n[Curación], [Defensa] y [Despliegue] aumentan su poder en 1000."
   },
   {
    "row": "Medarotter08",
@@ -7118,7 +7118,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "197e4512da53",
-   "t": "Hasta el final del turno rival, el\ncosto de acción de los ataques\ncruzados rivales aumenta en 2."
+   "t": "Hasta el final del turno rival, el costo de acción\nde los ataques cruzados rivales aumenta en 2."
   },
   {
    "row": "Medarotter14",
@@ -7160,7 +7160,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4fffe645cc2d",
-   "t": "Elige 1 Medabot rival Recalentado.\nEl objetivo no se enfría al inicio\ndel turno."
+   "t": "Elige 1 Medabot rival Recalentado. El objetivo no se enfría al inicio del turno."
   },
   {
    "row": "Medarotter17",
@@ -7216,7 +7216,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b2bf9fe6d510",
-   "t": "Hasta el final de tu próximo turno,\ntodos los Medabots pierden su\nreserva táctica."
+   "t": "Hasta el final de tu próximo turno, todos los Medabots pierden su reserva táctica."
   },
   {
    "row": "Medarotter21",
@@ -7230,7 +7230,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab43ec7f4c3",
-   "t": "Elige 1 Medabot rival.\nHasta el final del turno rival, el\nobjetivo pierde su habilidad (rasgo)."
+   "t": "Elige 1 Medabot rival. Hasta el final del turno\nrival, el objetivo pierde su habilidad (rasgo)."
   },
   {
    "row": "Medarotter22",
@@ -7258,7 +7258,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a0238cfdad06",
-   "t": "Elige 1 Soporte tuyo.\nHasta el final del turno rival, no\npuede ser elegido como objetivo de\nefectos."
+   "t": "Elige 1 Soporte tuyo. Hasta el final del turno rival,\nno puede ser elegido como objetivo de efectos."
   },
   {
    "row": "Medarotter24",
@@ -7328,7 +7328,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "84023f02d62e",
-   "t": "Cuando el líder rival active una$habilidad (acción), destruye 1 pieza$rival.\nLa trampa se destruye al activarse."
+   "t": "Cuando el líder rival active una$habilidad (acción),\ndestruye 1 pieza$rival. La trampa se destruye al activarse."
   },
   {
    "row": "Trap01",
@@ -7342,7 +7342,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6e958c5bb1be",
-   "t": "Cuando un Medabot rival active una$habilidad (acción), pon hasta 3 cartas$de la parte superior del mazo rival$en el Descarte.\nLa trampa se destruye al activarse."
+   "t": "Cuando un Medabot rival active una$habilidad (acción), pon hasta 3 cartas$de la\nparte superior del mazo rival$en el Descarte. La trampa se destruye al activarse."
   },
   {
    "row": "Trap02",
@@ -7356,7 +7356,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "09d8935a6b94",
-   "t": "Cuando el rival use una carta de$Táctica, pon hasta 3 cartas de la$parte superior de su mazo en el$Descarte.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival use una carta de$Táctica, pon hasta 3 cartas de la$parte\nsuperior de su mazo en el$Descarte. La trampa se destruye al activarse."
   },
   {
    "row": "Trap03",
@@ -7370,7 +7370,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "161ae4456fc4",
-   "t": "Cuando el líder rival haga un ataque$normal, haz 10000 de daño a todos$los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el líder rival haga un ataque$normal, haz 10000 de daño a\ntodos$los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "Trap04",
@@ -7384,7 +7384,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "bcdeec44ed97",
-   "t": "Cuando el líder rival active una$habilidad (acción), haz 10000 de daño$a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el líder rival active una$habilidad (acción), haz 10000 de\ndaño$a todos los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "Trap05",
@@ -7398,7 +7398,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2fed412fa5a",
-   "t": "Cuando el rival use una carta de la$Mano de Barrera en la Fase de acción,$tras resolver su efecto, todos los$Medabots rivales pasan a estado$Recalentado.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival use una carta de la$Mano de Barrera en la Fase\nde acción,$tras resolver su efecto, todos los$Medabots rivales\npasan a estado$Recalentado. La trampa se destruye al activarse."
   },
   {
    "row": "Trap06",
@@ -7412,7 +7412,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0113f584bb51",
-   "t": "Cuando el rival use una carta de la$mano en la Fase de acción, tras$resolver su efecto, haz 10000 de daño$a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival use una carta de la$mano en la Fase de acción, tras$resolver su efecto,\nhaz 10000 de daño$a todos los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "Trap07",
@@ -7426,7 +7426,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "89333a997e7c",
-   "t": "Cuando el poder de un Medabot rival$aumente fuera de un ataque normal,$elige 1 Soporte rival y devuélvelo$al mazo.\nLa trampa se destruye al activarse."
+   "t": "Cuando el poder de un Medabot rival$aumente fuera de un ataque normal,$elige\n1 Soporte rival y devuélvelo$al mazo. La trampa se destruye al activarse."
   },
   {
    "row": "Trap08",
@@ -7440,7 +7440,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f544d1620841",
-   "t": "Cuando un Medabot rival active una$habilidad (acción), anúlala si el$objetivo no es de tipo [Disparo]$ni [Combate].\nLa trampa se destruye al activarse."
+   "t": "Cuando un Medabot rival active una$habilidad (acción), anúlala si el$objetivo\nno es de tipo [Disparo]$ni [Combate]. La trampa se destruye al activarse."
   },
   {
    "row": "Plant00",
@@ -7468,7 +7468,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "74e86fde854f",
-   "t": "Permanente: al final de tu turno, si tu barrera no está al máximo, elige 1 carta de tu mano y conviértela en barrera."
+   "t": "Permanente: al final de tu turno, si tu barrera no está al\nmáximo, elige 1 carta de tu mano y conviértela en barrera."
   },
   {
    "row": "Plant02",

@@ -27,7 +27,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "25a2fe726456",
-   "t": "El rival solo puede elegir como objetivo de ataques normales a Medabots con Guardia.\nGuardia es un Rasgo."
+   "t": "El rival solo puede elegir como objetivo de ataques\nnormales a Medabots con Guardia. Guardia es un Rasgo."
   },
   {
    "row": "KeyWord02",
@@ -41,7 +41,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "1d274aeb90bf",
-   "t": "Cuando el Medabot afectado hace un ataque normal, su Poder se reduce en 3000.\nTras el combate, el Poder se restaura."
+   "t": "Cuando el Medabot afectado hace un ataque normal, su Poder\nse reduce en 3000. Tras el combate, el Poder se restaura."
   },
   {
    "row": "KeyWord03",
@@ -69,7 +69,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "bed7df7f69da",
-   "t": "El Medabot afectado no puede activar ninguna habilidad (acción).\nNo puede sustituirse al Retransferir."
+   "t": "El Medabot afectado no puede activar ninguna habilidad\n(acción). No puede sustituirse al Retransferir."
   },
   {
    "row": "KeyWord05",
@@ -83,7 +83,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "ad48f76626bf",
-   "t": "El Medabot afectado no puede realizar ninguna acción.\nNo puede sustituirse al Retransferir."
+   "t": "El Medabot afectado no puede realizar ninguna acción. No puede sustituirse al Retransferir."
   },
   {
    "row": "KeyWord06",
@@ -97,7 +97,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "85842603e24f",
-   "t": "Al hacer un ataque normal, el Poder de este Medabot aumenta en 2000.\nTras el ataque, el Poder se restaura."
+   "t": "Al hacer un ataque normal, el Poder de este Medabot\naumenta en 2000. Tras el ataque, el Poder se restaura."
   },
   {
    "row": "KeyWord07",
@@ -195,7 +195,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "db57491bde75",
-   "t": "Que un Medabot de Soporte vaya al Descarte.\nQue se destruya una pieza del Líder o su Barrera."
+   "t": "Que un Medabot de Soporte vaya al Descarte. Que\nse destruya una pieza del Líder o su Barrera."
   },
   {
    "row": "KeyWord14",
@@ -237,7 +237,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "21c1e9f29668",
-   "t": "Cuando el Líder rival activa una habilidad (acción), destruye 1 pieza del rival.\nLa trampa se destruye al activarse."
+   "t": "Cuando el Líder rival activa una habilidad (acción), destruye\n1 pieza del rival. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord16",
@@ -251,7 +251,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "7e4906cf9d2f",
-   "t": "Cuando un Medabot rival activa una habilidad (acción), manda al Descarte hasta 3 cartas de la parte superior del mazo rival.\nLa trampa se destruye al activarse."
+   "t": "Cuando un Medabot rival activa una habilidad (acción), manda al Descarte hasta 3\ncartas de la parte superior del mazo rival. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord18",
@@ -265,7 +265,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "8c834e2e3214",
-   "t": "Cuando el rival usa una carta de Táctica, manda al Descarte hasta 3 cartas de la parte superior de su mazo.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival usa una carta de Táctica, manda al Descarte hasta 3 cartas\nde la parte superior de su mazo. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord21",
@@ -279,7 +279,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "58999ef8546b",
-   "t": "Cuando el Líder rival hace un ataque normal, inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el Líder rival hace un ataque normal, inflige 10000 de daño\na todos los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord22",
@@ -293,7 +293,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "b72a33958679",
-   "t": "Cuando el Líder rival activa una habilidad (acción), inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el Líder rival activa una habilidad (acción), inflige 10000 de\ndaño a todos los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord23",
@@ -307,7 +307,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "f8a23f3a62cf",
-   "t": "Cuando el rival usa una carta de la Mano de Barrera en la Fase de acción, tras resolver su efecto, pone a todos los Medabots rivales en estado Recalentado.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival usa una carta de la Mano de Barrera en la Fase de\nacción, tras resolver su efecto, pone a todos los Medabots rivales\nen estado Recalentado. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord24",
@@ -321,7 +321,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fcc760c3dd41",
-   "t": "Cuando el rival usa una carta de su mano en la Fase de acción, tras resolver su efecto, inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+   "t": "Cuando el rival usa una carta de su mano en la Fase de acción, tras resolver su efecto,\ninflige 10000 de daño a todos los Medabots rivales. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord19",
@@ -335,7 +335,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "968dc7958696",
-   "t": "Cuando el Poder de un Medabot rival aumenta fuera de un ataque normal, elige 1 Soporte rival y devuélvelo al mazo.\nLa trampa se destruye al activarse."
+   "t": "Cuando el Poder de un Medabot rival aumenta fuera de un ataque normal, elige\n1 Soporte rival y devuélvelo al mazo. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord20",
@@ -349,7 +349,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "4ac1c74078d2",
-   "t": "Cuando un Medabot rival activa una habilidad (acción), la anula si el objetivo no es de tipo [Disparo] ni [Combate].\nLa trampa se destruye al activarse."
+   "t": "Cuando un Medabot rival activa una habilidad (acción), la anula si el objetivo\nno es de tipo [Disparo] ni [Combate]. La trampa se destruye al activarse."
   },
   {
    "row": "KeyWord26",
@@ -377,7 +377,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "27e68883eb22",
-   "t": "Permanente: al final de tu turno, si la Barrera no está al máximo, elige 1 carta de tu mano y conviértela en Barrera."
+   "t": "Permanente: al final de tu turno, si la Barrera no está al\nmáximo, elige 1 carta de tu mano y conviértela en Barrera."
   },
   {
    "row": "KeyWord27",
@@ -517,7 +517,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "fbeb2f3fe585",
-   "t": "Elige 1 de tus Medabots; su costo de Enfriamiento rápido será 2 hasta el inicio de tu próximo turno."
+   "t": "Elige 1 de tus Medabots; su costo de Enfriamiento\nrápido será 2 hasta el inicio de tu próximo turno."
   },
   {
    "row": "KeyWord37",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "39ec9c11d5a1",
-   "t": "Cuando este Medabot recibe daño en el turno rival, inflige el mismo daño a 1 Medabot rival al azar."
+   "t": "Cuando este Medabot recibe daño en el turno rival,\ninflige el mismo daño a 1 Medabot rival al azar."
   },
   {
    "row": "KeyWord40",
@@ -573,7 +573,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "2a58e75b19fe",
-   "t": "Cuando el jugador rival elige un Medabot como objetivo, debe elegir a este Medabot siempre que sea posible."
+   "t": "Cuando el jugador rival elige un Medabot como objetivo,\ndebe elegir a este Medabot siempre que sea posible."
   },
   {
    "row": "KeyWord41",
@@ -587,7 +587,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "2e1f4a4e7f5e",
-   "t": "Puede activarse si hay espacio en el campo.\nElige al azar 1 Medabot de tu Descarte cuya Carga sea X o más, o X o menos, y transfiere una copia de él en estado Recalentado."
+   "t": "Puede activarse si hay espacio en el campo. Elige al azar 1 Medabot de tu Descarte cuya\nCarga sea X o más, o X o menos, y transfiere una copia de él en estado Recalentado."
   },
   {
    "row": "KeyWord42",
@@ -615,7 +615,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "0e2654b29aed",
-   "t": "Si este Medabot no pasó al estado Recalentado durante tu turno, su efecto se aplica al final del turno."
+   "t": "Si este Medabot no pasó al estado Recalentado durante\ntu turno, su efecto se aplica al final del turno."
   },
   {
    "row": "KeyWord44",
@@ -671,7 +671,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "3cbca6b8f8ae",
-   "t": "Son: [Shock], [Congelación], [Atadura], [Quemadura], [Aumento de costo de acción],\n[Aumento de costo de Enfriamiento rápido], [Rasgos sellados], [Cerrojo],\n[Aumento de costo de cartas de Táctica]."
+   "t": "Son: [Shock], [Congelación], [Atadura], [Quemadura], [Aumento de\ncosto de acción], [Aumento de costo de Enfriamiento rápido], [Rasgos\nsellados], [Cerrojo], [Aumento de costo de cartas de Táctica]."
   }
  ]
 }

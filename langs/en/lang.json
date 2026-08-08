@@ -11,7 +11,7 @@
   },
   "validation": {
     "extra_chars": "—–…·™®©°×♪↑↓→←●※★☆■□◆◇○◎“”’‘",
-    "max_line": 46,
+    "max_line": 92,
     "length_factor": 1.25
   },
   "ascii_fallback": {},
