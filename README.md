@@ -11,11 +11,15 @@ It also ships translations:
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
-| Español | 3823 / 4032 | 18 | playable |
-| English | 0 / 4032 | 0 | template, every line waiting |
+| Español | 3823 / 4032 | 18 | playable, played end to end |
+| English | 3926 / 4127 | 18 | playable, not play-tested yet |
 
-**Those translations were written entirely by an LLM** and validated by their
-author playing the game through, finding nothing badly broken. Take them as a
+What is left untranslated in both is what should be: the staff credits and the
+crowdfunding backers, which are real names.
+
+**Both translations were written entirely by an LLM.** The Spanish one was then
+played from start to finish by its author, who found nothing badly broken; the
+English one has not been through a full playthrough yet. Take them as a
 **reference, not as a high-quality, error-free translation**: they are a way to
 play a game that has none, and a starting point to correct. If you find something
 wrong, fix it. That is what the tooling is for.
@@ -103,36 +107,21 @@ tool recognises which release you have and installs the mod under the right game
 **Was AI involved?** Heavily, and it is written down rather than glossed over.
 See [How this was built](#how-this-was-built).
 
-## How this was built
+## Written by an AI, and what that is worth
 
-An LLM wrote this, and the interesting part is not that — it is what it was made
-to write against.
+An LLM wrote the tools and generated both translations. What it was made to write
+against: **nine specifications** with **87 numbered requirements**
+([docs/specs/](docs/specs/)), **302 tests** that name the requirement each one
+covers, 80% line coverage, and the output checked against four retail dumps and
+against the pipeline this was ported from, file by file. The translations went
+through mechanical checks and independent review passes of their own.
 
-Nothing was implemented until the behaviour was written down. There are **nine
-specifications** in [docs/specs/](docs/specs/) with **87 numbered requirements**,
-from the binary layout of the game's data tables to the exit codes of the CLI, and
-a requirement without a test is treated as a bug in the spec. **302 tests** name
-the requirements they cover in their docstrings, so a failure tells you which rule
-broke; 286 of them run on a synthetic dump with no game files at all, and line
-coverage sits at 80%. On top of that the output is checked against reality: four
-retail dumps, every data table round-tripped byte for byte, and the built mod
-compared file by file against the pipeline this was ported from. The translations
-went through their own gauntlet — mechanical checks for placeholders, markup,
-charset and leftover Japanese, then independent review passes for terminology
-consistency and for whether it reads like a game.
+That is not decoration: the constraints caught a cell address that collided on
+repeated row keys, a cache whose files never reached the mod, a font fallback
+chain that closed on itself, and the same concept translated four ways across
+batches. None of it was found by reading the code.
 
-The constraints earned their keep. Tests written from the specs caught a cell
-address that collided when a table repeated a row key, and a cache whose files
-never reached the mod, silently shipping cramped text on 28 screens. Diffing a
-build against the reference pipeline caught a font fallback chain that closed on
-itself. The pack test caught the glossary quoting the very characters it told you
-to replace. The review pass caught the same concept translated four different ways
-across batches. None of those were found by reading the code.
-
-So: do not trust this because an LLM wrote it carefully. Trust it as far as the
-specs, the tests and the four dumps go — and no further. Everything they do not
-cover is exactly as unverified as it sounds, and the translations themselves are
-machine output that one person played through, not a professional localisation.
+So trust it as far as the specs, the tests and the four dumps go, and no further.
 
 ## No game data, by design
 
