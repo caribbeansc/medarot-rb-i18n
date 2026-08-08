@@ -17,7 +17,7 @@ It starts out with two translations:
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. They make a game that has no translation playable today; the goal
 is to polish them from here, together. Fixing a line takes a minute, and every
-correction reaches everyone — see [Improve a translation](#improve-a-translation).
+correction reaches everyone — see [Fix a line](#fix-a-line-or-add-a-language).
 
 What is left untranslated in both is what should be: the staff credits and the
 crowdfunding backers, which are real names.
@@ -64,31 +64,12 @@ Finally, enable mods for the game in your emulator and start it. **On a real
 Switch**, use **7** instead of 6: it writes a ZIP to unpack at the root of your SD
 card. If anything goes wrong, `python mrb.py doctor` says what is missing.
 
-## Improve a translation
+## Fix a line, or add a language
 
-The fastest way to help is to fix what is already there. Run `python mrb.py
-extract` and you get every line of the game with the Japanese on one side and the
-current translation on the other; edit the ones that read wrong, then:
-
-```
-python mrb.py sync es        # or en
-python mrb.py validate es
-```
-
-Commit `langs/<lang>/` and open a pull request. Small ones are the most welcome —
-"fixed 30 card names" is easier to review than a rewrite, and lands sooner.
-
-## Translate it into your language
-
-```
-python mrb.py newlang fr --name "Français" --like es
-python mrb.py extract
-```
-
-Your working copy now holds every line of the game with the Japanese on one side
-and an empty slot for your text on the other. Fill it in from the menu, from a
-spreadsheet (`python mrb.py csv fr --pending --out fr.csv`), or in your editor.
-Then:
+`python mrb.py extract` gives you every line of the game with the Japanese on one
+side and the translation on the other. Fix what reads wrong, or start a new
+language with `python mrb.py newlang fr --name "Français" --like es`. You can also
+work in a spreadsheet: `python mrb.py csv fr --pending --out fr.csv`.
 
 ```
 python mrb.py sync fr        # tidy it up for sharing
@@ -96,8 +77,8 @@ python mrb.py validate fr    # catches missing {0}, broken <tags>, overlong line
 python mrb.py build fr
 ```
 
-Full walkthrough, including the font settings your language probably needs and how
-to translate artwork with text drawn into it:
+Then commit `langs/<lang>/` and open a pull request — small ones land soonest.
+Font settings and artwork with text drawn into it:
 [docs/ADDING_A_LANGUAGE.md](docs/ADDING_A_LANGUAGE.md).
 
 ## Questions
