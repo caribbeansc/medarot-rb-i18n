@@ -6,112 +6,112 @@
    "sub": 0,
    "col": "m_name",
    "src": "fdb73ba93b6e",
-   "t": ""
+   "t": "Mode Select"
   },
   {
    "row": "ModeMenu",
    "sub": 0,
    "col": "m_infoText",
    "src": "4a4dd9bd281d",
-   "t": ""
+   "t": "This screen gathers everything you need\nto play Card Robattle.\nJump into the world of Card Robattle\nfrom here!"
   },
   {
    "row": "ModeMenu",
    "sub": 1,
    "col": "m_name",
    "src": "98bd30e8bbbb",
-   "t": ""
+   "t": "Getting Cards"
   },
   {
    "row": "ModeMenu",
    "sub": 1,
    "col": "m_infoText",
    "src": "b4930c63c6a2",
-   "t": ""
+   "t": "Spend the coins you win in Robattles\nto buy packs!\nPacks contain Support Medabot cards,\nTactics cards and Medafighter cards.\n\nLeader Medabot and Part cards are won\nby beating rivals in Robattle Challenge\nand Robattle Tower."
   },
   {
    "row": "StageMenu",
    "sub": 0,
    "col": "m_name",
    "src": "9d7aad0eb5ce",
-   "t": ""
+   "t": "Robattle Challenge"
   },
   {
    "row": "StageMenu",
    "sub": 0,
    "col": "m_infoText",
    "src": "0d10ab7cb00b",
-   "t": ""
+   "t": "A mode where you battle rivals waiting\nin all kinds of terrain.\nLeaders have leg types and gain an edge\non terrain they favor.\n\nIf you keep losing, pick a Leader to\nsuit the opponent and the terrain."
   },
   {
    "row": "TowerMenu",
    "sub": 0,
    "col": "m_name",
    "src": "beac269f6035",
-   "t": ""
+   "t": "Robattle Tower"
   },
   {
    "row": "TowerMenu",
    "sub": 0,
    "col": "m_infoText",
    "src": "93a20eb36009",
-   "t": ""
+   "t": "A mode where you climb the tower\nfighting random opponents.\nIt gives lots of coins, so climb, buy\npacks and get new cards."
   },
   {
    "row": "DeckMenu",
    "sub": 0,
    "col": "m_name",
    "src": "599dac83b7d7",
-   "t": ""
+   "t": "Deck Builder 1/3"
   },
   {
    "row": "DeckMenu",
    "sub": 0,
    "col": "m_infoText",
    "src": "a1115e169cdd",
-   "t": ""
+   "t": "Complete your deck by picking cards\nfrom several categories."
   },
   {
    "row": "DeckMenu",
    "sub": 1,
    "col": "m_name",
    "src": "6dc1b89dd47b",
-   "t": ""
+   "t": "Deck Builder 2/3"
   },
   {
    "row": "DeckMenu",
    "sub": 1,
    "col": "m_infoText",
    "src": "9e2f9361eecf",
-   "t": ""
+   "t": "You can hold up to 3 copies of a card.\nCards below that limit can be created\nby spending Dust.\n\nSome cards are created with Tickets,\nearned by battling other players."
   },
   {
    "row": "DeckMenu",
    "sub": 2,
    "col": "m_name",
    "src": "7166dcc6fe01",
-   "t": ""
+   "t": "Deck Builder 3/3"
   },
   {
    "row": "DeckMenu",
    "sub": 2,
    "col": "m_infoText",
    "src": "376ce7f98f48",
-   "t": ""
+   "t": "You can spend coins to modify a\nLeader's starting part (left arm).\nModifying turns it into a part of the\nsame name with different stats."
   },
   {
    "row": "MedalMenu",
    "sub": 0,
    "col": "m_name",
    "src": "74c4893b3bde",
-   "t": ""
+   "t": "Medal"
   },
   {
    "row": "MedalMenu",
    "sub": 0,
    "col": "m_infoText",
    "src": "7ebd21353822",
-   "t": ""
+   "t": "Medals gain EXP from battles and level up.\nLeveling up improves Medaforce power\nand can grant new Medaforces."
   }
  ]
 }

@@ -1,6 +1,5 @@
 {
  "table": "StaffCredits",
- "_policy": "not translated: real names of the game's staff",
  "entries": [
   {
    "row": "Data",
@@ -875,7 +874,7 @@
    "sub": 62,
    "col": "m_occupation",
    "src": "1fec10d7b07a",
-   "t": ""
+   "t": "Sound"
   },
   {
    "row": "Data",
@@ -889,7 +888,7 @@
    "sub": 63,
    "col": "m_occupation",
    "src": "1fec10d7b07a",
-   "t": ""
+   "t": "Sound"
   },
   {
    "row": "Data",
@@ -917,7 +916,7 @@
    "sub": 65,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -931,7 +930,7 @@
    "sub": 66,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -945,7 +944,7 @@
    "sub": 67,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -959,7 +958,7 @@
    "sub": 68,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -973,7 +972,7 @@
    "sub": 69,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -987,7 +986,7 @@
    "sub": 70,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -1001,7 +1000,7 @@
    "sub": 71,
    "col": "m_occupation",
    "src": "8712a92d1898",
-   "t": ""
+   "t": "Debug"
   },
   {
    "row": "Data",
@@ -1036,7 +1035,7 @@
    "sub": 73,
    "col": "m_name",
    "src": "d5a73f92689e",
-   "t": ""
+   "t": "Shushu Pop"
   },
   {
    "row": "Data",
@@ -1050,7 +1049,7 @@
    "sub": 74,
    "col": "m_name",
    "src": "c5dfd7ebf80d",
-   "t": ""
+   "t": "Riarira"
   },
   {
    "row": "Data",
@@ -1064,7 +1063,7 @@
    "sub": 75,
    "col": "m_name",
    "src": "ee6a19a1a108",
-   "t": ""
+   "t": "Cheerful Bunny"
   },
   {
    "row": "Data",

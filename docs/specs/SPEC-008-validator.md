@@ -32,3 +32,12 @@ playing the game for an hour.
   so that very short strings are not flagged.
 - **R-6** `--strict` promotes every warning to an error.
 - **R-7** The validator never writes to disk.
+- **R-9** An entry whose original is a character repertoire or a line-breaking
+  table — long, no spaces, nearly every character distinct — is reported when it
+  has been changed. The engine reads those fields; dropping the kana from them
+  breaks line wrapping across the whole game.
+- **R-8** A translation identical to its source is exempt from the charset check.
+  Not every entry is prose: some are a font's character repertoire, some are
+  TextMeshPro's line-breaking tables, some are notes the developers left in a
+  prefab. Copying those verbatim is the correct translation, and it must not be
+  reported as a stray character.

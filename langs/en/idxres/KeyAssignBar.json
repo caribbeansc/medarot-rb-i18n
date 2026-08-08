@@ -6,1008 +6,1008 @@
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "ModeSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "ModeSelectTrial",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "ModeSelectTrial",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "ModeSelectTrial",
    "sub": 0,
    "col": "text3",
    "src": "15e8c79d5605",
-   "t": ""
+   "t": "Go to Nintendo eShop"
   },
   {
    "row": "StageSelect",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "StageSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OpponentSelect",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OpponentSelectTutorial",
    "sub": 0,
    "col": "text1",
    "src": "b3f0b4c88746",
-   "t": ""
+   "t": "Skip Practice"
   },
   {
    "row": "OpponentSelect_DeckSelect",
    "sub": 0,
    "col": "text1",
    "src": "dd2cf7bdbc3b",
-   "t": ""
+   "t": "Change Deck"
   },
   {
    "row": "OpponentSelect_DeckSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OpponentSelect_DeckSelect",
    "sub": 0,
    "col": "text3",
    "src": "69819b6ed6f7",
-   "t": ""
+   "t": "Edit Deck"
   },
   {
    "row": "OpponentSelectTrial",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OpponentSelectTrial",
    "sub": 0,
    "col": "text2",
    "src": "15e8c79d5605",
-   "t": ""
+   "t": "Go to Nintendo eShop"
   },
   {
    "row": "OpponentSelectTrialTutorial",
    "sub": 0,
    "col": "text1",
    "src": "b3f0b4c88746",
-   "t": ""
+   "t": "Skip Practice"
   },
   {
    "row": "OpponentSelectTrialTutorial",
    "sub": 0,
    "col": "text2",
    "src": "15e8c79d5605",
-   "t": ""
+   "t": "Go to Nintendo eShop"
   },
   {
    "row": "TowerSelect",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "TowerSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "TowerSelect",
    "sub": 0,
    "col": "text3",
    "src": "c2576c53402f",
-   "t": ""
+   "t": "View Rewards"
   },
   {
    "row": "TowerStageSelect",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "TowerStageSelect",
    "sub": 0,
    "col": "text2",
    "src": "ad9c2cfdf6ff",
-   "t": ""
+   "t": "Retire"
   },
   {
    "row": "DeckList",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "DeckList",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "DeckList",
    "sub": 0,
    "col": "text3",
    "src": "576496d29eb2",
-   "t": ""
+   "t": "Deck Menu"
   },
   {
    "row": "DeckCategory",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "DeckCategory",
    "sub": 0,
    "col": "text2",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "DeckCategory",
    "sub": 0,
    "col": "text3",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "DeckCategory",
    "sub": 0,
    "col": "text4",
    "src": "23528e95380b",
-   "t": ""
+   "t": "Card Details"
   },
   {
    "row": "LeaderEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "LeaderEdit",
    "sub": 0,
    "col": "text2",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "LeaderEdit",
    "sub": 0,
    "col": "text3",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "LeaderEdit",
    "sub": 0,
    "col": "text4",
    "src": "254fe34c42ed",
-   "t": ""
+   "t": "Create Card"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text3",
    "src": "8f80377dddd1",
-   "t": ""
+   "t": "Add"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text4",
    "src": "9a12b30135c5",
-   "t": ""
+   "t": "Remove"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text5",
    "src": "c747510d7472",
-   "t": ""
+   "t": "Modify Part"
   },
   {
    "row": "PartsEdit",
    "sub": 0,
    "col": "text6",
    "src": "254fe34c42ed",
-   "t": ""
+   "t": "Create Card"
   },
   {
    "row": "MedalEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "MedalEdit",
    "sub": 0,
    "col": "text2",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "MedalEdit",
    "sub": 0,
    "col": "text3",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "KeyCardEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "KeyCardEdit",
    "sub": 0,
    "col": "text2",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "KeyCardEdit",
    "sub": 0,
    "col": "text3",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "SleeveEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "SleeveEdit",
    "sub": 0,
    "col": "text2",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "SleeveEdit",
    "sub": 0,
    "col": "text3",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "SleeveEdit",
    "sub": 0,
    "col": "text4",
    "src": "771deab7bee4",
-   "t": ""
+   "t": "Zoom"
   },
   {
    "row": "SleeveViewMode",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "DeckEdit",
    "sub": 0,
    "col": "text1",
    "src": "901a99ef46c7",
-   "t": ""
+   "t": "Save and return"
   },
   {
    "row": "DeckEdit",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "DeckEdit",
    "sub": 0,
    "col": "text3",
    "src": "8f80377dddd1",
-   "t": ""
+   "t": "Add"
   },
   {
    "row": "DeckEdit",
    "sub": 0,
    "col": "text4",
    "src": "9a12b30135c5",
-   "t": ""
+   "t": "Remove"
   },
   {
    "row": "DeckEdit",
    "sub": 0,
    "col": "text5",
    "src": "254fe34c42ed",
-   "t": ""
+   "t": "Create Card"
   },
   {
    "row": "CardShop_PackSelect",
    "sub": 0,
    "col": "text1",
    "src": "e721d064de48",
-   "t": ""
+   "t": "Select"
   },
   {
    "row": "CardShop_PackSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardShop_PackSelect",
    "sub": 0,
    "col": "text3",
    "src": "4cd31aa46c54",
-   "t": ""
+   "t": "Select All"
   },
   {
    "row": "CardShop_PackSelect_Remove",
    "sub": 0,
    "col": "text1",
    "src": "e721d064de48",
-   "t": ""
+   "t": "Select"
   },
   {
    "row": "CardShop_PackSelect_Remove",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardShop_PackSelect_Remove",
    "sub": 0,
    "col": "text3",
    "src": "4cd31aa46c54",
-   "t": ""
+   "t": "Select All"
   },
   {
    "row": "CardShop_PackSelect_Remove",
    "sub": 0,
    "col": "text4",
    "src": "c90bb75fa377",
-   "t": ""
+   "t": "Deselect All"
   },
   {
    "row": "CardShop_PackSelectBtn",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "CardShop_PackSelectBtn",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardShop_PackSelectBtn",
    "sub": 0,
    "col": "text3",
    "src": "4cd31aa46c54",
-   "t": ""
+   "t": "Select All"
   },
   {
    "row": "CardShop_PackSelectBtn_Remove",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "CardShop_PackSelectBtn_Remove",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardShop_PackSelectBtn_Remove",
    "sub": 0,
    "col": "text3",
    "src": "4cd31aa46c54",
-   "t": ""
+   "t": "Select All"
   },
   {
    "row": "CardShop_PackSelectBtn_Remove",
    "sub": 0,
    "col": "text4",
    "src": "c90bb75fa377",
-   "t": ""
+   "t": "Deselect All"
   },
   {
    "row": "CardShop_OpenAnime",
    "sub": 0,
    "col": "text1",
    "src": "850325ba9c09",
-   "t": ""
+   "t": "Skip Animation"
   },
   {
    "row": "CardShop_OpenAnime",
    "sub": 0,
    "col": "text2",
    "src": "f214cd315f27",
-   "t": ""
+   "t": "Show Results"
   },
   {
    "row": "CardShop_CardOpen",
    "sub": 0,
    "col": "text1",
    "src": "3aa692fcaae4",
-   "t": ""
+   "t": "Open"
   },
   {
    "row": "CardShop_CardOpen",
    "sub": 0,
    "col": "text2",
    "src": "f214cd315f27",
-   "t": ""
+   "t": "Show Results"
   },
   {
    "row": "CardShop_CardOpenView",
    "sub": 0,
    "col": "text1",
    "src": "23528e95380b",
-   "t": ""
+   "t": "Card Details"
   },
   {
    "row": "CardShop_CardOpenView",
    "sub": 0,
    "col": "text2",
    "src": "f214cd315f27",
-   "t": ""
+   "t": "Show Results"
   },
   {
    "row": "CardShop_CardOpenBtn",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "CardShop_CardOpenBtn",
    "sub": 0,
    "col": "text2",
    "src": "f214cd315f27",
-   "t": ""
+   "t": "Show Results"
   },
   {
    "row": "CardShop_Result",
    "sub": 0,
    "col": "text1",
    "src": "23528e95380b",
-   "t": ""
+   "t": "Card Details"
   },
   {
    "row": "CardShop_Result",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardLibrary",
    "sub": 0,
    "col": "text1",
    "src": "71d6b8502271",
-   "t": ""
+   "t": "View Mode"
   },
   {
    "row": "CardLibrary",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardLibrary",
    "sub": 0,
    "col": "text3",
    "src": "257080972bbb",
-   "t": ""
+   "t": "Switch Tab"
   },
   {
    "row": "CardLibrary",
    "sub": 0,
    "col": "text4",
    "src": "254fe34c42ed",
-   "t": ""
+   "t": "Create Card"
   },
   {
    "row": "CardLibrary",
    "sub": 0,
    "col": "text5",
    "src": "c747510d7472",
-   "t": ""
+   "t": "Modify Part"
   },
   {
    "row": "CardLibrary_Medal",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "CardLibrary_Medal",
    "sub": 0,
    "col": "text2",
    "src": "257080972bbb",
-   "t": ""
+   "t": "Switch Tab"
   },
   {
    "row": "MultiSelect",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "MultiSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "MultiLobby",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "MuiltiLobby_DeckSelect",
    "sub": 0,
    "col": "text1",
    "src": "dd2cf7bdbc3b",
-   "t": ""
+   "t": "Change Deck"
   },
   {
    "row": "MuiltiLobby_DeckSelect",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "Result",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "ViewMode",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "ViewMode",
    "sub": 0,
    "col": "text2",
    "src": "dcf82b82e163",
-   "t": ""
+   "t": "Card Angle"
   },
   {
    "row": "ViewMode",
    "sub": 0,
    "col": "text3",
    "src": "1ea5727fb05c",
-   "t": ""
+   "t": "Next Owned Card"
   },
   {
    "row": "ViewMode",
    "sub": 0,
    "col": "text4",
    "src": "3cbdb6a4a2ca",
-   "t": ""
+   "t": "Prev. Owned Card"
   },
   {
    "row": "ViewMode_Opponent",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "ViewMode_Opponent",
    "sub": 0,
    "col": "text2",
    "src": "dcf82b82e163",
-   "t": ""
+   "t": "Card Angle"
   },
   {
    "row": "ViewMode_Library",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "ViewMode_Library",
    "sub": 0,
    "col": "text2",
    "src": "dcf82b82e163",
-   "t": ""
+   "t": "Card Angle"
   },
   {
    "row": "ViewMode_Library",
    "sub": 0,
    "col": "text3",
    "src": "9a1f2735ddf2",
-   "t": ""
+   "t": "Next Card"
   },
   {
    "row": "ViewMode_Library",
    "sub": 0,
    "col": "text4",
    "src": "57a42930c75f",
-   "t": ""
+   "t": "Prev. Card"
   },
   {
    "row": "ViewMode_CardShop",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "ViewMode_CardShop",
    "sub": 0,
    "col": "text2",
    "src": "dcf82b82e163",
-   "t": ""
+   "t": "Card Angle"
   },
   {
    "row": "ViewMode_CardShop",
    "sub": 0,
    "col": "text3",
    "src": "9a1f2735ddf2",
-   "t": ""
+   "t": "Next Card"
   },
   {
    "row": "ViewMode_CardShop",
    "sub": 0,
    "col": "text4",
    "src": "57a42930c75f",
-   "t": ""
+   "t": "Prev. Card"
   },
   {
    "row": "Keyward",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "Keyward_Menu",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "Option",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "Option",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "Option",
    "sub": 0,
    "col": "text3",
    "src": "c7042f8d73a8",
-   "t": ""
+   "t": "Reset Settings"
   },
   {
    "row": "OptionPlayerIcon",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "OptionPlayerIcon",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OptionWallpaper",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "OptionWallpaper",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OptionWallpaper",
    "sub": 0,
    "col": "text3",
    "src": "dce52f3e1119",
-   "t": ""
+   "t": "Check"
   },
   {
    "row": "OptionCredit",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OptionTips",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "OptionTips",
    "sub": 0,
    "col": "text2",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "OptionTips",
    "sub": 0,
    "col": "text3",
    "src": "f7600b726bf2",
-   "t": ""
+   "t": "Prev"
   },
   {
    "row": "OptionSupporter",
    "sub": 0,
    "col": "text1",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "OptionSupporter",
    "sub": 0,
    "col": "text2",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "OptionSupporter",
    "sub": 0,
    "col": "text3",
    "src": "f7600b726bf2",
-   "t": ""
+   "t": "Prev"
   },
   {
    "row": "OptionTipsEnd",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "OptionTipsEnd",
    "sub": 0,
    "col": "text2",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "OptionTipsEnd",
    "sub": 0,
    "col": "text3",
    "src": "f7600b726bf2",
-   "t": ""
+   "t": "Prev"
   },
   {
    "row": "OptionTrial",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "OptionTrial",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "MenuTutorial",
    "sub": 0,
    "col": "text1",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "MenuTutorial",
    "sub": 0,
    "col": "text2",
    "src": "f7600b726bf2",
-   "t": ""
+   "t": "Prev"
   },
   {
    "row": "MenuTutorialEnd",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "MenuTutorialEnd",
    "sub": 0,
    "col": "text2",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "MenuTutorialEnd",
    "sub": 0,
    "col": "text3",
    "src": "f7600b726bf2",
-   "t": ""
+   "t": "Prev"
   },
   {
    "row": "MenuTutorialSingleEnd",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "TerrainInfo",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "OpponentDeckCheck",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "OtherVersionReward",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "SortDialog",
    "sub": 0,
    "col": "text1",
    "src": "e721d064de48",
-   "t": ""
+   "t": "Select"
   },
   {
    "row": "SortDialog",
    "sub": 0,
    "col": "text2",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "SortDialog",
    "sub": 0,
    "col": "text3",
    "src": "10ce3c3125ba",
-   "t": ""
+   "t": "All OFF"
   },
   {
    "row": "CommonDialog",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "CommonDialog",
    "sub": 0,
    "col": "text2",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "CommonDialog_Enter",
    "sub": 0,
    "col": "text1",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "OpponentFight",
    "sub": 0,
    "col": "text1",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "NpcMessage",
    "sub": 0,
    "col": "text1",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   }
  ]
 }

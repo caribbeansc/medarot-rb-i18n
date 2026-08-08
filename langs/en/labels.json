@@ -1,1184 +1,1628 @@
 {
  "entries": [
   {
-   "src": "008e381b3a79",
-   "t": ""
+   "src": "a0ef5b588aa9",
+   "t": "",
+   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
   },
   {
-   "src": "01c2df03fd3f",
-   "t": ""
+   "src": "0b97a499a069",
+   "t": "",
+   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
   },
   {
-   "src": "070c47d9dc21",
-   "t": ""
+   "src": "049b2630bab9",
+   "t": "\r●Images\r\n  - PlayerIcon: player icon\r\n    Please swap in the player icon image\r\n    from the link below.\r\n    [Player icon folder]\r\n    \\NX\\Prj_Atom\\Assets\\Graphic\\2D\\General\\Texture\\PlayerIcon"
   },
   {
-   "src": "0825abbd4069",
-   "t": ""
+   "src": "92a204a52127",
+   "t": "---------------------------------------\n25/11/17 added\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\n\n●AnimatorEvents\r\n  - BattleCard_Anim\r\n    String[ImageSwitch]: timing of the image switch after Medachange\r\n\r\n●Materials\r\n  Please swap the material so the colour differs for player and opponent.\r\n  - Player: for the player\r\n  - Enemy: for the opponent\r\n\r\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\n    Please swap in an image matching the shape of the board card.\r\n\r\n●Animators\r\n  Battle_Anim\r\n  [Select Layer]: selection anim\r\n  - UnSelect  : not selected\r\n  - _Select   : selected\r\n                * The Select anim in [Select Layer] is no longer needed, please delete it.\r\n                  Once the data migration is done, please rename this one to [Select].\r\n  [Base Layer]\r\n  Please play the anim together with the Medachange effect.\r\n  - MC_RightPart_In    : right part (Medachange)\r\n  - MC_In              : leader (Medachange)\r\n  - MC_LeftPart_In     : left part (Medachange)\r\n  - MC_Rev_RightPart_In: right part (Medachange off)\r\n  - MC_Rev_In          : leader (Medachange off)\r\n  - MC_Rev_LeftPart_In : left part (Medachange off)\r\n  - MC_Spt_In          : support (Medachange)\r\n\r\n\r\n●ObjectNodes\r\n  Eff_MedaChange_Base: [glow effect swap target]\r\n---------------------------------------\nObject for getting coordinates\r\n●Transforms\r\n  ActionSelection: Medabot action UI\r\n  Num: UI for damage numbers etc.\r\n  Eff: effect-related (tentative)\n---------------------------------------"
   },
   {
-   "src": "0943908e8c16",
-   "t": ""
-  },
-  {
-   "src": "095b4bb9101d",
-   "t": ""
-  },
-  {
-   "src": "0a55dabbc64b",
-   "t": ""
-  },
-  {
-   "src": "0a772e8a01e4",
-   "t": ""
-  },
-  {
-   "src": "0b38dd1c3056",
-   "t": ""
-  },
-  {
-   "src": "0cc87e1be8de",
-   "t": ""
-  },
-  {
-   "src": "0e7174df091c",
-   "t": ""
-  },
-  {
-   "src": "0f3741363e08",
-   "t": ""
-  },
-  {
-   "src": "0f7450ecc84e",
-   "t": ""
-  },
-  {
-   "src": "112fba4b9137",
-   "t": ""
-  },
-  {
-   "src": "1156d42c762c",
-   "t": ""
-  },
-  {
-   "src": "1171bbe78a70",
-   "t": ""
-  },
-  {
-   "src": "11791a8a4146",
-   "t": ""
-  },
-  {
-   "src": "11e3680dac6e",
-   "t": ""
-  },
-  {
-   "src": "1230ddd9a232",
-   "t": ""
-  },
-  {
-   "src": "134c080f2384",
-   "t": ""
-  },
-  {
-   "src": "1381bf06d489",
-   "t": ""
-  },
-  {
-   "src": "175863078c9f",
-   "t": ""
-  },
-  {
-   "src": "187eba6ce8d0",
-   "t": ""
-  },
-  {
-   "src": "192bf0a39381",
-   "t": ""
-  },
-  {
-   "src": "195bc68ade96",
-   "t": ""
-  },
-  {
-   "src": "1a1b8ba0dd6d",
-   "t": ""
-  },
-  {
-   "src": "1a83976161b0",
-   "t": ""
-  },
-  {
-   "src": "1ab4eb6d6f9b",
-   "t": ""
-  },
-  {
-   "src": "1b6b1a6f8931",
-   "t": ""
-  },
-  {
-   "src": "1d2a1be524e0",
-   "t": ""
-  },
-  {
-   "src": "1d7bdee5706c",
-   "t": ""
-  },
-  {
-   "src": "1d9a35d131ca",
-   "t": ""
-  },
-  {
-   "src": "1e1acf2ad9d9",
-   "t": ""
-  },
-  {
-   "src": "1e7e3645d41a",
-   "t": ""
-  },
-  {
-   "src": "1eb8db77a9bd",
-   "t": ""
-  },
-  {
-   "src": "1ee1d5a8577f",
-   "t": ""
-  },
-  {
-   "src": "1fec10d7b07a",
-   "t": ""
-  },
-  {
-   "src": "20305252825b",
-   "t": ""
-  },
-  {
-   "src": "20db9f87b860",
-   "t": ""
-  },
-  {
-   "src": "225cc5abf7b2",
-   "t": ""
-  },
-  {
-   "src": "22ddb4cf4073",
-   "t": ""
-  },
-  {
-   "src": "25e3a43af2ee",
-   "t": ""
-  },
-  {
-   "src": "25e7b45e727d",
-   "t": ""
-  },
-  {
-   "src": "2732402ee30a",
-   "t": ""
-  },
-  {
-   "src": "288e4331f439",
-   "t": ""
-  },
-  {
-   "src": "29f9117f3955",
-   "t": ""
-  },
-  {
-   "src": "2dbce4c71942",
-   "t": ""
-  },
-  {
-   "src": "2e847fccc4fd",
-   "t": ""
-  },
-  {
-   "src": "30d802e18fdb",
-   "t": ""
-  },
-  {
-   "src": "3142a9cf8a77",
-   "t": ""
-  },
-  {
-   "src": "322cc025563f",
-   "t": ""
-  },
-  {
-   "src": "325b6cb1bb0f",
-   "t": ""
-  },
-  {
-   "src": "342528b973d0",
-   "t": ""
-  },
-  {
-   "src": "363301428a4a",
-   "t": ""
-  },
-  {
-   "src": "39a60c548d30",
-   "t": ""
-  },
-  {
-   "src": "3bbbdb28a544",
-   "t": ""
-  },
-  {
-   "src": "3bfbf21e2f00",
-   "t": ""
-  },
-  {
-   "src": "3d0c9e729bfc",
-   "t": ""
-  },
-  {
-   "src": "40153830eaea",
-   "t": ""
-  },
-  {
-   "src": "410d1878d875",
-   "t": ""
-  },
-  {
-   "src": "41b2767dfe2c",
-   "t": ""
-  },
-  {
-   "src": "45673de10fd8",
-   "t": ""
-  },
-  {
-   "src": "4615f2c1b692",
-   "t": ""
-  },
-  {
-   "src": "462b6f065348",
-   "t": ""
-  },
-  {
-   "src": "48cbbfbe8a64",
-   "t": ""
-  },
-  {
-   "src": "48ef2b674823",
-   "t": ""
-  },
-  {
-   "src": "4a424678ca89",
-   "t": ""
-  },
-  {
-   "src": "4ac42c6932f9",
-   "t": ""
-  },
-  {
-   "src": "4bdbfa66e663",
-   "t": ""
-  },
-  {
-   "src": "4c978e9b7c93",
-   "t": ""
-  },
-  {
-   "src": "4da0d3c0df01",
-   "t": ""
-  },
-  {
-   "src": "4e1d8353eb4c",
-   "t": ""
-  },
-  {
-   "src": "51695ad45a11",
-   "t": ""
-  },
-  {
-   "src": "524746976904",
-   "t": ""
-  },
-  {
-   "src": "52e55b091a61",
-   "t": ""
-  },
-  {
-   "src": "535ee71f557e",
-   "t": ""
-  },
-  {
-   "src": "538fa5973853",
-   "t": ""
-  },
-  {
-   "src": "543401b7ea82",
-   "t": ""
-  },
-  {
-   "src": "5461d30a804c",
-   "t": ""
-  },
-  {
-   "src": "552df7a5e301",
-   "t": ""
-  },
-  {
-   "src": "55629d217caa",
-   "t": ""
-  },
-  {
-   "src": "572a6a52e9a6",
-   "t": ""
-  },
-  {
-   "src": "58c8dc1eb7e1",
-   "t": ""
-  },
-  {
-   "src": "5b717728bbea",
-   "t": ""
-  },
-  {
-   "src": "5bee1f879d37",
-   "t": ""
-  },
-  {
-   "src": "5dc1df9eecbf",
-   "t": ""
-  },
-  {
-   "src": "5e09929df590",
-   "t": ""
-  },
-  {
-   "src": "5f6e1fe6b0d1",
-   "t": ""
-  },
-  {
-   "src": "607d48862126",
-   "t": ""
-  },
-  {
-   "src": "61031c9114a7",
-   "t": ""
-  },
-  {
-   "src": "616654205353",
-   "t": ""
-  },
-  {
-   "src": "62cf289ea843",
-   "t": ""
-  },
-  {
-   "src": "63869b4d8696",
-   "t": ""
-  },
-  {
-   "src": "644c4bd6be8b",
-   "t": ""
-  },
-  {
-   "src": "646f88c33079",
-   "t": ""
-  },
-  {
-   "src": "653894ed2bd9",
-   "t": ""
-  },
-  {
-   "src": "657763466066",
-   "t": ""
-  },
-  {
-   "src": "6698f0c111af",
-   "t": ""
-  },
-  {
-   "src": "685df70aed66",
-   "t": ""
-  },
-  {
-   "src": "69b6412b8546",
-   "t": ""
-  },
-  {
-   "src": "6b9190f59aa3",
-   "t": ""
-  },
-  {
-   "src": "6c6fa279e15d",
-   "t": ""
-  },
-  {
-   "src": "6c97964b9284",
-   "t": ""
-  },
-  {
-   "src": "6cac16b39789",
-   "t": ""
-  },
-  {
-   "src": "6e1b53d1ab6c",
-   "t": ""
-  },
-  {
-   "src": "6e2e10d8086f",
-   "t": ""
-  },
-  {
-   "src": "6e46f28bc8b0",
-   "t": ""
-  },
-  {
-   "src": "6f3443ca32a1",
-   "t": ""
-  },
-  {
-   "src": "6fa0b1b9b422",
-   "t": ""
-  },
-  {
-   "src": "70e39859279e",
-   "t": ""
-  },
-  {
-   "src": "71402a20847c",
-   "t": ""
-  },
-  {
-   "src": "73085bfb7e4f",
-   "t": ""
-  },
-  {
-   "src": "73188d0422b7",
-   "t": ""
-  },
-  {
-   "src": "732fac95364d",
-   "t": ""
-  },
-  {
-   "src": "73c5747c7d9b",
-   "t": ""
-  },
-  {
-   "src": "743806abcacf",
-   "t": ""
-  },
-  {
-   "src": "74c4893b3bde",
-   "t": ""
-  },
-  {
-   "src": "751dd2ab091a",
-   "t": ""
-  },
-  {
-   "src": "76b0364b5086",
-   "t": ""
-  },
-  {
-   "src": "783da48ea44b",
-   "t": ""
-  },
-  {
-   "src": "797fdf432ff3",
-   "t": ""
-  },
-  {
-   "src": "79eef7683431",
-   "t": ""
-  },
-  {
-   "src": "7a1ef7911599",
-   "t": ""
-  },
-  {
-   "src": "7ab5e5a672ab",
-   "t": ""
-  },
-  {
-   "src": "7baf61da7242",
-   "t": ""
-  },
-  {
-   "src": "7d9650594d19",
-   "t": ""
-  },
-  {
-   "src": "7ecf3c798d40",
-   "t": ""
-  },
-  {
-   "src": "7f8487f8b6fe",
-   "t": ""
-  },
-  {
-   "src": "80e21758b4eb",
-   "t": ""
-  },
-  {
-   "src": "812e1128723a",
-   "t": ""
-  },
-  {
-   "src": "81965fc07c1c",
-   "t": ""
-  },
-  {
-   "src": "81d7b53b0aed",
-   "t": ""
-  },
-  {
-   "src": "821c7501e67f",
-   "t": ""
-  },
-  {
-   "src": "825a729082c2",
-   "t": ""
-  },
-  {
-   "src": "82b42df081d8",
-   "t": ""
-  },
-  {
-   "src": "840395115cbf",
-   "t": ""
-  },
-  {
-   "src": "84ea1ef2c7f8",
-   "t": ""
-  },
-  {
-   "src": "854d2ca897af",
-   "t": ""
-  },
-  {
-   "src": "85caf67e0c1f",
-   "t": ""
-  },
-  {
-   "src": "85ebf6a8ae73",
-   "t": ""
-  },
-  {
-   "src": "8644b8ecf738",
-   "t": ""
-  },
-  {
-   "src": "868310e193d1",
-   "t": ""
-  },
-  {
-   "src": "872605e11e3f",
-   "t": ""
-  },
-  {
-   "src": "87c8ff00c101",
-   "t": ""
-  },
-  {
-   "src": "88074d4c5cc6",
-   "t": ""
-  },
-  {
-   "src": "885006044732",
-   "t": ""
-  },
-  {
-   "src": "899bfefbb828",
-   "t": ""
-  },
-  {
-   "src": "89c3232e29fe",
-   "t": ""
-  },
-  {
-   "src": "8b83b7d92644",
-   "t": ""
-  },
-  {
-   "src": "8d68716b3d27",
-   "t": ""
-  },
-  {
-   "src": "8f90d85ec13a",
-   "t": ""
-  },
-  {
-   "src": "8fc7f899161b",
-   "t": ""
-  },
-  {
-   "src": "8fd4770f892b",
-   "t": ""
-  },
-  {
-   "src": "8fe3961a1da9",
-   "t": ""
-  },
-  {
-   "src": "900f8294213e",
-   "t": ""
-  },
-  {
-   "src": "901a99ef46c7",
-   "t": ""
-  },
-  {
-   "src": "909e11113b05",
-   "t": ""
-  },
-  {
-   "src": "91d1f8eae571",
-   "t": ""
-  },
-  {
-   "src": "9220afe6bf5d",
-   "t": ""
-  },
-  {
-   "src": "924b0cc27017",
-   "t": ""
-  },
-  {
-   "src": "92e8174ef160",
-   "t": ""
-  },
-  {
-   "src": "94e7e656d288",
-   "t": ""
-  },
-  {
-   "src": "9537d4a350c5",
-   "t": ""
-  },
-  {
-   "src": "9652e7b5f699",
-   "t": ""
-  },
-  {
-   "src": "96cb391d9967",
-   "t": ""
-  },
-  {
-   "src": "96d39996152d",
-   "t": ""
-  },
-  {
-   "src": "98910f064233",
-   "t": ""
-  },
-  {
-   "src": "98dded5555fc",
-   "t": ""
-  },
-  {
-   "src": "990c0882923c",
-   "t": ""
-  },
-  {
-   "src": "9a0899ea1788",
-   "t": ""
-  },
-  {
-   "src": "9a81cb038340",
-   "t": ""
-  },
-  {
-   "src": "9c36935cab82",
-   "t": ""
-  },
-  {
-   "src": "9d7aad0eb5ce",
-   "t": ""
-  },
-  {
-   "src": "9e305eab23dd",
-   "t": ""
-  },
-  {
-   "src": "9eccdca31ee3",
-   "t": ""
-  },
-  {
-   "src": "9f653feec9ba",
-   "t": ""
-  },
-  {
-   "src": "9ff283a1f4dc",
-   "t": ""
-  },
-  {
-   "src": "a09e073f3351",
-   "t": ""
-  },
-  {
-   "src": "a27dedd839e3",
-   "t": ""
-  },
-  {
-   "src": "a28c73065c29",
-   "t": ""
-  },
-  {
-   "src": "a351d7d0d6f6",
-   "t": ""
-  },
-  {
-   "src": "a39ca290908e",
-   "t": ""
-  },
-  {
-   "src": "a3e3cb5fd6f9",
-   "t": ""
-  },
-  {
-   "src": "a50648586453",
-   "t": ""
-  },
-  {
-   "src": "a55782616f8b",
-   "t": ""
-  },
-  {
-   "src": "a5ee1e91e235",
-   "t": ""
-  },
-  {
-   "src": "a6ab4547fdae",
-   "t": ""
-  },
-  {
-   "src": "a78fd5524058",
-   "t": ""
-  },
-  {
-   "src": "a82f8b7da13b",
-   "t": ""
-  },
-  {
-   "src": "a887d8e89087",
-   "t": ""
-  },
-  {
-   "src": "a93e0031021d",
-   "t": ""
-  },
-  {
-   "src": "ad6672757a5c",
-   "t": ""
-  },
-  {
-   "src": "aea55d8e7476",
-   "t": ""
-  },
-  {
-   "src": "af292b841c37",
-   "t": ""
-  },
-  {
-   "src": "af76d62610c1",
-   "t": ""
-  },
-  {
-   "src": "afd52e9e2a90",
-   "t": ""
-  },
-  {
-   "src": "b0897bab82b0",
-   "t": ""
-  },
-  {
-   "src": "b0d96f634c22",
-   "t": ""
-  },
-  {
-   "src": "b16a966a9465",
-   "t": ""
-  },
-  {
-   "src": "b1cd407ea9c9",
-   "t": ""
-  },
-  {
-   "src": "b25ace0065ed",
-   "t": ""
-  },
-  {
-   "src": "b33f56ec36d2",
-   "t": ""
-  },
-  {
-   "src": "b40be21b5369",
-   "t": ""
-  },
-  {
-   "src": "b4f65423517b",
-   "t": ""
-  },
-  {
-   "src": "b56060ed03bc",
-   "t": ""
-  },
-  {
-   "src": "b68d8ff0219a",
-   "t": ""
-  },
-  {
-   "src": "b818d7a5bc84",
-   "t": ""
-  },
-  {
-   "src": "b8b25d78da57",
-   "t": ""
-  },
-  {
-   "src": "b8c57a016dc8",
-   "t": ""
-  },
-  {
-   "src": "b8f39c8447a4",
-   "t": ""
-  },
-  {
-   "src": "ba2e8f18b8d3",
-   "t": ""
-  },
-  {
-   "src": "bb964a6eeb10",
-   "t": ""
-  },
-  {
-   "src": "bbbf41ef1055",
-   "t": ""
-  },
-  {
-   "src": "bc4457dd1a4d",
-   "t": ""
-  },
-  {
-   "src": "bca84ea5c65f",
-   "t": ""
-  },
-  {
-   "src": "bd22ca83211f",
-   "t": ""
-  },
-  {
-   "src": "beac269f6035",
-   "t": ""
-  },
-  {
-   "src": "c1066343036e",
-   "t": ""
-  },
-  {
-   "src": "c1135567f800",
-   "t": ""
-  },
-  {
-   "src": "c47d33913ef0",
-   "t": ""
-  },
-  {
-   "src": "c58b20e15f71",
-   "t": ""
-  },
-  {
-   "src": "c5dfd7ebf80d",
-   "t": ""
-  },
-  {
-   "src": "c5e0896fc61d",
-   "t": ""
-  },
-  {
-   "src": "c62991e857bf",
-   "t": ""
-  },
-  {
-   "src": "c66c8b622f97",
-   "t": ""
+   "src": "3558f52a6ad3",
+   "t": "---------------------------------------\nObject for getting coordinates\r\n●Transforms\r\n  ActionSelection: Medabot action UI\r\n  Num: UI for damage numbers etc.\r\n  Eff: effect-related (tentative)\n---------------------------------------"
   },
   {
    "src": "c738b89ea684",
-   "t": ""
+   "t": "<size=+8><voffset=-0.05em>1</voffset></size> pack</size>"
   },
   {
-   "src": "c73d356eb6af",
-   "t": ""
+   "src": "7d9650594d19",
+   "t": "<size=-10>Turn </size><voffset=-0.1em>{0}</voffset>"
   },
   {
-   "src": "c747510d7472",
-   "t": ""
+   "src": "aea55d8e7476",
+   "t": "ID search only"
   },
   {
-   "src": "c76bfd416ebf",
-   "t": ""
+   "src": "347b0fe13e22",
+   "t": "Check Tips"
   },
   {
-   "src": "c8c8bdcad340",
-   "t": ""
+   "src": "8b83b7d92644",
+   "t": "Other Ver. Bonus"
   },
   {
-   "src": "ca4c7556b651",
-   "t": ""
+   "src": "621a63082901",
+   "t": "[Result: Win]Judgement_Win.prefab\r\n[Result: Lose]Judgement_Lose.prefab\r\n[Result: Draw]Judgement_Draw.prefab\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle  * If there is no NPC dialogue it stays on [Idle] and fades into the result sequence\r\n  - Out  : exit  * Please play this when it has to be cleared for NPC dialogue etc.\r\n  - Hide : hidden"
   },
   {
-   "src": "ca63cb89dd11",
-   "t": ""
+   "src": "39be134c5b05",
+   "t": "",
+   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
   },
   {
-   "src": "cb915bcc28b8",
-   "t": ""
+   "src": "dc99acec8056",
+   "t": "●Animators\r\n  Button: generic button anim"
   },
   {
-   "src": "cca492719669",
-   "t": ""
+   "src": "d2f494251690",
+   "t": "●Animators\r\n  Button: generic button anim\r\n\r\n●TextMeshProUGUIs\r\n  Key icon * external-character font\r\n  - Text_Key\r\n  - Text_Key_Off\r\n  - Text_Key_Select"
   },
   {
-   "src": "cd6d943d3f21",
-   "t": ""
+   "src": "ab5d888442fe",
+   "t": "●Animators\r\n  CostNum\r\n  [Base Layer]: anim for switching between the [normal] and [used] states\r\n  - Cost_In   : enter (switches the cost number)\r\n  - Cost_Idle : idle\r\n  - Cost_Out  : exit (played when the cost changes)\r\n  \r\n  [Max Layer]: selection state ON/OFF\r\n  - CostMax_In   : enter (switches the max cost number)\r\n  - CostMax_Idle : idle\r\n  - CosMaxt_Out  : exit (played when the max cost changes)\r\n  \r\n●TextMeshProUGUIs\r\n  - CostNum       : charge cost number\r\n  - CostNum_Eff   : charge cost number (for effects)\r\n  - CostNumMax    : max charge cost number\r\n  - CostNumMax_Eff: max charge cost number (for effects)"
   },
   {
-   "src": "cf2799d4be19",
-   "t": ""
+   "src": "02aa63abebf7",
+   "t": "●Animators\r\n  Deck_Thickness: thickness\r\n  - In  : enter * play it in sync with the card's [Appear]\r\n  - 07  : 7 cards\r\n  - 06  : 6 cards\r\n  - 05  : 5 cards\r\n  - 04  : 4 cards\r\n  - 03  : 3 cards\r\n  - 02  : 2 cards\r\n  - 01  : 1 card\r\n  - Hide: hidden"
   },
   {
-   "src": "cf747271c229",
-   "t": ""
+   "src": "2085bd8fbf5a",
+   "t": "●Animators\r\n  Fade: enter/exit anim\n    Please show it for the first time around when the shield is placed.\r\n    * Hidden when attacking or when Barrier is 0\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r"
   },
   {
-   "src": "cfe431e0128a",
-   "t": ""
+   "src": "8b43667b6335",
+   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  Please play it on level up\r\n  After the level up, loop the idle anim\r\n  If two levels are gained at once, please exit once first\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden"
   },
   {
-   "src": "d05955fdc8a8",
-   "t": ""
+   "src": "83878d5dddd7",
+   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - Guide_00-03: control guide_button label prefab\r\n                 Please show as many as the screen needs.\r\n                 * If there are not enough, please add more."
   },
   {
-   "src": "d1092245c1fa",
-   "t": ""
+   "src": "10c8f3c0d31a",
+   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●Images\r\n  - MedarotterIcon: swap in the Medafighter card icon\r\n      Sprite name: Card_Medarotter_***_Icon\r\n"
   },
   {
-   "src": "d193e9d2b723",
-   "t": ""
+   "src": "f936093a8438",
+   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden"
   },
   {
-   "src": "d242b1313e5f",
-   "t": ""
+   "src": "68e84bda9925",
+   "t": "●Animators\r\n  Gauge: gauge\r\n         Please animate it to match the number of charge gauges\r\n         It unlocks from charge cost 11 upward, so please handle locked and unlocked in the anim\r\n  - Off: off\r\n  - On: on\r\n  - to_Off: from [on] to off\r\n  - to_On: from off to on\r\n  - On_Select: selected\r\n\r\n  - Open: unlocked\r\n  - to_Open: from locked to unlocked\r\n  - Close: locked\r\n  - to_Close: from unlocked to locked"
   },
   {
-   "src": "d2cee3016249",
-   "t": ""
+   "src": "1958203a12e8",
+   "t": "●Animators\r\n  Get: coin gain anim\r\n  - In   : enter\n      * Please play it at the same time as the count-up\r\n  - Idle : idle\r\n      * Loop the [idle] anim while the total amount is counting up\r\n  - Out  : exit\r\n      * When the total amount has finished counting up, please move from the [idle] anim to the [exit] anim\r\n  - Hide : hidden"
   },
   {
-   "src": "d3d2c11096f1",
-   "t": ""
+   "src": "c1c57dce7227",
+   "t": "●Animators\r\n  MedaChange: please play it on Medachange.\r\n  - MedaChange: Medachange\n\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\r\n    Please swap in an image matching the shape of the board card.\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\r\n\r\n●ObjectNodes\r\n  Eff_MedaChange_Base: [glow effect swap target]"
   },
   {
-   "src": "d43ed767d2b1",
-   "t": ""
+   "src": "9728d36c2880",
+   "t": "●Animators\r\n  MedaChange: please play it on Medachange.\r\n  - MedaChange: Medachange\r\n  - Reverse: Medachange off\n\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\r\n    Please swap in an image matching the shape of the board card.\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\r\n\r\n●ObjectNodes\n  BattleCard: [board card]\r\n  Eff_MedaChange_Base: [glow effect swap target]"
   },
   {
-   "src": "d5106436e753",
-   "t": ""
+   "src": "004fea4d66c4",
+   "t": "●Animators\r\n  Select: selection cursor\n\r\n  [Select]\r\n  - UnSelect     : not selected\r\n  - Select_Player: selected (player)\r\n  [Select_Enemy]\r\n  - UnSelect_Enemy: not selected\r\n  - Select_Enemy   : selected (opponent)"
   },
   {
-   "src": "d517b29bedb8",
-   "t": ""
+   "src": "9577349422ff",
+   "t": "●Animators\r\n  TurnChangeEff: turn change effect\r\n     Please switch the effect when the turn\r\n     changes between [you] and [opponent].\r\n  \r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n     * played at the start of the turn\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n  [Change Layer]: turn effect\r\n  - Player  : your turn\r\n  - to_Player  : from [opponent's turn] to [your turn]\r\n  - Enemy  : opponent's turn\r\n  - to_Enemy  : from [your turn] to [opponent's turn]\n\nWe want the effect density to change with the background,\nso please switch the animator\n[TurnChangeEff_A.controller]\n  BG00\r\n  BG03\r\n  BG08\r\n\r\n[TurnChangeEff_B.controller]\r\n  BG01\r\n  BG02\r\n  BG04\r\n  BG05\r\n  BG07"
   },
   {
-   "src": "d67bc8e9df7c",
-   "t": ""
+   "src": "ae0b86072355",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●Animators\r\n  Fade: [card] enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●ObjectNodes\r\n  - Card: card * please swap the card image in sync with the enter/exit anim.\n\r\n  - Btn: card detail open/close button\n    * the design was changed to SimpleBtn_Detail\n      please delete it once the new one is supported.\n\n  - SimpleBtn_Detail: [card detail open/close button]\n  - SimpleBtn_MedaChange: [simple button_Medachange]\r\n  - SimpleBtn_Key: [simple button_keyword]\n  - SimpleBtn_Buff: [simple button_status]\r\n    * hide it if the button is not needed\r\n      "
+  },
+  {
+   "src": "661de2a91267",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●ObjectNodes\r\n  - Btn_00: [Attack]\r\n  - Btn_01: [Cross Attack]\r\n  - Btn_02: [Ability 1]\r\n  - Btn_03: [Ability 2] * active only when there are two abilities\n  - Btn_MedaChange: [Medachange] * active only for Medabots with Medachange\r\n\r\n●Animators\r\n  Fade: [Medabot action UI] enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "2d358d0961d3",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - Info: [Your opponent is choosing a card]\r\n        * please change the body text if needed\r\n          the trailing [...] is played as a separate anim, so it is not needed\r\n  \r\n●Animators\r\n  Please make it enter and exit to match the opponent's selection state.\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "77ac41dd7a86",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - Text: dialogue body text\n\r\n●GameObjects\r\n  Btn_Area: please place generic buttons as needed.\r\n            generic button (with key icon) [Common_BtnKey.prefab]\r\n            generic button (no key icon) [Common_Btn.prefab]\r\n●Animators\r\n  Fade: enter/exit anim for the [simple dialogue]\r\n        please play it together with the blackout anim.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)"
+  },
+  {
+   "src": "84da3cbc40ae",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - TotalCostNum: total charge\r\n\r  - TotalPowerNum: total power value\n  - TotalCostNum_Buff: total charge_for buff\r\n\r  - TotalPowerNum_Debuff: total charge_for debuff\n  * when the total charge becomes a buff or a debuff, please switch the display.\n\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)\n  - BtnKey_01: [Back] generic button (with key icon)"
+  },
+  {
+   "src": "23f2a0e16658",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\ndeleted- PlayerName: player name\r\n\n●Animators\r\n  Fade_CostFrame: charge cost frame_enter/exit anim\r\n    Please animate it when charge cost is spent.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - MedalIcon    : [Medal] prefab\r\n  - PlayerIcon   : [player icon] prefab\r\ndeleted- TypeIcon_Area: [tactic icon area] prefab\r\n  - CostNum      : [charge cost] prefab\n  - TypeIcon_Battle_00-09: [tactic icon] prefab\n  - MedarotterUseIcon: [Medafighter usage check icon]"
+  },
+  {
+   "src": "c498e708ef66",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played to match the turn change.\r\n  - Player : turn change (player)\r\n  - Enemy: turn change (opponent)\r"
+  },
+  {
+   "src": "552cfe3b1b6c",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played to match the turn change.\r\n  - Player : phase change (player)\r\n  - Enemy: phase change (opponent)\r"
+  },
+  {
+   "src": "130ace65a30a",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please play it on deck out\r\n  - Player : deck out (player)\r\n  - Enemy: deck out (opponent)\r"
+  },
+  {
+   "src": "64a56668974d",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played according to the win/loss result.\r\n  - Win : win\r\n  - Lose: loss\r\n  - Draw: draw"
+  },
+  {
+   "src": "d3c760bccdd5",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "46d90339d34f",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●Animators\r\n  Fade: enter/exit anim\r\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n●ObjectNodes\r\n  - Btn: end phase button"
+  },
+  {
+   "src": "219d21948740",
+   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●ObjectNodes\n  Please use the prefab that matches the board card.\r\n  MedaChange_Player    : [Medachange (leader)_player]\r\n  MedaChangeSptA_Player: [Medachange (support A)_player]\r\n  MedaChangeSptB_Player: [Medachange (support B)_player]\r\n  MedaChange_Enemy    : [Medachange (leader)_opponent]\r\n  MedaChangeSptB_Enemy: [Medachange (support A)_opponent]\r\n  MedaChangeSptA_Enemy: [Medachange (support B)_opponent]"
+  },
+  {
+   "src": "3bcac1baea13",
+   "t": "●Canvass\r\n  - Order: please change the priority with [Order In Layer]\r\n          depending on the situation.\n\r\n●Animators\r\n  Fade: enter/exit anim for [board check]\r\n        please play it together with the blackout anim.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - BtnKey: board check button"
+  },
+  {
+   "src": "06ae80c6352c",
+   "t": "●GameObjects\r\n  - Font_Max: Max label\r\n      please show it only when the level is Max\r\n  \r\n●Images\r\n  - Gauge: gauge\r\n      please adjust the gauge value with FillAmount."
+  },
+  {
+   "src": "77b13703b5b4",
+   "t": "●GameObjects\r\n  - Line: line effect for selecting a target\r\n     It may look wrong when the lines cross, so we assigned\r\n     the LineRenderer [Order In Layer] UI: the -300 range.\r\n     If nothing breaks, leave it at -300; if crossing lines look wrong,\n     please manage the draw order with values in [-300 to -399].\r\n  \r\n    BezierLineRendererScript.cs\r\n    A script that draws a Bezier curve with a LineRenderer.\n    Set [Trans 1] to the [target] object and [Trans 2] to the [source] object.\n    On the board that should be the [BattleCard] inside [AreaCard].\r\n  \r\n    It would help if the [Control Point] [X] [Y] [Z] values could be adjusted\n    per display position, so the look can be tidied up.\r\n  \r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "4ba9167ae953",
+   "t": "●Images\r\n  - LegIcon: leg icon\r\n            please swap the image to match the leg type.\r\n\r\n●Sprite: tactic icon\r\n  - LegIcon_00: Biped\r\n  - LegIcon_01: Multi-leg\r\n  - LegIcon_02: Vehicle\r\n  - LegIcon_03: Flight\r\n  - LegIcon_04: Submarine\r\n  - LegIcon_05: Tank\r\n\r  - LegIcon_06: Hover\n  - LegIcon_07: ALL\n"
+  },
+  {
+   "src": "2fa46d59681d",
+   "t": "●Images\r\n  - Medal: Medal\r\n    Please swap in the Medal image\r\n    from the link below.\r\n    [Medal folder]\r\n    \\NX\\Prj_Atom\\Assets\\Graphic\\2D\\General\\Texture\\Medal"
+  },
+  {
+   "src": "0df757fa1942",
+   "t": "●Images\r\n  - TypeIcon: tactic icon\r\n            please swap the image to match the tactic type.\r\n\r\n●Sprite: tactic icon\r\n  - TypeIcon_00: Melee\r\n  - TypeIcon_01: Shoot\r\n  - TypeIcon_02: Assist\r\n  - TypeIcon_03: Heal\r\n  - TypeIcon_04: Defend\r\n  - TypeIcon_05: Trap\r\n\r\n●Animators\r\n  TypeIcon\r\n  [Base Layer]: anim for switching between the [normal] and [used] states\r\n  - Default   : normal\r\n  - to_Default: to normal (played when switching to the normal state)\r\n  - Used      : used\r\n  - to_Used   : to used (played when switching to the used state)\r\n  - Default_to_Close: from normal to closed\r\n  - Close           : closed\r\n  - Close_to_Default: from closed to normal\n  \r\n  [Select Layer]: selection state ON/OFF\r\n  - Select_In  : enter (played when selected)\r\n  - Select_Idle: idle\r\n  - Select_Out : exit (played when deselected)\r\n  - Select_Hide: hidden"
+  },
+  {
+   "src": "913bcf0ed58c",
+   "t": "●ObjectNodes\r\n  - CostGauge_01-16: [charge cost gauge_notch] \r\n    * the max is 16; anything above that is not handled in the display"
+  },
+  {
+   "src": "928919f30f16",
+   "t": "●ObjectNodes\r\n  - MedalIcon    : [Medal] prefab"
+  },
+  {
+   "src": "5caaf52d6944",
+   "t": "●ObjectNodes\r\n  - NumSet: number effect\n  - SelectIconNum: selection order icon\n  - DeckTrashNum: deck & discard count display\r"
+  },
+  {
+   "src": "557d0ace413d",
+   "t": "●ObjectNodes\r\n  - PlayerInfo: [player info]\r\n  - EnemyInfo : [player info (opponent)]\r\n                Variant of PlayerInfo\n  - ActionSelection: [Medabot action UI]\n  - DetailCard.prefab: [card detail]\n  - Phase_Info.prefab: [phase info]\n  - Battle_Blackout.prefab: [blackout mask]\r\n  - Battle_DialogSimple.prefab: [simple dialogue]\r\n  - CheckBoard.prefab: [board check]\n  - TargetSelect.prefab: [target select window]\n  - NumArea.prefab: [number effects group]\n  - CutIn_Skill.prefab: [cut-in: skill]\r\n  - CutIn_Medaforce.prefab: [cut-in: Medaforce]\r\n  - CardUsed.prefab: [card used effect]\n  - CrossAttackInfo: [Cross Attack selection info]\n  - Judgement: [win/loss effect]\n  - TurnSwitch: [turn change effect]\n  - Result: [result screen]\n  - PhaseChange: [phase change effect]\n  - PlayText_Enemy: [play info text (opponent)]\n  - Deckout: [deck out effect]"
+  },
+  {
+   "src": "47e49d38e710",
+   "t": "●Sprites\r\n  - Leader_1 : leader (1 type)\r\n  - Leader_2 : leader (2 types)\r\n  - Support_1: support (1 type)\r\n  - Support_2: support (2 types)\r\n  - Parts_1  : part (1 type)\r\n  - Parts_2  : part (2 types)"
+  },
+  {
+   "src": "ff2b038c83a4",
+   "t": "●TextMeshProUGUIs\n  - GetExpNum: EXP gained [+number]\n\n●Animators\n  Fade: enter/exit anim\n  Please play it after the enter anim of Result's Fade anim\n  Please make it exit at the same time as the gauge rises.\n  - In   : enter\n  - Idle : idle\n         * display time set by the idle anim\n  - Out  : exit\n         * the gauge rises as it exits\n  - Hide : hidden"
+  },
+  {
+   "src": "9b10d7c0b681",
+   "t": "●TextMeshProUGUIs\r\n  Discard count [current/required]\r\n  - Text_CostNum\r\n  - Text_CostNum_Off\r\n  - Text_CostNum_Select\n\n●ObjectNodes\r\n  - TypeIcon: [tactic icon] prefab (attack type)\r"
+  },
+  {
+   "src": "bca893725d1c",
+   "t": "●TextMeshProUGUIs\r\n  Please switch the text to match the phase.\r\n  [End Standby Phase]\r\n  [End Customize Phase]\r\n  [End Command Phase]\r\n  [End Battle Phase]\r\n  [End Command Phase 2]\r\n  [End End Phase]\r\n  \r\n  - Text: normal\r\n  - Text_Off: disabled\r\n  - Text_Select: selected\r\n  Key icon X button []\r\n  - KeyIcon: normal\r\n  - KeyIcon_Off: disabled\r\n  - KeyIcon_Select: selected"
+  },
+  {
+   "src": "76d19ccf24c6",
+   "t": "●TextMeshProUGUIs\r\n  - CoinBaseNum: base reward amount\r\nx- CoinRecordNum: record reward amount  * deleted, no longer needed\r\n  - CoinBonusNum: bonus reward amount\r\n  - CoinTotalNum: total coins\r\n  - CoinNum: coins held\r\n  - MedalName: Medal name\r\n  - MedalLv: Medal level [Lv.current level/max level]\r\n              [Lv. <size=+10>2</size> / 6]\r\n  - NextLvNum: amount until the next level\r\n              [---] when at Max\n  - Text_CoinPercentNum: coin gain multiplier\r\n  - Text_CoinPercentNum_Eff: coin gain multiplier (for effects)\r\n              \r\n●SpriteAppliers\r\n  - Judgement: win/loss result\r\n      Please swap in the image matching the result.\r\n      Element0: win\r\n      Element1: loss\r\n      Element2: draw\r\n\r\n●AnimatorEvents\r\n  - Result\r\n    String[CoinTotalNum]: please change the total amount to the number with the multiplier added\n\n●Animators\r\n  Fade\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n         * may become unnecessary, we want to exit with a transition\r\n  - Hide : hidden\r\n\r\n  [State_Layer]: win/loss result\r\n  - Win  : win\r\n  - Lose : loss\r\n  - Draw : draw\n\r\n\r  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\n\n  [Reward Layer]: reward effect enter anim\r\n  - Hide_Reward_Tower : hidden (for the tower)\n  - In_Reward_Tower   : enter (for the tower)\r\n\r\n  [Tower Layer]: result switch\r\n      Please switch it for the Robattle Tower.\n  - General : normal\n  - Tower   : tower\n\n●Images\r\n  - Leader: leader artwork\r\n      Please swap in the leader's artwork.\r\n\r\n●ObjectNodes\r\n  - MedalIcon: [Medal icon]\r\n  - Result_Lvup: [result_level up]\r\n  - Result_GetExpNum: [result_EXP gained]\r\n  - Gauge_MedalExp: [Medal EXP gauge]\n  - MedacoinBag: [reward money bag]\n  - Result_GetTicket: ticket gain screen"
+  },
+  {
+   "src": "867ce911c220",
+   "t": "●TextMeshProUGUIs\r\n  - CoinBaseNum: base reward amount\r\n  - CoinRecordNum: record reward amount\r\n  - CoinBonusNum: bonus reward amount\r\n  - CoinTotalNum: total coins\r\n  - CoinNum: coins held\r\n  - MedalName: Medal name\r\n  - MedalLv: Medal level [Lv.current level/max level]\r\n              [Lv. <size=+10>2</size> / 6]\r\n  - NextLvNum: amount until the next level\r\n              [---] when at Max\r\n              \r\n●SpriteAppliers\r\n  - Judgement: win/loss result\r\n      Please swap in the image matching the result.\r\n      Element0: win\r\n      Element1: loss\r\n      Element2: draw\r\n\r\n●Animators\r\n  Fade\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n         * may become unnecessary, we want to exit with a transition\r\n  - Hide : hidden\r\n\r\n  [State_Layer]: win/loss result\r\n  - Win  : win\r\n  - Lose : loss\r\n  - Draw : draw\n\r\n\r  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\n\n●Images\r\n  - Leader: leader artwork\r\n      Please swap in the leader's artwork.\r\n\r\n●ObjectNodes\r\n  - MedalIcon: [Medal icon]\r\n  - Result_Lvup: [result_level up]\r\n  - Result_GetExpNum: [result_EXP gained]\r\n  - Gauge_MedalExp: [Medal EXP gauge]"
+  },
+  {
+   "src": "dadb0abeeec8",
+   "t": "●TextMeshProUGUIs\r\n  - KeyIcon: key icon * external-character font\r\n  - Guide  : control guide [Confirm], [Back] etc."
+  },
+  {
+   "src": "155a36c7b31b",
+   "t": "●TextMeshProUGUIs\r\n  - Num: [damage number]\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "8462fe817a84",
+   "t": "●TextMeshProUGUIs\r\n  - Num: [buff number]\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "2f7571f0d397",
+   "t": "●TextMeshProUGUIs\r\n  - PhaseName: phase name\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "b0f6110ed374",
+   "t": "●TextMeshProUGUIs\r\n  - Text: body text [Please choose a target]\r\n\r\n●Animators\r\n  Fade: enter/exit anim for the [target select window]\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)"
+  },
+  {
+   "src": "c723c1f77028",
+   "t": "●TextMeshProUGUIs\r\n  - TicketBattleNum: battle reward amount\r\n  - TicketVerNum: other Ver. bonus amount\r\n  - TicketWinNum: win bonus amount\r\n  - TicketNum: tickets held\r\n\r\n●Sprites\r\n  Please swap the icon to match the ticket obtained.\r\n  - VerA: ticket icon_Kabuto\r\n  - VerB: ticket icon_Kuwagata\r\n\r\n●Images\r\n  - Ticket: ticket icon\r\n\r\n●Animators\r\n  Fade:\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\r\n\r\n●ObjectNodes\r\n  - Btn_00: generic button"
+  },
+  {
+   "src": "3dc5c1e0f65b",
+   "t": "●TextMeshProUGUIs\r\n  - TurnNum: turn number\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden"
+  },
+  {
+   "src": "0545bfdc5d98",
+   "t": "●TextMeshProUGUIs\r\n  - TurnNum: turn number\r\n      [<size=-5>Turn </size>99]\r\n\r\n●AnimatorEvents\r\n  - NextTurn\r\n    String[NextTurn]: timing of the turn number switch\r\n\r\n●Animators\r\n  Please play it at the start of the turn\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit * there may be no exit timing\r\n  - Hide : hidden\r\n  - NextTurn  : turn change"
+  },
+  {
+   "src": "0b87590c9dd4",
+   "t": "●TextMeshProUGUIs\r\n  charge cost or cooldown value\r\nx- Text_CostNum  * deleted, no longer needed\r\nx- Text_CostNum_Off  * deleted, no longer needed\r\nx- Text_CostNum_Select  * deleted, no longer needed\r\n  Please deactivate it if the value does not need to be shown\n\n  - Text_TrapNum: trap count\n\n●GameObjects\r\n  - Num_Filling: charge count\r\n  - Num_Cooling: cooldown count\r\n  - Num_Trap: trap count\r\n    Please deactivate it if the value does not need to be shown\n\n●Images\r\n  - Num_01_Filling: charge digit_1s\r\n  - Num_10_Filling: charge digit_10s  * shown only when a second digit is needed\r\n  - Num_01_Cooling: cooldown digit_1s\r\n  - Num_10_Cooling: cooldown digit_10s  * shown only when a second digit is needed"
+  },
+  {
+   "src": "486a3cfab1b6",
+   "t": "●TextMeshProUGUIs\r\n  Please switch the text between [Details] and [Close] to match the open/closed state.\r\n  [Details] or [Close]\r\n  - Text: normal\r\n  - Text_Off: disabled\r\n  - Text_Select: selected\r\n  Key icon Y button []\r\n  - KeyIcon: normal\r\n  - KeyIcon_Off: disabled\r\n  - KeyIcon_Select: selected"
+  },
+  {
+   "src": "a8886b3212f5",
+   "t": "●Transforms\r\n  - Cursor: cursor position\n\n●Animators\r\n  Fade_CostFrame: charge cost frame_enter/exit anim\r\n    Please animate it when charge cost is spent.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●ObjectNodes\r\n  - CostNum      : [charge cost number]\n  - CostGauge  : [charge cost gauge]\n  - SelectCursor: selection cursor (for cost)"
   },
   {
    "src": "d6c05bd40059",
-   "t": ""
-  },
-  {
-   "src": "d77db2ff7b73",
-   "t": ""
-  },
-  {
-   "src": "d7c24ef36d58",
-   "t": ""
-  },
-  {
-   "src": "d821806fd7d1",
-   "t": ""
-  },
-  {
-   "src": "d8840619ed70",
-   "t": ""
-  },
-  {
-   "src": "d9acb15aeab3",
-   "t": ""
-  },
-  {
-   "src": "db1e73dd2a0b",
-   "t": ""
-  },
-  {
-   "src": "db1ed45a1bc0",
-   "t": ""
-  },
-  {
-   "src": "dc750e279070",
-   "t": ""
+   "t": "[Title]\n"
   },
   {
    "src": "dce67b080f93",
-   "t": ""
+   "t": "AAAAAAAA"
   },
   {
-   "src": "de837692e5f3",
-   "t": ""
+   "src": "4615f2c1b692",
+   "t": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA35 chars\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA35 chars"
   },
   {
-   "src": "ded4469cb3b6",
-   "t": ""
+   "src": "ca63cb89dd11",
+   "t": "Your Turn"
   },
   {
-   "src": "df06d7057eea",
-   "t": ""
+   "src": "538fa5973853",
+   "t": "Yes"
   },
   {
-   "src": "df3535a64718",
-   "t": ""
+   "src": "48ef2b674823",
+   "t": "No"
   },
   {
-   "src": "e0cb80ee42f4",
-   "t": ""
+   "src": "685df70aed66",
+   "t": "Let's go!"
   },
   {
-   "src": "e232f514692b",
-   "t": ""
+   "src": "4bdbfa66e663",
+   "t": "Volley Fire\n"
   },
   {
-   "src": "e2938839e150",
-   "t": ""
+   "src": "a50648586453",
+   "t": "A quick challenge at an easy difficulty!"
   },
   {
-   "src": "e3cc5d95efb6",
-   "t": ""
+   "src": "c66c8b622f97",
+   "t": "Favorites\n"
   },
   {
-   "src": "e4448fe427c6",
-   "t": ""
+   "src": "90d5e37ab1e7",
+   "t": "Money"
   },
   {
-   "src": "e4c43ca04608",
-   "t": ""
+   "src": "55629d217caa",
+   "t": "When this Medabot battles, power drops by 1000\nAfter the battle, power returns to normal"
   },
   {
-   "src": "e5a95b86f738",
-   "t": ""
+   "src": "a887d8e89087",
+   "t": "When this Medabot battles, power drops by 1000\nAfter the battle, power returns to normal\nAfter the battle, power returns to normal"
   },
   {
-   "src": "e727d840003b",
-   "t": ""
+   "src": "11791a8a4146",
+   "t": "Shoot"
   },
   {
-   "src": "e76fdcf2c006",
-   "t": ""
+   "src": "868310e193d1",
+   "t": "None"
   },
   {
-   "src": "e7bd01e73eb5",
-   "t": ""
-  },
-  {
-   "src": "e7c11911d1b4",
-   "t": ""
-  },
-  {
-   "src": "e89441facc61",
-   "t": ""
-  },
-  {
-   "src": "e959dab1c7ee",
-   "t": ""
-  },
-  {
-   "src": "ea366facae58",
-   "t": ""
-  },
-  {
-   "src": "ea749f376e7a",
-   "t": ""
-  },
-  {
-   "src": "ec04610f4b07",
-   "t": ""
-  },
-  {
-   "src": "ee8562a57545",
-   "t": ""
-  },
-  {
-   "src": "ef5b73920208",
-   "t": ""
-  },
-  {
-   "src": "f00f240b5f34",
-   "t": ""
-  },
-  {
-   "src": "f098fbea8d5f",
-   "t": ""
-  },
-  {
-   "src": "f0a22e1b94ee",
-   "t": ""
-  },
-  {
-   "src": "f1368d6dfb0b",
-   "t": ""
-  },
-  {
-   "src": "f57ca4624425",
-   "t": ""
-  },
-  {
-   "src": "f6d2cadb8096",
-   "t": ""
-  },
-  {
-   "src": "f7adf6245b88",
-   "t": ""
-  },
-  {
-   "src": "f890ba8f45de",
-   "t": ""
-  },
-  {
-   "src": "f9b22bbf8fa1",
-   "t": ""
-  },
-  {
-   "src": "f9c9f42e6311",
-   "t": ""
+   "src": "8f90d85ec13a",
+   "t": "Yes"
   },
   {
    "src": "fce6964ad287",
-   "t": ""
+   "t": "Left"
   },
   {
-   "src": "fd9dfee70dd6",
-   "t": ""
+   "src": "095b4bb9101d",
+   "t": "Center"
   },
   {
-   "src": "fdb73ba93b6e",
-   "t": ""
+   "src": "e7c11911d1b4",
+   "t": "Right"
+  },
+  {
+   "src": "bc4457dd1a4d",
+   "t": "Return"
+  },
+  {
+   "src": "0f3741363e08",
+   "t": "Back"
+  },
+  {
+   "src": "8644b8ecf738",
+   "t": "Uncommon"
+  },
+  {
+   "src": "5bee1f879d37",
+   "t": "Easy"
+  },
+  {
+   "src": "a6ab4547fdae",
+   "t": "Energy"
+  },
+  {
+   "src": "e6a5591a2e63",
+   "t": "Effect Test"
+  },
+  {
+   "src": "a09e073f3351",
+   "t": "Error Text 3"
+  },
+  {
+   "src": "d77db2ff7b73",
+   "t": "Endless"
+  },
+  {
+   "src": "01c2df03fd3f",
+   "t": "Off"
+  },
+  {
+   "src": "5b717728bbea",
+   "t": "Options"
+  },
+  {
+   "src": "0e7174df091c",
+   "t": "On"
+  },
+  {
+   "src": "4ac42c6932f9",
+   "t": "Customize Phase"
+  },
+  {
+   "src": "62cf289ea843",
+   "t": "End Customize Phase"
+  },
+  {
+   "src": "88074d4c5cc6",
+   "t": "Category"
+  },
+  {
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "src": "1a83976161b0",
+   "t": "Kabuto rose to Gold rank!\nIt can now use the Medaforce \"Sonic Shot\"!"
+  },
+  {
+   "src": "e232f514692b",
+   "t": "Not enough cards"
+  },
+  {
+   "src": "872605e11e3f",
+   "t": "Not enough cards\n"
+  },
+  {
+   "src": "0a3e92367ef5",
+   "t": "Card slowdown check"
+  },
+  {
+   "src": "e4448fe427c6",
+   "t": "Card Index"
+  },
+  {
+   "src": "b3fcc6b6cb97",
+   "t": "Card check"
+  },
+  {
+   "src": "a18fbc12727e",
+   "t": "Card 1x display"
+  },
+  {
+   "src": "f30cb39d6be8",
+   "t": "Card back check"
+  },
+  {
+   "src": "db1ed45a1bc0",
+   "t": "Gacha"
+  },
+  {
+   "src": "1badce58dcf8",
+   "t": "Gacha drop check"
+  },
+  {
+   "src": "7a1ef7911599",
+   "t": "Guard (Trait)"
+  },
+  {
+   "src": "bca84ea5c65f",
+   "t": "Cancel"
+  },
+  {
+   "src": "8fd4770f892b",
+   "t": "Key Card"
+  },
+  {
+   "src": "d9acb15aeab3",
+   "t": "Keyword"
+  },
+  {
+   "src": "afa202c3c23b",
+   "t": "Keyword check"
+  },
+  {
+   "src": "bbbf41ef1055",
+   "t": "Credits"
+  },
+  {
+   "src": "cb915bcc28b8",
+   "t": "Credits\n"
+  },
+  {
+   "src": "de837692e5f3",
+   "t": "Cross Attack"
+  },
+  {
+   "src": "9a0899ea1788",
+   "t": "Cross Attack Select"
+  },
+  {
+   "src": "288e4331f439",
+   "t": "Not enough coins"
+  },
+  {
+   "src": "87c8ff00c101",
+   "t": "Spend coins to modify this part?\n<size=-5>(You can restore the original part.)</size>\n"
+  },
+  {
+   "src": "69b6412b8546",
+   "t": "Cost"
+  },
+  {
+   "src": "ee8562a57545",
+   "t": "Cost Check"
+  },
+  {
+   "src": "6b9190f59aa3",
+   "t": "Comment"
+  },
+  {
+   "src": "8fe3961a1da9",
+   "t": "Common"
+  },
+  {
+   "src": "e959dab1c7ee",
+   "t": "Cyber"
+  },
+  {
+   "src": "1fec10d7b07a",
+   "t": "Sound"
+  },
+  {
+   "src": "ca2e5747fc5b",
+   "t": "Sound Test"
+  },
+  {
+   "src": "e76fdcf2c006",
+   "t": "Shoot Spider"
+  },
+  {
+   "src": "9220afe6bf5d",
+   "t": "Shoot Spider"
+  },
+  {
+   "src": "76b0364b5086",
+   "t": "While Shield is 1 or less, this Medabot's\npower increases by 2000."
+  },
+  {
+   "src": "0a55dabbc64b",
+   "t": "Skill Name"
+  },
+  {
+   "src": "616654205353",
+   "t": "Skill Name aaaaa (Action)"
+  },
+  {
+   "src": "0af58228c22b",
+   "t": "Stage"
+  },
+  {
+   "src": "c1135567f800",
+   "t": "Storage"
+  },
+  {
+   "src": "d1092245c1fa",
+   "t": "Special Supporter"
+  },
+  {
+   "src": "71402a20847c",
+   "t": "Sleeve"
+  },
+  {
+   "src": "96d39996152d",
+   "t": "Deck limit"
+  },
+  {
+   "src": "6e2e10d8086f",
+   "t": "In deck"
+  },
+  {
+   "src": "250717a1ada5",
+   "t": "Save"
+  },
+  {
+   "src": "1a1b8ba0dd6d",
+   "t": "Sonic Shot"
+  },
+  {
+   "src": "1171bbe78a70",
+   "t": "Sort"
+  },
+  {
+   "src": "a20f57232e9f",
+   "t": "Title"
+  },
+  {
+   "src": "572a6a52e9a6",
+   "t": "Type"
+  },
+  {
+   "src": "743806abcacf",
+   "t": "By type ↑"
+  },
+  {
+   "src": "8d47aab80127",
+   "t": "Timer"
+  },
+  {
+   "src": "c76bfd416ebf",
+   "t": "Turn 99\n"
+  },
+  {
+   "src": "1c535b5c3774",
+   "t": "Dust"
+  },
+  {
+   "src": "b0897bab82b0",
+   "t": "Spend dust to create this card?"
+  },
+  {
+   "src": "cc3f6965e496",
+   "t": "Ticket"
+  },
+  {
+   "src": "342528b973d0",
+   "t": "Ticket obtained!"
+  },
+  {
+   "src": "c1066343036e",
+   "t": "Charge Trap"
+  },
+  {
+   "src": "1230ddd9a232",
+   "t": "Charge Blade (Constant): "
+  },
+  {
+   "src": "c5974713b068",
+   "t": "Tutorial"
+  },
+  {
+   "src": "c03b79cd2047",
+   "t": "All Tutorials Cleared"
+  },
+  {
+   "src": "f7adf6245b88",
+   "t": "Tutorial Heading"
+  },
+  {
+   "src": "bd22ca83211f",
+   "t": "Butterfly"
+  },
+  {
+   "src": "af76d62610c1",
+   "t": "Text"
+  },
+  {
+   "src": "b8c57a016dc8",
+   "t": "Text, text, text, text"
+  },
+  {
+   "src": "4a424678ca89",
+   "t": "Body text\nabcdefghijklmnopqrstuvwxyzabcdefghijkl\n26 full-width chars, 5 lines\nLeft-aligned\n"
+  },
+  {
+   "src": "1381bf06d489",
+   "t": "Body text\nabcdefghijklmnopqrstuvwxyzabcdefghijkl\nabcdefghijklmnopqrstuvwxyzabcdefghijkl\nFull-width, about 35 chars, 5 lines\nLeft-packed, center-aligned\n"
+  },
+  {
+   "src": "41b2767dfe2c",
+   "t": "Deck"
+  },
+  {
+   "src": "f57ca4624425",
+   "t": "Deck Out"
+  },
+  {
+   "src": "66e8ad4ba91b",
+   "t": "Deck Shuffle"
+  },
+  {
+   "src": "644c4bd6be8b",
+   "t": "Deck List"
+  },
+  {
+   "src": "9537d4a350c5",
+   "t": "Deck Name"
+  },
+  {
+   "src": "732fac95364d",
+   "t": "Deck Name aaaaa\n"
+  },
+  {
+   "src": "7ab5e5a672ab",
+   "t": "Deck Name aaaaaa"
+  },
+  {
+   "src": "e4c43ca04608",
+   "t": "Deck Name aaaaaaaaa"
+  },
+  {
+   "src": "924b0cc27017",
+   "t": "Deck Builder"
+  },
+  {
+   "src": "8712a92d1898",
+   "t": "Debug"
+  },
+  {
+   "src": "2ec46cac476f",
+   "t": "Debug Action Order"
+  },
+  {
+   "src": "af292b841c37",
+   "t": "Discard"
+  },
+  {
+   "src": "175863078c9f",
+   "t": "Trap activated!"
+  },
+  {
+   "src": "c47d33913ef0",
+   "t": "Online Match"
+  },
+  {
+   "src": "ec316d4e0b64",
+   "t": "Battle Camera Angle Check"
+  },
+  {
+   "src": "f0a22e1b94ee",
+   "t": "End Battle Phase"
+  },
+  {
+   "src": "b56060ed03bc",
+   "t": "Barrier"
+  },
+  {
+   "src": "0a772e8a01e4",
+   "t": "Version"
+  },
+  {
+   "src": "0b38dd1c3056",
+   "t": "Select a pack\n"
+  },
+  {
+   "src": "e7bd01e73eb5",
+   "t": "Pack Results\n"
+  },
+  {
+   "src": "b8f39c8447a4",
+   "t": "Power"
+  },
+  {
+   "src": "5461d30a804c",
+   "t": "Part"
+  },
+  {
+   "src": "b8b25d78da57",
+   "t": "An arm has no part equipped"
+  },
+  {
+   "src": "6c97964b9284",
+   "t": "Part Name 1"
+  },
+  {
+   "src": "c8c8bdcad340",
+   "t": "Part Name 2\n"
+  },
+  {
+   "src": "c747510d7472",
+   "t": "Modify Part"
+  },
+  {
+   "src": "6698f0c111af",
+   "t": "Filter"
+  },
+  {
+   "src": "9c36935cab82",
+   "t": "Phoenix"
+  },
+  {
+   "src": "61031c9114a7",
+   "t": "End Phase"
+  },
+  {
+   "src": "d2cee3016249",
+   "t": "End of Phase Check"
+  },
+  {
+   "src": "f31f25b1e7a3",
+   "t": "Font Size Check"
+  },
+  {
+   "src": "3142a9cf8a77",
+   "t": "Find a room hosted\nby a friend"
+  },
+  {
+   "src": "5f6e1fe6b0d1",
+   "t": "Search for a\nfriend's room"
+  },
+  {
+   "src": "3098584538b2",
+   "t": "Practice"
+  },
+  {
+   "src": "91d1f8eae571",
+   "t": "Skip Practice?\nSkips the explanation of controls and rules."
+  },
+  {
+   "src": "f00f240b5f34",
+   "t": "You cannot skip in the Practice Edition."
+  },
+  {
+   "src": "b68d8ff0219a",
+   "t": "Player Icon"
+  },
+  {
+   "src": "899bfefbb828",
+   "t": "Player Icon Name \"Unlock Condition\""
+  },
+  {
+   "src": "d517b29bedb8",
+   "t": "Player Name"
   },
   {
    "src": "ff5dfdedcc8d",
-   "t": ""
+   "t": "Player Name aaaaaaa"
+  },
+  {
+   "src": "ad35f7df3f3a",
+   "t": "Player Deck"
+  },
+  {
+   "src": "b25ace0065ed",
+   "t": "Voice"
+  },
+  {
+   "src": "134c080f2384",
+   "t": "Button Name"
+  },
+  {
+   "src": "4e1d8353eb4c",
+   "t": "Button Name (from IdxRes)"
+  },
+  {
+   "src": "63869b4d8696",
+   "t": "Matchmaking Settings"
+  },
+  {
+   "src": "821c7501e67f",
+   "t": "Metabee"
+  },
+  {
+   "src": "607d48862126",
+   "t": "Metabee Metabee"
+  },
+  {
+   "src": "e727d840003b",
+   "t": "Medachange"
+  },
+  {
+   "src": "85ebf6a8ae73",
+   "t": "Medaforce"
+  },
+  {
+   "src": "410d1878d875",
+   "t": "Medaforce Name"
+  },
+  {
+   "src": "5dc1df9eecbf",
+   "t": "Medaforce Activated!!"
+  },
+  {
+   "src": "74c4893b3bde",
+   "t": "Medal"
+  },
+  {
+   "src": "8ead3f94414f",
+   "t": "Medal Level Setup Scene"
+  },
+  {
+   "src": "9ff283a1f4dc",
+   "t": "Medal Upgrade"
+  },
+  {
+   "src": "ad6672757a5c",
+   "t": "Medal Evolution"
+  },
+  {
+   "src": "f1368d6dfb0b",
+   "t": "Only 1 Medafighter card per turn"
+  },
+  {
+   "src": "20305252825b",
+   "t": "About Medafighter Cards"
+  },
+  {
+   "src": "a3e3cb5fd6f9",
+   "t": "About Medafighter Cards\nDescription aaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaa 30 chars"
+  },
+  {
+   "src": "79eef7683431",
+   "t": "About Medafighter Cards\nDescription aaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaa 30 chars\n"
+  },
+  {
+   "src": "e3cc5d95efb6",
+   "t": "Transfer Medabot"
+  },
+  {
+   "src": "9f653feec9ba",
+   "t": "Welcome to Medabots Card Robattle Next.\r\nI'll teach you the basics of Card Robattle.\r\nLet's begin Practice 1.\r\n"
+  },
+  {
+   "src": "e0cb80ee42f4",
+   "t": "Target 1 Medabot.\nPay a cost equal to this Medabot's\ncharge cost.\nDeal damage to the target equal to\nthis Medabot's power."
+  },
+  {
+   "src": "6f3443ca32a1",
+   "t": "Menu"
+  },
+  {
+   "src": "d242b1313e5f",
+   "t": "Menu Description Check"
+  },
+  {
+   "src": "fdb73ba93b6e",
+   "t": "Mode Select"
+  },
+  {
+   "src": "f9b22bbf8fa1",
+   "t": "Random"
+  },
+  {
+   "src": "c5dfd7ebf80d",
+   "t": "Riarira"
+  },
+  {
+   "src": "653894ed2bd9",
+   "t": "Results"
+  },
+  {
+   "src": "ba2e8f18b8d3",
+   "t": "Reload"
+  },
+  {
+   "src": "e2938839e150",
+   "t": "Leader"
+  },
+  {
+   "src": "854d2ca897af",
+   "t": "If your leader has Submarine legs, gain the\ntactic card [Crash Dive] when battle begins.\n"
+  },
+  {
+   "src": "8d68716b3d27",
+   "t": "Room ID"
+  },
+  {
+   "src": "b1cd407ea9c9",
+   "t": "Create a Room"
+  },
+  {
+   "src": "e89441facc61",
+   "t": "Search for a Room"
+  },
+  {
+   "src": "30d802e18fdb",
+   "t": "Room List"
+  },
+  {
+   "src": "b0d96f634c22",
+   "t": "Create Room"
+  },
+  {
+   "src": "a351d7d0d6f6",
+   "t": "Room Search"
+  },
+  {
+   "src": "3bbbdb28a544",
+   "t": "Rare"
+  },
+  {
+   "src": "45708022b7c4",
+   "t": "Rare Card Pop-Out Check"
+  },
+  {
+   "src": "a28c73065c29",
+   "t": "Rarity"
+  },
+  {
+   "src": "7baf61da7242",
+   "t": "Referee Voice"
+  },
+  {
+   "src": "1e7e3645d41a",
+   "t": "Level Up!"
+  },
+  {
+   "src": "81d7b53b0aed",
+   "t": "Rokusho"
+  },
+  {
+   "src": "7c7c45584dc3",
+   "t": "Logo"
+  },
+  {
+   "src": "751dd2ab091a",
+   "t": "Robattle"
+  },
+  {
+   "src": "ea749f376e7a",
+   "t": "Robattle\n Fight<size=+4><space=-0.2em>!</size>"
+  },
+  {
+   "src": "c58b20e15f71",
+   "t": "Robattle\nFight!"
+  },
+  {
+   "src": "beac269f6035",
+   "t": "Robattle Tower"
+  },
+  {
+   "src": "9d7aad0eb5ce",
+   "t": "Robattle Challenge"
+  },
+  {
+   "src": "6e1b53d1ab6c",
+   "t": "Local Robattle"
+  },
+  {
+   "src": "98910f064233",
+   "t": "Virgo"
+  },
+  {
+   "src": "1e1acf2ad9d9",
+   "t": "-"
+  },
+  {
+   "src": "7e0fbb856482",
+   "t": "Single Player"
+  },
+  {
+   "src": "78d56504ea09",
+   "t": "Start Single Player"
+  },
+  {
+   "src": "d43ed767d2b1",
+   "t": "Card Robattle someone\nfrom around the world!"
+  },
+  {
+   "src": "ef5b73920208",
+   "t": "Biped"
+  },
+  {
+   "src": "2e847fccc4fd",
+   "t": "Select a part to swap\n"
+  },
+  {
+   "src": "81965fc07c1c",
+   "t": "Company Name"
+  },
+  {
+   "src": "900f8294213e",
+   "t": "Create"
+  },
+  {
+   "src": "b40be21b5369",
+   "t": "Cards to create"
+  },
+  {
+   "src": "325b6cb1bb0f",
+   "t": "Deck in use"
+  },
+  {
+   "src": "901a99ef46c7",
+   "t": "Save and return"
+  },
+  {
+   "src": "ca4d973c0b00",
+   "t": "Stop"
+  },
+  {
+   "src": "535ee71f557e",
+   "t": "Charge"
+  },
+  {
+   "src": "f32958520905",
+   "t": "Charge_Cooldown Cost Down"
+  },
+  {
+   "src": "73c5747c7d9b",
+   "t": "Pay 6 charge cost.\r\nDeal damage equal to its power to 1 Medabot."
+  },
+  {
+   "src": "ec04610f4b07",
+   "t": "By charge cost ↑"
+  },
+  {
+   "src": "d3d2c11096f1",
+   "t": "Total charge"
+  },
+  {
+   "src": "e3cefa68064c",
+   "t": "Unlock All"
+  },
+  {
+   "src": "6cac16b39789",
+   "t": "Cooldown"
+  },
+  {
+   "src": "25e7b45e727d",
+   "t": "Cooldown 2"
+  },
+  {
+   "src": "363301428a4a",
+   "t": "Cooldown cost"
+  },
+  {
+   "src": "ca4c7556b651",
+   "t": "Tundra"
+  },
+  {
+   "src": "840395115cbf",
+   "t": "Initial value"
+  },
+  {
+   "src": "5ed962917eba",
+   "t": "Reset"
+  },
+  {
+   "src": "25afd0b01f16",
+   "t": "Other Version Save"
+  },
+  {
+   "src": "a39ca290908e",
+   "t": "Floor Reached"
+  },
+  {
+   "src": "bb964a6eeb10",
+   "t": "Effect text\nMax 6 lines combined, 24 chars wide, 8 if one\nAaBbCcDdEeFfGgHhIiJjKkLl"
+  },
+  {
+   "src": "b16a966a9465",
+   "t": "Effect text\nMax 6 lines combined, 24 chars wide, 8 if one\nAaBbCcDdEeFfGgHhIiJjKkLl\n"
+  },
+  {
+   "src": "accf5eec17ca",
+   "t": "Video Check"
+  },
+  {
+   "src": "9a81cb038340",
+   "t": "Victory Bonus"
+  },
+  {
+   "src": "e5a95b86f738",
+   "t": "Select a part to receive"
+  },
+  {
+   "src": "df06d7057eea",
+   "t": "Do you both agree to these terms?"
+  },
+  {
+   "src": "0cc87e1be8de",
+   "t": "Agreed!"
+  },
+  {
+   "src": "cf2799d4be19",
+   "t": "Total Pow"
+  },
+  {
+   "src": "d67bc8e9df7c",
+   "t": "Total earnings"
+  },
+  {
+   "src": "b33f56ec36d2",
+   "t": "You can only own 3 copies of a card."
+  },
+  {
+   "src": "552df7a5e301",
+   "t": "NameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameNameName"
+  },
+  {
+   "src": "2dbce4c71942",
+   "t": "Surname Given name\n"
+  },
+  {
+   "src": "225cc5abf7b2",
+   "t": "Surname Given name\nAa Aaa"
+  },
+  {
+   "src": "ea366facae58",
+   "t": "Surname Given name\nAaa Bb"
+  },
+  {
+   "src": "51695ad45a11",
+   "t": "Terrain"
+  },
+  {
+   "src": "b818d7a5bc84",
+   "t": "Terrain effectaaaaaaaaaaaaaaaa"
+  },
+  {
+   "src": "195bc68ade96",
+   "t": "Terrain name"
+  },
+  {
+   "src": "58c8dc1eb7e1",
+   "t": "No Terrain"
   },
   {
    "src": "ffecce448e29",
-   "t": ""
+   "t": "Base Reward"
+  },
+  {
+   "src": "b4f65423517b",
+   "t": "Reward"
+  },
+  {
+   "src": "524746976904",
+   "t": "Wallpaper"
+  },
+  {
+   "src": "40153830eaea",
+   "t": "Wallpaper name \"Unlock condition\""
+  },
+  {
+   "src": "a5ee1e91e235",
+   "t": "Match Reward"
+  },
+  {
+   "src": "187eba6ce8d0",
+   "t": "Waiting for your opponent's choice..."
+  },
+  {
+   "src": "672e023a66bc",
+   "t": "Opponent's Deck"
+  },
+  {
+   "src": "d7c24ef36d58",
+   "t": "Select a target"
+  },
+  {
+   "src": "98dded5555fc",
+   "t": "The target's power drops by 1000 in battle.\nPower returns after the battle ends."
+  },
+  {
+   "src": "1ee1d5a8577f",
+   "t": "Rocky"
+  },
+  {
+   "src": "543401b7ea82",
+   "t": "Plains"
+  },
+  {
+   "src": "b321585fcfe1",
+   "t": "Object for getting coordinates\r\n●Transforms\r\n ActionSelection: Medabot action UI\r\n Num: UI for damage numbers, etc.\r\n Eff: effects-related (tentative)"
+  },
+  {
+   "src": "6c6fa279e15d",
+   "t": "Role name"
+  },
+  {
+   "src": "f890ba8f45de",
+   "t": "Preferred legs"
+  },
+  {
+   "src": "a93e0031021d",
+   "t": "Preferred terrain effect active!"
+  },
+  {
+   "src": "1156d42c762c",
+   "t": "Cheer Card"
+  },
+  {
+   "src": "070c47d9dc21",
+   "t": "Cheer cards consist of the following 4 cards.\n"
+  },
+  {
+   "src": "39a60c548d30",
+   "t": "Record Reward"
+  },
+  {
+   "src": "f9c9f42e6311",
+   "t": "Tactics"
+  },
+  {
+   "src": "6143478964f6",
+   "t": "Tactics Cost Zero"
+  },
+  {
+   "src": "96cb391d9967",
+   "t": "Tactics type"
+  },
+  {
+   "src": "462b6f065348",
+   "t": "Tank"
+  },
+  {
+   "src": "8fc7f899161b",
+   "t": "Back"
+  },
+  {
+   "src": "92e8174ef160",
+   "t": "Owned cards only"
+  },
+  {
+   "src": "1d2a1be524e0",
+   "t": "Coins owned"
+  },
+  {
+   "src": "1d7bdee5706c",
+   "t": "Dust owned"
+  },
+  {
+   "src": "dc750e279070",
+   "t": "Tickets owned"
+  },
+  {
+   "src": "d05955fdc8a8",
+   "t": "Money owned"
+  },
+  {
+   "src": "3d0c9e729bfc",
+   "t": "Challenge"
+  },
+  {
+   "src": "a82f8b7da13b",
+   "t": "In progress!"
+  },
+  {
+   "src": "73085bfb7e4f",
+   "t": "Vibration"
+  },
+  {
+   "src": "825a729082c2",
+   "t": "Select a card to discard\n"
+  },
+  {
+   "src": "d821806fd7d1",
+   "t": "Destroyed!"
+  },
+  {
+   "src": "cfe431e0128a",
+   "t": "Controls"
+  },
+  {
+   "src": "c62991e857bf",
+   "t": "Attack"
+  },
+  {
+   "src": "646f88c33079",
+   "t": "Take on countless opponents and advance!"
+  },
+  {
+   "src": "89c3232e29fe",
+   "t": "Create New"
+  },
+  {
+   "src": "1eb8db77a9bd",
+   "t": "Ascending ↑"
+  },
+  {
+   "src": "657763466066",
+   "t": "Time limit"
+  },
+  {
+   "src": "f6d2cadb8096",
+   "t": "Time limit: None"
+  },
+  {
+   "src": "d8840619ed70",
+   "t": "Highest Floor Cleared"
+  },
+  {
+   "src": "22ddb4cf4073",
+   "t": "Highest Floor"
+  },
+  {
+   "src": "1d9a35d131ca",
+   "t": "Not owned"
+  },
+  {
+   "src": "25e3a43af2ee",
+   "t": "Some Medabots are not placed"
+  },
+  {
+   "src": "7ecf3c798d40",
+   "t": "Are you sure?"
+  },
+  {
+   "src": "909e11113b05",
+   "t": "No rooms match your search."
+  },
+  {
+   "src": "afd52e9e2a90",
+   "t": "Strike"
+  },
+  {
+   "src": "3bfbf21e2f00",
+   "t": "Forest"
+  },
+  {
+   "src": "1b6b1a6f8931",
+   "t": "Search"
+  },
+  {
+   "src": "11e3680dac6e",
+   "t": "Set search filters\nand find a room"
+  },
+  {
+   "src": "80e21758b4eb",
+   "t": "Create from a preset deck"
+  },
+  {
+   "src": "db1e73dd2a0b",
+   "t": "Highly mobile \"Biped\" types take the lead!"
+  },
+  {
+   "src": "0f7450ecc84e",
+   "t": "To next level"
+  },
+  {
+   "src": "73188d0422b7",
+   "t": "Next Floor Reward"
+  },
+  {
+   "src": "9eccdca31ee3",
+   "t": "Next"
+  },
+  {
+   "src": "c5e0896fc61d",
+   "t": "Water"
+  },
+  {
+   "src": "df3535a64718",
+   "t": "Confirm"
+  },
+  {
+   "src": "cd6d943d3f21",
+   "t": "Coin cost"
+  },
+  {
+   "src": "48cbbfbe8a64",
+   "t": "Cost"
+  },
+  {
+   "src": "84ea1ef2c7f8",
+   "t": "Dust cost"
+  },
+  {
+   "src": "a27dedd839e3",
+   "t": "End the Preparation Phase?"
+  },
+  {
+   "src": "9e305eab23dd",
+   "t": "Not ready"
+  },
+  {
+   "src": "ded4469cb3b6",
+   "t": "Burn"
+  },
+  {
+   "src": "fd9dfee70dd6",
+   "t": "Trait Name (Trait)"
+  },
+  {
+   "src": "70e39859279e",
+   "t": "Status"
+  },
+  {
+   "src": "812e1128723a",
+   "t": "Snipe (Cooldown): "
+  },
+  {
+   "src": "4da0d3c0df01",
+   "t": "Coins Earned"
+  },
+  {
+   "src": "990c0882923c",
+   "t": "Earn Multiplier"
+  },
+  {
+   "src": "d193e9d2b723",
+   "t": "Rewards Earned"
+  },
+  {
+   "src": "885006044732",
+   "t": "Obtained"
+  },
+  {
+   "src": "783da48ea44b",
+   "t": "EXP Earned"
+  },
+  {
+   "src": "2732402ee30a",
+   "t": "Amount Earned"
+  },
+  {
+   "src": "192bf0a39381",
+   "t": "View Field"
+  },
+  {
+   "src": "94e7e656d288",
+   "t": "Opponent is selecting a card"
+  },
+  {
+   "src": "f098fbea8d5f",
+   "t": "Opponent's Turn"
+  },
+  {
+   "src": "82b42df081d8",
+   "t": "Target 1 opposing Support Medabot.\nUntil your next standby phase, when that\nMedabot is destroyed by Snipe (Action),\ndestroy 1 additional opposing shield.\nThis effect does not stack.\nThis effect does not stack.\nThis effect does not stack.\nThis effect does not stack.\nThis effect does not stack."
+  },
+  {
+   "src": "45673de10fd8",
+   "t": "When your opponent plays or uses a shield card\nfrom hand as a cost during the battle phase,\nonce it resolves, Overheat all their Medabots."
+  },
+  {
+   "src": "008e381b3a79",
+   "t": "Sand"
+  },
+  {
+   "src": "20db9f87b860",
+   "t": "Confirm"
+  },
+  {
+   "src": "6aef72628b53",
+   "t": "View Background"
+  },
+  {
+   "src": "c73d356eb6af",
+   "t": "Ability 1"
+  },
+  {
+   "src": "cca492719669",
+   "t": "Ability 2"
+  },
+  {
+   "src": "797fdf432ff3",
+   "t": "Ability Activated!!"
+  },
+  {
+   "src": "a55782616f8b",
+   "t": "Legs"
+  },
+  {
+   "src": "7f8487f8b6fe",
+   "t": "Create with rules\nyou set yourself"
+  },
+  {
+   "src": "0825abbd4069",
+   "t": "Action Name (Action)"
+  },
+  {
+   "src": "a88b57eab28d",
+   "t": "For the display position, see the coordinate\r\nreference object [Num: UI such as damage values] in BattleCard_00.prefab.\n\n●Canvass\r\n - Order: for changing \"Order In Layer\" priority\r\n \r\n●ObjectNodes\r\n - DamegeNum: damage\r\n - BuffNum  : buff"
+  },
+  {
+   "src": "81fba6eb2783",
+   "t": "For the display position, see the coordinate reference object for the deck.\r\n\r\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden\n\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\r\n\r\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit"
+  },
+  {
+   "src": "7223e075656c",
+   "t": "For the display position, see the coordinate reference object for the deck.\r\n\r\n●TextMeshProUGUIs\r\n - DeckNum: deck count\n\r\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\n\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden"
+  },
+  {
+   "src": "dc28d5d3321b",
+   "t": "For the display position, see the coordinate reference object for the discard pile.\r\n\r\n●TextMeshProUGUIs\r\n - TrashNum: discard pile count\n\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\r\n\r\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit\r\n \r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden"
+  },
+  {
+   "src": "6e46f28bc8b0",
+   "t": "Description Text"
+  },
+  {
+   "src": "9682ba3b92f7",
+   "t": "Language"
+  },
+  {
+   "src": "cf747271c229",
+   "t": "Placement Zone"
+  },
+  {
+   "src": "9652e7b5f699",
+   "t": "Details"
+  },
+  {
+   "src": "112fba4b9137",
+   "t": "Everyone welcome!"
+  },
+  {
+   "src": "a78fd5524058",
+   "t": "Buy"
+  },
+  {
+   "src": "1ab4eb6d6f9b",
+   "t": "Robattle Card Fight\nwith players nearby!"
+  },
+  {
+   "src": "8f24df338894",
+   "t": "Connection Test"
+  },
+  {
+   "src": "4c978e9b7c93",
+   "t": "Multiplayer Battle"
+  },
+  {
+   "src": "0efcaf13f440",
+   "t": "Shown on the battle card in the order selected.\r\n\r\nFor the display position, see the coordinate\r\nreference object [Num: UI such as damage values] in BattleCard_00.prefab.\n\n●Images\r\n - SelectNum: selection order icon\r\n              please swap the image to match the selection order.\n\r\n●Sprite: selection order\r\n - SelectNum_01: 1\r\n - SelectNum_02: 2\r\n - SelectNum_03: 3\r\n - SelectNum_04: 4\r\n - SelectNum_05: 5\r\r\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden"
+  },
+  {
+   "src": "29f9117f3955",
+   "t": "Surrender?"
+  },
+  {
+   "src": "5e09929df590",
+   "t": "Surrender"
+  },
+  {
+   "src": "52e55b091a61",
+   "t": "Descending ↓"
+  },
+  {
+   "src": "85caf67e0c1f",
+   "t": "Floor Reward"
+  },
+  {
+   "src": "d5106436e753",
+   "t": "Floor Reward List"
+  },
+  {
+   "src": "6fa0b1b9b422",
+   "t": "Floor Reward Earned!"
+  },
+  {
+   "src": "0943908e8c16",
+   "t": "Item"
+  },
+  {
+   "src": "3a73e5ffe251",
+   "t": "",
+   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
   }
  ]
 }

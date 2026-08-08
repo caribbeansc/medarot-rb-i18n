@@ -6,56 +6,56 @@
    "sub": 0,
    "col": "m_name",
    "src": "ef5b73920208",
-   "t": ""
+   "t": "Biped"
   },
   {
    "row": "LegType01",
    "sub": 0,
    "col": "m_name",
    "src": "a1a14c6eb9ba",
-   "t": ""
+   "t": "Multi-leg"
   },
   {
    "row": "LegType02",
    "sub": 0,
    "col": "m_name",
    "src": "01617467b0a8",
-   "t": ""
+   "t": "Vehicle"
   },
   {
    "row": "LegType03",
    "sub": 0,
    "col": "m_name",
    "src": "865fd2c00419",
-   "t": ""
+   "t": "Flight"
   },
   {
    "row": "LegType04",
    "sub": 0,
    "col": "m_name",
    "src": "0a4a3212a7a2",
-   "t": ""
+   "t": "Submarine"
   },
   {
    "row": "LegType05",
    "sub": 0,
    "col": "m_name",
    "src": "462b6f065348",
-   "t": ""
+   "t": "Tank"
   },
   {
    "row": "LegType06",
    "sub": 0,
    "col": "m_name",
    "src": "13af04fa6140",
-   "t": ""
+   "t": "Hover"
   },
   {
    "row": "LegType07",
    "sub": 0,
    "col": "m_name",
    "src": "cb4bd5b5f783",
-   "t": ""
+   "t": "Omni"
   }
  ]
 }

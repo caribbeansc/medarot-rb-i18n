@@ -6,455 +6,455 @@
    "sub": 0,
    "col": "text",
    "src": "8f26d438109c",
-   "t": ""
+   "t": "End"
   },
   {
    "row": "TurnSwitch",
    "sub": 0,
    "col": "text",
    "src": "78d8bac7d1e5",
-   "t": ""
+   "t": "Turn {0}"
   },
   {
    "row": "DrawPhase",
    "sub": 0,
    "col": "text",
    "src": "35808dbd2de5",
-   "t": ""
+   "t": "Draw Phase"
   },
   {
    "row": "StandbyPhase",
    "sub": 0,
    "col": "text",
    "src": "a6eea7a44811",
-   "t": ""
+   "t": "Standby Phase"
   },
   {
    "row": "ActionPhase",
    "sub": 0,
    "col": "text",
    "src": "71f25874da44",
-   "t": ""
+   "t": "Action Phase"
   },
   {
    "row": "EndPhase",
    "sub": 0,
    "col": "text",
    "src": "3d415031c6f5",
-   "t": ""
+   "t": "End Phase"
   },
   {
    "row": "RapidCooling",
    "sub": 0,
    "col": "text",
    "src": "5e1f477813aa",
-   "t": ""
+   "t": "Quick Cooldown"
   },
   {
    "row": "Dialog_SupportReplace",
    "sub": 0,
    "col": "text",
    "src": "419524a3e03d",
-   "t": ""
+   "t": "Re-transfer Medabot"
   },
   {
    "row": "Dialog_PartsChange",
    "sub": 0,
    "col": "text",
    "src": "18c90e07e44a",
-   "t": ""
+   "t": "Select a part to swap"
   },
   {
    "row": "Dialog_PartsEmpty",
    "sub": 0,
    "col": "text",
    "src": "4ba1400499ec",
-   "t": ""
+   "t": "There are no parts to swap"
   },
   {
    "row": "Dialog_PartsMedaChange",
    "sub": 0,
    "col": "text",
    "src": "426c7a800d68",
-   "t": ""
+   "t": "Can't swap while Medachanged"
   },
   {
    "row": "Dialog_PartsExtPhase",
    "sub": 0,
    "col": "text",
    "src": "de664e50a5ad",
-   "t": ""
+   "t": "Can't swap during this phase"
   },
   {
    "row": "Dialog_PartsOpponent",
    "sub": 0,
    "col": "text",
    "src": "3469bfbda4ba",
-   "t": ""
+   "t": "Opponent's Parts"
   },
   {
    "row": "Dialog_PartsOpponentTurn",
    "sub": 0,
    "col": "text",
    "src": "be37bd12889d",
-   "t": ""
+   "t": "Can't swap on the opponent's turn"
   },
   {
    "row": "Dialog_BreakOpponent",
    "sub": 0,
    "col": "text",
    "src": "bee33b3ebed9",
-   "t": ""
+   "t": "Select a Barrier or part to destroy"
   },
   {
    "row": "Dialog_BreakPlayer",
    "sub": 0,
    "col": "text",
    "src": "08bb0afcd6a1",
-   "t": ""
+   "t": "Select a Barrier or part to take the hit"
   },
   {
    "row": "Dialog_BreakPartsOpponent",
    "sub": 0,
    "col": "text",
    "src": "095758192022",
-   "t": ""
+   "t": "Select a part to destroy"
   },
   {
    "row": "Dialog_BreakPartsPlayer",
    "sub": 0,
    "col": "text",
    "src": "1b36c5b9ab9b",
-   "t": ""
+   "t": "Select a part to take the hit"
   },
   {
    "row": "MulliganSelect",
    "sub": 0,
    "col": "text",
    "src": "f91150c2559f",
-   "t": ""
+   "t": "Select a card to return to the deck"
   },
   {
    "row": "DiscardSelectHand",
    "sub": 0,
    "col": "text",
    "src": "a1a86f1c9eb3",
-   "t": ""
+   "t": "Select a card to discard"
   },
   {
    "row": "DiscardSelectHandWithCount",
    "sub": 0,
    "col": "text",
    "src": "13aa0b7dea19",
-   "t": ""
+   "t": "Select {0} card(s) to discard"
   },
   {
    "row": "DiscardHandAuto",
    "sub": 0,
    "col": "text",
    "src": "07ee407d0374",
-   "t": ""
+   "t": "Cards over the hand limit are discarded"
   },
   {
    "row": "Info_TargetSelect",
    "sub": 0,
    "col": "text",
    "src": "d7c24ef36d58",
-   "t": ""
+   "t": "Select a target"
   },
   {
    "row": "Info_TargetSelect_Use",
    "sub": 0,
    "col": "text",
    "src": "ffcaba8c47a0",
-   "t": ""
+   "t": "Use this?"
   },
   {
    "row": "Info_TargetSelect_Activate",
    "sub": 0,
    "col": "text",
    "src": "8dc314023c54",
-   "t": ""
+   "t": "Activate?"
   },
   {
    "row": "Info_SupportSet",
    "sub": 0,
    "col": "text",
    "src": "f51d49040704",
-   "t": ""
+   "t": "Select where to transfer"
   },
   {
    "row": "Start_LegBonus",
    "sub": 0,
    "col": "text",
    "src": "8c953c61c790",
-   "t": ""
+   "t": "Gain a Tactics card at the start of battle."
   },
   {
    "row": "Btn_Confirmed",
    "sub": 0,
    "col": "text",
    "src": "20db9f87b860",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "Btn_Finish",
    "sub": 0,
    "col": "text",
    "src": "8f26d438109c",
-   "t": ""
+   "t": "End"
   },
   {
    "row": "Btn_Cancel",
    "sub": 0,
    "col": "text",
    "src": "bca84ea5c65f",
-   "t": ""
+   "t": "Cancel"
   },
   {
    "row": "Btn_PhaseEnd",
    "sub": 0,
    "col": "text",
    "src": "a92fc85edc67",
-   "t": ""
+   "t": "End Phase"
   },
   {
    "row": "Btn_Return",
    "sub": 0,
    "col": "text",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "Btn_Close",
    "sub": 0,
    "col": "text",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "Btn_CheckBoard",
    "sub": 0,
    "col": "text",
    "src": "192bf0a39381",
-   "t": ""
+   "t": "View Field"
   },
   {
    "row": "PhaseEnd_Action",
    "sub": 0,
    "col": "text",
    "src": "d261817f5ecf",
-   "t": ""
+   "t": "End Action Phase"
   },
   {
    "row": "PhaseEnd_StandBy",
    "sub": 0,
    "col": "text",
    "src": "50d5105f4d67",
-   "t": ""
+   "t": "End Standby Phase"
   },
   {
    "row": "PhaseEnd_End",
    "sub": 0,
    "col": "text",
    "src": "dbbcfae25bd3",
-   "t": ""
+   "t": "End the End Phase"
   },
   {
    "row": "Caution_Body_NotPlaceMedaroto",
    "sub": 0,
    "col": "text",
    "src": "25e3a43af2ee",
-   "t": ""
+   "t": "Some Medabots are not placed"
   },
   {
    "row": "Caution_Body_NotPlaceParts",
    "sub": 0,
    "col": "text",
    "src": "cfc262e9e604",
-   "t": ""
+   "t": "Some parts are not equipped"
   },
   {
    "row": "Caution_Body_NotAction",
    "sub": 0,
    "col": "text",
    "src": "a4a0b7bcb3ce",
-   "t": ""
+   "t": "Some Medabots can still act"
   },
   {
    "row": "Caution_Body_DeathLock",
    "sub": 0,
    "col": "text",
    "src": "07f96d80d497",
-   "t": ""
+   "t": "Can't discard while Deathlock is active"
   },
   {
    "row": "Caution_Title_Caution",
    "sub": 0,
    "col": "text",
    "src": "a8b7a4480407",
-   "t": ""
+   "t": "Warning"
   },
   {
    "row": "Caution_Title_StandBy",
    "sub": 0,
    "col": "text",
    "src": "01d02955c404",
-   "t": ""
+   "t": "End the Standby Phase?"
   },
   {
    "row": "Caution_Title_End",
    "sub": 0,
    "col": "text",
    "src": "3b11c907e606",
-   "t": ""
+   "t": "End the End Phase?"
   },
   {
    "row": "Caution_Title_Action",
    "sub": 0,
    "col": "text",
    "src": "0660bf1d1f7e",
-   "t": ""
+   "t": "End the Action Phase?"
   },
   {
    "row": "Result_Title_MedalPowUp",
    "sub": 0,
    "col": "text",
    "src": "9ff283a1f4dc",
-   "t": ""
+   "t": "Medal Upgrade"
   },
   {
    "row": "Result_Title_MedalEvolution",
    "sub": 0,
    "col": "text",
    "src": "ad6672757a5c",
-   "t": ""
+   "t": "Medal Evolution"
   },
   {
    "row": "Trap_Activation_Trap",
    "sub": 0,
    "col": "text",
    "src": "175863078c9f",
-   "t": ""
+   "t": "Trap activated!"
   },
   {
    "row": "Trap_Activation_Plant",
    "sub": 0,
    "col": "text",
    "src": "b0dc54c70c20",
-   "t": ""
+   "t": "Plant activated!"
   },
   {
    "row": "Skill_DuplicateCard_TextA",
    "sub": 0,
    "col": "text",
    "src": "b6882581efdd",
-   "t": ""
+   "t": "{0} : Select {1} card(s) in hand to copy"
   },
   {
    "row": "Skill_DuplicateCard_TextB",
    "sub": 0,
    "col": "text",
    "src": "f26bada456ac",
-   "t": ""
+   "t": "{0} : Select 1-{1} cards in hand to copy"
   },
   {
    "row": "Skill_Repair_TextA",
    "sub": 0,
    "col": "text",
    "src": "514cad656292",
-   "t": ""
+   "t": "{0} : Select {1} card(s) in hand"
   },
   {
    "row": "Skill_Repair_TextB",
    "sub": 0,
    "col": "text",
    "src": "9455dfc94731",
-   "t": ""
+   "t": "{0} : Select 1-{1} cards in hand"
   },
   {
    "row": "Rematch",
    "sub": 0,
    "col": "text",
    "src": "d6773d87876b",
-   "t": ""
+   "t": "Rematch"
   },
   {
    "row": "Rematch_Body_Rematch",
    "sub": 0,
    "col": "text",
    "src": "fc56761caf20",
-   "t": ""
+   "t": "Rematch with the same settings?"
   },
   {
    "row": "Rematch_ReturnLobby",
    "sub": 0,
    "col": "text",
    "src": "04c4f88b72d3",
-   "t": ""
+   "t": "Back to Setup"
   },
   {
    "row": "Rematch_OK",
    "sub": 0,
    "col": "text",
    "src": "f657b9ca2d20",
-   "t": ""
+   "t": "Rematch"
   },
   {
    "row": "Rematch_Body_Wait",
    "sub": 0,
    "col": "text",
    "src": "0ba1e6bc275d",
-   "t": ""
+   "t": "Waiting for your opponent's choice..."
   },
   {
    "row": "Rematch_Body_Cancel",
    "sub": 0,
    "col": "text",
    "src": "9ec29152e7e9",
-   "t": ""
+   "t": "Your opponent cancelled the rematch\nReturning to the setup screen"
   },
   {
    "row": "Surrender_Body_First",
    "sub": 0,
    "col": "text",
    "src": "29f9117f3955",
-   "t": ""
+   "t": "Surrender?"
   },
   {
    "row": "Surrender_Body_Second",
    "sub": 0,
    "col": "text",
    "src": "7ecf3c798d40",
-   "t": ""
+   "t": "Are you sure?"
   },
   {
    "row": "Surrender_Button_OK",
    "sub": 0,
    "col": "text",
    "src": "5e09929df590",
-   "t": ""
+   "t": "Surrender"
   },
   {
    "row": "DominionSelectHand",
    "sub": 0,
    "col": "text",
    "src": "adcd0323492c",
-   "t": ""
+   "t": "Select a card in hand to transfer"
   },
   {
    "row": "DominionConfirm",
    "sub": 0,
    "col": "text",
    "src": "1a0f29b5ed87",
-   "t": ""
+   "t": "Transfer here?"
   },
   {
    "row": "DiscardSelectHandLimit",
    "sub": 0,
    "col": "text",
    "src": "070cb22d71c1",
-   "t": ""
+   "t": "Select cards to discard <color=#FF3174>(up to {0})</color>"
   }
  ]
 }

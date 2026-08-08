@@ -6,21 +6,21 @@
    "sub": 0,
    "col": "message",
    "src": "1b925907fb0b",
-   "t": ""
+   "t": "Welcome to Medabots Card Robattle RB!\nI'll teach you the basics of Card Robattle."
   },
   {
    "row": "Tutorial01",
    "sub": 0,
    "col": "message",
    "src": "c2adc6d7855c",
-   "t": ""
+   "t": "You've learned the basics of Card Robattle.\nNow enjoy Card Robattle with your new deck!"
   },
   {
    "row": "Tutorial00_2",
    "sub": 0,
    "col": "message",
    "src": "b45646fee487",
-   "t": ""
+   "t": "Now, let's start Practice 1."
   }
  ]
 }

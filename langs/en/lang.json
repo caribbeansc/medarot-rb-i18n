@@ -10,7 +10,7 @@
     "fix_tmp_metrics": true
   },
   "validation": {
-    "extra_chars": "—–…·™®©°×♪↑↓→←",
+    "extra_chars": "—–…·™®©°×♪↑↓→←●※★☆■□◆◇○◎“”’‘",
     "max_line": 46,
     "length_factor": 1.25
   },

@@ -6,420 +6,420 @@
    "sub": 0,
    "col": "m_title",
    "src": "1d8e61975bfd",
-   "t": ""
+   "t": "Snipe"
   },
   {
    "row": "Tips00",
    "sub": 0,
    "col": "m_text",
    "src": "4d405955cbbf",
-   "t": ""
+   "t": "[Snipe] deals damage equal to your power to 1 Medabot!\nIt takes no counterattack, even from a standby foe."
   },
   {
    "row": "Tips01",
    "sub": 0,
    "col": "m_title",
    "src": "522ba9f47afb",
-   "t": ""
+   "t": "Guard"
   },
   {
    "row": "Tips01",
    "sub": 0,
    "col": "m_text",
    "src": "5543b96f9179",
-   "t": ""
+   "t": "When a Medabot with [Guard] is in play, the foe's\nnormal attacks and Cross Attacks can only hit it!\nTransfer a [Guard] Medabot to protect your leader."
   },
   {
    "row": "Tips02",
    "sub": 0,
    "col": "m_title",
    "src": "ded4469cb3b6",
-   "t": ""
+   "t": "Burn"
   },
   {
    "row": "Tips02",
    "sub": 0,
    "col": "m_text",
    "src": "fe199246037a",
-   "t": ""
+   "t": "A Medabot with [Burn]\nloses 3000 power when it attacks!"
   },
   {
    "row": "Tips03",
    "sub": 0,
    "col": "m_title",
    "src": "792ab5974a45",
-   "t": ""
+   "t": "Bind"
   },
   {
    "row": "Tips03",
    "sub": 0,
    "col": "m_text",
    "src": "50beab80832a",
-   "t": ""
+   "t": "A Medabot with [Bind]\nmust discard 2 extra cards for quick cooldown!"
   },
   {
    "row": "Tips04",
    "sub": 0,
    "col": "m_title",
    "src": "10632230a0a1",
-   "t": ""
+   "t": "Shock"
   },
   {
    "row": "Tips04",
    "sub": 0,
    "col": "m_text",
    "src": "78f3e425c7a4",
-   "t": ""
+   "t": "A Medabot with [Shock] cannot be re-transferred!\nIt also cannot activate abilities (actions)!"
   },
   {
    "row": "Tips05",
    "sub": 0,
    "col": "m_title",
    "src": "baa5cd1c4b6f",
-   "t": ""
+   "t": "Freeze"
   },
   {
    "row": "Tips05",
    "sub": 0,
    "col": "m_text",
    "src": "cae16d4f8be7",
-   "t": ""
+   "t": "A Medabot with [Freeze] cannot be re-transferred!\nWorse, it cannot take any action at all!"
   },
   {
    "row": "Tips06",
    "sub": 0,
    "col": "m_title",
    "src": "4000dce4eda1",
-   "t": ""
+   "t": "Frenzy"
   },
   {
    "row": "Tips06",
    "sub": 0,
    "col": "m_text",
    "src": "80eecda0ede2",
-   "t": ""
+   "t": "[Frenzy] adds 2000 power when a Medabot attacks!\nOverlooking it on a low-power Medabot will hurt!"
   },
   {
    "row": "Tips07",
    "sub": 0,
    "col": "m_title",
    "src": "cddb8af377bf",
-   "t": ""
+   "t": "Deathlock"
   },
   {
    "row": "Tips07",
    "sub": 0,
    "col": "m_text",
    "src": "3daec37d078a",
-   "t": ""
+   "t": "With [Deathlock] you cannot discard from your hand!\nQuick cooldown, which costs discards, is blocked too!"
   },
   {
    "row": "Tips08",
    "sub": 0,
    "col": "m_title",
    "src": "b728a66020e1",
-   "t": ""
+   "t": "No Attack"
   },
   {
    "row": "Tips08",
    "sub": 0,
    "col": "m_text",
    "src": "322780c610eb",
-   "t": ""
+   "t": "[No Attack] blocks normal attacks and Cross Attacks,\nbut the Medabot can still counterattack!"
   },
   {
    "row": "Tips09",
    "sub": 0,
    "col": "m_title",
    "src": "df82438f4b95",
-   "t": ""
+   "t": "Barrier Limit"
   },
   {
    "row": "Tips09",
    "sub": 0,
    "col": "m_text",
    "src": "3ece0dde2e25",
-   "t": ""
+   "t": "A card with a [Barrier Limit] can only be played\nwhile your leader's barrier is that value or lower!\nStrong, but you cannot play it early on!"
   },
   {
    "row": "Tips10",
    "sub": 0,
    "col": "m_title",
    "src": "efc9a6a01ac6",
-   "t": ""
+   "t": "Repair"
   },
   {
    "row": "Tips10",
    "sub": 0,
    "col": "m_text",
    "src": "b59453892e5c",
-   "t": ""
+   "t": "[Repair] makes 1 card in your hand a barrier!\nNot usable at max barrier or with an empty hand!"
   },
   {
    "row": "Tips11",
    "sub": 0,
    "col": "m_title",
    "src": "b8187137b853",
-   "t": ""
+   "t": "Medabot Destruction"
   },
   {
    "row": "Tips11",
    "sub": 0,
    "col": "m_text",
    "src": "a735b9df986d",
-   "t": ""
+   "t": "[Medabot Destruction] covers support Medabots and also\nthe destruction of a leader's parts or barriers!"
   },
   {
    "row": "Tips12",
    "sub": 0,
    "col": "m_title",
    "src": "5e1f477813aa",
-   "t": ""
+   "t": "Quick Cooldown"
   },
   {
    "row": "Tips12",
    "sub": 0,
    "col": "m_text",
    "src": "1106fb49fb84",
-   "t": ""
+   "t": "[Quick Cooldown] puts a Medabot on standby at once.\nIts cost is discarding the stated number of cards!"
   },
   {
    "row": "Tips13",
    "sub": 0,
    "col": "m_title",
    "src": "f9ae0a0b3249",
-   "t": ""
+   "t": "Set"
   },
   {
    "row": "Tips13",
    "sub": 0,
    "col": "m_text",
    "src": "c31498b7e619",
-   "t": ""
+   "t": "[Set] is an action paid with the listed Set Points.\nIt places traps and plants on the field!"
   },
   {
    "row": "Tips14",
    "sub": 0,
    "col": "m_title",
    "src": "27aa0203af0b",
-   "t": ""
+   "t": "Draw Pile and Deck"
   },
   {
    "row": "Tips14",
    "sub": 0,
    "col": "m_text",
    "src": "8b8153aaa8ab",
-   "t": ""
+   "t": "[Draw Pile] is the set of cards you use in a game.\nIn this game your first draw pile is 35 cards.\nDuring a Robattle it is called your [Deck]!"
   },
   {
    "row": "Tips15",
    "sub": 0,
    "col": "m_title",
    "src": "53ce36b5da9e",
-   "t": ""
+   "t": "Hand"
   },
   {
    "row": "Tips15",
    "sub": 0,
    "col": "m_text",
    "src": "cf8165886218",
-   "t": ""
+   "t": "Your [Hand] is the cards drawn from your deck to play.\nIn the Draw phase, draw until your hand has 6.\nYou must hold 5 or fewer when the End phase ends."
   },
   {
    "row": "Tips16",
    "sub": 0,
    "col": "m_title",
    "src": "8ff87668daee",
-   "t": ""
+   "t": "Field"
   },
   {
    "row": "Tips16",
    "sub": 0,
    "col": "m_text",
    "src": "0121fe7ed486",
-   "t": ""
+   "t": "The [Field] is where cards sit in a Robattle, split into areas."
   },
   {
    "row": "Tips17",
    "sub": 0,
    "col": "m_title",
    "src": "3427fc1d66f7",
-   "t": ""
+   "t": "Discards"
   },
   {
    "row": "Tips17",
    "sub": 0,
    "col": "m_text",
    "src": "73f7de787ace",
-   "t": ""
+   "t": "[Discards] are cards used at once or removed from play.\nThe [Discard Pile] is where those cards are kept."
   },
   {
    "row": "Tips18",
    "sub": 0,
    "col": "m_title",
    "src": "f57ca4624425",
-   "t": ""
+   "t": "Deck Out"
   },
   {
    "row": "Tips18",
    "sub": 0,
    "col": "m_text",
    "src": "6c58d1ac2c06",
-   "t": ""
+   "t": "[Deck Out] is when you keep drawing cards\nuntil your deck runs out. The moment you\ncannot draw from your deck, you lose!"
   },
   {
    "row": "Tips19",
    "sub": 0,
    "col": "m_title",
    "src": "aee7e141d605",
-   "t": ""
+   "t": "Turn"
   },
   {
    "row": "Tips19",
    "sub": 0,
    "col": "m_text",
    "src": "810207cfd2ea",
-   "t": ""
+   "t": "A [Turn] is everything that happens from when\nyour side starts until the foe's side begins.\nIn this game a [Turn] runs through 4 [Phases] in order!"
   },
   {
    "row": "Tips20",
    "sub": 0,
    "col": "m_title",
    "src": "9e8f2f0f6605",
-   "t": ""
+   "t": "Terrain Bonus"
   },
   {
    "row": "Tips20",
    "sub": 0,
    "col": "m_text",
    "src": "8bcff9363b02",
-   "t": ""
+   "t": "[Terrain Bonus] is earned when the terrain area\nmatches your leader's leg type. At Robattle start,\n2 Tactics cards for that leg type join your barrier hand!"
   },
   {
    "row": "Tips21",
    "sub": 0,
    "col": "m_title",
    "src": "85ebf6a8ae73",
-   "t": ""
+   "t": "Medaforce"
   },
   {
    "row": "Tips21",
    "sub": 0,
    "col": "m_text",
    "src": "f79b84033b27",
-   "t": ""
+   "t": "[Medaforce] cards can only be used once your barrier drops.\nAs your Medal levels up, you can run up to 2 in a deck!"
   },
   {
    "row": "Tips22",
    "sub": 0,
    "col": "m_title",
    "src": "57e7dc3b2012",
-   "t": ""
+   "t": "Favorite Cards"
   },
   {
    "row": "Tips22",
    "sub": 0,
    "col": "m_text",
    "src": "b455a3251db3",
-   "t": ""
+   "t": "Your [Favorite Card] shows what your deck is about.\nPick one from the cards in your deck!"
   },
   {
    "row": "Tips23",
    "sub": 0,
    "col": "m_title",
    "src": "71402a20847c",
-   "t": ""
+   "t": "Sleeve"
   },
   {
    "row": "Tips23",
    "sub": 0,
    "col": "m_text",
    "src": "35cb5295800d",
-   "t": ""
+   "t": "A [Sleeve] changes the back of your cards.\nEarn more by meeting certain conditions!"
   },
   {
    "row": "Tips24",
    "sub": 0,
    "col": "m_title",
    "src": "b68d8ff0219a",
-   "t": ""
+   "t": "Player Icon"
   },
   {
    "row": "Tips24",
    "sub": 0,
    "col": "m_text",
    "src": "885b7cc980d5",
-   "t": ""
+   "t": "Your [Player Icon] is the mark that stands for you.\nEarn more by meeting certain conditions!"
   },
   {
    "row": "Tips25",
    "sub": 0,
    "col": "m_title",
    "src": "524746976904",
-   "t": ""
+   "t": "Wallpaper"
   },
   {
    "row": "Tips25",
    "sub": 0,
    "col": "m_text",
    "src": "51dfc5b50009",
-   "t": ""
+   "t": "A [Wallpaper] changes the menu background.\nEarn more by meeting certain conditions!"
   },
   {
    "row": "Tips26",
    "sub": 0,
    "col": "m_title",
    "src": "1de429be2dfc",
-   "t": ""
+   "t": "Action Attacks"
   },
   {
    "row": "Tips26",
    "sub": 0,
    "col": "m_text",
    "src": "75f1c3a99872",
-   "t": ""
+   "t": "Attacks from actions, such as long-range shots,\nignore the foe's [Guard]!"
   },
   {
    "row": "Tips27",
    "sub": 0,
    "col": "m_title",
    "src": "e1cb4ff76cd6",
-   "t": ""
+   "t": "Effect"
   },
   {
    "row": "Tips27",
    "sub": 0,
    "col": "m_text",
    "src": "9072a9c2586d",
-   "t": ""
+   "t": "An [Effect] comes from non-attack abilities, or from\nTactics, Medafighter and Medaforce cards you play."
   },
   {
    "row": "Tips28",
    "sub": 0,
    "col": "m_title",
    "src": "1f936200d8da",
-   "t": ""
+   "t": "Traps and Plants"
   },
   {
    "row": "Tips28",
    "sub": 0,
    "col": "m_text",
    "src": "3fa18a201c97",
-   "t": ""
+   "t": "Two things can be set on the field: [Traps] and [Plants].\nA [Trap] vanishes once it triggers and resolves,\nbut a [Plant] stays and keeps working until destroyed!"
   },
   {
    "row": "Tips29",
    "sub": 0,
    "col": "m_title",
    "src": "de837692e5f3",
-   "t": ""
+   "t": "Cross Attack"
   },
   {
    "row": "Tips29",
    "sub": 0,
    "col": "m_text",
    "src": "3cf84743412a",
-   "t": ""
+   "t": "[Cross Attack] lets several Medabots attack together.\nHit the leader to break 1 part and barrier per attacker!"
   }
  ]
 }

@@ -6,2079 +6,2079 @@
    "sub": 0,
    "col": "m_startMsg",
    "src": "e6b19cd6e902",
-   "t": ""
+   "t": "Oh, you made it! This is the Card Lab!\nJust call me the Card Director."
   },
   {
    "row": "Tutorial00",
    "sub": 0,
    "col": "m_winMsg",
    "src": "647e45efa2d4",
-   "t": ""
+   "t": "Nice, you've got it!"
   },
   {
    "row": "Tutorial00",
    "sub": 1,
    "col": "m_startMsg",
    "src": "c0e86231f294",
-   "t": ""
+   "t": "That projection behind me is the\nNeural Allied Virtual Interface Card Optimizer"
   },
   {
    "row": "Tutorial00",
    "sub": 2,
    "col": "m_startMsg",
    "src": "69cffb640db0",
-   "t": ""
+   "t": "Navico for short!\nShe teaches the rules to beginners, easy."
   },
   {
    "row": "Tutorial00",
    "sub": 3,
    "col": "m_startMsg",
    "src": "384588afd6fa",
-   "t": ""
+   "t": "Right, let's start with Robattle basics!\nNavico, take it from here!"
   },
   {
    "row": "Tutorial01",
    "sub": 0,
    "col": "m_startMsg",
    "src": "c5e4477e3ea3",
-   "t": ""
+   "t": "Next up: Support Medabots.\nYep, the pals who back up your Leader!"
   },
   {
    "row": "Tutorial01",
    "sub": 0,
    "col": "m_winMsg",
    "src": "08b2c6c0393d",
-   "t": ""
+   "t": "Not bad!\nYour Cross Attack was perfect too."
   },
   {
    "row": "Tutorial01",
    "sub": 1,
    "col": "m_startMsg",
    "src": "0c2c6b1e350d",
-   "t": ""
+   "t": "I'll go over the phases too.\nNavico, over to you."
   },
   {
    "row": "Tutorial01",
    "sub": 1,
    "col": "m_winMsg",
    "src": "9bfe549c9f40",
-   "t": ""
+   "t": "Team up and your attacks hit way harder.\nDon't you forget it!"
   },
   {
    "row": "Tutorial02",
    "sub": 0,
    "col": "m_startMsg",
    "src": "1883d6f89e16",
-   "t": ""
+   "t": "Next, the Leader's two arm parts!\nDon't mix up right and left! Got it?"
   },
   {
    "row": "Tutorial02",
    "sub": 0,
    "col": "m_winMsg",
    "src": "895b3c35f54a",
-   "t": ""
+   "t": "Nice one!\nParts and Quick cooldown, both nailed."
   },
   {
    "row": "Tutorial02",
    "sub": 1,
    "col": "m_startMsg",
    "src": "6d17e9832b2e",
-   "t": ""
+   "t": "And now Quick cooldown.\nNavico, the rest is yours!"
   },
   {
    "row": "Tutorial02",
    "sub": 1,
    "col": "m_winMsg",
    "src": "860ab6610798",
-   "t": ""
+   "t": "Just watch how much Energy you have left!\nRun out and you can't do a thing!"
   },
   {
    "row": "Tutorial03",
    "sub": 0,
    "col": "m_startMsg",
    "src": "c47e3d512197",
-   "t": ""
+   "t": "Next, how to defend when you're attacked!\nNavico, take it away!"
   },
   {
    "row": "Tutorial03",
    "sub": 0,
    "col": "m_winMsg",
    "src": "491844758885",
-   "t": ""
+   "t": "All right, looking good!"
   },
   {
    "row": "Tutorial03",
    "sub": 1,
    "col": "m_winMsg",
    "src": "330f7fb824b0",
-   "t": ""
+   "t": "Block with a Barrier or with a part?\nRead the field and decide!"
   },
   {
    "row": "Tutorial04",
    "sub": 0,
    "col": "m_startMsg",
    "src": "bd858aa93107",
-   "t": ""
+   "t": "Right, next up is your hand!"
   },
   {
    "row": "Tutorial04",
    "sub": 0,
    "col": "m_winMsg",
    "src": "b760fa06ea34",
-   "t": ""
+   "t": "Perfect!"
   },
   {
    "row": "Tutorial04",
    "sub": 1,
    "col": "m_startMsg",
    "src": "514243b98ba9",
-   "t": ""
+   "t": "While we're at it, the Barrier Limit.\nNavico, you're up!"
   },
   {
    "row": "Tutorial04",
    "sub": 1,
    "col": "m_winMsg",
    "src": "f7d79c1f7081",
-   "t": ""
+   "t": "Clinging to cards you can't play\nwon't win you the game! Careful!"
   },
   {
    "row": "Tutorial05",
    "sub": 0,
    "col": "m_startMsg",
    "src": "f1ae08ede69b",
-   "t": ""
+   "t": "Let's see if it all sank in:\ntime for a real Card Robattle!"
   },
   {
    "row": "Tutorial05",
    "sub": 0,
    "col": "m_winMsg",
    "src": "cacaf7cb9f60",
-   "t": ""
+   "t": "Nice, you pass!\nYou've got it down cold!"
   },
   {
    "row": "Tutorial05",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "a12733499c1f",
-   "t": ""
+   "t": "No good! You haven't studied nearly enough!"
   },
   {
    "row": "Tutorial05",
    "sub": 1,
    "col": "m_winMsg",
    "src": "a25409e159fd",
-   "t": ""
+   "t": "Next up: the cards that aren't\nMedabot units!"
   },
   {
    "row": "Tutorial06",
    "sub": 0,
    "col": "m_startMsg",
    "src": "06e37b4f3770",
-   "t": ""
+   "t": "Next up: the Medaforce!"
   },
   {
    "row": "Tutorial06",
    "sub": 0,
    "col": "m_winMsg",
    "src": "647e45efa2d4",
-   "t": ""
+   "t": "Nice, you've got it!"
   },
   {
    "row": "Tutorial06",
    "sub": 1,
    "col": "m_startMsg",
    "src": "f3b13cfa2956",
-   "t": ""
+   "t": "There are conditions to use it, so learn\nthem well. Navico, over to you!"
   },
   {
    "row": "Tutorial06",
    "sub": 1,
    "col": "m_winMsg",
    "src": "7bf65f861d97",
-   "t": ""
+   "t": "The Medaforce is your trump card for\nturning a match around! Don't forget it!"
   },
   {
    "row": "Tutorial07",
    "sub": 0,
    "col": "m_startMsg",
    "src": "1433e1098c7e",
-   "t": ""
+   "t": "Right, next up: Tactics cards!"
   },
   {
    "row": "Tutorial07",
    "sub": 0,
    "col": "m_winMsg",
    "src": "b760fa06ea34",
-   "t": ""
+   "t": "Perfect!"
   },
   {
    "row": "Tutorial07",
    "sub": 1,
    "col": "m_startMsg",
    "src": "e1dd65ed7804",
-   "t": ""
+   "t": "This bit's a little tricky, so focus up!\nNavico, take it away!"
   },
   {
    "row": "Tutorial07",
    "sub": 1,
    "col": "m_winMsg",
    "src": "a4c6c530b7d6",
-   "t": ""
+   "t": "Tactics cards can't be used without\nTactics stock. Never forget that!"
   },
   {
    "row": "Tutorial08",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7e727d1f889f",
-   "t": ""
+   "t": "And next up: Medafighter cards!"
   },
   {
    "row": "Tutorial08",
    "sub": 0,
    "col": "m_winMsg",
    "src": "647e45efa2d4",
-   "t": ""
+   "t": "Nice, you've got it!"
   },
   {
    "row": "Tutorial08",
    "sub": 1,
    "col": "m_startMsg",
    "src": "52b0b3893be8",
-   "t": ""
+   "t": "These are powerful too, so learn them well!\nNavico, the rest is yours!"
   },
   {
    "row": "Tutorial08",
    "sub": 1,
    "col": "m_winMsg",
    "src": "cb62699ac9aa",
-   "t": ""
+   "t": "Only 1 Medafighter card per turn --\ndon't you forget it!"
   },
   {
    "row": "Tutorial09",
    "sub": 0,
    "col": "m_startMsg",
    "src": "2212c1fe71c6",
-   "t": ""
+   "t": "Now put everything you've learned\ninto practice with the Metabee deck!"
   },
   {
    "row": "Tutorial09",
    "sub": 0,
    "col": "m_winMsg",
    "src": "14c3f13d2d46",
-   "t": ""
+   "t": "Not bad at all!\nFrom today you're a Medacard Fighter!"
   },
   {
    "row": "Tutorial09",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "a12733499c1f",
-   "t": ""
+   "t": "No good! You haven't studied nearly enough!"
   },
   {
    "row": "Tutorial09",
    "sub": 1,
    "col": "m_startMsg",
    "src": "3898512516fe",
-   "t": ""
+   "t": "All right!\nBring it on!"
   },
   {
    "row": "Tutorial09",
    "sub": 1,
    "col": "m_winMsg",
    "src": "98c8ebe6030b",
-   "t": ""
+   "t": "...Now listen up.\nBeyond here lie 7 areas."
   },
   {
    "row": "Tutorial09",
    "sub": 2,
    "col": "m_winMsg",
    "src": "57c39cc3611e",
-   "t": ""
+   "t": "Tough Medacard Fighters are waiting\nin every one of them."
   },
   {
    "row": "Tutorial09",
    "sub": 3,
    "col": "m_winMsg",
    "src": "4639d4a6cd6d",
-   "t": ""
+   "t": "Beat them all and the door to the\nnext area opens up."
   },
   {
    "row": "Tutorial09",
    "sub": 4,
    "col": "m_winMsg",
    "src": "c9123c7bdf93",
-   "t": ""
+   "t": "And standing in your way at the end...\nthe strongest Medacard Fighter of all!"
   },
   {
    "row": "Tutorial09",
    "sub": 5,
    "col": "m_winMsg",
    "src": "4608098ccf08",
-   "t": ""
+   "t": "Have you got what it takes to beat them?\nGood luck out there!"
   },
   {
    "row": "Tutorial10",
    "sub": 0,
    "col": "m_startMsg",
    "src": "43b9374962b9",
-   "t": ""
+   "t": "Now put everything you've learned\ninto practice with the Rokusho deck!"
   },
   {
    "row": "Tutorial10",
    "sub": 0,
    "col": "m_winMsg",
    "src": "14c3f13d2d46",
-   "t": ""
+   "t": "Not bad at all!\nFrom today you're a Medacard Fighter!"
   },
   {
    "row": "Tutorial10",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "a12733499c1f",
-   "t": ""
+   "t": "No good! You haven't studied nearly enough!"
   },
   {
    "row": "Tutorial10",
    "sub": 1,
    "col": "m_startMsg",
    "src": "3898512516fe",
-   "t": ""
+   "t": "All right!\nBring it on!"
   },
   {
    "row": "Tutorial10",
    "sub": 1,
    "col": "m_winMsg",
    "src": "98c8ebe6030b",
-   "t": ""
+   "t": "...Now listen up.\nBeyond here lie 7 areas."
   },
   {
    "row": "Tutorial10",
    "sub": 2,
    "col": "m_winMsg",
    "src": "57c39cc3611e",
-   "t": ""
+   "t": "Tough Medacard Fighters are waiting\nin every one of them."
   },
   {
    "row": "Tutorial10",
    "sub": 3,
    "col": "m_winMsg",
    "src": "4639d4a6cd6d",
-   "t": ""
+   "t": "Beat them all and the door to the\nnext area opens up."
   },
   {
    "row": "Tutorial10",
    "sub": 4,
    "col": "m_winMsg",
    "src": "c9123c7bdf93",
-   "t": ""
+   "t": "And standing in your way at the end...\nthe strongest Medacard Fighter of all!"
   },
   {
    "row": "Tutorial10",
    "sub": 5,
    "col": "m_winMsg",
    "src": "4608098ccf08",
-   "t": ""
+   "t": "Have you got what it takes to beat them?\nGood luck out there!"
   },
   {
    "row": "Messge11",
    "sub": 0,
    "col": "m_startMsg",
    "src": "3e2f27fe18a8",
-   "t": ""
+   "t": "Yo! So you're the new kid.\nLet me see that skill of yours myself!"
   },
   {
    "row": "Messge11",
    "sub": 0,
    "col": "m_winMsg",
    "src": "91c21ea48cd4",
-   "t": ""
+   "t": "Me... losing?\n...Not bad. You outread me completely!"
   },
   {
    "row": "Messge11",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "7eb4822c933f",
-   "t": ""
+   "t": "Good match.\nSharpen your skills and come back!"
   },
   {
    "row": "Messge11",
    "sub": 1,
    "col": "m_startMsg",
    "src": "d8aecd450107",
-   "t": ""
+   "t": "My partner is Frappé!\nCan you survive a Shooting-Melee hybrid?"
   },
   {
    "row": "Messge12",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7a59553b286c",
-   "t": ""
+   "t": "So you're the one who just started!\nLet's see what you can do!"
   },
   {
    "row": "Messge12",
    "sub": 0,
    "col": "m_winMsg",
    "src": "363391c0c9f5",
-   "t": ""
+   "t": "Ahaha! I lost...\nYou're way better than I thought. Thanks!"
   },
   {
    "row": "Messge12",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2a669aabef0e",
-   "t": ""
+   "t": "Yay, I win!\nAhaha, that was so much fun!"
   },
   {
    "row": "Messge12",
    "sub": 1,
    "col": "m_startMsg",
    "src": "59c67a53ee44",
-   "t": ""
+   "t": "My partner is Cheerful Bunny!\nTaste the power of Cheer! ...Here I go!"
   },
   {
    "row": "Messge13",
    "sub": 0,
    "col": "m_startMsg",
    "src": "14bee5559768",
-   "t": ""
+   "t": "Oh? You're that \"rookie\" I keep hearing about?\nHeh, do try not to bore me."
   },
   {
    "row": "Messge13",
    "sub": 0,
    "col": "m_winMsg",
    "src": "e2f2a44aec44",
-   "t": ""
+   "t": "Tch...\nW-well, my deck wasn't tuned today, okay?"
   },
   {
    "row": "Messge13",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "f549f8ccb38b",
-   "t": ""
+   "t": "Just as I calculated. You lose.\nSo, how does it feel? Does losing sting?"
   },
   {
    "row": "Messge13",
    "sub": 1,
    "col": "m_startMsg",
    "src": "d04d6fd4c1aa",
-   "t": ""
+   "t": "I'll take my time measuring this skill\nof yours. Try not to lose too pathetically."
   },
   {
    "row": "Messge13",
    "sub": 1,
    "col": "m_winMsg",
    "src": "50e5b4fbdf7a",
-   "t": ""
+   "t": "I only held back on pur-po-se,\nto measure your skill. That's all."
   },
   {
    "row": "Messge14",
    "sub": 0,
    "col": "m_startMsg",
    "src": "ff5976b49f74",
-   "t": ""
+   "t": "I've heard about you.\nLooks like you've got some backbone."
   },
   {
    "row": "Messge14",
    "sub": 0,
    "col": "m_winMsg",
    "src": "55c6f8643020",
-   "t": ""
+   "t": "I meant to let the hot rookie shine,\nbut this is a real loss."
   },
   {
    "row": "Messge14",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge14",
    "sub": 1,
    "col": "m_startMsg",
    "src": "f36587354748",
-   "t": ""
+   "t": "I'll be your practice wall.\nNo holding back -- give me everything!"
   },
   {
    "row": "Messge15",
    "sub": 0,
    "col": "m_startMsg",
    "src": "ff5976b49f74",
-   "t": ""
+   "t": "I've heard about you.\nLooks like you've got some backbone."
   },
   {
    "row": "Messge15",
    "sub": 0,
    "col": "m_winMsg",
    "src": "55c6f8643020",
-   "t": ""
+   "t": "I meant to let the hot rookie shine,\nbut this is a real loss."
   },
   {
    "row": "Messge15",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge15",
    "sub": 1,
    "col": "m_startMsg",
    "src": "f36587354748",
-   "t": ""
+   "t": "I'll be your practice wall.\nNo holding back -- give me everything!"
   },
   {
    "row": "Messge16",
    "sub": 0,
    "col": "m_startMsg",
    "src": "63ae8fd76ed8",
-   "t": ""
+   "t": "You've got good eyes.\nI can feel a strong aura coming off you!"
   },
   {
    "row": "Messge16",
    "sub": 0,
    "col": "m_winMsg",
    "src": "82ee681c24a4",
-   "t": ""
+   "t": "Your deck is honest and strong, for real.\nNext time I'll surpass you!"
   },
   {
    "row": "Messge16",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge16",
    "sub": 1,
    "col": "m_startMsg",
    "src": "93061114ca9c",
-   "t": ""
+   "t": "Let's settle this in a Card Robattle!\nLet's go, Metabee! We're taking the win!"
   },
   {
    "row": "Messge17",
    "sub": 0,
    "col": "m_startMsg",
    "src": "63ae8fd76ed8",
-   "t": ""
+   "t": "You've got good eyes.\nI can feel a strong aura coming off you!"
   },
   {
    "row": "Messge17",
    "sub": 0,
    "col": "m_winMsg",
    "src": "82ee681c24a4",
-   "t": ""
+   "t": "Your deck is honest and strong, for real.\nNext time I'll surpass you!"
   },
   {
    "row": "Messge17",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge17",
    "sub": 1,
    "col": "m_startMsg",
    "src": "03a5db1e497e",
-   "t": ""
+   "t": "Let's settle this in a Card Robattle!\nLet's go, Rokusho! We're taking the win!"
   },
   {
    "row": "Messge18",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7ab8ba524adf",
-   "t": ""
+   "t": "So you're the newbie, robo?\nLet's have a look at that skill, robo!"
   },
   {
    "row": "Messge18",
    "sub": 0,
    "col": "m_winMsg",
    "src": "124aa76e6d5d",
-   "t": ""
+   "t": "My most wicked deck, losing?\nThis has to be a mistake, robo!"
   },
   {
    "row": "Messge18",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "726df2a1df45",
-   "t": ""
+   "t": "See that, robo!\nOne step closer to world domination, robo!"
   },
   {
    "row": "Messge18",
    "sub": 1,
    "col": "m_startMsg",
    "src": "5b9e48de7438",
-   "t": ""
+   "t": "My deck is the wickedest Shooting deck,\nrobo! Fear the might of Gofu Bullet, robo!"
   },
   {
    "row": "Messge19",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7478fea7f8cc",
-   "t": ""
+   "t": "U-um... a match with me?\nOne moment please, I'm still calculating..."
   },
   {
    "row": "Messge19",
    "sub": 0,
    "col": "m_winMsg",
    "src": "bf43dd06f087",
-   "t": ""
+   "t": "N-no... this wasn't in my calculations!\nH-have I... really lost...?"
   },
   {
    "row": "Messge19",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "769fb45298b1",
-   "t": ""
+   "t": "My my, over already?\nHow terribly anticlimactic."
   },
   {
    "row": "Messge19",
    "sub": 1,
    "col": "m_startMsg",
    "src": "7a5d6dc4ad39",
-   "t": ""
+   "t": "My Leader is Shoot Spider.\nI'll corner you slowly with status ailments!"
   },
   {
    "row": "Messge20",
    "sub": 0,
    "col": "m_startMsg",
    "src": "a6a4e06e35d7",
-   "t": ""
+   "t": "Heh, you're the rookie they talk about?\nFine. I'll test that skill myself."
   },
   {
    "row": "Messge20",
    "sub": 0,
    "col": "m_winMsg",
    "src": "cb2d5547c65d",
-   "t": ""
+   "t": "Hm... I lost. You're pushier than I thought.\nFine, this round is yours."
   },
   {
    "row": "Messge20",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "b48f7ca5200c",
-   "t": ""
+   "t": "Heh, I win! You did your best, but\nit seems I was one step ahead after all."
   },
   {
    "row": "Messge20",
    "sub": 1,
    "col": "m_startMsg",
    "src": "93c2004e6f1b",
-   "t": ""
+   "t": "My Leader is Shaman Miko.\n...Now, shall we have some fun?"
   },
   {
    "row": "Messge21",
    "sub": 0,
    "col": "m_startMsg",
    "src": "feaa4baf88b9",
-   "t": ""
+   "t": "Hey, we meet again!\nSorry, but it won't be that easy this time."
   },
   {
    "row": "Messge21",
    "sub": 0,
    "col": "m_winMsg",
    "src": "86fc2358faa9",
-   "t": ""
+   "t": "Aw man, I lost!\nThat skill of yours is the real deal."
   },
   {
    "row": "Messge21",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge21",
    "sub": 1,
    "col": "m_startMsg",
    "src": "1abe6fd79a25",
-   "t": ""
+   "t": "My partner Red Matador's defense is no joke.\nShow me how you crack this wall open!"
   },
   {
    "row": "Messge22",
    "sub": 0,
    "col": "m_startMsg",
    "src": "60b3474d458d",
-   "t": ""
+   "t": "Been waiting for you! My deck's been\nlooking forward to a rematch too."
   },
   {
    "row": "Messge22",
    "sub": 0,
    "col": "m_winMsg",
    "src": "d34b1dd4dc18",
-   "t": ""
+   "t": "Aw man... I lost!\nYou really are amazing!"
   },
   {
    "row": "Messge22",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge22",
    "sub": 1,
    "col": "m_startMsg",
    "src": "803648c397dd",
-   "t": ""
+   "t": "Think I'm the same as before? Big mistake!\nTime to show off my training!"
   },
   {
    "row": "Messge23",
    "sub": 0,
    "col": "m_startMsg",
    "src": "60b3474d458d",
-   "t": ""
+   "t": "Been waiting for you! My deck's been\nlooking forward to a rematch too."
   },
   {
    "row": "Messge23",
    "sub": 0,
    "col": "m_winMsg",
    "src": "d34b1dd4dc18",
-   "t": ""
+   "t": "Aw man... I lost!\nYou really are amazing!"
   },
   {
    "row": "Messge23",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge23",
    "sub": 1,
    "col": "m_startMsg",
    "src": "803648c397dd",
-   "t": ""
+   "t": "Think I'm the same as before? Big mistake!\nTime to show off my training!"
   },
   {
    "row": "Messge24",
    "sub": 0,
    "col": "m_startMsg",
    "src": "4d60b36f4623",
-   "t": ""
+   "t": "Roboo! Robo robo robo!\nThat loss was part of my deeeep plan, robo!"
   },
   {
    "row": "Messge24",
    "sub": 0,
    "col": "m_winMsg",
    "src": "dfc4ef9f64c4",
-   "t": ""
+   "t": "You'll remember this, robo!! Today my\ncards were just off form, robo!"
   },
   {
    "row": "Messge24",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "726df2a1df45",
-   "t": ""
+   "t": "See that, robo!\nOne step closer to world domination, robo!"
   },
   {
    "row": "Messge24",
    "sub": 1,
    "col": "m_startMsg",
    "src": "2a1a81bb4946",
-   "t": ""
+   "t": "Today you'll see my true power, roboo!!\nLet's go, Gofu Bullet!"
   },
   {
    "row": "Messge25",
    "sub": 0,
    "col": "m_startMsg",
    "src": "b68b3be4ed1e",
-   "t": ""
+   "t": "So you're the rumored rookie.\nI shall judge that skill myself!"
   },
   {
    "row": "Messge25",
    "sub": 0,
    "col": "m_winMsg",
    "src": "9d5ff1d20622",
-   "t": ""
+   "t": "...Splendid. The loss is mine.\nYou've got skill, I'll grant you that!"
   },
   {
    "row": "Messge25",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "ca48de510e92",
-   "t": ""
+   "t": "Hmph, you entertained me a little.\nA fine battle. You have my thanks."
   },
   {
    "row": "Messge25",
    "sub": 1,
    "col": "m_startMsg",
    "src": "ea95cd2eca32",
-   "t": ""
+   "t": "My partner is Hawk Dakar!\nHe'll end this in a flash!"
   },
   {
    "row": "Messge26",
    "sub": 0,
    "col": "m_startMsg",
    "src": "baaca2b9bbca",
-   "t": ""
+   "t": "U-um... I've input all the data from our\nlast match. Yes, my counter is perfect."
   },
   {
    "row": "Messge26",
    "sub": 0,
    "col": "m_winMsg",
    "src": "0d3239a55a4b",
-   "t": ""
+   "t": "W-what...?! Unbelievable!\nL-losing again, to you..."
   },
   {
    "row": "Messge26",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "769fb45298b1",
-   "t": ""
+   "t": "My my, over already?\nHow terribly anticlimactic."
   },
   {
    "row": "Messge26",
    "sub": 1,
    "col": "m_startMsg",
    "src": "9ecac9646a75",
-   "t": ""
+   "t": "...Please savor the true worth of my\nupdated \"Shoot Spider\" deck!"
   },
   {
    "row": "Messge27",
    "sub": 0,
    "col": "m_startMsg",
    "src": "e48db5e5bacf",
-   "t": ""
+   "t": "Heh, honored to be my playmate again?\nThis time... my Snipe deck will spoil you."
   },
   {
    "row": "Messge27",
    "sub": 0,
    "col": "m_winMsg",
    "src": "eb35a5f4aedd",
-   "t": ""
+   "t": "Ahaha! Amazing, you actually beat me.\nFine, I'll let this one count as your win."
   },
   {
    "row": "Messge27",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "f549f8ccb38b",
-   "t": ""
+   "t": "Just as I calculated. You lose.\nSo, how does it feel? Does losing sting?"
   },
   {
    "row": "Messge27",
    "sub": 1,
    "col": "m_startMsg",
    "src": "1ce78ea568df",
-   "t": ""
+   "t": "Wherever you run, my aim will find you.\nLet's see how long that smug face lasts...♪"
   },
   {
    "row": "Messge28",
    "sub": 0,
    "col": "m_startMsg",
    "src": "4773493ce919",
-   "t": ""
+   "t": "Kept you waiting! Today's me\nis a whole different beast!"
   },
   {
    "row": "Messge28",
    "sub": 0,
    "col": "m_winMsg",
    "src": "4fd9794891cc",
-   "t": ""
+   "t": "Aww... one step short again."
   },
   {
    "row": "Messge28",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge28",
    "sub": 1,
    "col": "m_startMsg",
    "src": "180a29ebb3a4",
-   "t": ""
+   "t": "Let's fire up our souls! An all-out Robattle!\nHere we go, my new partner Arcadia!!"
   },
   {
    "row": "Messge28",
    "sub": 1,
    "col": "m_winMsg",
    "src": "b43a32eebbbb",
-   "t": ""
+   "t": "You're amazing. Thanks for a great Robattle!"
   },
   {
    "row": "Messge29",
    "sub": 0,
    "col": "m_startMsg",
    "src": "4773493ce919",
-   "t": ""
+   "t": "Kept you waiting! Today's me\nis a whole different beast!"
   },
   {
    "row": "Messge29",
    "sub": 0,
    "col": "m_winMsg",
    "src": "4fd9794891cc",
-   "t": ""
+   "t": "Aww... one step short again."
   },
   {
    "row": "Messge29",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge29",
    "sub": 1,
    "col": "m_startMsg",
    "src": "a98d609efd7d",
-   "t": ""
+   "t": "Let's fire up our souls! An all-out Robattle!\nHere we go, my new partner Thrud!!"
   },
   {
    "row": "Messge29",
    "sub": 1,
    "col": "m_winMsg",
    "src": "b43a32eebbbb",
-   "t": ""
+   "t": "You're amazing. Thanks for a great Robattle!"
   },
   {
    "row": "Messge30",
    "sub": 0,
    "col": "m_startMsg",
    "src": "69b8ac1d6d51",
-   "t": ""
+   "t": "U-um... all the data has been cross-checked.\nMy calculations hold no errors now."
   },
   {
    "row": "Messge30",
    "sub": 0,
    "col": "m_winMsg",
    "src": "12436c0ce001",
-   "t": ""
+   "t": "N-no way...! I've lost again...!?\nDid my calculations go wrong somewhere...?"
   },
   {
    "row": "Messge30",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "769fb45298b1",
-   "t": ""
+   "t": "My my, over already?\nHow terribly anticlimactic."
   },
   {
    "row": "Messge30",
    "sub": 1,
    "col": "m_startMsg",
    "src": "481789fe99a7",
-   "t": ""
+   "t": "With this Sword Drone deck,\nI shall show you my true skill in full!"
   },
   {
    "row": "Messge31",
    "sub": 0,
    "col": "m_startMsg",
    "src": "9b1b49ec38b6",
-   "t": ""
+   "t": "We meet again! I'm here to settle the score.\nMy partner this time is Armor Chario!"
   },
   {
    "row": "Messge31",
    "sub": 0,
    "col": "m_winMsg",
    "src": "188da155669b",
-   "t": ""
+   "t": "...Tch, pathetic.\nYou saw through the weakness in my guard."
   },
   {
    "row": "Messge31",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "259d5df9aa39",
-   "t": ""
+   "t": "Good match.\nBut sharpen your skills and come back!"
   },
   {
    "row": "Messge31",
    "sub": 1,
    "col": "m_startMsg",
    "src": "35450b0188f4",
-   "t": ""
+   "t": "My defense is an iron wall.\nDon't think puny attacks will break it."
   },
   {
    "row": "Messge32",
    "sub": 0,
    "col": "m_startMsg",
    "src": "32d31d36ee0c",
-   "t": ""
+   "t": "Well then, are you ready?\nDon't get cocky over a single win."
   },
   {
    "row": "Messge32",
    "sub": 0,
    "col": "m_winMsg",
    "src": "408ee0f546cb",
-   "t": ""
+   "t": "...Nngh, my loss.\nIt won't go this way next time!"
   },
   {
    "row": "Messge32",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "ca48de510e92",
-   "t": ""
+   "t": "Hmph, you entertained me a little.\nA fine battle. You have my thanks."
   },
   {
    "row": "Messge32",
    "sub": 1,
    "col": "m_startMsg",
    "src": "20111c2c740b",
-   "t": ""
+   "t": "The next field will be layered with traps.\nI'll see just how long you can struggle on!"
   },
   {
    "row": "Messge33",
    "sub": 0,
    "col": "m_startMsg",
    "src": "0b300d826404",
-   "t": ""
+   "t": "Ahaha, playing with you again is the best!\nMy partner this time is Shushu Pop!"
   },
   {
    "row": "Messge33",
    "sub": 0,
    "col": "m_winMsg",
    "src": "c2e4b4e39fd5",
-   "t": ""
+   "t": "Ahaha! I lost again...\nYou're really strong!"
   },
   {
    "row": "Messge33",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2a669aabef0e",
-   "t": ""
+   "t": "Yay, I win!\nAhaha, that was so much fun!"
   },
   {
    "row": "Messge33",
    "sub": 1,
    "col": "m_startMsg",
    "src": "071d6a3b882b",
-   "t": ""
+   "t": "I'll show you the power of teamwork!\nOkay then... heeere I go!"
   },
   {
    "row": "Messge34",
    "sub": 0,
    "col": "m_startMsg",
    "src": "27221ad9fbf5",
-   "t": ""
+   "t": "Finally, you're here!\nI'm fired up on a whole new level today!"
   },
   {
    "row": "Messge34",
    "sub": 0,
    "col": "m_winMsg",
    "src": "afc306742f70",
-   "t": ""
+   "t": "I wasn't strong enough... But this regret\nwill only make me stronger. Just watch!"
   },
   {
    "row": "Messge34",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge34",
    "sub": 1,
    "col": "m_startMsg",
    "src": "4e729b408e2f",
-   "t": ""
+   "t": "No holding back, I'm going all out!\nHere we go, Robattle!!"
   },
   {
    "row": "Messge35",
    "sub": 0,
    "col": "m_startMsg",
    "src": "27221ad9fbf5",
-   "t": ""
+   "t": "Finally, you're here!\nI'm fired up on a whole new level today!"
   },
   {
    "row": "Messge35",
    "sub": 0,
    "col": "m_winMsg",
    "src": "afc306742f70",
-   "t": ""
+   "t": "I wasn't strong enough... But this regret\nwill only make me stronger. Just watch!"
   },
   {
    "row": "Messge35",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge35",
    "sub": 1,
    "col": "m_startMsg",
    "src": "4e729b408e2f",
-   "t": ""
+   "t": "No holding back, I'm going all out!\nHere we go, Robattle!!"
   },
   {
    "row": "Messge36",
    "sub": 0,
    "col": "m_startMsg",
    "src": "4f3a1a1ef068",
-   "t": ""
+   "t": "You've shamed me twice now, robo...!\nThis deck is nothing like the last ones, robo!"
   },
   {
    "row": "Messge36",
    "sub": 0,
    "col": "m_winMsg",
    "src": "2821541288ec",
-   "t": ""
+   "t": "Gyaaah! I meant to drag you down with me,\nbut only I fell into ruin, roboo!"
   },
   {
    "row": "Messge36",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "726df2a1df45",
-   "t": ""
+   "t": "See that, robo!\nOne step closer to world domination, robo!"
   },
   {
    "row": "Messge36",
    "sub": 1,
    "col": "m_startMsg",
    "src": "3192b1caaad0",
-   "t": ""
+   "t": "A Sacrifice deck ready to self-destruct, robo!\nGo down in tatters with me, roboooo!!"
   },
   {
    "row": "Messge37",
    "sub": 0,
    "col": "m_startMsg",
    "src": "cc9d053c8c84",
-   "t": ""
+   "t": "I'm a different opponent this time.\nThis quick cooldown deck will bury you fast!"
   },
   {
    "row": "Messge37",
    "sub": 0,
    "col": "m_winMsg",
    "src": "05949056d931",
-   "t": ""
+   "t": "You're kidding...?\nIt galls me, but I must admit defeat."
   },
   {
    "row": "Messge37",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "ca48de510e92",
-   "t": ""
+   "t": "Hmph, you entertained me a little.\nA fine battle. You have my thanks."
   },
   {
    "row": "Messge37",
    "sub": 1,
    "col": "m_startMsg",
    "src": "ddc2116a72f7",
-   "t": ""
+   "t": "This is a contest of speed.\n...Can you keep up to the very end?"
   },
   {
    "row": "Messge38",
    "sub": 0,
    "col": "m_startMsg",
    "src": "98a37464be94",
-   "t": ""
+   "t": "Heh, want to play with me again?\nMy Leader this time is Marine Healer."
   },
   {
    "row": "Messge38",
    "sub": 0,
    "col": "m_winMsg",
    "src": "ea34397b2bd8",
-   "t": ""
+   "t": "Oh dear, I lost.\nMy healing couldn't keep up? You're pushy."
   },
   {
    "row": "Messge38",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "b48f7ca5200c",
-   "t": ""
+   "t": "Heh, I win! You did your best, but\nit seems I was one step ahead after all."
   },
   {
    "row": "Messge38",
    "sub": 1,
    "col": "m_startMsg",
    "src": "ba003259e64b",
-   "t": ""
+   "t": "My healing deck will stick with you foreeever.\n...Think you have the patience to last?"
   },
   {
    "row": "Messge39",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7af720ea73ac",
-   "t": ""
+   "t": "My partner this time is Riarira!\nI built a brand-new deck, too."
   },
   {
    "row": "Messge39",
    "sub": 0,
    "col": "m_winMsg",
    "src": "2d7c8e80834c",
-   "t": ""
+   "t": "Whoaaa, you read me completely!?\nYou really are the best!"
   },
   {
    "row": "Messge39",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2a669aabef0e",
-   "t": ""
+   "t": "Yay, I win!\nAhaha, that was so much fun!"
   },
   {
    "row": "Messge39",
    "sub": 1,
    "col": "m_startMsg",
    "src": "5e684c2e815e",
-   "t": ""
+   "t": "I call it my Rapid-Fire Shooting deck!\nThis time I win for sure! ...Heeere I go!"
   },
   {
    "row": "Messge40",
    "sub": 0,
    "col": "m_startMsg",
    "src": "a50a3448268c",
-   "t": ""
+   "t": "Hey, I've been waiting! Me and my deck\nhave been itching to fight you."
   },
   {
    "row": "Messge40",
    "sub": 0,
    "col": "m_winMsg",
    "src": "f088eca158ea",
-   "t": ""
+   "t": "You're strong! But I'm not giving up yet.\nI won't lose next time!"
   },
   {
    "row": "Messge40",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge40",
    "sub": 1,
    "col": "m_startMsg",
    "src": "1a527c2c09be",
-   "t": ""
+   "t": "I've evolved hotter than ever!\nLet's see whose fire burns higher!"
   },
   {
    "row": "Messge41",
    "sub": 0,
    "col": "m_startMsg",
    "src": "a50a3448268c",
-   "t": ""
+   "t": "Hey, I've been waiting! Me and my deck\nhave been itching to fight you."
   },
   {
    "row": "Messge41",
    "sub": 0,
    "col": "m_winMsg",
    "src": "f088eca158ea",
-   "t": ""
+   "t": "You're strong! But I'm not giving up yet.\nI won't lose next time!"
   },
   {
    "row": "Messge41",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge41",
    "sub": 1,
    "col": "m_startMsg",
    "src": "1a527c2c09be",
-   "t": ""
+   "t": "I've evolved hotter than ever!\nLet's see whose fire burns higher!"
   },
   {
    "row": "Messge42",
    "sub": 0,
    "col": "m_startMsg",
    "src": "c82b030ba99c",
-   "t": ""
+   "t": "This time the field is frozen tundra.\nThis is my partner Frappé's home turf!"
   },
   {
    "row": "Messge42",
    "sub": 0,
    "col": "m_winMsg",
    "src": "5c787a36f730",
-   "t": ""
+   "t": "Impossible...! My healing can't keep up...!?\nDamn it, a total loss!"
   },
   {
    "row": "Messge42",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "7eb4822c933f",
-   "t": ""
+   "t": "Good match.\nSharpen your skills and come back!"
   },
   {
    "row": "Messge42",
    "sub": 1,
    "col": "m_startMsg",
    "src": "3b122c52051e",
-   "t": ""
+   "t": "I'll guard, heal, and claw back every time...\nThird time's the charm, I'll show you!"
   },
   {
    "row": "Messge43",
    "sub": 0,
    "col": "m_startMsg",
    "src": "5681a8b6ecdf",
-   "t": ""
+   "t": "Whoa, fired up, huh? That's the spirit!\nBut I've retooled my deck for the rematch."
   },
   {
    "row": "Messge43",
    "sub": 0,
    "col": "m_winMsg",
    "src": "a174a4e6c00f",
-   "t": ""
+   "t": "You're far sharper than before.\nFeels great. Your offense is the real deal!"
   },
   {
    "row": "Messge43",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge43",
    "sub": 1,
    "col": "m_startMsg",
    "src": "a64f0c6fcb0b",
-   "t": ""
+   "t": "I've prepared the ultimate \"shield.\"\nI'll take your best shot. ...Don't hold back!"
   },
   {
    "row": "Messge44",
    "sub": 0,
    "col": "m_startMsg",
    "src": "4c2970c78ae5",
-   "t": ""
+   "t": "Heh, you really do want to play with me.\nBut don't expect the same as last time."
   },
   {
    "row": "Messge44",
    "sub": 0,
    "col": "m_winMsg",
    "src": "257a1cad9912",
-   "t": ""
+   "t": "Mm... I lost. Next time will be different...\nRemember that, all right?"
   },
   {
    "row": "Messge44",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "b48f7ca5200c",
-   "t": ""
+   "t": "Heh, I win! You did your best, but\nit seems I was one step ahead after all."
   },
   {
    "row": "Messge44",
    "sub": 1,
    "col": "m_startMsg",
    "src": "e16f662afd6c",
-   "t": ""
+   "t": "This one's an Ailment Cross Attack deck.\n...Now then, let's have some fun!"
   },
   {
    "row": "Messge45",
    "sub": 0,
    "col": "m_startMsg",
    "src": "f5d6a016274b",
-   "t": ""
+   "t": "Heh. You really are a glutton for punishment.\nFine, I'll let you taste the finest despair."
   },
   {
    "row": "Messge45",
    "sub": 0,
    "col": "m_winMsg",
    "src": "ccc56da99009",
-   "t": ""
+   "t": "Ahaha! You beat me a third time too...\nYou really aren't cute at all."
   },
   {
    "row": "Messge45",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "f549f8ccb38b",
-   "t": ""
+   "t": "Just as I calculated. You lose.\nSo, how does it feel? Does losing sting?"
   },
   {
    "row": "Messge45",
    "sub": 1,
    "col": "m_startMsg",
    "src": "f3b5f9d9e44a",
-   "t": ""
+   "t": "I'll purify \"filth\" like you with holy light.\n...So, ready to kneel before me? Ahaha♪"
   },
   {
    "row": "Messge46",
    "sub": 0,
    "col": "m_startMsg",
    "src": "f13d30bea776",
-   "t": ""
+   "t": "Kept you waiting! To fight you,\nI survived training from hell."
   },
   {
    "row": "Messge46",
    "sub": 0,
    "col": "m_winMsg",
    "src": "6f0ac7f6ff12",
-   "t": ""
+   "t": "...A total loss!\nYou really are amazing."
   },
   {
    "row": "Messge46",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge46",
    "sub": 1,
    "col": "m_startMsg",
    "src": "5495dbef5887",
-   "t": ""
+   "t": "Power far beyond anything you imagined,\nI'll show you right now! Here goes!!"
   },
   {
    "row": "Messge46",
    "sub": 1,
    "col": "m_winMsg",
    "src": "e12b11ae6732",
-   "t": ""
+   "t": "I'm lucky to have a rival as great as you!\nI'll settle this next Robattle. Promise!"
   },
   {
    "row": "Messge47",
    "sub": 0,
    "col": "m_startMsg",
    "src": "f13d30bea776",
-   "t": ""
+   "t": "Kept you waiting! To fight you,\nI survived training from hell."
   },
   {
    "row": "Messge47",
    "sub": 0,
    "col": "m_winMsg",
    "src": "6f0ac7f6ff12",
-   "t": ""
+   "t": "...A total loss!\nYou really are amazing."
   },
   {
    "row": "Messge47",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge47",
    "sub": 1,
    "col": "m_startMsg",
    "src": "5495dbef5887",
-   "t": ""
+   "t": "Power far beyond anything you imagined,\nI'll show you right now! Here goes!!"
   },
   {
    "row": "Messge47",
    "sub": 1,
    "col": "m_winMsg",
    "src": "e12b11ae6732",
-   "t": ""
+   "t": "I'm lucky to have a rival as great as you!\nI'll settle this next Robattle. Promise!"
   },
   {
    "row": "Messge48",
    "sub": 0,
    "col": "m_startMsg",
    "src": "37e82351c5ea",
-   "t": ""
+   "t": "U-um... behold the sum of all my data:\nmy \"conclusion.\" Please look upon it."
   },
   {
    "row": "Messge48",
    "sub": 0,
    "col": "m_winMsg",
    "src": "f2bf411a8cc6",
-   "t": ""
+   "t": "A... ah, aah... I cannot believe it...!\nI no longer know how to calculate at all..."
   },
   {
    "row": "Messge48",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "769fb45298b1",
-   "t": ""
+   "t": "My my, over already?\nHow terribly anticlimactic."
   },
   {
    "row": "Messge48",
    "sub": 1,
    "col": "m_startMsg",
    "src": "d44c4aeea899",
-   "t": ""
+   "t": "This is the ultimate Support-boost deck!\nMy perfect formation leaves you helpless."
   },
   {
    "row": "Messge49",
    "sub": 0,
    "col": "m_startMsg",
    "src": "0544a283b1d5",
-   "t": ""
+   "t": "My deck this time is a Trap Set deck,\nhoned even sharper than before."
   },
   {
    "row": "Messge49",
    "sub": 0,
    "col": "m_winMsg",
    "src": "b50b95813531",
-   "t": ""
+   "t": "A total defeat for me.\nSplendid, a magnificent victory!"
   },
   {
    "row": "Messge49",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "ca48de510e92",
-   "t": ""
+   "t": "Hmph, you entertained me a little.\nA fine battle. You have my thanks."
   },
   {
    "row": "Messge49",
    "sub": 1,
    "col": "m_startMsg",
    "src": "05c7d05e44cb",
-   "t": ""
+   "t": "Once we begin, my traps will fill the field.\nLet's see how far you slip past my schemes!"
   },
   {
    "row": "Messge50",
    "sub": 0,
    "col": "m_startMsg",
    "src": "fa45d1e891ee",
-   "t": ""
+   "t": "This time I won't just endure.\nI'll throw all your force right back at you!"
   },
   {
    "row": "Messge50",
    "sub": 0,
    "col": "m_winMsg",
    "src": "f6a5094ca020",
-   "t": ""
+   "t": "Damn it...! Blasted through counter and all.\nMy upgraded iron wall... a total loss!"
   },
   {
    "row": "Messge50",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "7eb4822c933f",
-   "t": ""
+   "t": "Good match.\nSharpen your skills and come back!"
   },
   {
    "row": "Messge50",
    "sub": 1,
    "col": "m_startMsg",
    "src": "e6d7f8d196bb",
-   "t": ""
+   "t": "Roar, howl of steel!\nGo, Armor Chario!!"
   },
   {
    "row": "Messge51",
    "sub": 0,
    "col": "m_startMsg",
    "src": "f9e467ac3f17",
-   "t": ""
+   "t": "Don't get smug over a few wins, robo!\n\"Give up\" isn't in my dictionary, robo!"
   },
   {
    "row": "Messge51",
    "sub": 0,
    "col": "m_winMsg",
    "src": "540caf1d9eff",
-   "t": ""
+   "t": "My cards just came out badly today, robo!\nLuck siding with you too? Cheating, robo!"
   },
   {
    "row": "Messge51",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "726df2a1df45",
-   "t": ""
+   "t": "See that, robo!\nOne step closer to world domination, robo!"
   },
   {
    "row": "Messge51",
    "sub": 1,
    "col": "m_startMsg",
    "src": "bd9daff8c76f",
-   "t": ""
+   "t": "This time I'll break your pride, robo.\nBehold my polished true power, robo!!"
   },
   {
    "row": "Messge52",
    "sub": 0,
    "col": "m_startMsg",
    "src": "428f8d3ff8c5",
-   "t": ""
+   "t": "Heh, you really do love playing with me.\nFine, if you insist, I'll make it more fun."
   },
   {
    "row": "Messge52",
    "sub": 0,
    "col": "m_winMsg",
    "src": "09df96f1f481",
-   "t": ""
+   "t": "Whoa... I lost, completely!\n...You really don't hold back, do you!"
   },
   {
    "row": "Messge52",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "b48f7ca5200c",
-   "t": ""
+   "t": "Heh, I win! You did your best, but\nit seems I was one step ahead after all."
   },
   {
    "row": "Messge52",
    "sub": 1,
    "col": "m_startMsg",
    "src": "51dde7b16666",
-   "t": ""
+   "t": "This deck is my \"ace in the hole.\"\n...Now, who wins this time, I wonder?"
   },
   {
    "row": "Messge53",
    "sub": 0,
    "col": "m_startMsg",
    "src": "a2d9a745b8d6",
-   "t": ""
+   "t": "My partner this time is Shushu Pop!\n...But don't expect the same as before!"
   },
   {
    "row": "Messge53",
    "sub": 0,
    "col": "m_winMsg",
    "src": "e4465efc5cc9",
-   "t": ""
+   "t": "...Phew, a total loss. You win!\nThanks for the best time ever!"
   },
   {
    "row": "Messge53",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2a669aabef0e",
-   "t": ""
+   "t": "Yay, I win!\nAhaha, that was so much fun!"
   },
   {
    "row": "Messge53",
    "sub": 1,
    "col": "m_startMsg",
    "src": "42670670f840",
-   "t": ""
+   "t": "Watch this, my Deathlock Set deck!\nNow break through my traps! Heeere I go!!"
   },
   {
    "row": "Messge54",
    "sub": 0,
    "col": "m_startMsg",
    "src": "974c4c64f9d2",
-   "t": ""
+   "t": "Good face you've got. I'll answer that spirit\nwith my full firepower."
   },
   {
    "row": "Messge54",
    "sub": 0,
    "col": "m_winMsg",
    "src": "959600255114",
-   "t": ""
+   "t": "...Phew. Honestly, I thought I had this won.\nTotal loss. You're further along than I knew."
   },
   {
    "row": "Messge54",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge54",
    "sub": 1,
    "col": "m_startMsg",
    "src": "4eed275bb53b",
-   "t": ""
+   "t": "Arcbeetle and I will see for ourselves\nhow far you've grown!"
   },
   {
    "row": "Messge55",
    "sub": 0,
    "col": "m_startMsg",
    "src": "974c4c64f9d2",
-   "t": ""
+   "t": "Good face you've got. I'll answer that spirit\nwith my full firepower."
   },
   {
    "row": "Messge55",
    "sub": 0,
    "col": "m_winMsg",
    "src": "959600255114",
-   "t": ""
+   "t": "...Phew. Honestly, I thought I had this won.\nTotal loss. You're further along than I knew."
   },
   {
    "row": "Messge55",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "2b974c0fe438",
-   "t": ""
+   "t": "I'll take you on anytime.\nCome back stronger!"
   },
   {
    "row": "Messge55",
    "sub": 1,
    "col": "m_startMsg",
    "src": "2cf6b820eabf",
-   "t": ""
+   "t": "Titan Beetle and I will see for ourselves\nhow far you've grown!"
   },
   {
    "row": "Messge56",
    "sub": 0,
    "col": "m_startMsg",
    "src": "73b8702a7b6d",
-   "t": ""
+   "t": "You really do love getting my attention.\nFine. I'll play with you one more time."
   },
   {
    "row": "Messge56",
    "sub": 0,
    "col": "m_winMsg",
    "src": "e0662985103b",
-   "t": ""
+   "t": "W-what?! No way! This makes no sense!\n...Ugh, so annoying! That one doesn't count!!"
   },
   {
    "row": "Messge56",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "322d28b61b21",
-   "t": ""
+   "t": "Just as I calculated. You lose.\nSo, how does it feel? Does losing sting?"
   },
   {
    "row": "Messge56",
    "sub": 1,
    "col": "m_startMsg",
    "src": "989f74a213fd",
-   "t": ""
+   "t": "But I'm a little serious this time, okay?\nMy favorite deck will crush you flat."
   },
   {
    "row": "Messge57",
    "sub": 0,
    "col": "m_startMsg",
    "src": "82d3d9e554eb",
-   "t": ""
+   "t": "Well now, looks like you've grown nicely.\nThen I'll take you on myself."
   },
   {
    "row": "Messge57",
    "sub": 0,
    "col": "m_winMsg",
    "src": "6ca828330626",
-   "t": ""
+   "t": "Ha ha ha! Truly splendid work, pal!\nThat was a really fun match!"
   },
   {
    "row": "Messge57",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "a12733499c1f",
-   "t": ""
+   "t": "No good! You haven't studied nearly enough!"
   },
   {
    "row": "Messge57",
    "sub": 1,
    "col": "m_startMsg",
    "src": "fcd8c67100e1",
-   "t": ""
+   "t": "With Navico's Support-boosted deck,\nlet's see what you've got. Here we go!"
   },
   {
    "row": "Messge58",
    "sub": 0,
    "col": "m_startMsg",
    "src": "fe9b98ccb901",
-   "t": ""
+   "t": "Our Robattles will never end!\nToday, tomorrow, always, we'll keep competing."
   },
   {
    "row": "Messge58",
    "sub": 0,
    "col": "m_winMsg",
    "src": "872af75b7705",
-   "t": ""
+   "t": "Ngh... A total loss! Fighting you always\nshows me what I'm still missing."
   },
   {
    "row": "Messge58",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge58",
    "sub": 1,
    "col": "m_startMsg",
    "src": "74bdd7395d57",
-   "t": ""
+   "t": "Come on, see just how strong I've gotten...\nFeel it for yourself! Here we go!!"
   },
   {
    "row": "Messge58",
    "sub": 1,
    "col": "m_winMsg",
    "src": "e2dca8b586ca",
-   "t": ""
+   "t": "That's exactly why I can't quit Robattling!\nLet's make the next one even hotter!"
   },
   {
    "row": "Messge59",
    "sub": 0,
    "col": "m_startMsg",
    "src": "fe9b98ccb901",
-   "t": ""
+   "t": "Our Robattles will never end!\nToday, tomorrow, always, we'll keep competing."
   },
   {
    "row": "Messge59",
    "sub": 0,
    "col": "m_winMsg",
    "src": "872af75b7705",
-   "t": ""
+   "t": "Ngh... A total loss! Fighting you always\nshows me what I'm still missing."
   },
   {
    "row": "Messge59",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "bcd7e5797088",
-   "t": ""
+   "t": "All right! The win's mine!\nRobattling you is fun! Let's Robattle again!"
   },
   {
    "row": "Messge59",
    "sub": 1,
    "col": "m_startMsg",
    "src": "74bdd7395d57",
-   "t": ""
+   "t": "Come on, see just how strong I've gotten...\nFeel it for yourself! Here we go!!"
   },
   {
    "row": "Messge59",
    "sub": 1,
    "col": "m_winMsg",
    "src": "e2dca8b586ca",
-   "t": ""
+   "t": "That's exactly why I can't quit Robattling!\nLet's make the next one even hotter!"
   },
   {
    "row": "Messge60",
    "sub": 0,
    "col": "m_startMsg",
    "src": "1048a9ba94ee",
-   "t": ""
+   "t": "Let us begin. Only a supreme being like me\ncan play this perfect rondo of victory."
   },
   {
    "row": "Messge60",
    "sub": 0,
    "col": "m_winMsg",
    "src": "b43fa80a4af0",
-   "t": ""
+   "t": "Heh... Ahahaha! Magnificent!\nTo paint my life with such \"humiliation\"!"
   },
   {
    "row": "Messge60",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "76027a5acc74",
-   "t": ""
+   "t": "I have seen your efforts.\nBut all bow before my supreme radiance."
   },
   {
    "row": "Messge60",
    "sub": 1,
    "col": "m_startMsg",
    "src": "a3f9ccdd24dc",
-   "t": ""
+   "t": "Praise Meteoranisi, the wing of my soul!\nKneel before the raging storm's baptism!"
   },
   {
    "row": "Messge60",
    "sub": 1,
    "col": "m_winMsg",
    "src": "6a6e576a85d0",
-   "t": ""
+   "t": "Very well, I shall withdraw this time.\nBut when next we meet..."
   },
   {
    "row": "Messge60",
    "sub": 2,
    "col": "m_winMsg",
    "src": "800ff0653975",
-   "t": ""
+   "t": "With a storm no trick can withstand,\nI shall crush you utterly!"
   },
   {
    "row": "Messge61",
    "sub": 0,
    "col": "m_startMsg",
    "src": "688be825c93b",
-   "t": ""
+   "t": "U-um... according to my simulation,\nthis match is as good as decided already."
   },
   {
    "row": "Messge61",
    "sub": 0,
    "col": "m_winMsg",
    "src": "50ff8cd8c2bb",
-   "t": ""
+   "t": "N-no way... That's outside my calculations!\nIs my calculator broken...?"
   },
   {
    "row": "Messge61",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "a23c7f28214b",
-   "t": ""
+   "t": "My, the win is mine.\nEverything ended just as I calculated."
   },
   {
    "row": "Messge62",
    "sub": 0,
    "col": "m_startMsg",
    "src": "1613276c3bdf",
-   "t": ""
+   "t": "Throw everything you have at me.\nDon't bore me, now."
   },
   {
    "row": "Messge62",
    "sub": 0,
    "col": "m_winMsg",
    "src": "5f74697d997f",
-   "t": ""
+   "t": "...Not bad at all.\nI admit it: this time I lose."
   },
   {
    "row": "Messge62",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "5aa87520220e",
-   "t": ""
+   "t": "My win. You still fall short of me.\n...Still, I'll grant you your spirit."
   },
   {
    "row": "Messge63",
    "sub": 0,
    "col": "m_startMsg",
    "src": "2e39bca06979",
-   "t": ""
+   "t": "It's Robattle time!\nI won't be holding back!"
   },
   {
    "row": "Messge63",
    "sub": 0,
    "col": "m_winMsg",
    "src": "4dd7ba252493",
-   "t": ""
+   "t": "You're kidding...!? I got outread...?\nTch, pathetic. A total loss."
   },
   {
    "row": "Messge63",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "c4231a6271b1",
-   "t": ""
+   "t": "Sorry, my gut roared \"now!\" at me.\nMake the next Robattle even hotter!"
   },
   {
    "row": "Messge64",
    "sub": 0,
    "col": "m_startMsg",
    "src": "a2ed18eb4d1d",
-   "t": ""
+   "t": "Hey, you there!\nWant to pass? Beat me first, robo!"
   },
   {
    "row": "Messge64",
    "sub": 0,
    "col": "m_winMsg",
    "src": "0c9d86ebf6b1",
-   "t": ""
+   "t": "I lost, robo! ...You cheated, robo!?\nI won't accept this, I won't, robooo!!"
   },
   {
    "row": "Messge64",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "726df2a1df45",
-   "t": ""
+   "t": "See that, robo!\nOne step closer to world domination, robo!"
   },
   {
    "row": "Messge65",
    "sub": 0,
    "col": "m_startMsg",
    "src": "ca51bcba9c1f",
-   "t": ""
+   "t": "Shall we begin?\nI can't wait to see what hand you play."
   },
   {
    "row": "Messge65",
    "sub": 0,
    "col": "m_winMsg",
    "src": "5c44606695be",
-   "t": ""
+   "t": "Oh dear, I lose.\nHeh, you're better than I thought."
   },
   {
    "row": "Messge65",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "ad62c1787dda",
-   "t": ""
+   "t": "Yay, victory!\nI might play with you one more time?"
   },
   {
    "row": "Messge66",
    "sub": 0,
    "col": "m_startMsg",
    "src": "9ea9c11056dd",
-   "t": ""
+   "t": "Yoo-hoo! Care for a match with me?\nCome at me with everything! Here we gooo!"
   },
   {
    "row": "Messge66",
    "sub": 0,
    "col": "m_winMsg",
    "src": "0367141523b8",
-   "t": ""
+   "t": "Ahaha! I lost!\n...Wow! But next time won't go like this!"
   },
   {
    "row": "Messge66",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "d573bd523802",
-   "t": ""
+   "t": "Ahaha! My plan worked perfectly!\nThanks for the fun! Let's play again!"
   },
   {
    "row": "Messge67",
    "sub": 0,
    "col": "m_startMsg",
    "src": "5c3e8e882b61",
-   "t": ""
+   "t": "...Ready?\nNo need to hold back. Come straight at me!"
   },
   {
    "row": "Messge67",
    "sub": 0,
    "col": "m_winMsg",
    "src": "7ac1d430114a",
-   "t": ""
+   "t": "I see, so there's an attack like that too.\n...Next time I won't lose. Face me again!"
   },
   {
    "row": "Messge67",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "011275734827",
-   "t": ""
+   "t": "Good match!\nThat was a blast. Let's do it again!"
   },
   {
    "row": "Messge68",
    "sub": 0,
    "col": "m_startMsg",
    "src": "1b45aba515a0",
-   "t": ""
+   "t": "Want to play? Fine, I was just bored anyway.\nI'll let you make me look good for a bit."
   },
   {
    "row": "Messge68",
    "sub": 0,
    "col": "m_winMsg",
    "src": "80e70f234e51",
-   "t": ""
+   "t": "...H-hmph! I was just unlucky today.\nDon't think you'll win next time too!"
   },
   {
    "row": "Messge68",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "e7ec6c99b796",
-   "t": ""
+   "t": "Huh, that's it already?\nWhere'd all that bravado go? Looo~ser."
   },
   {
    "row": "Messge69",
    "sub": 0,
    "col": "m_startMsg",
    "src": "25e76e62b859",
-   "t": ""
+   "t": "Well now, I've been waiting! This deck was\ntuned by a genius. It won't crack easily!"
   },
   {
    "row": "Messge69",
    "sub": 0,
    "col": "m_winMsg",
    "src": "4bbf935527e1",
-   "t": ""
+   "t": "Well, well...!\nTo think I'd be swept off my feet so neatly."
   },
   {
    "row": "Messge69",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "97d07b75aff4",
-   "t": ""
+   "t": "My win! In the end, love always wins.\nYou've got to love your cards more!"
   },
   {
    "row": "Messge70",
    "sub": 0,
    "col": "m_startMsg",
    "src": "b98153e3735b",
-   "t": ""
+   "t": "Sorry to keep you! You fire me up the most,\nso I'll beat you and take the best win ever!"
   },
   {
    "row": "Messge70",
    "sub": 0,
    "col": "m_winMsg",
    "src": "1b93aaf16b56",
-   "t": ""
+   "t": "A total loss...! I've carved your strength\ninto my heart. I'll come back far stronger."
   },
   {
    "row": "Messge70",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "8f1e4b88bfb8",
-   "t": ""
+   "t": "Robattling you was blazing hot and thrilling!\nThanks for the match! I'll face you anytime."
   },
   {
    "row": "Messge71",
    "sub": 0,
    "col": "m_startMsg",
    "src": "7755304f6a81",
-   "t": ""
+   "t": "I shall carve what true struggle is\ninto that ignorant soul of yours."
   },
   {
    "row": "Messge71",
    "sub": 0,
    "col": "m_winMsg",
    "src": "b533dce9f098",
-   "t": ""
+   "t": "Impossible... I, miscalculate?\nMy chosen genius, my perfect tactics..."
   },
   {
    "row": "Messge71",
    "sub": 0,
    "col": "m_loseMsg",
    "src": "3ef0f6f08fc3",
-   "t": ""
+   "t": "A natural conclusion. Your defeat was sealed\nthe moment you faced me."
   },
   {
    "row": "Messge71",
    "sub": 1,
    "col": "m_winMsg",
    "src": "1244f609efdc",
-   "t": ""
+   "t": "And all of it yielded to you, that\n\"uncertain factor\"...!"
   }
  ]
 }

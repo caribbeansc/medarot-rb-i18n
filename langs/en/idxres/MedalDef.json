@@ -6,1092 +6,1092 @@
    "sub": 0,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 1,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "c5096435fe19",
-   "t": ""
+   "t": "Kabuto reached Level 2!\nMedaforce [Volley Fire] powered up!"
   },
   {
    "row": "Medal_00",
    "sub": 2,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "b837be62508c",
-   "t": ""
+   "t": "Kabuto reached Level 3!\nHuh? Something's happening to Kabuto..."
   },
   {
    "row": "Medal_00",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "23f35cabd971",
-   "t": ""
+   "t": "Kabuto reached Silver Rank!\nMedaforce [Reload] unlocked!"
   },
   {
    "row": "Medal_00",
    "sub": 3,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "746a5a8ebcbe",
-   "t": ""
+   "t": "Kabuto reached Level 4!\nMedaforce [Reload] powered up!"
   },
   {
    "row": "Medal_00",
    "sub": 4,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "f85df9fc6f51",
-   "t": ""
+   "t": "Kabuto reached Level 5!\nHuh? Something's happening to Kabuto..."
   },
   {
    "row": "Medal_00",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "1a83976161b0",
-   "t": ""
+   "t": "Kabuto rose to Gold rank!\nIt can now use the Medaforce \"Sonic Shot\"!"
   },
   {
    "row": "Medal_00",
    "sub": 5,
    "col": "m_name",
    "src": "322cc025563f",
-   "t": ""
+   "t": "Kabuto"
   },
   {
    "row": "Medal_00",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "035777bfc2a3",
-   "t": ""
+   "t": "Kabuto reached Level 6!\nMedaforce [Sonic Shot] powered up!"
   },
   {
    "row": "Medal_01",
    "sub": 0,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 1,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "e27932790bbf",
-   "t": ""
+   "t": "Elephant reached Level 2!\nMedaforce [Volley Fire] powered up!"
   },
   {
    "row": "Medal_01",
    "sub": 2,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "23bc2656dbb0",
-   "t": ""
+   "t": "Elephant reached Level 3!\nHuh? Something's happening to Elephant..."
   },
   {
    "row": "Medal_01",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "8adffa047f25",
-   "t": ""
+   "t": "Elephant reached Silver Rank!\nMedaforce [Reload] unlocked!"
   },
   {
    "row": "Medal_01",
    "sub": 3,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "afac23d65e4c",
-   "t": ""
+   "t": "Elephant reached Level 4!\nMedaforce [Reload] powered up!"
   },
   {
    "row": "Medal_01",
    "sub": 4,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "9ad1a00d6d1c",
-   "t": ""
+   "t": "Elephant reached Level 5!\nHuh? Something's happening to Elephant..."
   },
   {
    "row": "Medal_01",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "0c3ddae5b8bc",
-   "t": ""
+   "t": "Elephant reached Gold Rank!\nMedaforce [Rock Crusher] unlocked!"
   },
   {
    "row": "Medal_01",
    "sub": 5,
    "col": "m_name",
    "src": "9669c7aa0d83",
-   "t": ""
+   "t": "Elephant"
   },
   {
    "row": "Medal_01",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "1cb95b19cf33",
-   "t": ""
+   "t": "Elephant reached Level 6!\nMedaforce [Rock Crusher] powered up!"
   },
   {
    "row": "Medal_02",
    "sub": 0,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 1,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "08e19f31621d",
-   "t": ""
+   "t": "Kuwagata reached Level 2!\nMedaforce [Vertical Slash] powered up!"
   },
   {
    "row": "Medal_02",
    "sub": 2,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "172090d8d0aa",
-   "t": ""
+   "t": "Kuwagata reached Level 3!\nHuh? Something's happening to Kuwagata..."
   },
   {
    "row": "Medal_02",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "ddbc8cbbe0e5",
-   "t": ""
+   "t": "Kuwagata reached Silver Rank!\nMedaforce [Binder] unlocked!"
   },
   {
    "row": "Medal_02",
    "sub": 3,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "2946f84ca04d",
-   "t": ""
+   "t": "Kuwagata reached Level 4!\nMedaforce [Binder] powered up!"
   },
   {
    "row": "Medal_02",
    "sub": 4,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "891877066a9f",
-   "t": ""
+   "t": "Kuwagata reached Level 5!\nHuh? Something's happening to Kuwagata..."
   },
   {
    "row": "Medal_02",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "a2f449b394e3",
-   "t": ""
+   "t": "Kuwagata reached Gold Rank!\nMedaforce [Horizontal Slash] unlocked!"
   },
   {
    "row": "Medal_02",
    "sub": 5,
    "col": "m_name",
    "src": "bfa2aa04811a",
-   "t": ""
+   "t": "Kuwagata"
   },
   {
    "row": "Medal_02",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "f8b707f58f9b",
-   "t": ""
+   "t": "Kuwagata reached Level 6!\nMedaforce [Horizontal Slash] powered up!"
   },
   {
    "row": "Medal_03",
    "sub": 0,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 1,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "c1ecb2cd184f",
-   "t": ""
+   "t": "Butterfly reached Level 2!\nMedaforce [Vertical Slash] powered up!"
   },
   {
    "row": "Medal_03",
    "sub": 2,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "f6be1795c74a",
-   "t": ""
+   "t": "Butterfly reached Level 3!\nHuh? Something's happening to Butterfly..."
   },
   {
    "row": "Medal_03",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "cc2befabe452",
-   "t": ""
+   "t": "Butterfly reached Silver Rank!\nMedaforce [Binder] unlocked!"
   },
   {
    "row": "Medal_03",
    "sub": 3,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "619d61aee939",
-   "t": ""
+   "t": "Butterfly reached Level 4!\nMedaforce [Binder] powered up!"
   },
   {
    "row": "Medal_03",
    "sub": 4,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "af1cc05127bc",
-   "t": ""
+   "t": "Butterfly reached Level 5!\nHuh? Something's happening to Butterfly..."
   },
   {
    "row": "Medal_03",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "21123a24268e",
-   "t": ""
+   "t": "Butterfly reached Gold Rank!\nMedaforce [Lightning] unlocked!"
   },
   {
    "row": "Medal_03",
    "sub": 5,
    "col": "m_name",
    "src": "bd22ca83211f",
-   "t": ""
+   "t": "Butterfly"
   },
   {
    "row": "Medal_03",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "3894aae3f49e",
-   "t": ""
+   "t": "Butterfly reached Level 6!\nMedaforce [Lightning] powered up!"
   },
   {
    "row": "Medal_04",
    "sub": 0,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 1,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "73cfc63590f9",
-   "t": ""
+   "t": "King reached Level 2!\nMedaforce [Overdrive] powered up!"
   },
   {
    "row": "Medal_04",
    "sub": 2,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "0d7dd0f17b97",
-   "t": ""
+   "t": "King reached Level 3!\nHuh? Something's happening to King..."
   },
   {
    "row": "Medal_04",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "3af40a911518",
-   "t": ""
+   "t": "King reached Silver Rank!\nMedaforce [Supercharge] unlocked!"
   },
   {
    "row": "Medal_04",
    "sub": 3,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "f100c8cb01ca",
-   "t": ""
+   "t": "King reached Level 4!\nMedaforce [Supercharge] powered up!"
   },
   {
    "row": "Medal_04",
    "sub": 4,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "463d71899ca1",
-   "t": ""
+   "t": "King reached Level 5!\nHuh? Something's happening to King..."
   },
   {
    "row": "Medal_04",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "8b6e979a55e3",
-   "t": ""
+   "t": "King reached Gold Rank!\nMedaforce [Berserk] unlocked!"
   },
   {
    "row": "Medal_04",
    "sub": 5,
    "col": "m_name",
    "src": "af441cd351d1",
-   "t": ""
+   "t": "King"
   },
   {
    "row": "Medal_04",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "fe5793ff357f",
-   "t": ""
+   "t": "King reached Level 6!\nMedaforce [Berserk] powered up!"
   },
   {
    "row": "Medal_05",
    "sub": 0,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 1,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "994ea6475888",
-   "t": ""
+   "t": "Cat reached Level 2!\nMedaforce [Overdrive] powered up!"
   },
   {
    "row": "Medal_05",
    "sub": 2,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "98d05f1cc0de",
-   "t": ""
+   "t": "Cat reached Level 3!\nHuh? Something's happening to Cat..."
   },
   {
    "row": "Medal_05",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "2821e1126062",
-   "t": ""
+   "t": "Cat reached Silver Rank!\nMedaforce [Supercharge] unlocked!"
   },
   {
    "row": "Medal_05",
    "sub": 3,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "f445a094cbd9",
-   "t": ""
+   "t": "Cat reached Level 4!\nMedaforce [Supercharge] powered up!"
   },
   {
    "row": "Medal_05",
    "sub": 4,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "2240ebc9df1d",
-   "t": ""
+   "t": "Cat reached Level 5!\nHuh? Something's happening to Cat..."
   },
   {
    "row": "Medal_05",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "c211fa6f3aa3",
-   "t": ""
+   "t": "Cat reached Gold Rank!\nMedaforce [High Mobility] unlocked!"
   },
   {
    "row": "Medal_05",
    "sub": 5,
    "col": "m_name",
    "src": "95ef19aa6374",
-   "t": ""
+   "t": "Cat"
   },
   {
    "row": "Medal_05",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "530233360c78",
-   "t": ""
+   "t": "Cat reached Level 6!\nMedaforce [High Mobility] powered up!"
   },
   {
    "row": "Medal_06",
    "sub": 0,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 1,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "90a9cf860897",
-   "t": ""
+   "t": "Phoenix reached Level 2!\nMedaforce [Regenerate] powered up!"
   },
   {
    "row": "Medal_06",
    "sub": 2,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "c707cf684e8f",
-   "t": ""
+   "t": "Phoenix reached Level 3!\nHuh? Something's happening to Phoenix..."
   },
   {
    "row": "Medal_06",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "7ab29a5c1dbc",
-   "t": ""
+   "t": "Phoenix reached Silver Rank!\nMedaforce [Hyper Repair] unlocked!"
   },
   {
    "row": "Medal_06",
    "sub": 3,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "31703ed69bf4",
-   "t": ""
+   "t": "Phoenix reached Level 4!\nMedaforce [Hyper Repair] powered up!"
   },
   {
    "row": "Medal_06",
    "sub": 4,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "907d956fd17f",
-   "t": ""
+   "t": "Phoenix reached Level 5!\nHuh? Something's happening to Phoenix..."
   },
   {
    "row": "Medal_06",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "271296b96d6a",
-   "t": ""
+   "t": "Phoenix reached Gold Rank!\nMedaforce [All Reverse] unlocked!"
   },
   {
    "row": "Medal_06",
    "sub": 5,
    "col": "m_name",
    "src": "9c36935cab82",
-   "t": ""
+   "t": "Phoenix"
   },
   {
    "row": "Medal_06",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "f4bca2d74750",
-   "t": ""
+   "t": "Phoenix reached Level 6!\nMedaforce [All Reverse] powered up!"
   },
   {
    "row": "Medal_07",
    "sub": 0,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 1,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "d935e56be66c",
-   "t": ""
+   "t": "Nurse reached Level 2!\nMedaforce [Regenerate] powered up!"
   },
   {
    "row": "Medal_07",
    "sub": 2,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "97dd395ae631",
-   "t": ""
+   "t": "Nurse reached Level 3!\nHuh? Something's happening to Nurse..."
   },
   {
    "row": "Medal_07",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "b15b1d01731d",
-   "t": ""
+   "t": "Nurse reached Silver Rank!\nMedaforce [Hyper Repair] unlocked!"
   },
   {
    "row": "Medal_07",
    "sub": 3,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "1bdfaa99a209",
-   "t": ""
+   "t": "Nurse reached Level 4!\nMedaforce [Hyper Repair] powered up!"
   },
   {
    "row": "Medal_07",
    "sub": 4,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "5df337514b4e",
-   "t": ""
+   "t": "Nurse reached Level 5!\nHuh? Something's happening to Nurse..."
   },
   {
    "row": "Medal_07",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "7dd6ec5d5aea",
-   "t": ""
+   "t": "Nurse reached Gold Rank!\nMedaforce [Restnation] unlocked!"
   },
   {
    "row": "Medal_07",
    "sub": 5,
    "col": "m_name",
    "src": "b8b957497ad7",
-   "t": ""
+   "t": "Nurse"
   },
   {
    "row": "Medal_07",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "de37ab2a7d70",
-   "t": ""
+   "t": "Nurse reached Level 6!\nMedaforce [Restnation] powered up!"
   },
   {
    "row": "Medal_08",
    "sub": 0,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 1,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "168f9822bb5b",
-   "t": ""
+   "t": "Tortoise reached Level 2!\nMedaforce [Impregnable] powered up!"
   },
   {
    "row": "Medal_08",
    "sub": 2,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "146425b13a96",
-   "t": ""
+   "t": "Tortoise reached Level 3!\nHuh? Something's happening to Tortoise..."
   },
   {
    "row": "Medal_08",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "e227b1e9bc35",
-   "t": ""
+   "t": "Tortoise reached Silver Rank!\nMedaforce [High Defense] unlocked!"
   },
   {
    "row": "Medal_08",
    "sub": 3,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "907a53af6ba9",
-   "t": ""
+   "t": "Tortoise reached Level 4!\nMedaforce [High Defense] powered up!"
   },
   {
    "row": "Medal_08",
    "sub": 4,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "a96dfe206302",
-   "t": ""
+   "t": "Tortoise reached Level 5!\nHuh? Something's happening to Tortoise..."
   },
   {
    "row": "Medal_08",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "2658ebbaf716",
-   "t": ""
+   "t": "Tortoise reached Gold Rank!\nMedaforce [Protection] unlocked!"
   },
   {
    "row": "Medal_08",
    "sub": 5,
    "col": "m_name",
    "src": "97a352a1c252",
-   "t": ""
+   "t": "Tortoise"
   },
   {
    "row": "Medal_08",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "aeeff8cf98de",
-   "t": ""
+   "t": "Tortoise reached Level 6!\nMedaforce [Protection] powered up!"
   },
   {
    "row": "Medal_09",
    "sub": 0,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 1,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "15fbce874b9c",
-   "t": ""
+   "t": "Knight reached Level 2!\nMedaforce [Impregnable] powered up!"
   },
   {
    "row": "Medal_09",
    "sub": 2,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "bff9710f9c44",
-   "t": ""
+   "t": "Knight reached Level 3!\nHuh? Knight is acting strange..."
   },
   {
    "row": "Medal_09",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "b294a46095db",
-   "t": ""
+   "t": "Knight rose to Silver Rank!\nLearned the Medaforce \"High Defense\"!"
   },
   {
    "row": "Medal_09",
    "sub": 3,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "9b8501f6b536",
-   "t": ""
+   "t": "Knight reached Level 4!\nMedaforce \"High Defense\" was powered up!"
   },
   {
    "row": "Medal_09",
    "sub": 4,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "86d8b8cf7012",
-   "t": ""
+   "t": "Knight reached Level 5!\nHuh? Knight is acting strange..."
   },
   {
    "row": "Medal_09",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "acec57bcea45",
-   "t": ""
+   "t": "Knight rose to Gold Rank!\nLearned the Medaforce \"Reflector\"!"
   },
   {
    "row": "Medal_09",
    "sub": 5,
    "col": "m_name",
    "src": "b82156eaa631",
-   "t": ""
+   "t": "Knight"
   },
   {
    "row": "Medal_09",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "1ab0b52e5f69",
-   "t": ""
+   "t": "Knight reached Level 6!\nMedaforce \"Reflector\" was powered up!"
   },
   {
    "row": "Medal_10",
    "sub": 0,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 1,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "4c38b1574164",
-   "t": ""
+   "t": "Zero reached Level 2!\nMedaforce \"Attack Trap\" was powered up!"
   },
   {
    "row": "Medal_10",
    "sub": 2,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "4b70873b296c",
-   "t": ""
+   "t": "Zero reached Level 3!\nHuh? Zero is acting strange..."
   },
   {
    "row": "Medal_10",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "deb39cbecece",
-   "t": ""
+   "t": "Zero rose to Silver Rank!\nLearned the Medaforce \"Effect Trap\"!"
   },
   {
    "row": "Medal_10",
    "sub": 3,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "ce579ef975e2",
-   "t": ""
+   "t": "Zero reached Level 4!\nMedaforce \"Effect Trap\" was powered up!"
   },
   {
    "row": "Medal_10",
    "sub": 4,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "238d67e2c57b",
-   "t": ""
+   "t": "Zero reached Level 5!\nHuh? Zero is acting strange..."
   },
   {
    "row": "Medal_10",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "992581fee78b",
-   "t": ""
+   "t": "Zero rose to Gold Rank!\nLearned the Medaforce \"C Absorber\"!"
   },
   {
    "row": "Medal_10",
    "sub": 5,
    "col": "m_name",
    "src": "32778b29fea5",
-   "t": ""
+   "t": "Zero"
   },
   {
    "row": "Medal_10",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "cb412074fbd7",
-   "t": ""
+   "t": "Zero reached Level 6!\nMedaforce \"C Absorber\" was powered up!"
   },
   {
    "row": "Medal_11",
    "sub": 0,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 1,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 1,
    "col": "m_lvup_message1",
    "src": "7c236dba664f",
-   "t": ""
+   "t": "Hunter reached Level 2!\nMedaforce \"Attack Trap\" was powered up!"
   },
   {
    "row": "Medal_11",
    "sub": 2,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 2,
    "col": "m_lvup_message1",
    "src": "37d07fd724d9",
-   "t": ""
+   "t": "Hunter reached Level 3!\nHuh? Hunter is acting strange..."
   },
   {
    "row": "Medal_11",
    "sub": 2,
    "col": "m_lvup_message2",
    "src": "2851b9d31d1e",
-   "t": ""
+   "t": "Hunter rose to Silver Rank!\nLearned the Medaforce \"Effect Trap\"!"
   },
   {
    "row": "Medal_11",
    "sub": 3,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 3,
    "col": "m_lvup_message1",
    "src": "9a52886e732f",
-   "t": ""
+   "t": "Hunter reached Level 4!\nMedaforce \"Effect Trap\" was powered up!"
   },
   {
    "row": "Medal_11",
    "sub": 4,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 4,
    "col": "m_lvup_message1",
    "src": "daef60e51e83",
-   "t": ""
+   "t": "Hunter reached Level 5!\nHuh? Hunter is acting strange..."
   },
   {
    "row": "Medal_11",
    "sub": 4,
    "col": "m_lvup_message2",
    "src": "5bfd87cac4bd",
-   "t": ""
+   "t": "Hunter rose to Gold Rank!\nLearned the Medaforce \"Down Plant\"!"
   },
   {
    "row": "Medal_11",
    "sub": 5,
    "col": "m_name",
    "src": "f9dbf89f77f6",
-   "t": ""
+   "t": "Hunter"
   },
   {
    "row": "Medal_11",
    "sub": 5,
    "col": "m_lvup_message1",
    "src": "d26bf1d8efba",
-   "t": ""
+   "t": "Hunter reached Level 6!\nMedaforce \"Down Plant\" was powered up!"
   }
  ]
 }

@@ -2,75 +2,75 @@
  "textures": [
   {
    "texture": "BattleCard_Medaforce",
-   "text": ""
+   "text": "UNUSABLE"
   },
   {
    "texture": "Card_Change",
-   "text": ""
+   "text": "SWAP"
   },
   {
    "texture": "Card_Mask_Select",
-   "text": ""
+   "text": "Select"
   },
   {
    "texture": "Card_Trash",
-   "text": ""
+   "text": "Discard"
   },
   {
    "texture": "ClearText",
-   "text": ""
+   "text": "ROBATTLE TOWER / HARD CLEAR! / NORMAL CLEAR! / EASY CLEAR!"
   },
   {
    "texture": "Font_MedaChange",
-   "text": ""
+   "text": "MEDACHANGE"
   },
   {
    "texture": "Font_MedaChange_Enemy",
-   "text": ""
+   "text": "MEDACHANGE"
   },
   {
    "texture": "Icon_BtnL",
-   "text": ""
+   "text": "Metabee / Rokusho / [Snipe] / Ranged / (action) / [Frenzy] / Melee / (trait)"
   },
   {
    "texture": "PlayerIcon_Btn_040",
-   "text": ""
+   "text": "FINAL BOSS"
   },
   {
    "texture": "Prologue_Font_01",
-   "text": ""
+   "text": "Medabots: unknown partners born of technology. / A [Medal] with a will is set in a [Tinpet] frame. / Swap its Medaparts and its power knows no limit."
   },
   {
    "texture": "Prologue_Font_02",
-   "text": ""
+   "text": "[Robattle], the sport of Medabots, swept the world, / and their [Medafighters] competed day after day."
   },
   {
    "texture": "Prologue_Font_03",
-   "text": ""
+   "text": "—And now, that fire moves to a new stage."
   },
   {
    "texture": "Prologue_Font_04",
-   "text": ""
+   "text": "Medabot tactics packed into cards: / A new generation of cards is born!"
   },
   {
    "texture": "StageClearText",
-   "text": ""
+   "text": "ROBATTLE CHALLENGE / ALL CLEAR!"
   },
   {
    "texture": "Start_Text_00",
-   "text": ""
+   "text": "ROBATTLE"
   },
   {
    "texture": "Start_Text_01",
-   "text": ""
+   "text": "FIGHT!"
   },
   {
    "texture": "Start_Text_02",
-   "text": ""
+   "text": "FIRST / VS / SECOND"
   },
   {
    "texture": "Tutorial_Font_Get",
-   "text": ""
+   "text": "METABEE DECK / ROKUSHO DECK / OBTAINED!"
   }
  ]
 }

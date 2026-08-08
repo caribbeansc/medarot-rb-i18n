@@ -6,63 +6,63 @@
    "sub": 0,
    "col": "m_name",
    "src": "3bfbf21e2f00",
-   "t": ""
+   "t": "Forest"
   },
   {
    "row": "BG01",
    "sub": 0,
    "col": "m_name",
    "src": "1ee1d5a8577f",
-   "t": ""
+   "t": "Rocky"
   },
   {
    "row": "BG02",
    "sub": 0,
    "col": "m_name",
    "src": "008e381b3a79",
-   "t": ""
+   "t": "Sand"
   },
   {
    "row": "BG03",
    "sub": 0,
    "col": "m_name",
    "src": "543401b7ea82",
-   "t": ""
+   "t": "Plains"
   },
   {
    "row": "BG04",
    "sub": 0,
    "col": "m_name",
    "src": "ca4c7556b651",
-   "t": ""
+   "t": "Tundra"
   },
   {
    "row": "BG05",
    "sub": 0,
    "col": "m_name",
    "src": "c5e0896fc61d",
-   "t": ""
+   "t": "Water"
   },
   {
    "row": "BG06",
    "sub": 0,
    "col": "m_name",
    "src": "d26c44ddbee5",
-   "t": ""
+   "t": "Mountain"
   },
   {
    "row": "BG07",
    "sub": 0,
    "col": "m_name",
    "src": "e959dab1c7ee",
-   "t": ""
+   "t": "Cyber"
   },
   {
    "row": "BG08",
    "sub": 0,
    "col": "m_name",
    "src": "7307e2ec9a03",
-   "t": ""
+   "t": "No Terrain"
   }
  ]
 }

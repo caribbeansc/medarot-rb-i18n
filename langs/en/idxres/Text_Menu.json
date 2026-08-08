@@ -6,1316 +6,1302 @@
    "sub": 0,
    "col": "text",
    "src": "df3535a64718",
-   "t": ""
+   "t": "Confirm"
   },
   {
    "row": "Return",
    "sub": 0,
    "col": "text",
    "src": "8fc7f899161b",
-   "t": ""
+   "t": "Back"
   },
   {
    "row": "Yes",
    "sub": 0,
    "col": "text",
    "src": "8f90d85ec13a",
-   "t": ""
+   "t": "Yes"
   },
   {
    "row": "No",
    "sub": 0,
    "col": "text",
    "src": "48ef2b674823",
-   "t": ""
+   "t": "No"
   },
   {
    "row": "Ok2",
    "sub": 0,
    "col": "text",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "Common_Exit",
    "sub": 0,
    "col": "text",
    "src": "b65f4b08b97c",
-   "t": ""
+   "t": "Exit"
   },
   {
    "row": "Common_Cancel",
    "sub": 0,
    "col": "text",
    "src": "bca84ea5c65f",
-   "t": ""
+   "t": "Cancel"
   },
   {
    "row": "Common_OwnCardOnly",
    "sub": 0,
    "col": "text",
    "src": "92e8174ef160",
-   "t": ""
+   "t": "Owned cards only"
   },
   {
    "row": "Common_SetCardOnly",
    "sub": 0,
    "col": "text",
    "src": "176485535a1a",
-   "t": ""
+   "t": "In-deck cards only"
   },
   {
    "row": "Common_AllCard",
    "sub": 0,
    "col": "text",
    "src": "4953535cbb44",
-   "t": ""
+   "t": "All cards"
   },
   {
    "row": "Common_NotOwned",
    "sub": 0,
    "col": "text",
    "src": "1d9a35d131ca",
-   "t": ""
+   "t": "Not owned"
   },
   {
    "row": "Common_SettingCard",
    "sub": 0,
    "col": "text",
    "src": "6e2e10d8086f",
-   "t": ""
+   "t": "In deck"
   },
   {
    "row": "Common_SelectLeader",
    "sub": 0,
    "col": "text",
    "src": "72759b94693c",
-   "t": ""
+   "t": "Select a leader"
   },
   {
    "row": "Common_ExitDeckEdit",
    "sub": 0,
    "col": "text",
    "src": "eeb306e65396",
-   "t": ""
+   "t": "Deck changes will not be saved. Exit anyway?"
   },
   {
    "row": "Common_ExitEdit",
    "sub": 0,
    "col": "text",
    "src": "5734174f3c51",
-   "t": ""
+   "t": "Changes will not be saved. Exit anyway?"
   },
   {
    "row": "Sort_ID",
    "sub": 0,
    "col": "text",
    "src": "aaa34e05d315",
-   "t": ""
+   "t": "By ID"
   },
   {
    "row": "Sort_Type",
    "sub": 0,
    "col": "text",
    "src": "2d946050d23a",
-   "t": ""
+   "t": "By type"
   },
   {
    "row": "Sort_Filling",
    "sub": 0,
    "col": "text",
    "src": "dbc5b0765073",
-   "t": ""
+   "t": "By charge"
   },
   {
    "row": "Sort_Cooling",
    "sub": 0,
    "col": "text",
    "src": "c50a4c8de9f7",
-   "t": ""
+   "t": "By cooldown cost"
   },
   {
    "row": "Sort_Power",
    "sub": 0,
    "col": "text",
    "src": "396d578fd4e5",
-   "t": ""
+   "t": "By power"
   },
   {
    "row": "Sort_Tactics",
    "sub": 0,
    "col": "text",
    "src": "a05a561ff844",
-   "t": ""
+   "t": "By tactics"
   },
   {
    "row": "Sort_Cost",
    "sub": 0,
    "col": "text",
    "src": "aae58595b598",
-   "t": ""
+   "t": "By cost"
   },
   {
    "row": "Sort_Shield",
    "sub": 0,
    "col": "text",
    "src": "d95cf3fbf3d0",
-   "t": ""
+   "t": "By barrier"
   },
   {
    "row": "DeckCategory_SaveMessage",
    "sub": 0,
    "col": "text",
    "src": "25ba4b1c0bb2",
-   "t": ""
+   "t": "Save your deck changes?"
   },
   {
    "row": "DeckCategory_Save",
    "sub": 0,
    "col": "text",
    "src": "dcb7b045b8e2",
-   "t": ""
+   "t": "Save"
   },
   {
    "row": "DeckCategory_NotSave",
    "sub": 0,
    "col": "text",
    "src": "a886e24ec6a8",
-   "t": ""
+   "t": "Don't save"
   },
   {
    "row": "Tower_ChangeLevel",
    "sub": 0,
    "col": "text",
    "src": "46d411d47146",
-   "t": ""
+   "t": "A Robattle Tower run is in progress on\nanother difficulty.\nDelete it and try another difficulty?\n\"All money earned this run will be lost\""
   },
   {
    "row": "TowerDialog_Easy",
    "sub": 0,
    "col": "text",
    "src": "5bee1f879d37",
-   "t": ""
+   "t": "Easy"
   },
   {
    "row": "TowerDialog_Normal",
    "sub": 0,
    "col": "text",
    "src": "33d69acbbb80",
-   "t": ""
+   "t": "Normal"
   },
   {
    "row": "TowerDialog_Hard",
    "sub": 0,
    "col": "text",
    "src": "34e1afc58c09",
-   "t": ""
+   "t": "Hard"
   },
   {
    "row": "TowerDialog_Endless",
    "sub": 0,
    "col": "text",
    "src": "d77db2ff7b73",
-   "t": ""
+   "t": "Endless"
   },
   {
    "row": "Library_Category_Leader",
    "sub": 0,
    "col": "text",
    "src": "e2938839e150",
-   "t": ""
+   "t": "Leader"
   },
   {
    "row": "Library_Category_Parts",
    "sub": 0,
    "col": "text",
    "src": "5461d30a804c",
-   "t": ""
+   "t": "Part"
   },
   {
    "row": "Library_Category_Support",
    "sub": 0,
    "col": "text",
    "src": "bdbdb22b4f96",
-   "t": ""
+   "t": "Support"
   },
   {
    "row": "Library_Category_Tactics",
    "sub": 0,
    "col": "text",
    "src": "f9c9f42e6311",
-   "t": ""
+   "t": "Tactics"
   },
   {
    "row": "Library_Category_Medarotter",
    "sub": 0,
    "col": "text",
    "src": "32e7027e15d3",
-   "t": ""
+   "t": "Medafighter"
   },
   {
    "row": "Library_Category_Medal",
    "sub": 0,
    "col": "text",
    "src": "74c4893b3bde",
-   "t": ""
+   "t": "Medal"
   },
   {
    "row": "Library_Category_Medaforce",
    "sub": 0,
    "col": "text",
    "src": "85ebf6a8ae73",
-   "t": ""
+   "t": "Medaforce"
   },
   {
    "row": "MedaforceOpenLevel",
    "sub": 0,
    "col": "text",
    "src": "14ca2a04f7d4",
-   "t": ""
+   "t": "Lv 3\nUnlock"
   },
   {
    "row": "DeckCopy",
    "sub": 0,
    "col": "text",
    "src": "1be3298a2b14",
-   "t": ""
+   "t": "Copy deck"
   },
   {
    "row": "DeckDelete",
    "sub": 0,
    "col": "text",
    "src": "5e8fce8ce04d",
-   "t": ""
+   "t": "Delete deck"
   },
   {
    "row": "DeckDafaultName",
    "sub": 0,
    "col": "text",
    "src": "b86338673cdd",
-   "t": ""
+   "t": "New Deck-"
   },
   {
    "row": "DeckCopyMessage",
    "sub": 0,
    "col": "text",
    "src": "97ec6d87ada4",
-   "t": ""
+   "t": "Copy this deck?"
   },
   {
    "row": "Copy",
    "sub": 0,
    "col": "text",
    "src": "70f7ae4afacd",
-   "t": ""
+   "t": "Copy"
   },
   {
    "row": "DeckDeleteMessage",
    "sub": 0,
    "col": "text",
    "src": "35ce006a66df",
-   "t": ""
+   "t": "Delete this deck?"
   },
   {
    "row": "Delete",
    "sub": 0,
    "col": "text",
    "src": "e9653dc3edcb",
-   "t": ""
+   "t": "Delete"
   },
   {
    "row": "NotFreeSpace",
    "sub": 0,
    "col": "text",
    "src": "1b0c5048a090",
-   "t": ""
+   "t": "No free slots. Could not copy the deck."
   },
   {
    "row": "MedaforceOpenLevel_00",
    "sub": 0,
    "col": "text",
    "src": "d70a7a9457db",
-   "t": ""
+   "t": "Unlock level"
   },
   {
    "row": "DefaultParts",
    "sub": 0,
    "col": "text",
    "src": "38649dc2da1a",
-   "t": ""
+   "t": "Standard Parts"
   },
   {
    "row": "CreateDialog_OwnTickets",
    "sub": 0,
    "col": "text",
    "src": "dc750e279070",
-   "t": ""
+   "t": "Tickets owned"
   },
   {
    "row": "CreateDialog_UseTickets",
    "sub": 0,
    "col": "text",
    "src": "0c23d39d304f",
-   "t": ""
+   "t": "Ticket cost"
   },
   {
    "row": "CreateDialog_UseTicketMessage",
    "sub": 0,
    "col": "text",
    "src": "9434530cbe0c",
-   "t": ""
+   "t": "Spend tickets to create this card?"
   },
   {
    "row": "CreateDialog_OwnDusts",
    "sub": 0,
    "col": "text",
    "src": "1d7bdee5706c",
-   "t": ""
+   "t": "Dust owned"
   },
   {
    "row": "CreateDialog_UseDusts",
    "sub": 0,
    "col": "text",
    "src": "84ea1ef2c7f8",
-   "t": ""
+   "t": "Dust cost"
   },
   {
    "row": "CreateDialog_UseDustMessage",
    "sub": 0,
    "col": "text",
    "src": "e7a8baed7058",
-   "t": ""
+   "t": "Spend dust to create this card?"
   },
   {
    "row": "CreateDialog_LessTicket",
    "sub": 0,
    "col": "text",
    "src": "51511cf0ab15",
-   "t": ""
+   "t": "Not enough tickets"
   },
   {
    "row": "CreateDialog_LessDust",
    "sub": 0,
    "col": "text",
    "src": "33964c1c7777",
-   "t": ""
+   "t": "Not enough dust"
   },
   {
    "row": "CreateDialog_CardMax",
    "sub": 0,
    "col": "text",
    "src": "b33f56ec36d2",
-   "t": ""
+   "t": "You can only own 3 copies of a card."
   },
   {
    "row": "ModificationDialog_Modify",
    "sub": 0,
    "col": "text",
    "src": "087d76c36e9f",
-   "t": ""
+   "t": "Spend coins to modify this part?\n<size=-5>(You can change it back later)</size>"
   },
   {
    "row": "ModificationDialog_Return",
    "sub": 0,
    "col": "text",
    "src": "074042505fb3",
-   "t": ""
+   "t": "Spend coins to restore this part?"
   },
   {
    "row": "Header_ModeSelect",
    "sub": 0,
    "col": "text",
    "src": "fdb73ba93b6e",
-   "t": ""
+   "t": "Mode Select"
   },
   {
    "row": "Header_StageSelect",
    "sub": 0,
    "col": "text",
    "src": "9d7aad0eb5ce",
-   "t": ""
+   "t": "Robattle Challenge"
   },
   {
    "row": "Header_OpponentSelect",
    "sub": 0,
    "col": "text",
    "src": "278ae43146de",
-   "t": ""
+   "t": "Opponent Select"
   },
   {
    "row": "Header_OpponentSelectPractice",
    "sub": 0,
    "col": "text",
    "src": "44ffcf4e9eb6",
-   "t": ""
+   "t": "Practice Select"
   },
   {
    "row": "Header_TowerMenu",
    "sub": 0,
    "col": "text",
    "src": "beac269f6035",
-   "t": ""
+   "t": "Robattle Tower"
   },
   {
    "row": "Header_MultiMenu",
    "sub": 0,
    "col": "text",
    "src": "4c978e9b7c93",
-   "t": ""
+   "t": "Multiplayer Battle"
   },
   {
    "row": "Header_MultiOnline",
    "sub": 0,
    "col": "text",
    "src": "c47d33913ef0",
-   "t": ""
+   "t": "Online Match"
   },
   {
    "row": "Header_MultiOffline",
    "sub": 0,
    "col": "text",
    "src": "6e1b53d1ab6c",
-   "t": ""
+   "t": "Local Robattle"
   },
   {
    "row": "Header_MultiLobby",
    "sub": 0,
    "col": "text",
    "src": "149aa6aed8b3",
-   "t": ""
+   "t": "Match Lobby"
   },
   {
    "row": "Header_DeckList",
    "sub": 0,
    "col": "text",
    "src": "644c4bd6be8b",
-   "t": ""
+   "t": "Deck List"
   },
   {
    "row": "Header_DeckCategory",
    "sub": 0,
    "col": "text",
    "src": "ac9374421cae",
-   "t": ""
+   "t": "Category Select"
   },
   {
    "row": "Header_DeckLeader",
    "sub": 0,
    "col": "text",
    "src": "f6e1675169bc",
-   "t": ""
+   "t": "Leader Select"
   },
   {
    "row": "Header_DeckMedal",
    "sub": 0,
    "col": "text",
    "src": "e6a41f7b80f8",
-   "t": ""
+   "t": "Medal Select"
   },
   {
    "row": "Header_DeckCard",
    "sub": 0,
    "col": "text",
    "src": "924b0cc27017",
-   "t": ""
+   "t": "Deck Builder"
   },
   {
    "row": "Header_DeckParts",
    "sub": 0,
    "col": "text",
    "src": "6e59ab75c8af",
-   "t": ""
+   "t": "Part Select"
   },
   {
    "row": "Header_CardLibrary",
    "sub": 0,
    "col": "text",
    "src": "e4448fe427c6",
-   "t": ""
+   "t": "Card Index"
   },
   {
    "row": "Header_CardShop",
    "sub": 0,
    "col": "text",
    "src": "9d1aa3e2ba9d",
-   "t": ""
+   "t": "Card Shop"
   },
   {
    "row": "Header_Option",
    "sub": 0,
    "col": "text",
    "src": "5b717728bbea",
-   "t": ""
+   "t": "Options"
   },
   {
    "row": "ModeMenu_SelectName00",
    "sub": 0,
    "col": "text",
    "src": "beac269f6035",
-   "t": ""
+   "t": "Robattle Tower"
   },
   {
    "row": "ModeMenu_SelectName01",
    "sub": 0,
    "col": "text",
    "src": "9d7aad0eb5ce",
-   "t": ""
+   "t": "Robattle Challenge"
   },
   {
    "row": "ModeMenu_SelectName02",
    "sub": 0,
    "col": "text",
    "src": "4c978e9b7c93",
-   "t": ""
+   "t": "Multiplayer Battle"
   },
   {
    "row": "ModeMenu_SelectName03",
    "sub": 0,
    "col": "text",
    "src": "e44f9e63dcc3",
-   "t": ""
+   "t": "Buy Packs"
   },
   {
    "row": "ModeMenu_SelectName04",
    "sub": 0,
    "col": "text",
    "src": "924b0cc27017",
-   "t": ""
+   "t": "Deck Builder"
   },
   {
    "row": "ModeMenu_SelectName05",
    "sub": 0,
    "col": "text",
    "src": "e4448fe427c6",
-   "t": ""
+   "t": "Card Index"
   },
   {
    "row": "ModeMenu_SelectName06",
    "sub": 0,
    "col": "text",
    "src": "5b717728bbea",
-   "t": ""
+   "t": "Options"
   },
   {
    "row": "ModeMenu_GuideText00",
    "sub": 0,
    "col": "text",
    "src": "d535d781174b",
-   "t": ""
+   "t": "Climb to the top of the Robattle Tower!"
   },
   {
    "row": "ModeMenu_GuideText01",
    "sub": 0,
    "col": "text",
    "src": "4ecfa0df0aae",
-   "t": ""
+   "t": "Take on countless opponents and advance!"
   },
   {
    "row": "ModeMenu_GuideText02",
    "sub": 0,
    "col": "text",
    "src": "80f33577e95e",
-   "t": ""
+   "t": "Let's Robattle in multiplayer!"
   },
   {
    "row": "ModeMenu_GuideText03",
    "sub": 0,
    "col": "text",
    "src": "ca251a7be9ba",
-   "t": ""
+   "t": "Buy packs and get new cards!"
   },
   {
    "row": "ModeMenu_GuideText04",
    "sub": 0,
    "col": "text",
    "src": "5053cc39a10b",
-   "t": ""
+   "t": "Build your own ultimate deck!"
   },
   {
    "row": "ModeMenu_GuideText05",
    "sub": 0,
    "col": "text",
    "src": "0fc7f7f68ba7",
-   "t": ""
+   "t": "Look through the cards you've collected!"
   },
   {
    "row": "ModeMenu_GuideText06",
    "sub": 0,
    "col": "text",
    "src": "20eaa2fc3c1f",
-   "t": ""
+   "t": "Change your in-game settings!"
   },
   {
    "row": "Terrain_Forest",
    "sub": 0,
    "col": "text",
    "src": "51bc753f40ce",
-   "t": ""
+   "t": "Forest"
   },
   {
    "row": "Terrain_Rocky",
    "sub": 0,
    "col": "text",
    "src": "b34a70eeb390",
-   "t": ""
+   "t": "Rocky Area"
   },
   {
    "row": "Terrain_Desert",
    "sub": 0,
    "col": "text",
    "src": "2f51bf6b821f",
-   "t": ""
+   "t": "Sands"
   },
   {
    "row": "Terrain_Plain",
    "sub": 0,
    "col": "text",
    "src": "2f6bae0436e1",
-   "t": ""
+   "t": "Plains"
   },
   {
    "row": "Terrain_Frozen",
    "sub": 0,
    "col": "text",
    "src": "ca4c7556b651",
-   "t": ""
+   "t": "Tundra"
   },
   {
    "row": "Terrain_Water",
    "sub": 0,
    "col": "text",
    "src": "fd378c02c495",
-   "t": ""
+   "t": "Waterside"
   },
   {
    "row": "Terrain_Mountain",
    "sub": 0,
    "col": "text",
    "src": "ba25382dec8f",
-   "t": ""
+   "t": "Mountains"
   },
   {
    "row": "Terrain_Cyber",
    "sub": 0,
    "col": "text",
    "src": "2ee769e4d6ee",
-   "t": ""
+   "t": "Cyber"
   },
   {
    "row": "Terrain_None",
    "sub": 0,
    "col": "text",
    "src": "58c8dc1eb7e1",
-   "t": ""
+   "t": "No Terrain"
   },
   {
    "row": "Terrain_Practice",
    "sub": 0,
    "col": "text",
    "src": "3098584538b2",
-   "t": ""
+   "t": "Practice"
   },
   {
    "row": "TerrainDialog_Message",
    "sub": 0,
    "col": "text",
    "src": "82ff6fd45773",
-   "t": ""
+   "t": "When your leader Medabot's leg type is {0},\ngain the Tactics card [{1}] at battle start."
   },
   {
    "row": "TerrainInfo_Forest",
    "sub": 0,
    "col": "text",
    "src": "aad32d29c092",
-   "t": ""
+   "t": "An area thick with trees.\nBiped, Multi-leg and Vehicle get a leg bonus."
   },
   {
    "row": "TerrainInfo_Rocky",
    "sub": 0,
    "col": "text",
    "src": "e82ac66fd5ad",
-   "t": ""
+   "t": "Rugged, uneven rocks.\nBiped, Multi-leg and Hover get a leg bonus."
   },
   {
    "row": "TerrainInfo_Desert",
    "sub": 0,
    "col": "text",
    "src": "d2eee1ea9757",
-   "t": ""
+   "t": "Loose, unstable sand.\nFlight, Vehicle and Tank get a leg bonus."
   },
   {
    "row": "TerrainInfo_Plain",
    "sub": 0,
    "col": "text",
    "src": "9efb16769b8c",
-   "t": ""
+   "t": "Flat, open ground.\nBiped, Flight and Vehicle get a leg bonus."
   },
   {
    "row": "TerrainInfo_Frozen",
    "sub": 0,
    "col": "text",
    "src": "ea95b8a35aa6",
-   "t": ""
+   "t": "A slippery frozen land.\nVehicle, Submarine and Hover get a leg bonus."
   },
   {
    "row": "TerrainInfo_Water",
    "sub": 0,
    "col": "text",
    "src": "ba2663005dac",
-   "t": ""
+   "t": "An area with water.\nSubmarine and Hover get a leg bonus."
   },
   {
    "row": "TerrainInfo_Cyber",
    "sub": 0,
    "col": "text",
    "src": "4c34d3c4fa1e",
-   "t": ""
+   "t": "A special virtual space.\nAll leg types get a leg bonus."
   },
   {
    "row": "TerrainInfo_None",
    "sub": 0,
    "col": "text",
    "src": "e033fbea9337",
-   "t": ""
+   "t": "A training area for learning the basics."
   },
   {
    "row": "OptionInfo_BgmVolume",
    "sub": 0,
    "col": "text",
    "src": "60c4892a125f",
-   "t": ""
+   "t": "Change the BGM volume"
   },
   {
    "row": "OptionInfo_SeVolume",
    "sub": 0,
    "col": "text",
    "src": "e27939071895",
-   "t": ""
+   "t": "Change the sound effect volume"
   },
   {
    "row": "OptionInfo_VoiceVolume",
    "sub": 0,
    "col": "text",
    "src": "8f0d89a4b000",
-   "t": ""
+   "t": "Change the voice volume"
   },
   {
    "row": "OptionInfo_Vibration",
    "sub": 0,
    "col": "text",
    "src": "8f44a1b0705e",
-   "t": ""
+   "t": "Turn vibration on or off"
   },
   {
    "row": "OptionInfo_PlayerIcon",
    "sub": 0,
    "col": "text",
    "src": "e202fa1795d5",
-   "t": ""
+   "t": "Change your player icon"
   },
   {
    "row": "OptionInfo_Wallpaper",
    "sub": 0,
    "col": "text",
    "src": "ef69907519c4",
-   "t": ""
+   "t": "Change the wallpaper"
   },
   {
    "row": "OptionInfo_RefereeVoice",
    "sub": 0,
    "col": "text",
    "src": "14e580b540cd",
-   "t": ""
+   "t": "Change the Referee's voice"
   },
   {
    "row": "OptionInfo_CostConfirm",
    "sub": 0,
    "col": "text",
    "src": "d67065464879",
-   "t": ""
+   "t": "Set whether to show a confirmation when\nyou end the phase while you can still act"
   },
   {
    "row": "OptionInfo_Tips",
    "sub": 0,
    "col": "text",
    "src": "308b4e08d3f5",
-   "t": ""
+   "t": "Review the explanation of each screen"
   },
   {
    "row": "OptionInfo_Credit",
    "sub": 0,
    "col": "text",
    "src": "53adc53799f3",
-   "t": ""
+   "t": "See the people who made this game"
   },
   {
    "row": "OptionInfo_SpecialSupport",
    "sub": 0,
    "col": "text",
    "src": "247fa3a8c352",
-   "t": ""
+   "t": "See the special supporters"
   },
   {
    "row": "Option_Vibration_On",
    "sub": 0,
    "col": "text",
    "src": "67003f878dd9",
-   "t": ""
+   "t": "On"
   },
   {
    "row": "Option_Vibration_Off",
    "sub": 0,
    "col": "text",
    "src": "3d00184e2ba1",
-   "t": ""
+   "t": "Off"
   },
   {
    "row": "Option_CostConfirm_On",
    "sub": 0,
    "col": "text",
    "src": "67003f878dd9",
-   "t": ""
+   "t": "On"
   },
   {
    "row": "Option_CostConfirm_Off",
    "sub": 0,
    "col": "text",
    "src": "3d00184e2ba1",
-   "t": ""
+   "t": "Off"
   },
   {
    "row": "Option_PlayerIconWindow_UnlockConditionText",
    "sub": 0,
    "col": "text",
    "src": "6927eb1ec2ee",
-   "t": ""
+   "t": "{0} \"{1}\""
   },
   {
    "row": "Option_InitializeDialog_Text",
    "sub": 0,
    "col": "text",
    "src": "6ac5a53e54a0",
-   "t": ""
+   "t": "Resets all except player icon and wallpaper\nReset settings?"
   },
   {
    "row": "Option_InitializeDialog_Yes",
    "sub": 0,
    "col": "text",
    "src": "58fdb265c971",
-   "t": ""
+   "t": "Reset"
   },
   {
    "row": "Option_InitializeDialog_No",
    "sub": 0,
    "col": "text",
    "src": "bca84ea5c65f",
-   "t": ""
+   "t": "Cancel"
   },
   {
    "row": "MultiSelect_RoomSearch_Tips_Online",
    "sub": 0,
    "col": "text",
    "src": "11e3680dac6e",
-   "t": ""
+   "t": "Set search filters\nand find a room"
   },
   {
    "row": "MultiSelect_RoomSearch_Tips_Local",
    "sub": 0,
    "col": "text",
    "src": "15b81edaaa3f",
-   "t": ""
+   "t": "Find a room created\nby someone nearby"
   },
   {
    "row": "MultiSelect_TimeLimit_On",
    "sub": 0,
    "col": "text",
    "src": "538fa5973853",
-   "t": ""
+   "t": "Yes"
   },
   {
    "row": "MultiSelect_TimeLimit_Off",
    "sub": 0,
    "col": "text",
    "src": "868310e193d1",
-   "t": ""
+   "t": "None"
   },
   {
    "row": "MultiSelect_SearchComment_All",
    "sub": 0,
    "col": "text",
    "src": "2b491b922189",
-   "t": ""
+   "t": "Any"
   },
   {
    "row": "MultiLobby_StateReady",
    "sub": 0,
    "col": "text",
    "src": "d888e7c7a830",
-   "t": ""
+   "t": "Ready"
   },
   {
    "row": "MultiLobby_StateIdle",
    "sub": 0,
    "col": "text",
    "src": "9e305eab23dd",
-   "t": ""
+   "t": "Not ready"
   },
   {
    "row": "MultiLobby_ExitDialog_Host_Text",
    "sub": 0,
    "col": "text",
    "src": "ff10053ceb96",
-   "t": ""
+   "t": "Close this room?"
   },
   {
    "row": "MultiLobby_ExitDialog_Host_Yes",
    "sub": 0,
    "col": "text",
    "src": "3acd6a124067",
-   "t": ""
+   "t": "Close room"
   },
   {
    "row": "MultiLobby_ExitDialog_Guest_Text",
    "sub": 0,
    "col": "text",
    "src": "4ea9df587fb8",
-   "t": ""
+   "t": "Leave this room?"
   },
   {
    "row": "MultiLobby_ExitDialog_Guest_Yes",
    "sub": 0,
    "col": "text",
    "src": "e3c62ebd12c1",
-   "t": ""
+   "t": "Leave"
   },
   {
    "row": "MultiLobby_ExitDialog_No",
    "sub": 0,
    "col": "text",
    "src": "bca84ea5c65f",
-   "t": ""
+   "t": "Cancel"
   },
   {
    "row": "Network_NotFoundDialog_SearchCondition",
    "sub": 0,
    "col": "text",
    "src": "909e11113b05",
-   "t": ""
+   "t": "No rooms match your search."
   },
   {
    "row": "Network_NotFoundDialog_Friends",
    "sub": 0,
    "col": "text",
    "src": "8404e96692e5",
-   "t": ""
+   "t": "No friends' rooms were found."
   },
   {
    "row": "Network_NotFoundDialog_Local",
    "sub": 0,
    "col": "text",
    "src": "ea57f35e7932",
-   "t": ""
+   "t": "No rooms were found."
   },
   {
    "row": "Network_ErrorDialog_CannotParticipate",
    "sub": 0,
    "col": "text",
    "src": "8c9801ea0f98",
-   "t": ""
+   "t": "Could not join the room."
   },
   {
    "row": "Network_DisconnectDialog_Lobby_Close",
    "sub": 0,
    "col": "text",
    "src": "e46604909e9e",
-   "t": ""
+   "t": "The room was closed."
   },
   {
    "row": "Network_DisconnectDialog_Lobby_Disconnect",
    "sub": 0,
    "col": "text",
    "src": "28406946d896",
-   "t": ""
+   "t": "The connection was lost."
   },
   {
    "row": "Network_DisconnectDialog_Text",
    "sub": 0,
    "col": "text",
    "src": "f04dc70b26f9",
-   "t": ""
+   "t": "The connection with your opponent was lost."
   },
   {
    "row": "Network_DisconnectDialog_After_Text",
    "sub": 0,
    "col": "text",
    "src": "5e353a76edb9",
-   "t": ""
+   "t": "The connection with your opponent was lost,\nso the match has ended."
   },
   {
    "row": "RewardDialogTitle_Stage",
    "sub": 0,
    "col": "text",
    "src": "ae4c29ba9046",
-   "t": ""
+   "t": "Reward Earned!"
   },
   {
    "row": "RewardDialogTitle_Tower",
    "sub": 0,
    "col": "text",
    "src": "05ed47021725",
-   "t": ""
+   "t": "Floor Reward Earned!"
   },
   {
    "row": "RewardDialogTitle_Secret",
    "sub": 0,
    "col": "text",
    "src": "f0be8d52ed63",
-   "t": ""
+   "t": "Secret Unlocked!"
   },
   {
    "row": "RewardDialogTitle_Version",
    "sub": 0,
    "col": "text",
    "src": "94f2c7930611",
-   "t": ""
+   "t": "Both Versions Bonus!"
   },
   {
    "row": "Gacha_ButtonPackSelect",
    "sub": 0,
    "col": "text",
    "src": "a78fd5524058",
-   "t": ""
+   "t": "Buy"
   },
   {
    "row": "Gacha_ButtonCardOpen",
    "sub": 0,
    "col": "text",
    "src": "9eccdca31ee3",
-   "t": ""
+   "t": "Next"
   },
   {
    "row": "DeckError_MedalNotSet",
    "sub": 0,
    "col": "text",
    "src": "d563d1fc4e3d",
-   "t": ""
+   "t": "No Medal set."
   },
   {
    "row": "DeckError_CardsSurplus",
    "sub": 0,
    "col": "text",
    "src": "13f4b8ca12ec",
-   "t": ""
+   "t": "Too many cards."
   },
   {
    "row": "DeckError_CardsShortage",
    "sub": 0,
    "col": "text",
    "src": "25971b53a485",
-   "t": ""
+   "t": "Not enough cards."
   },
   {
    "row": "RewardText_Version",
    "sub": 0,
    "col": "text",
    "src": "48cf5c82b129",
-   "t": ""
+   "t": "Obtained via the Both Versions Bonus"
   },
   {
    "row": "StageAllClear",
    "sub": 0,
    "col": "text",
    "src": "d343db0cecbe",
-   "t": ""
+   "t": "Congratulations on clearing every stage!\nThe battle to better yourself never ends.\nTake on the Robattle Tower and online play!"
   },
   {
    "row": "TutorialSkipDialog",
    "sub": 0,
    "col": "text",
    "src": "470acf333ee0",
-   "t": ""
+   "t": "Skip Practice?\nSkips the explanation of controls and rules.\n\n* You can play Practice later, or skip it\npartway through."
   },
   {
    "row": "TutorialSkipDialogTrial",
    "sub": 0,
    "col": "text",
    "src": "91d1f8eae571",
-   "t": ""
+   "t": "Skip Practice?\nSkips the explanation of controls and rules."
   },
   {
    "row": "TutorialSkipDialog_Skip",
    "sub": 0,
    "col": "text",
    "src": "5d74f245ac84",
-   "t": ""
+   "t": "Skip"
   },
   {
    "row": "TutorialSkipDialog_No",
    "sub": 0,
    "col": "text",
    "src": "ffd3be3fb344",
-   "t": ""
+   "t": "Don't skip"
   },
   {
    "row": "TrialNotPlayable",
    "sub": 0,
    "col": "text",
    "src": "aec20712ec96",
-   "t": ""
+   "t": "<color=#FF3174>Not available in the Practice Edition.</color>"
   },
   {
    "row": "TrialEndDialog",
    "sub": 0,
    "col": "text",
    "src": "57f13f8c4852",
-   "t": ""
+   "t": "This is the end of the Practice Edition.\nEnjoy the rest in the full version."
   },
   {
    "row": "TrialEndDialog_Close",
    "sub": 0,
    "col": "text",
    "src": "f6c244f98893",
-   "t": ""
+   "t": "Close"
   },
   {
    "row": "TrialEndDialog_eShop",
    "sub": 0,
    "col": "text",
    "src": "15e8c79d5605",
-   "t": ""
+   "t": "Go to Nintendo eShop"
   },
   {
    "row": "TrialEShopDialog",
    "sub": 0,
    "col": "text",
    "src": "05bb2f224e73",
-   "t": ""
+   "t": "Open the full version page on Nintendo eShop?"
   },
   {
    "row": "TrialHandoverDialog",
    "sub": 0,
    "col": "text",
    "src": "846e3ae6bd24",
-   "t": ""
+   "t": "Practice Edition save data was found.\nTransfer it?"
   },
   {
    "row": "TrialHandoverDialogKBT",
    "sub": 0,
    "col": "text",
    "src": "5716a31de789",
-   "t": ""
+   "t": "Practice Edition save data was found.\nTransfer it?\n\n* Decks, player icons and other earned items\n  will be replaced with Kabuto Ver. ones."
   },
   {
    "row": "TrialHandoverDialog_Close",
    "sub": 0,
    "col": "text",
    "src": "e1b8ae466705",
-   "t": ""
+   "t": "Don't transfer"
   },
   {
    "row": "TrialHandoverDialog_Ok",
    "sub": 0,
    "col": "text",
    "src": "6cbc384575a2",
-   "t": ""
+   "t": "Transfer"
   },
   {
    "row": "TrialHandoverDialog_Over",
    "sub": 0,
    "col": "text",
    "src": "fc12d9517873",
-   "t": ""
+   "t": "Transfer complete."
   },
   {
    "row": "OpponentFightDialog_Title",
    "sub": 0,
    "col": "text",
    "src": "df06d7057eea",
-   "t": ""
+   "t": "Do you both agree to these terms?"
   },
   {
    "row": "OpponentFightDialog_TitleRiarira",
    "sub": 0,
    "col": "text",
    "src": "068eb6120296",
-   "t": ""
+   "t": "Do we have an agreement?"
   },
   {
    "row": "OpponentFightDialog_Button",
    "sub": 0,
    "col": "text",
    "src": "0cc87e1be8de",
-   "t": ""
+   "t": "Agreed!"
   },
   {
    "row": "NetworkTopMenu_NetworkTitle",
    "sub": 0,
    "col": "text",
    "src": "c47d33913ef0",
-   "t": ""
+   "t": "Online Match"
   },
   {
    "row": "NetworkTopMenu_LocalTitle",
    "sub": 0,
    "col": "text",
    "src": "6e1b53d1ab6c",
-   "t": ""
+   "t": "Local Robattle"
   },
   {
    "row": "NetworkTopMenu_NetworkMessage",
    "sub": 0,
    "col": "text",
    "src": "84f8b85f01f8",
-   "t": ""
+   "t": "Robattle someone\nfrom around the world!"
   },
   {
    "row": "NetworkTopMenu_LocalMessage",
    "sub": 0,
    "col": "text",
    "src": "82a47b055909",
-   "t": ""
+   "t": "Robattle someone\nnearby!"
   },
   {
    "row": "KeyCard_Title",
    "sub": 0,
    "col": "text",
    "src": "57e7dc3b2012",
-   "t": ""
+   "t": "Favorite Cards"
   },
   {
    "row": "KeyCard_Tips",
    "sub": 0,
    "col": "text",
    "src": "68614821ca8d",
-   "t": ""
+   "t": "Pick up to 2 favorite cards from your deck!"
   },
   {
    "row": "TowerFloor_Retire_Message",
    "sub": 0,
    "col": "text",
    "src": "949034f51174",
-   "t": ""
+   "t": "Retire and take the coins\nyou've earned so far?"
   },
   {
    "row": "KeyAssign_SaveReturn",
    "sub": 0,
    "col": "text",
    "src": "901a99ef46c7",
-   "t": ""
-  },
-  {
-   "row": "TerrainInfo_Plain",
-   "sub": 0,
-   "col": "text",
-   "src": "d4897ab38761",
-   "t": ""
-  },
-  {
-   "row": "OptionInfo_SpecialSupport",
-   "sub": 0,
-   "col": "text",
-   "src": "498a28f36050",
-   "t": ""
+   "t": "Save and return"
   }
  ]
 }

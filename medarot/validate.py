@@ -72,6 +72,21 @@ def _allowed(char: str, extra: str) -> bool:
     return category.startswith(("L", "N", "P", "S")) and ord(char) < 0x250
 
 
+def looks_like_a_character_table(source: str) -> bool:
+    """True for the entries that list characters rather than say anything.
+
+    The game keeps a font's repertoire and TextMeshPro's line-breaking rules in
+    ordinary text fields. They contain Japanese, so they look translatable, and
+    "translating" them by dropping the kana breaks line wrapping in the whole
+    game. They give themselves away: long, no spaces, almost every character
+    distinct.
+    """
+    stripped = source.replace("\n", "").replace("\ufeff", "")
+    if len(stripped) < 25 or " " in stripped:
+        return False
+    return len(set(stripped)) / len(stripped) > 0.85
+
+
 def check_translation(report: Report, lang: str, where: str, key: str,
                       translation: str, source: str | None,
                       config, *, src_hash: str = "") -> None:
@@ -81,12 +96,16 @@ def check_translation(report: Report, lang: str, where: str, key: str,
         report.add(ERROR, lang, where, key,
                    f"still contains source text: {translation[:60]!r}")
 
-    for char in plain:
-        if not _allowed(char, config.extra_chars):
-            report.add(ERROR, lang, where, key,
-                       f"character {char!r} (U+{ord(char):04X}) is not in this "
-                       f"language's charset: {translation[:60]!r}")
-            break
+    # Some entries are not text at all: a font's character repertoire, TMP's
+    # line-breaking tables, a developer's note. The right thing to do with those
+    # is copy them, so an untouched copy is never a charset error (SPEC-008/R-8).
+    if translation != source:
+        for char in plain:
+            if not _allowed(char, config.extra_chars):
+                report.add(ERROR, lang, where, key,
+                           f"character {char!r} (U+{ord(char):04X}) is not in this "
+                           f"language's charset: {translation[:60]!r}")
+                break
 
     if source is None:
         return
@@ -111,6 +130,11 @@ def check_translation(report: Report, lang: str, where: str, key: str,
     if latin_len > budget:
         report.add(WARNING, lang, where, key,
                    f"may overflow: {cjk_len} source chars -> {latin_len} chars")
+
+    if looks_like_a_character_table(source) and translation != source:
+        report.add(WARNING, lang, where, key,
+                   "the original looks like a character repertoire or a line-breaking "
+                   "table, not prose. The engine reads it; leave it untranslated.")
 
     if "\n" in source:
         for line in plain.split("\n"):

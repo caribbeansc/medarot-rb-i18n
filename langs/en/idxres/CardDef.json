@@ -6,7630 +6,7546 @@
    "sub": 0,
    "col": "m_name",
    "src": "821c7501e67f",
-   "t": ""
+   "t": "Metabee"
   },
   {
    "row": "Leader00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Leader01",
    "sub": 0,
    "col": "m_name",
    "src": "aa7cb97e69fc",
-   "t": ""
+   "t": "Arcbeetle"
   },
   {
    "row": "Leader01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "228c98147840",
-   "t": ""
+   "t": "[Snipe: Leader only]\nIf you have 2 or fewer Barriers and\nthis effect destroys a part or Barrier\nof the enemy Leader, choose and\ndestroy 1 additional enemy part."
   },
   {
    "row": "Leader02",
    "sub": 0,
    "col": "m_name",
    "src": "16cc38c32e86",
-   "t": ""
+   "t": "Gofu Bullet"
   },
   {
    "row": "Leader02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": ""
+   "t": "Until the end of the opponent's next turn, negate one enemy effect that targets this Medabot."
   },
   {
    "row": "Leader03",
    "sub": 0,
    "col": "m_name",
    "src": "cf794a038aee",
-   "t": ""
+   "t": "Abyss Greater"
   },
   {
    "row": "Leader03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "adeedbe6c1b8",
-   "t": ""
+   "t": "When one of your parts is destroyed, its power increases by 3000 until the start of your next turn."
   },
   {
    "row": "Leader04",
    "sub": 0,
    "col": "m_name",
    "src": "2b131ac9ac75",
-   "t": ""
+   "t": "Chibehemoth"
   },
   {
    "row": "Leader04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0eb4a38e79f1",
-   "t": ""
+   "t": "While the total energy of both sides\nis 12 or less, its power increases by 3000."
   },
   {
    "row": "Leader05",
    "sub": 0,
    "col": "m_name",
    "src": "c5dfd7ebf80d",
-   "t": ""
+   "t": "Riarira"
   },
   {
    "row": "Leader05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "73b82183658a",
-   "t": ""
+   "t": "Choose 1 opponent Medabot; it gets [Freeze] until the opponent's turn ends."
   },
   {
    "row": "Leader06",
    "sub": 0,
    "col": "m_name",
    "src": "a51312d42c8d",
-   "t": ""
+   "t": "Arcadia"
   },
   {
    "row": "Leader06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d20e539a3ce2",
-   "t": ""
+   "t": "Deal 4000 damage to all enemy Medabots.\nGain 1 [Piercing Rounds] tactics card\nfor each part, Barrier and Medabot\ndestroyed by this effect."
   },
   {
    "row": "Leader06",
    "sub": 0,
    "col": "m_skillText2",
    "src": "07769830247a",
-   "t": ""
+   "t": "Its legs are suited to any terrain."
   },
   {
    "row": "Leader07",
    "sub": 0,
    "col": "m_name",
    "src": "3bd215e95152",
-   "t": ""
+   "t": "Meteoranisi"
   },
   {
    "row": "Leader07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9c302f1035e7",
-   "t": ""
+   "t": "Deal 6000 damage to the enemy Leader and 4000 damage to all enemy Supports. Until the end of the next enemy turn, enemy action costs and quick cooldown costs cannot be reduced by effects."
   },
   {
    "row": "Leader07",
    "sub": 0,
    "col": "m_skillText2",
    "src": "07769830247a",
-   "t": ""
+   "t": "Its legs are suited to any terrain."
   },
   {
    "row": "Leader08",
    "sub": 0,
    "col": "m_name",
    "src": "81d7b53b0aed",
-   "t": ""
+   "t": "Rokusho"
   },
   {
    "row": "Leader08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Leader09",
    "sub": 0,
    "col": "m_name",
    "src": "912e745793e6",
-   "t": ""
+   "t": "Titan Beetle"
   },
   {
    "row": "Leader09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": ""
+   "t": "When this Medabot destroys a part or Barrier of the enemy Leader with a normal attack, inflict [Deathlock] on your opponent until the end of their Action phase."
   },
   {
    "row": "Leader09",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2a4f9040a7cd",
-   "t": ""
+   "t": "While the enemy has 5 or more cards in hand, this Medabot's power increases by 2000."
   },
   {
    "row": "Leader10",
    "sub": 0,
    "col": "m_name",
    "src": "a88e941d0432",
-   "t": ""
+   "t": "Hawk Dakar"
   },
   {
    "row": "Leader10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": ""
+   "t": "[Conserve] Until the end of your next turn, this Medabot's action cost is reduced by 2 (never below 1)."
   },
   {
    "row": "Leader11",
    "sub": 0,
    "col": "m_name",
    "src": "8802a2238357",
-   "t": ""
+   "t": "Frappé"
   },
   {
    "row": "Leader11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "aae9a65fd640",
-   "t": ""
+   "t": "If there is a Medabot with [Freeze]\non the field, this Medabot's quick\ncooldown cost is reduced by 1 (never below 1)."
   },
   {
    "row": "Leader12",
    "sub": 0,
    "col": "m_name",
    "src": "2a79b075c3e5",
-   "t": ""
+   "t": "Shaman Miko"
   },
   {
    "row": "Leader12",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": ""
+   "t": "Remove [curable status effects] from all your Medabots."
   },
   {
    "row": "Leader13",
    "sub": 0,
    "col": "m_name",
    "src": "d5a73f92689e",
-   "t": ""
+   "t": "Shushu Pop"
   },
   {
    "row": "Leader13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f0e59eedcb8d",
-   "t": ""
+   "t": "While you have 3 or fewer cards in hand, power increases by 3000."
   },
   {
    "row": "Leader14",
    "sub": 0,
    "col": "m_name",
    "src": "ee6a19a1a108",
-   "t": ""
+   "t": "Cheerful Bunny"
   },
   {
    "row": "Leader14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "fd5e591f3fe3",
-   "t": ""
+   "t": "Gain 2 random [Cheer cards]."
   },
   {
    "row": "Leader15",
    "sub": 0,
    "col": "m_name",
    "src": "72a2e3eb83dc",
-   "t": ""
+   "t": "Thrud"
   },
   {
    "row": "Leader15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bc112db6fbc7",
-   "t": ""
+   "t": "Draw up to 2 cards from your deck."
   },
   {
    "row": "Leader15",
    "sub": 0,
    "col": "m_skillText2",
    "src": "07769830247a",
-   "t": ""
+   "t": "Its legs are suited to any terrain."
   },
   {
    "row": "Leader16",
    "sub": 0,
    "col": "m_name",
    "src": "9f99f38df1c5",
-   "t": ""
+   "t": "Doctor Study"
   },
   {
    "row": "Leader16",
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": ""
+   "t": "While you have 2 or fewer cards in hand,\nthe quick cooldown cost of all your\nMedabots is reduced by 1 (never below 1).\nThis effect does not stack."
   },
   {
    "row": "Leader16",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader17",
    "sub": 0,
    "col": "m_name",
    "src": "a23f9e95f97f",
-   "t": ""
+   "t": "Navi-Commune"
   },
   {
    "row": "Leader17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3f58db15f580",
-   "t": ""
+   "t": "Until the start of your next turn, the\nmaximum energy of both sides increases\nby 2.\nThis Medabot cannot quick cooldown\nthis turn."
   },
   {
    "row": "Leader17",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader18",
    "sub": 0,
    "col": "m_name",
    "src": "4c2c9cb057cf",
-   "t": ""
+   "t": "Navi-Commune (Medachange)"
   },
   {
    "row": "Leader18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b28f76954347",
-   "t": ""
+   "t": "Its parts change to [Memorize] and\n[Remember], and the Leader changes to\nNavi-Commune."
   },
   {
    "row": "Leader18",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader19",
    "sub": 0,
    "col": "m_name",
    "src": "ea5663efcd3d",
-   "t": ""
+   "t": "Marine Healer"
   },
   {
    "row": "Leader19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d40897383434",
-   "t": ""
+   "t": "[Repair]"
   },
   {
    "row": "Leader19",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader20",
    "sub": 0,
    "col": "m_name",
    "src": "20168b8e2652",
-   "t": ""
+   "t": "Particle"
   },
   {
    "row": "Leader20",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2fa46faef4a6",
-   "t": ""
+   "t": "At the end of your turn, if this Medabot is not Overheated and your Barrier is not at maximum, activate [Repair]."
   },
   {
    "row": "Leader20",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader21",
    "sub": 0,
    "col": "m_name",
    "src": "a95edc05ba53",
-   "t": ""
+   "t": "Particle (Medachange)"
   },
   {
    "row": "Leader21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "09ca841a14a4",
-   "t": ""
+   "t": "Its parts change to [Countract] and [Naturize], and the Leader changes to Particle."
   },
   {
    "row": "Leader22",
    "sub": 0,
    "col": "m_name",
    "src": "1791f3f46de4",
-   "t": ""
+   "t": "Armor Chario"
   },
   {
    "row": "Leader22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cfcbf910663e",
-   "t": ""
+   "t": "While you have 3 [Defense] type Medabots on your field, all your Medabots gain 2000 power."
   },
   {
    "row": "Leader22",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Leader23",
    "sub": 0,
    "col": "m_name",
    "src": "cd21c1cf3729",
-   "t": ""
+   "t": "Red Matador"
   },
   {
    "row": "Leader23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "559c59ca12ba",
-   "t": ""
+   "t": "This Medabot negates the damage it\ntakes once. This effect does not stack.\nUntil the start of your next turn, it\ngains [Guard]."
   },
   {
    "row": "Leader24",
    "sub": 0,
    "col": "m_name",
    "src": "e76fdcf2c006",
-   "t": ""
+   "t": "Shoot Spider"
   },
   {
    "row": "Leader24",
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
   },
   {
    "row": "Leader24",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d384b6a4a45b",
-   "t": ""
+   "t": "[Deploy: 4] [Parts Trap]"
   },
   {
    "row": "Leader25",
    "sub": 0,
    "col": "m_name",
    "src": "89fb16918253",
-   "t": ""
+   "t": "Iron Horse"
   },
   {
    "row": "Leader25",
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
   },
   {
    "row": "Leader25",
    "sub": 0,
    "col": "m_skillText2",
    "src": "03e3a4cdaf59",
-   "t": ""
+   "t": "[Deploy: 10] [Repair Plant]"
   },
   {
    "row": "Leader26",
    "sub": 0,
    "col": "m_name",
    "src": "09e39cb81199",
-   "t": ""
+   "t": "Wild Ucorn"
   },
   {
    "row": "Support00",
    "sub": 0,
    "col": "m_name",
    "src": "36313dda48fd",
-   "t": ""
+   "t": "Betty Bear"
   },
   {
    "row": "Support01",
    "sub": 0,
    "col": "m_name",
    "src": "2d360c12e5e6",
-   "t": ""
+   "t": "Cobalt Setter"
   },
   {
    "row": "Support02",
    "sub": 0,
    "col": "m_name",
    "src": "539873785cbd",
-   "t": ""
+   "t": "Cyandog"
   },
   {
    "row": "Support02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support03",
    "sub": 0,
    "col": "m_name",
    "src": "cdb4128fddf1",
-   "t": ""
+   "t": "Antacker"
   },
   {
    "row": "Support03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": ""
+   "t": "[Snipe]\nIf the target has [Guard], this damage increases by 3000."
   },
   {
    "row": "Support04",
    "sub": 0,
    "col": "m_name",
    "src": "e11ab392a874",
-   "t": ""
+   "t": "Seitei King"
   },
   {
    "row": "Support04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1224955d39f",
-   "t": ""
+   "t": "[Snipe]\nIf the target's charge is 8 or more,\nthis damage increases by 5000."
   },
   {
    "row": "Support05",
    "sub": 0,
    "col": "m_name",
    "src": "57fd3ede1c08",
-   "t": ""
+   "t": "Musketiard"
   },
   {
    "row": "Support05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f9d228c389c5",
-   "t": ""
+   "t": "[Snipe]\nIf the target is on Standby, this\ndamage increases by 3000."
   },
   {
    "row": "Support06",
    "sub": 0,
    "col": "m_name",
    "src": "40d6e2029e15",
-   "t": ""
+   "t": "Jangarian"
   },
   {
    "row": "Support07",
    "sub": 0,
    "col": "m_name",
    "src": "59b822755a8a",
-   "t": ""
+   "t": "Wind Sylph"
   },
   {
    "row": "Support08",
    "sub": 0,
    "col": "m_name",
    "src": "95d43e8a6c98",
-   "t": ""
+   "t": "Key Turtle"
   },
   {
    "row": "Support08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support08",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": ""
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage\nincreases by 2000."
   },
   {
    "row": "Support09",
    "sub": 0,
    "col": "m_name",
    "src": "8aaae1e3bb19",
-   "t": ""
+   "t": "Roll Star"
   },
   {
    "row": "Support09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support09",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": ""
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage\nincreases by 2000."
   },
   {
    "row": "Support10",
    "sub": 0,
    "col": "m_name",
    "src": "e0f096d02616",
-   "t": ""
+   "t": "Antruger"
   },
   {
    "row": "Support10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4c4f85656792",
-   "t": ""
+   "t": "[Barrier: 5] When one of your [Shoot] type Medabots uses an ability (Action), the damage increases by 1000."
   },
   {
    "row": "Support11",
    "sub": 0,
    "col": "m_name",
    "src": "8d4ae6d0c530",
-   "t": ""
+   "t": "Hardnesten"
   },
   {
    "row": "Support11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support11",
    "sub": 0,
    "col": "m_skillText2",
    "src": "7d57634e3f5e",
-   "t": ""
+   "t": "When this Medabot destroys a target with [Snipe], recover 2 [Shoot] type Tactics stock."
   },
   {
    "row": "Support12",
    "sub": 0,
    "col": "m_name",
    "src": "c26028e90b1e",
-   "t": ""
+   "t": "Warbandit"
   },
   {
    "row": "Support12",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e12dc9f9fc5d",
-   "t": ""
+   "t": "Damage from your [Shoot] type tactics cards increases by 1000."
   },
   {
    "row": "Support13",
    "sub": 0,
    "col": "m_name",
    "src": "c44e262bb7ab",
-   "t": ""
+   "t": "Cross Messiah"
   },
   {
    "row": "Support13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7d61c8878d5",
-   "t": ""
+   "t": "When you use a [Shoot] type tactics\ncard, activate [Snipe] against 1 random\nenemy Medabot."
   },
   {
    "row": "Support13",
    "sub": 0,
    "col": "m_skillText2",
    "src": "65a007229473",
-   "t": ""
+   "t": "[Frenzy]\nThis effect lasts until the start of\nyour next turn."
   },
   {
    "row": "Support14",
    "sub": 0,
    "col": "m_name",
    "src": "b38f7d2cfacc",
-   "t": ""
+   "t": "Gothic Mates"
   },
   {
    "row": "Support14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0e0f7d28cb4",
-   "t": ""
+   "t": "Can be activated if you have 6 or more\n[Shoot] type Medabots in your discard pile."
   },
   {
    "row": "Support14",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e0f1172bc90e",
-   "t": ""
+   "t": "[Snipe]\nIf this effect destroys the target,\ngain 2 random [Shoot] type tactics cards."
   },
   {
    "row": "Support15",
    "sub": 0,
    "col": "m_name",
    "src": "62e615b95b7d",
-   "t": ""
+   "t": "Gothic Mates (Medachange)"
   },
   {
    "row": "Support15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "679c970ccebc",
-   "t": ""
+   "t": "[Snipe]\nDeal 6000 extra damage to the target\nfor each [Shoot] type tactics card used\nthis turn (max 3); this counts as\n[Snipe]. Then destroy this Medabot."
   },
   {
    "row": "Support16",
    "sub": 0,
    "col": "m_name",
    "src": "dfcec9980a06",
-   "t": ""
+   "t": "Coffin Bat"
   },
   {
    "row": "Support17",
    "sub": 0,
    "col": "m_name",
    "src": "14f8c2253012",
-   "t": ""
+   "t": "Bugstink"
   },
   {
    "row": "Support17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support17",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support18",
    "sub": 0,
    "col": "m_name",
    "src": "e1088d31d0ac",
-   "t": ""
+   "t": "Lily Madonna"
   },
   {
    "row": "Support18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Support18",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": ""
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage\nincreases by 2000."
   },
   {
    "row": "Support19",
    "sub": 0,
    "col": "m_name",
    "src": "f61fd31eb8b0",
-   "t": ""
+   "t": "Yuichitan"
   },
   {
    "row": "Support19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": ""
+   "t": "[Conserve] Until the end of your next turn, this Medabot's action cost is reduced by 2 (never below 1)."
   },
   {
    "row": "Support19",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d39bde129bca",
-   "t": ""
+   "t": "[Snipe]\nIf the target's charge is 8 or more, this damage increases by 4000."
   },
   {
    "row": "Support20",
    "sub": 0,
    "col": "m_name",
    "src": "8e4e59bee2eb",
-   "t": ""
+   "t": "Rafaluft"
   },
   {
    "row": "Support20",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": ""
+   "t": "Choose 1 opponent Medabot and deal\n4000 damage.\nThe target loses its ability (trait)\nuntil the opponent's turn ends."
   },
   {
    "row": "Support21",
    "sub": 0,
    "col": "m_name",
    "src": "6daacdc31d04",
-   "t": ""
+   "t": "Gabrivern"
   },
   {
    "row": "Support21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7182cc6193ce",
-   "t": ""
+   "t": "[Revive: 6 or more]"
   },
   {
    "row": "Support22",
    "sub": 0,
    "col": "m_name",
    "src": "0064f5250fcb",
-   "t": ""
+   "t": "Parallel Deus"
   },
   {
    "row": "Support22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e27ca1414052",
-   "t": ""
+   "t": "When another Medabot is destroyed by\nan ability effect, its power increases\nby 1000.\n[Threshold: 10000] When this Medabot\ndestroys an enemy Medabot, choose and\ndestroy 1 enemy part."
   },
   {
    "row": "Support23",
    "sub": 0,
    "col": "m_name",
    "src": "23835fa67e47",
-   "t": ""
+   "t": "God Emperor"
   },
   {
    "row": "Support23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "67e47f6393fe",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 20000\ndamage to it.\nIf [Snipe] was activated 2 or more times\nthis turn, deal 20000 extra damage."
   },
   {
    "row": "Support24",
    "sub": 0,
    "col": "m_name",
    "src": "7e3a4f4484a8",
-   "t": ""
+   "t": "Rapirapi"
   },
   {
    "row": "Support25",
    "sub": 0,
    "col": "m_name",
    "src": "b16c2979a2a3",
-   "t": ""
+   "t": "Ninninja"
   },
   {
    "row": "Support26",
    "sub": 0,
    "col": "m_name",
    "src": "b47ae323ea22",
-   "t": ""
+   "t": "Steinberga"
   },
   {
    "row": "Support26",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": ""
+   "t": "[Frenzy]\nWhen this Medabot makes a normal attack,\napply [Shock] to the target until the end\nof the opponent's turn."
   },
   {
    "row": "Support27",
    "sub": 0,
    "col": "m_name",
    "src": "3cc5168301b9",
-   "t": ""
+   "t": "Hell Phoenix"
   },
   {
    "row": "Support27",
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": ""
+   "t": "[Frenzy]\nWhen this Medabot makes a normal attack,\napply [Burn] to the target until the end\nof the opponent's turn."
   },
   {
    "row": "Support28",
    "sub": 0,
    "col": "m_name",
    "src": "5a4924f2e45d",
-   "t": ""
+   "t": "Savatalis"
   },
   {
    "row": "Support28",
    "sub": 0,
    "col": "m_skillText1",
    "src": "de213ee0a632",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, if the target's Charge is higher than its own, its power increases by 1000 for each point of Charge difference."
   },
   {
    "row": "Support29",
    "sub": 0,
    "col": "m_name",
    "src": "c286cfc531c8",
-   "t": ""
+   "t": "Sarashinahime"
   },
   {
    "row": "Support29",
    "sub": 0,
    "col": "m_skillText1",
    "src": "31e4371b2fe5",
-   "t": ""
+   "t": "Transfer a Medabot with [Barrier Limit] from your hand to an empty slot on your field, overheated. Then put the top 6 cards of your deck into the discard pile."
   },
   {
    "row": "Support30",
    "sub": 0,
    "col": "m_name",
    "src": "ef91c1c2c0ca",
-   "t": ""
+   "t": "Gailine"
   },
   {
    "row": "Support31",
    "sub": 0,
    "col": "m_name",
    "src": "235964c31c55",
-   "t": ""
+   "t": "Flame Vulcan"
   },
   {
    "row": "Support32",
    "sub": 0,
    "col": "m_name",
    "src": "111b39d7441c",
-   "t": ""
+   "t": "Peppercat"
   },
   {
    "row": "Support32",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": ""
+   "t": "[Frenzy]\nWhen this Medabot makes a normal attack,\napply [Shock] to the target until the end\nof the opponent's turn."
   },
   {
    "row": "Support33",
    "sub": 0,
    "col": "m_name",
    "src": "59d053e68dd2",
-   "t": ""
+   "t": "Tarabakraba"
   },
   {
    "row": "Support33",
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": ""
+   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
   },
   {
    "row": "Support34",
    "sub": 0,
    "col": "m_name",
    "src": "847b7227d94f",
-   "t": ""
+   "t": "Circulis"
   },
   {
    "row": "Support34",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Support34",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2c95f4e9a0a6",
-   "t": ""
+   "t": "Choose 1 opponent's Medabot and apply [Bind] to it until the end of the opponent's turn."
   },
   {
    "row": "Support35",
    "sub": 0,
    "col": "m_name",
    "src": "cc7633098731",
-   "t": ""
+   "t": "Dear Stage"
   },
   {
    "row": "Support35",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d662bdd65c8e",
-   "t": ""
+   "t": "If you have 3 [Melee] type Medabots on your field, all your Medabots gain 1000 power."
   },
   {
    "row": "Support35",
    "sub": 0,
    "col": "m_skillText2",
    "src": "498f4a3a44ca",
-   "t": ""
+   "t": "When this Medabot attacks normally, the target gets [Freeze] until the opponent's turn ends."
   },
   {
    "row": "Support36",
    "sub": 0,
    "col": "m_name",
    "src": "c2f22adad920",
-   "t": ""
+   "t": "Orindias"
   },
   {
    "row": "Support36",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Support36",
    "sub": 0,
    "col": "m_skillText2",
    "src": "bddd057246b3",
-   "t": ""
+   "t": "When this Medabot makes or receives a normal attack, if the target was not destroyed, the target attacks at random."
   },
   {
    "row": "Support37",
    "sub": 0,
    "col": "m_name",
    "src": "e948a8b0cb91",
-   "t": ""
+   "t": "Assault Tyranno"
   },
   {
    "row": "Support38",
    "sub": 0,
    "col": "m_name",
    "src": "2bd03cce9c48",
-   "t": ""
+   "t": "Rhinodash"
   },
   {
    "row": "Support38",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Support38",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support39",
    "sub": 0,
    "col": "m_name",
    "src": "0031b81791c9",
-   "t": ""
+   "t": "Palms"
   },
   {
    "row": "Support39",
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": ""
+   "t": "[Frenzy]\nWhen this Medabot makes a normal attack,\napply [Burn] to the target until the end\nof the opponent's turn."
   },
   {
    "row": "Support40",
    "sub": 0,
    "col": "m_name",
    "src": "bf0f58f5694d",
-   "t": ""
+   "t": "Greed"
   },
   {
    "row": "Support41",
    "sub": 0,
    "col": "m_name",
    "src": "783b88e031e0",
-   "t": ""
+   "t": "Milgnis"
   },
   {
    "row": "Support41",
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": ""
+   "t": "[Frenzy]\nWhen this Medabot makes a normal attack,\napply [Burn] to the target until the end\nof the opponent's turn."
   },
   {
    "row": "Support42",
    "sub": 0,
    "col": "m_name",
    "src": "8f10a1eb9c52",
-   "t": ""
+   "t": "Nepenthesia"
   },
   {
    "row": "Support42",
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": ""
+   "t": "Until the start of your next turn, gain \"When the opponent chooses a Medabot as a target, they must choose this Medabot if possible.\""
   },
   {
    "row": "Support42",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2c95f4e9a0a6",
-   "t": ""
+   "t": "Choose 1 opponent's Medabot and apply [Bind] to it until the end of the opponent's turn."
   },
   {
    "row": "Support43",
    "sub": 0,
    "col": "m_name",
    "src": "0ac373a86f88",
-   "t": ""
+   "t": "Urielde"
   },
   {
    "row": "Support43",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": ""
+   "t": "Choose 1 of your destroyed parts at random and add a copy of it to your spare parts. Then destroy this Medabot."
   },
   {
    "row": "Support44",
    "sub": 0,
    "col": "m_name",
    "src": "bd79c029dc7c",
-   "t": ""
+   "t": "Smilodonad"
   },
   {
    "row": "Support44",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Support44",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2759b302b55",
-   "t": ""
+   "t": "When you make a Cross Attack with only [Melee] type Medabots, the action cost is reduced by 2."
   },
   {
    "row": "Support45",
    "sub": 0,
    "col": "m_name",
    "src": "fc9bc04dc3c3",
-   "t": ""
+   "t": "Grain"
   },
   {
    "row": "Support45",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": ""
+   "t": "Can be activated if there are 6 or more\n[Melee] type Medabots in your discard pile."
   },
   {
    "row": "Support45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c7a91eb30ced",
-   "t": ""
+   "t": "When this Medabot destroys a part or Barrier of the enemy Leader, your opponent cannot use Medaforce until the end of their next turn."
   },
   {
    "row": "Support46",
    "sub": 0,
    "col": "m_name",
    "src": "efd8699c6113",
-   "t": ""
+   "t": "Grain (Medachange)"
   },
   {
    "row": "Support46",
    "sub": 0,
    "col": "m_skillText1",
    "src": "950449a38c0f",
-   "t": ""
+   "t": "After this Medabot's normal attack, it uses [Follow-up] on the same target once for each time [Frenzy] activated this turn. If there is no target, it uses [Follow-up] at random."
   },
   {
    "row": "Support47",
    "sub": 0,
    "col": "m_name",
    "src": "e9bd95faa0e9",
-   "t": ""
+   "t": "Dead Quasar"
   },
   {
    "row": "Support47",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fb1eac663bd",
-   "t": ""
+   "t": "When this Medabot destroys an overheated Medabot with a normal attack, deal damage equal to the destroyed Medabot's power to all opponent's Medabots, once for each unit that joined that attack."
   },
   {
    "row": "Support48",
    "sub": 0,
    "col": "m_name",
    "src": "58d60a887ae1",
-   "t": ""
+   "t": "Boson"
   },
   {
    "row": "Support48",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": ""
+   "t": "Can be activated if there are 6 or more\n[Melee] type Medabots in your discard pile."
   },
   {
    "row": "Support48",
    "sub": 0,
    "col": "m_skillText2",
    "src": "7592ccec88a3",
-   "t": ""
+   "t": "This Medabot nullifies damage once.\nThis effect does not stack.\nUntil the start of your next turn,\nit gains [Super Guard]."
   },
   {
    "row": "Support49",
    "sub": 0,
    "col": "m_name",
    "src": "c3c7d861fb1d",
-   "t": ""
+   "t": "Boson (Medachange)"
   },
   {
    "row": "Support49",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5fbeb13b6d9f",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, the cost of the opponent's [Tactics Cards] increases by 1 until the end of the opponent's turn."
   },
   {
    "row": "Support50",
    "sub": 0,
    "col": "m_name",
    "src": "33d42d83bf7c",
-   "t": ""
+   "t": "Beast Chimera"
   },
   {
    "row": "Support50",
    "sub": 0,
    "col": "m_skillText1",
    "src": "58fba845ed00",
-   "t": ""
+   "t": "When this Medabot makes a normal attack,\nthe target loses its ability (trait)\nuntil the end of the opponent's turn.\nWhen this Medabot destroys a part or\nbarrier of the opponent's Leader,\ndestroy 1 more of the opponent's parts."
   },
   {
    "row": "Support51",
    "sub": 0,
    "col": "m_name",
    "src": "4840a9244f64",
-   "t": ""
+   "t": "Hanumonkey"
   },
   {
    "row": "Support52",
    "sub": 0,
    "col": "m_name",
    "src": "894593d51ba1",
-   "t": ""
+   "t": "Marumaru Morumo"
   },
   {
    "row": "Support52",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn.\nThis Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Support53",
    "sub": 0,
    "col": "m_name",
    "src": "b877ff37f9ec",
-   "t": ""
+   "t": "Arinsudayu"
   },
   {
    "row": "Support53",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn.\nThis Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Support54",
    "sub": 0,
    "col": "m_name",
    "src": "dbc1170f1698",
-   "t": ""
+   "t": "Sailor Multi"
   },
   {
    "row": "Support54",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": ""
+   "t": "Until the end of the turn, the next damage to the enemy Leader deals that same damage 1 extra time."
   },
   {
    "row": "Support55",
    "sub": 0,
    "col": "m_name",
    "src": "f9525f721d4e",
-   "t": ""
+   "t": "Roll Beauty"
   },
   {
    "row": "Support55",
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": ""
+   "t": "While you have 2 or fewer cards in hand,\nthe quick cooldown cost of all your\nMedabots is reduced by 1 (never below 1).\nThis effect does not stack."
   },
   {
    "row": "Support56",
    "sub": 0,
    "col": "m_name",
    "src": "51feb571fd69",
-   "t": ""
+   "t": "Swimmer Mates"
   },
   {
    "row": "Support56",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": ""
+   "t": "Until the end of the turn, the next damage to the enemy Leader deals that same damage 1 extra time."
   },
   {
    "row": "Support57",
    "sub": 0,
    "col": "m_name",
    "src": "a6fdcbd66d5a",
-   "t": ""
+   "t": "Saishogunshi"
   },
   {
    "row": "Support57",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": ""
+   "t": "All your Medabots except this one gain\n2000 power until the start of your next\nturn.\nThis Medabot cannot use quick cooldown\nthis turn."
   },
   {
    "row": "Support58",
    "sub": 0,
    "col": "m_name",
    "src": "e964e8b1dc90",
-   "t": ""
+   "t": "Little Lacy"
   },
   {
    "row": "Support58",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a84c9ef10dee",
-   "t": ""
+   "t": "Until the end of the turn, the next\nability (action) activated costs 0.\nThis Medabot cannot use quick cooldown\nthis turn."
   },
   {
    "row": "Support59",
    "sub": 0,
    "col": "m_name",
    "src": "369f7c4ddd27",
-   "t": ""
+   "t": "Megavex"
   },
   {
    "row": "Support59",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn.\nThis Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Support59",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support60",
    "sub": 0,
    "col": "m_name",
    "src": "6f39c9702f86",
-   "t": ""
+   "t": "White Glen"
   },
   {
    "row": "Support60",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": ""
+   "t": "All your Medabots except this one gain\n2000 power until the start of your next\nturn.\nThis Medabot cannot use quick cooldown\nthis turn."
   },
   {
    "row": "Support61",
    "sub": 0,
    "col": "m_name",
    "src": "b442871eaa3d",
-   "t": ""
+   "t": "Curly Veil"
   },
   {
    "row": "Support61",
    "sub": 0,
    "col": "m_skillText1",
    "src": "02ae37069cba",
-   "t": ""
+   "t": "While this Medabot is on the field, all Medabots lose their abilities (traits) except Conceal."
   },
   {
    "row": "Support62",
    "sub": 0,
    "col": "m_name",
    "src": "8e90ea7e0e87",
-   "t": ""
+   "t": "Noel"
   },
   {
    "row": "Support62",
    "sub": 0,
    "col": "m_skillText1",
    "src": "80409e5dc3f1",
-   "t": ""
+   "t": "Can be activated if there are 6 or more Medabots in your discard pile."
   },
   {
    "row": "Support62",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2578b132ae4",
-   "t": ""
+   "t": "When one of your Medabots uses quick cooldown, if it is not [Support] type and its Charge is 4 or more, use [Follow-up] on 1 random opponent's Medabot (max 2 times per turn)."
   },
   {
    "row": "Support63",
    "sub": 0,
    "col": "m_name",
    "src": "bdedbad6afdb",
-   "t": ""
+   "t": "Noel (Medachange)"
   },
   {
    "row": "Support63",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0c7eca12f009",
-   "t": ""
+   "t": "All your Medabots except this one gain 2000 power until the start of your next turn."
   },
   {
    "row": "Support63",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0cf1a111e70b",
-   "t": ""
+   "t": "Until the end of the opponent's next turn, negate one enemy effect that targets this Medabot."
   },
   {
    "row": "Support64",
    "sub": 0,
    "col": "m_name",
    "src": "5e574d1ba566",
-   "t": ""
+   "t": "Blazer Mates"
   },
   {
    "row": "Support64",
    "sub": 0,
    "col": "m_skillText1",
    "src": "859c169d075a",
-   "t": ""
+   "t": "When this Medabot is transferred by an effect, all your Medabots gain 4000 power until the start of your next turn."
   },
   {
    "row": "Support65",
    "sub": 0,
    "col": "m_name",
    "src": "a151fcd8c617",
-   "t": ""
+   "t": "Lyrical Nurse"
   },
   {
    "row": "Support65",
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": ""
+   "t": "[Repair]\nFrom turn 4 on, this effect can choose\nup to 2 cards."
   },
   {
    "row": "Support66",
    "sub": 0,
    "col": "m_name",
    "src": "d97d6535245c",
-   "t": ""
+   "t": "May Puppy"
   },
   {
    "row": "Support66",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": ""
+   "t": "Until the end of the turn, enemy traps do not activate."
   },
   {
    "row": "Support66",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": ""
+   "t": "Remove [curable status effects] from all your Medabots."
   },
   {
    "row": "Support67",
    "sub": 0,
    "col": "m_name",
    "src": "0ffba070f511",
-   "t": ""
+   "t": "Theodora Beryl"
   },
   {
    "row": "Support67",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4f88edfb352e",
-   "t": ""
+   "t": "[Revive: 4 or less]"
   },
   {
    "row": "Support68",
    "sub": 0,
    "col": "m_name",
    "src": "5f447b78a403",
-   "t": ""
+   "t": "Aqua Nereid"
   },
   {
    "row": "Support69",
    "sub": 0,
    "col": "m_name",
    "src": "303cafd3cbd9",
-   "t": ""
+   "t": "Destroglare"
   },
   {
    "row": "Support69",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": ""
+   "t": "Choose 1 of your destroyed parts at random and add a copy of it to your spare parts. Then destroy this Medabot."
   },
   {
    "row": "Support70",
    "sub": 0,
    "col": "m_name",
    "src": "a0207dea4ae4",
-   "t": ""
+   "t": "Goldfin"
   },
   {
    "row": "Support70",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": ""
+   "t": "[Repair]\nWith 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
   },
   {
    "row": "Support71",
    "sub": 0,
    "col": "m_name",
    "src": "381efa3b2290",
-   "t": ""
+   "t": "Saint Nurse"
   },
   {
    "row": "Support71",
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": ""
+   "t": "[Repair]\nFrom turn 4 on, this effect can choose\nup to 2 cards."
   },
   {
    "row": "Support71",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support72",
    "sub": 0,
    "col": "m_name",
    "src": "d720af2b84d4",
-   "t": ""
+   "t": "Charles de Nurse"
   },
   {
    "row": "Support72",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a8bc7f5c3cd",
-   "t": ""
+   "t": "When you use a [Heal] type tactics card, this Medabot gains 1000 power."
   },
   {
    "row": "Support72",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support73",
    "sub": 0,
    "col": "m_name",
    "src": "cacdf8efb2d1",
-   "t": ""
+   "t": "Dullahorse"
   },
   {
    "row": "Support73",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": ""
+   "t": "All your Medabots except this one gain 2000 power until the start of your next turn. This Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Support73",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": ""
+   "t": "Remove [curable status effects] from all your Medabots."
   },
   {
    "row": "Support74",
    "sub": 0,
    "col": "m_name",
    "src": "31ea085a62bd",
-   "t": ""
+   "t": "Otogi Princess"
   },
   {
    "row": "Support74",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7182cc6193ce",
-   "t": ""
+   "t": "[Revive: 6 or more]"
   },
   {
    "row": "Support74",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e863e86b575e",
-   "t": ""
+   "t": "[Conserve] Gains 2000 power.\n[Threshold: 10000] At the start of your\nAction Phase, deal 10000 damage twice to\nthe opponent's Leader."
   },
   {
    "row": "Support75",
    "sub": 0,
    "col": "m_name",
    "src": "5d97b77fc756",
-   "t": ""
+   "t": "Fermion"
   },
   {
    "row": "Support75",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fc94a7d1d61",
-   "t": ""
+   "t": "Can be activated if there are 6 or more\n[Heal] type Medabots in your discard pile."
   },
   {
    "row": "Support75",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4be6ae76d626",
-   "t": ""
+   "t": "Remove [Curable Ailments] from all your Medabots. Your Medabots nullify the damage they take once. This effect does not stack."
   },
   {
    "row": "Support76",
    "sub": 0,
    "col": "m_name",
    "src": "3128ccaade72",
-   "t": ""
+   "t": "Fermion (Medachange)"
   },
   {
    "row": "Support76",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a424783bf0da",
-   "t": ""
+   "t": "When this Medabot destroys a part or barrier of the opponent's Leader, if your Barrier Hand has 5 or more cards and the opponent has 3 or fewer barriers, you win the Robattle."
   },
   {
    "row": "Support77",
    "sub": 0,
    "col": "m_name",
    "src": "d502584e7748",
-   "t": ""
+   "t": "Horned Froggy"
   },
   {
    "row": "Support77",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Support78",
    "sub": 0,
    "col": "m_name",
    "src": "b444801d1859",
-   "t": ""
+   "t": "Shadow Armor"
   },
   {
    "row": "Support78",
    "sub": 0,
    "col": "m_skillText1",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support78",
    "sub": 0,
    "col": "m_skillText2",
    "src": "670a205f9293",
-   "t": ""
+   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
   },
   {
    "row": "Support79",
    "sub": 0,
    "col": "m_name",
    "src": "471942c59552",
-   "t": ""
+   "t": "Kurukuru Maruman"
   },
   {
    "row": "Support79",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Support79",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support80",
    "sub": 0,
    "col": "m_name",
    "src": "94e3b23cd22e",
-   "t": ""
+   "t": "Rossaribs"
   },
   {
    "row": "Support80",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
   },
   {
    "row": "Support80",
    "sub": 0,
    "col": "m_skillText2",
    "src": "78b00631891c",
-   "t": ""
+   "t": "[Conserve] Its power increases by 3000."
   },
   {
    "row": "Support81",
    "sub": 0,
    "col": "m_name",
    "src": "6d1d58187739",
-   "t": ""
+   "t": "Earth Gnome"
   },
   {
    "row": "Support82",
    "sub": 0,
    "col": "m_name",
    "src": "74fb3a4cdf1a",
-   "t": ""
+   "t": "Wheelcomb"
   },
   {
    "row": "Support82",
    "sub": 0,
    "col": "m_skillText1",
    "src": "96fe281ee97b",
-   "t": ""
+   "t": "[Guard]\nWhen this Medabot is targeted by a normal\nattack, its power becomes the same as\nthe target's."
   },
   {
    "row": "Support82",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support83",
    "sub": 0,
    "col": "m_name",
    "src": "028cd31cb39c",
-   "t": ""
+   "t": "Padparadscha"
   },
   {
    "row": "Support83",
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"Takes no damage from Medabots with an ability (action).\""
   },
   {
    "row": "Support84",
    "sub": 0,
    "col": "m_name",
    "src": "149fef0b4642",
-   "t": ""
+   "t": "Armor Moth"
   },
   {
    "row": "Support84",
    "sub": 0,
    "col": "m_skillText1",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support85",
    "sub": 0,
    "col": "m_name",
    "src": "cec2f839fa1f",
-   "t": ""
+   "t": "Shinsaber"
   },
   {
    "row": "Support85",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
   },
   {
    "row": "Support86",
    "sub": 0,
    "col": "m_name",
    "src": "985ea3d5232d",
-   "t": ""
+   "t": "Bankaran"
   },
   {
    "row": "Support86",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
   },
   {
    "row": "Support86",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support87",
    "sub": 0,
    "col": "m_name",
    "src": "4d94c8c5ad5b",
-   "t": ""
+   "t": "Shell Cushion"
   },
   {
    "row": "Support87",
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"Takes no damage from Medabots with an ability (action).\""
   },
   {
    "row": "Support87",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support88",
    "sub": 0,
    "col": "m_name",
    "src": "348ce3153e42",
-   "t": ""
+   "t": "Haniwa Golem"
   },
   {
    "row": "Support88",
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot takes damage from an ability (action), choose 1 enemy [Shoot] type Support and return it to the deck.\""
   },
   {
    "row": "Support88",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support89",
    "sub": 0,
    "col": "m_name",
    "src": "5344dc9fa721",
-   "t": ""
+   "t": "Pretty Prine"
   },
   {
    "row": "Support89",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Support89",
    "sub": 0,
    "col": "m_skillText2",
    "src": "63e2a132d35d",
-   "t": ""
+   "t": "[Guard]"
   },
   {
    "row": "Support90",
    "sub": 0,
    "col": "m_name",
    "src": "ce901293cdb8",
-   "t": ""
+   "t": "Dondogu"
   },
   {
    "row": "Support90",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"This Medabot cannot get [Shock], [Freeze], [Bind] or [Burn].\""
   },
   {
    "row": "Support90",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support91",
    "sub": 0,
    "col": "m_name",
    "src": "a5ded910260b",
-   "t": ""
+   "t": "Megaphant"
   },
   {
    "row": "Support91",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Support91",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": ""
+   "t": "This Medabot cannot make normal attacks."
   },
   {
    "row": "Support92",
    "sub": 0,
    "col": "m_name",
    "src": "d13be5d285a8",
-   "t": ""
+   "t": "Artemis"
   },
   {
    "row": "Support92",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8492a48e71a9",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard], \"Takes no damage from Medabots with an ability (action).\" and \"When the enemy activates an ability (action), deal 8000 damage to the enemy Leader.\""
   },
   {
    "row": "Support93",
    "sub": 0,
    "col": "m_name",
    "src": "8c54e64f93a8",
-   "t": ""
+   "t": "Zero Suicide"
   },
   {
    "row": "Support93",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2429e1c9bbc9",
-   "t": ""
+   "t": "Until the start of your next turn, gains\\n[Guard] and \"The enemy's action cost\\nincreases by 1.\"\nIf your Leader was not targeted by a\nnormal attack during the previous enemy\nturn, deal 6000 damage to all enemy Medabots."
   },
   {
    "row": "Support94",
    "sub": 0,
    "col": "m_name",
    "src": "40e9bc1df317",
-   "t": ""
+   "t": "Charged Seeds"
   },
   {
    "row": "Support94",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bee90b915f17",
-   "t": ""
+   "t": "[Deploy: 10] [Heater Plant]"
   },
   {
    "row": "Support95",
    "sub": 0,
    "col": "m_name",
    "src": "470a7bf272b3",
-   "t": ""
+   "t": "Pastel Fairy"
   },
   {
    "row": "Support95",
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
   },
   {
    "row": "Support96",
    "sub": 0,
    "col": "m_name",
    "src": "4a3a2e996164",
-   "t": ""
+   "t": "Shiny Star"
   },
   {
    "row": "Support96",
    "sub": 0,
    "col": "m_skillText1",
    "src": "70c7903e8d2a",
-   "t": ""
+   "t": "If this Medabot and \"Twinkle Star\" are on your field, gain 6 Deploy points at the end of your turn."
   },
   {
    "row": "Support96",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c7fef01b34d0",
-   "t": ""
+   "t": "[Deploy: 6] [Tactics Trap]"
   },
   {
    "row": "Support97",
    "sub": 0,
    "col": "m_name",
    "src": "d103d65e22d4",
-   "t": ""
+   "t": "Twinkle Star"
   },
   {
    "row": "Support97",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3bafdfe07945",
-   "t": ""
+   "t": "Can be activated if Shiny Star is on your field. Traps currently deployed activate twice. This turn, this Medabot cannot use quick cooldown."
   },
   {
    "row": "Support97",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e049680b6e4e",
-   "t": ""
+   "t": "[Deploy: 6] [Ability Trap]"
   },
   {
    "row": "Support98",
    "sub": 0,
    "col": "m_name",
    "src": "aa696dc38773",
-   "t": ""
+   "t": "The Ancient"
   },
   {
    "row": "Support98",
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
   },
   {
    "row": "Support99",
    "sub": 0,
    "col": "m_name",
    "src": "dddd0708ae4d",
-   "t": ""
+   "t": "Bad Hacker"
   },
   {
    "row": "Support99",
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": ""
+   "t": "Can be activated if 3 or more Medabots\nwith the [Deploy] type are in your discard."
   },
   {
    "row": "Support99",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e049680b6e4e",
-   "t": ""
+   "t": "[Deploy: 6] [Ability Trap]"
   },
   {
    "row": "Support100",
    "sub": 0,
    "col": "m_name",
    "src": "e07d098cb29c",
-   "t": ""
+   "t": "Bad Hacker (Medachange)"
   },
   {
    "row": "Support100",
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": ""
+   "t": "Choose 1 enemy Medabot, put it into\nOverheat and inflict [Bind] on it until\nthe end of the enemy turn."
   },
   {
    "row": "Support100",
    "sub": 0,
    "col": "m_skillText2",
    "src": "40d6cb5d1442",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
   },
   {
    "row": "Support101",
    "sub": 0,
    "col": "m_name",
    "src": "4f9533f6d99e",
-   "t": ""
+   "t": "Raiza 2"
   },
   {
    "row": "Support101",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a62b073a9a46",
-   "t": ""
+   "t": "Gain 6 Deploy points. Then put this Medabot and your entire hand into the discard pile."
   },
   {
    "row": "Support102",
    "sub": 0,
    "col": "m_name",
    "src": "318adf24f4cb",
-   "t": ""
+   "t": "Ready Go"
   },
   {
    "row": "Support102",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d384b6a4a45b",
-   "t": ""
+   "t": "[Deploy: 4] [Parts Trap]"
   },
   {
    "row": "Support102",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Support103",
    "sub": 0,
    "col": "m_name",
    "src": "a01c1eda6ceb",
-   "t": ""
+   "t": "Swallowtail"
   },
   {
    "row": "Support103",
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": ""
+   "t": "Can be activated if 3 or more Medabots\nwith the [Deploy] type are in your discard."
   },
   {
    "row": "Support103",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d384b6a4a45b",
-   "t": ""
+   "t": "[Deploy: 4] [Parts Trap]"
   },
   {
    "row": "Support104",
    "sub": 0,
    "col": "m_name",
    "src": "02211badb4e9",
-   "t": ""
+   "t": "Swallowtail (Medachange)"
   },
   {
    "row": "Support104",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5c6ecd5a1762",
-   "t": ""
+   "t": "When this Medabot makes or is targeted by a normal attack, if the target is not the [Deploy] type, its power increases by 1000 until the start of your next turn and you gain 4 Deploy points."
   },
   {
    "row": "Support105",
    "sub": 0,
    "col": "m_name",
    "src": "98910f064233",
-   "t": ""
+   "t": "Virgo"
   },
   {
    "row": "Support105",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3b162c40524d",
-   "t": ""
+   "t": "Can be activated if 3 or more Medabots with the [Deploy] type are in the discard pile."
   },
   {
    "row": "Support105",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d33c3177615c",
-   "t": ""
+   "t": "[Deploy: 6] [Energy Plant]"
   },
   {
    "row": "Support106",
    "sub": 0,
    "col": "m_name",
    "src": "2ea92594713d",
-   "t": ""
+   "t": "Virgo (Medachange)"
   },
   {
    "row": "Support106",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4467e0af9fba",
-   "t": ""
+   "t": "[Guard]\nWhen this Medabot is targeted by a normal\nattack, gain 4 Deploy points."
   },
   {
    "row": "Support106",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c7fef01b34d0",
-   "t": ""
+   "t": "[Deploy: 6] [Tactics Trap]"
   },
   {
    "row": "Support107",
    "sub": 0,
    "col": "m_name",
    "src": "b5577b020007",
-   "t": ""
+   "t": "Mary Crown"
   },
   {
    "row": "Support107",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e5a8ccbb3de",
-   "t": ""
+   "t": "When this Medabot is transferred by an\neffect, its power increases by 4000.\nAlso, gain 4 Deploy points and deal 8000\ndamage to all enemy Medabots."
   },
   {
    "row": "Support107",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a59210167ba",
-   "t": ""
+   "t": "[Deploy: 10] [First Aid]"
   },
   {
    "row": "Parts00",
    "sub": 0,
    "col": "m_name",
    "src": "eeab9a035fea",
-   "t": ""
+   "t": "Meta Revolver"
   },
   {
    "row": "Parts00",
    "sub": 0,
    "col": "m_modelNum",
    "src": "28d6832fff5b",
-   "t": ""
+   "t": "Metabee KBT01-M"
   },
   {
    "row": "Parts01",
    "sub": 0,
    "col": "m_name",
    "src": "fc72500d1d80",
-   "t": ""
+   "t": "Meta Machinegun"
   },
   {
    "row": "Parts01",
    "sub": 0,
    "col": "m_modelNum",
    "src": "28d6832fff5b",
-   "t": ""
+   "t": "Metabee KBT01-M"
   },
   {
    "row": "Parts01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e903e5b4b294",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 3000\ndamage to it.\nIf this effect destroys the target, gain\n1 random [Shoot] type Tactics card."
   },
   {
    "row": "Parts01",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f1beaf009e53",
-   "t": ""
+   "t": "Metabee equips: gain [Shoot]."
   },
   {
    "row": "Parts02",
    "sub": 0,
    "col": "m_name",
    "src": "fc72500d1d80",
-   "t": ""
+   "t": "Meta Machinegun"
   },
   {
    "row": "Parts02",
    "sub": 0,
    "col": "m_modelNum",
    "src": "28d6832fff5b",
-   "t": ""
+   "t": "Metabee KBT01-M"
   },
   {
    "row": "Parts02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7d57634e3f5e",
-   "t": ""
+   "t": "When this Medabot destroys a target with [Snipe], recover 2 [Shoot] type Tactics stock."
   },
   {
    "row": "Parts02",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f1beaf009e53",
-   "t": ""
+   "t": "Metabee equips: gain [Shoot]."
   },
   {
    "row": "Parts03",
    "sub": 0,
    "col": "m_name",
    "src": "fc72500d1d80",
-   "t": ""
+   "t": "Meta Machinegun"
   },
   {
    "row": "Parts03",
    "sub": 0,
    "col": "m_modelNum",
    "src": "28d6832fff5b",
-   "t": ""
+   "t": "Metabee KBT01-M"
   },
   {
    "row": "Parts03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": ""
+   "t": "Deal 4000 damage to all enemy Medabots.\nFor each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random\n[Shoot] type Tactics card."
   },
   {
    "row": "Parts03",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f1beaf009e53",
-   "t": ""
+   "t": "Metabee equips: gain [Shoot]."
   },
   {
    "row": "Parts04",
    "sub": 0,
    "col": "m_name",
    "src": "7d54c1f9743b",
-   "t": ""
+   "t": "Ignition"
   },
   {
    "row": "Parts04",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df54bb95fc65",
-   "t": ""
+   "t": "Arcbeetle KBT04-M"
   },
   {
    "row": "Parts05",
    "sub": 0,
    "col": "m_name",
    "src": "2e54cf0fb154",
-   "t": ""
+   "t": "Explode"
   },
   {
    "row": "Parts05",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df54bb95fc65",
-   "t": ""
+   "t": "Arcbeetle KBT04-M"
   },
   {
    "row": "Parts05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": ""
+   "t": "Deal 4000 damage to all enemy Medabots.\nFor each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random\n[Shoot] type Tactics card."
   },
   {
    "row": "Parts05",
    "sub": 0,
    "col": "m_skillText2",
    "src": "6c81ac7e50fb",
-   "t": ""
+   "t": "Arcbeetle equips: gain [Shoot]."
   },
   {
    "row": "Parts06",
    "sub": 0,
    "col": "m_name",
    "src": "2e54cf0fb154",
-   "t": ""
+   "t": "Explode"
   },
   {
    "row": "Parts06",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df54bb95fc65",
-   "t": ""
+   "t": "Arcbeetle KBT04-M"
   },
   {
    "row": "Parts06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4d985dcfb40f",
-   "t": ""
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage\nincreases by 2000."
   },
   {
    "row": "Parts06",
    "sub": 0,
    "col": "m_skillText2",
    "src": "6c81ac7e50fb",
-   "t": ""
+   "t": "Arcbeetle equips: gain [Shoot]."
   },
   {
    "row": "Parts07",
    "sub": 0,
    "col": "m_name",
    "src": "2e54cf0fb154",
-   "t": ""
+   "t": "Explode"
   },
   {
    "row": "Parts07",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df54bb95fc65",
-   "t": ""
+   "t": "Arcbeetle KBT04-M"
   },
   {
    "row": "Parts07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0ccc3b9c0ed3",
-   "t": ""
+   "t": "Deal 6000 damage to all enemy Medabots.\nFor each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random\n[Shoot] type Tactics card."
   },
   {
    "row": "Parts07",
    "sub": 0,
    "col": "m_skillText2",
    "src": "6c81ac7e50fb",
-   "t": ""
+   "t": "Arcbeetle equips: gain [Shoot]."
   },
   {
    "row": "Parts08",
    "sub": 0,
    "col": "m_name",
    "src": "a19ecc755f50",
-   "t": ""
+   "t": "Elect Missile"
   },
   {
    "row": "Parts08",
    "sub": 0,
    "col": "m_modelNum",
    "src": "a5d751e9c5c7",
-   "t": ""
+   "t": "Gofu Bullet BAT01-M"
   },
   {
    "row": "Parts09",
    "sub": 0,
    "col": "m_name",
    "src": "018063d8e589",
-   "t": ""
+   "t": "Magne Missile"
   },
   {
    "row": "Parts09",
    "sub": 0,
    "col": "m_modelNum",
    "src": "a5d751e9c5c7",
-   "t": ""
+   "t": "Gofu Bullet BAT01-M"
   },
   {
    "row": "Parts09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f0aa3587fd6a",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it.\nIf the enemy has 5 or more Tactics\nstock, this damage increases by 2000."
   },
   {
    "row": "Parts09",
    "sub": 0,
    "col": "m_skillText2",
    "src": "75bd076ddf93",
-   "t": ""
+   "t": "Gofu Bullet equips: gain [Shoot]."
   },
   {
    "row": "Parts10",
    "sub": 0,
    "col": "m_name",
    "src": "018063d8e589",
-   "t": ""
+   "t": "Magne Missile"
   },
   {
    "row": "Parts10",
    "sub": 0,
    "col": "m_modelNum",
    "src": "a5d751e9c5c7",
-   "t": ""
+   "t": "Gofu Bullet BAT01-M"
   },
   {
    "row": "Parts10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": ""
+   "t": "[Snipe]\nIf the target has [Guard], this damage increases by 3000."
   },
   {
    "row": "Parts10",
    "sub": 0,
    "col": "m_skillText2",
    "src": "75bd076ddf93",
-   "t": ""
+   "t": "Gofu Bullet equips: gain [Shoot]."
   },
   {
    "row": "Parts11",
    "sub": 0,
    "col": "m_name",
    "src": "018063d8e589",
-   "t": ""
+   "t": "Magne Missile"
   },
   {
    "row": "Parts11",
    "sub": 0,
    "col": "m_modelNum",
    "src": "a5d751e9c5c7",
-   "t": ""
+   "t": "Gofu Bullet BAT01-M"
   },
   {
    "row": "Parts11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": ""
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts11",
    "sub": 0,
    "col": "m_skillText2",
    "src": "75bd076ddf93",
-   "t": ""
+   "t": "Gofu Bullet equips: gain [Shoot]."
   },
   {
    "row": "Parts12",
    "sub": 0,
    "col": "m_name",
    "src": "266affe842a2",
-   "t": ""
+   "t": "Explose"
   },
   {
    "row": "Parts12",
    "sub": 0,
    "col": "m_modelNum",
    "src": "613c0577f4e3",
-   "t": ""
+   "t": "Abyss Greater KNG00-M"
   },
   {
    "row": "Parts13",
    "sub": 0,
    "col": "m_name",
    "src": "1279dac7d42f",
-   "t": ""
+   "t": "Brofendi"
   },
   {
    "row": "Parts13",
    "sub": 0,
    "col": "m_modelNum",
    "src": "613c0577f4e3",
-   "t": ""
+   "t": "Abyss Greater KNG00-M"
   },
   {
    "row": "Parts13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8d3da2016fe8",
-   "t": ""
+   "t": "[Snipe: Leader only]\nIf this effect destroys a part or Barrier\nof the enemy Leader, choose and destroy\n1 more enemy part or Barrier.\nChoose 1 of your own parts and destroy it."
   },
   {
    "row": "Parts13",
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": ""
+   "t": "Equipped by Abyss Greater: gain [Shooting]."
   },
   {
    "row": "Parts14",
    "sub": 0,
    "col": "m_name",
    "src": "1279dac7d42f",
-   "t": ""
+   "t": "Brofendi"
   },
   {
    "row": "Parts14",
    "sub": 0,
    "col": "m_modelNum",
    "src": "613c0577f4e3",
-   "t": ""
+   "t": "Abyss Greater KNG00-M"
   },
   {
    "row": "Parts14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 6000\ndamage.\nInflict [Bind] on it until the end of\nthe opponent's turn."
   },
   {
    "row": "Parts14",
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": ""
+   "t": "Equipped by Abyss Greater: gain [Shooting]."
   },
   {
    "row": "Parts15",
    "sub": 0,
    "col": "m_name",
    "src": "1279dac7d42f",
-   "t": ""
+   "t": "Brofendi"
   },
   {
    "row": "Parts15",
    "sub": 0,
    "col": "m_modelNum",
    "src": "613c0577f4e3",
-   "t": ""
+   "t": "Abyss Greater KNG00-M"
   },
   {
    "row": "Parts15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": ""
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts15",
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": ""
+   "t": "Equipped by Abyss Greater: gain [Shooting]."
   },
   {
    "row": "Parts16",
    "sub": 0,
    "col": "m_name",
    "src": "69731dd124a8",
-   "t": ""
+   "t": "Under Metro"
   },
   {
    "row": "Parts16",
    "sub": 0,
    "col": "m_modelNum",
    "src": "bd64abf7e5f8",
-   "t": ""
+   "t": "Chibehemoth BHM00-M"
   },
   {
    "row": "Parts17",
    "sub": 0,
    "col": "m_name",
    "src": "d425ce5c0444",
-   "t": ""
+   "t": "Under Tube"
   },
   {
    "row": "Parts17",
    "sub": 0,
    "col": "m_modelNum",
    "src": "bd64abf7e5f8",
-   "t": ""
+   "t": "Chibehemoth BHM00-M"
   },
   {
    "row": "Parts17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Parts17",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": ""
+   "t": "Equipped by Chibehemoth: gain [Shooting]."
   },
   {
    "row": "Parts18",
    "sub": 0,
    "col": "m_name",
    "src": "d425ce5c0444",
-   "t": ""
+   "t": "Under Tube"
   },
   {
    "row": "Parts18",
    "sub": 0,
    "col": "m_modelNum",
    "src": "bd64abf7e5f8",
-   "t": ""
+   "t": "Chibehemoth BHM00-M"
   },
   {
    "row": "Parts18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": ""
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts18",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": ""
+   "t": "Equipped by Chibehemoth: gain [Shooting]."
   },
   {
    "row": "Parts19",
    "sub": 0,
    "col": "m_name",
    "src": "d425ce5c0444",
-   "t": ""
+   "t": "Under Tube"
   },
   {
    "row": "Parts19",
    "sub": 0,
    "col": "m_modelNum",
    "src": "bd64abf7e5f8",
-   "t": ""
+   "t": "Chibehemoth BHM00-M"
   },
   {
    "row": "Parts19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cdaca6324904",
-   "t": ""
+   "t": "When this Medabot destroys the opponent leader's part or barrier, if they have 5 or more parts left, choose and destroy 1 more part."
   },
   {
    "row": "Parts19",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": ""
+   "t": "Equipped by Chibehemoth: gain [Shooting]."
   },
   {
    "row": "Parts76",
    "sub": 0,
    "col": "m_name",
    "src": "bb218a507e57",
-   "t": ""
+   "t": "Ice Flugel"
   },
   {
    "row": "Parts76",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c5c6d6416f8e",
-   "t": ""
+   "t": "Riarira FJK00-F"
   },
   {
    "row": "Parts77",
    "sub": 0,
    "col": "m_name",
    "src": "645be3f2c883",
-   "t": ""
+   "t": "Donner Flugel"
   },
   {
    "row": "Parts77",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c5c6d6416f8e",
-   "t": ""
+   "t": "Riarira FJK00-F"
   },
   {
    "row": "Parts77",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6e381d853705",
-   "t": ""
+   "t": "Choose 1 opponent Medabot; it gets [Shock] until the opponent's turn ends."
   },
   {
    "row": "Parts77",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": ""
+   "t": "Equipped by Riarira: gain [Shooting]."
   },
   {
    "row": "Parts78",
    "sub": 0,
    "col": "m_name",
    "src": "645be3f2c883",
-   "t": ""
+   "t": "Donner Flugel"
   },
   {
    "row": "Parts78",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c5c6d6416f8e",
-   "t": ""
+   "t": "Riarira FJK00-F"
   },
   {
    "row": "Parts78",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d5f4bc0d490",
-   "t": ""
+   "t": "When this Medabot attacks normally, the target gets [Shock] until the opponent's turn ends."
   },
   {
    "row": "Parts78",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": ""
+   "t": "Equipped by Riarira: gain [Shooting]."
   },
   {
    "row": "Parts79",
    "sub": 0,
    "col": "m_name",
    "src": "645be3f2c883",
-   "t": ""
+   "t": "Donner Flugel"
   },
   {
    "row": "Parts79",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c5c6d6416f8e",
-   "t": ""
+   "t": "Riarira FJK00-F"
   },
   {
    "row": "Parts79",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7fef01b34d0",
-   "t": ""
+   "t": "[Deploy: 6] [Tactics Trap]"
   },
   {
    "row": "Parts79",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": ""
+   "t": "Equipped by Riarira: gain [Shooting]."
   },
   {
    "row": "Parts124",
    "sub": 0,
    "col": "m_name",
    "src": "a17a4ae5a486",
-   "t": ""
+   "t": "Kerykeion"
   },
   {
    "row": "Parts124",
    "sub": 0,
    "col": "m_modelNum",
    "src": "242e443973e2",
-   "t": ""
+   "t": "Arcadia HRM00-M"
   },
   {
    "row": "Parts125",
    "sub": 0,
    "col": "m_name",
    "src": "c9f3b526e7c4",
-   "t": ""
+   "t": "Argos Slayer"
   },
   {
    "row": "Parts125",
    "sub": 0,
    "col": "m_modelNum",
    "src": "242e443973e2",
-   "t": ""
+   "t": "Arcadia HRM00-M"
   },
   {
    "row": "Parts125",
    "sub": 0,
    "col": "m_skillText1",
    "src": "fb7b1295570e",
-   "t": ""
+   "t": "If the opponent has no Support in play, the action cost of a normal attack drops by 2 (cost cannot go below 1)."
   },
   {
    "row": "Parts125",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": ""
+   "t": "Equipped by Arcadia: gain [Shooting]."
   },
   {
    "row": "Parts126",
    "sub": 0,
    "col": "m_name",
    "src": "c9f3b526e7c4",
-   "t": ""
+   "t": "Argos Slayer"
   },
   {
    "row": "Parts126",
    "sub": 0,
    "col": "m_modelNum",
    "src": "242e443973e2",
-   "t": ""
+   "t": "Arcadia HRM00-M"
   },
   {
    "row": "Parts126",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Parts126",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": ""
+   "t": "Equipped by Arcadia: gain [Shooting]."
   },
   {
    "row": "Parts127",
    "sub": 0,
    "col": "m_name",
    "src": "c9f3b526e7c4",
-   "t": ""
+   "t": "Argos Slayer"
   },
   {
    "row": "Parts127",
    "sub": 0,
    "col": "m_modelNum",
    "src": "242e443973e2",
-   "t": ""
+   "t": "Arcadia HRM00-M"
   },
   {
    "row": "Parts127",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Parts127",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": ""
+   "t": "Equipped by Arcadia: gain [Shooting]."
   },
   {
    "row": "Parts116",
    "sub": 0,
    "col": "m_name",
    "src": "8e3c9db70f1c",
-   "t": ""
+   "t": "Tempest Hand"
   },
   {
    "row": "Parts116",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4cbff196dfc2",
-   "t": ""
+   "t": "Meteoranisi FLI00-N"
   },
   {
    "row": "Parts117",
    "sub": 0,
    "col": "m_name",
    "src": "b3f0387af519",
-   "t": ""
+   "t": "Tempest Arm"
   },
   {
    "row": "Parts117",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4cbff196dfc2",
-   "t": ""
+   "t": "Meteoranisi FLI00-N"
   },
   {
    "row": "Parts117",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": ""
+   "t": "Choose 1 opponent Medabot and deal\n4000 damage.\nThe target loses its ability (trait)\nuntil the opponent's turn ends."
   },
   {
    "row": "Parts117",
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": ""
+   "t": "Equipped by Meteoranisi: gain [Shooting]."
   },
   {
    "row": "Parts118",
    "sub": 0,
    "col": "m_name",
    "src": "b3f0387af519",
-   "t": ""
+   "t": "Tempest Arm"
   },
   {
    "row": "Parts118",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4cbff196dfc2",
-   "t": ""
+   "t": "Meteoranisi FLI00-N"
   },
   {
    "row": "Parts118",
    "sub": 0,
    "col": "m_skillText1",
    "src": "92662fc49e29",
-   "t": ""
+   "t": "When this Medabot destroys the opponent leader's part or barrier, all opponent Medabots get [Shock] until their turn ends."
   },
   {
    "row": "Parts118",
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": ""
+   "t": "Equipped by Meteoranisi: gain [Shooting]."
   },
   {
    "row": "Parts119",
    "sub": 0,
    "col": "m_name",
    "src": "b3f0387af519",
-   "t": ""
+   "t": "Tempest Arm"
   },
   {
    "row": "Parts119",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4cbff196dfc2",
-   "t": ""
+   "t": "Meteoranisi FLI00-N"
   },
   {
    "row": "Parts119",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0f66b27f5a56",
-   "t": ""
+   "t": "[Snipe]\nWhen this effect damages the opponent's leader, the next damage to their leader this turn is dealt 1 extra time."
   },
   {
    "row": "Parts119",
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": ""
+   "t": "Equipped by Meteoranisi: gain [Shooting]."
   },
   {
    "row": "Parts20",
    "sub": 0,
    "col": "m_name",
    "src": "afbc487fd11b",
-   "t": ""
+   "t": "Chanbara Sword"
   },
   {
    "row": "Parts20",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c6943174a151",
-   "t": ""
+   "t": "Rokusho KWG01-M"
   },
   {
    "row": "Parts21",
    "sub": 0,
    "col": "m_name",
    "src": "5f359173ecf8",
-   "t": ""
+   "t": "Picopeco Hammer"
   },
   {
    "row": "Parts21",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c6943174a151",
-   "t": ""
+   "t": "Rokusho KWG01-M"
   },
   {
    "row": "Parts21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": ""
+   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
   },
   {
    "row": "Parts21",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": ""
+   "t": "Equipped by Rokusho: gain [Melee]."
   },
   {
    "row": "Parts22",
    "sub": 0,
    "col": "m_name",
    "src": "5f359173ecf8",
-   "t": ""
+   "t": "Picopeco Hammer"
   },
   {
    "row": "Parts22",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c6943174a151",
-   "t": ""
+   "t": "Rokusho KWG01-M"
   },
   {
    "row": "Parts22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "393706406dc6",
-   "t": ""
+   "t": "When this Medabot destroys an opponent Medabot with [Guard], recover 3 energy."
   },
   {
    "row": "Parts22",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": ""
+   "t": "Equipped by Rokusho: gain [Melee]."
   },
   {
    "row": "Parts23",
    "sub": 0,
    "col": "m_name",
    "src": "5f359173ecf8",
-   "t": ""
+   "t": "Picopeco Hammer"
   },
   {
    "row": "Parts23",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c6943174a151",
-   "t": ""
+   "t": "Rokusho KWG01-M"
   },
   {
    "row": "Parts23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f185894921e9",
-   "t": ""
+   "t": "When this Medabot attacks normally on its own, [Finisher] 1 random opponent Medabot."
   },
   {
    "row": "Parts23",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": ""
+   "t": "Equipped by Rokusho: gain [Melee]."
   },
   {
    "row": "Parts24",
    "sub": 0,
    "col": "m_name",
    "src": "1ab1e796b89e",
-   "t": ""
+   "t": "Aaru"
   },
   {
    "row": "Parts24",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3835031dd762",
-   "t": ""
+   "t": "Titan Beetle KWG04-M"
   },
   {
    "row": "Parts25",
    "sub": 0,
    "col": "m_name",
    "src": "da911505939a",
-   "t": ""
+   "t": "Beleth"
   },
   {
    "row": "Parts25",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3835031dd762",
-   "t": ""
+   "t": "Titan Beetle KWG04-M"
   },
   {
    "row": "Parts25",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Parts25",
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": ""
+   "t": "Equipped by Titan Beetle: gain [Melee]."
   },
   {
    "row": "Parts26",
    "sub": 0,
    "col": "m_name",
    "src": "da911505939a",
-   "t": ""
+   "t": "Beleth"
   },
   {
    "row": "Parts26",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3835031dd762",
-   "t": ""
+   "t": "Titan Beetle KWG04-M"
   },
   {
    "row": "Parts26",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"This Medabot cannot get [Shock], [Freeze], [Bind] or [Burn].\""
   },
   {
    "row": "Parts26",
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": ""
+   "t": "Equipped by Titan Beetle: gain [Melee]."
   },
   {
    "row": "Parts27",
    "sub": 0,
    "col": "m_name",
    "src": "da911505939a",
-   "t": ""
+   "t": "Beleth"
   },
   {
    "row": "Parts27",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3835031dd762",
-   "t": ""
+   "t": "Titan Beetle KWG04-M"
   },
   {
    "row": "Parts27",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": ""
+   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Melee] tactic stock."
   },
   {
    "row": "Parts27",
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": ""
+   "t": "Equipped by Titan Beetle: gain [Melee]."
   },
   {
    "row": "Parts28",
    "sub": 0,
    "col": "m_name",
    "src": "dc43ab99b85c",
-   "t": ""
+   "t": "Blue Satellite"
   },
   {
    "row": "Parts28",
    "sub": 0,
    "col": "m_modelNum",
    "src": "642b7b320932",
-   "t": ""
+   "t": "Hawk Dakar HKG00-F"
   },
   {
    "row": "Parts29",
    "sub": 0,
    "col": "m_name",
    "src": "39c325ed581d",
-   "t": ""
+   "t": "Soukyudo"
   },
   {
    "row": "Parts29",
    "sub": 0,
    "col": "m_modelNum",
    "src": "642b7b320932",
-   "t": ""
+   "t": "Hawk Dakar HKG00-F"
   },
   {
    "row": "Parts29",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0642c5fef114",
-   "t": ""
+   "t": "Choose 1 opponent Medabot. Its action cost rises by 2 until the start of your next turn."
   },
   {
    "row": "Parts29",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": ""
+   "t": "Equipped by Hawk Dakar: gain [Melee]."
   },
   {
    "row": "Parts30",
    "sub": 0,
    "col": "m_name",
    "src": "39c325ed581d",
-   "t": ""
+   "t": "Soukyudo"
   },
   {
    "row": "Parts30",
    "sub": 0,
    "col": "m_modelNum",
    "src": "642b7b320932",
-   "t": ""
+   "t": "Hawk Dakar HKG00-F"
   },
   {
    "row": "Parts30",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Parts30",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": ""
+   "t": "Equipped by Hawk Dakar: gain [Melee]."
   },
   {
    "row": "Parts31",
    "sub": 0,
    "col": "m_name",
    "src": "39c325ed581d",
-   "t": ""
+   "t": "Soukyudo"
   },
   {
    "row": "Parts31",
    "sub": 0,
    "col": "m_modelNum",
    "src": "642b7b320932",
-   "t": ""
+   "t": "Hawk Dakar HKG00-F"
   },
   {
    "row": "Parts31",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": ""
+   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Melee] tactic stock."
   },
   {
    "row": "Parts31",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": ""
+   "t": "Equipped by Hawk Dakar: gain [Melee]."
   },
   {
    "row": "Parts32",
    "sub": 0,
    "col": "m_name",
    "src": "ce7f113a7d24",
-   "t": ""
+   "t": "Flap"
   },
   {
    "row": "Parts32",
    "sub": 0,
    "col": "m_modelNum",
    "src": "854fa973ad25",
-   "t": ""
+   "t": "Frappe SBL00-F"
   },
   {
    "row": "Parts33",
    "sub": 0,
    "col": "m_name",
    "src": "0f7ba37344e9",
-   "t": ""
+   "t": "Flop"
   },
   {
    "row": "Parts33",
    "sub": 0,
    "col": "m_modelNum",
    "src": "854fa973ad25",
-   "t": ""
+   "t": "Frappe SBL00-F"
   },
   {
    "row": "Parts33",
    "sub": 0,
    "col": "m_skillText1",
    "src": "498f4a3a44ca",
-   "t": ""
+   "t": "When this Medabot attacks normally, the target gets [Freeze] until the opponent's turn ends."
   },
   {
    "row": "Parts33",
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": ""
+   "t": "Equipped by Frappe: gain [Melee]."
   },
   {
    "row": "Parts34",
    "sub": 0,
    "col": "m_name",
    "src": "0f7ba37344e9",
-   "t": ""
+   "t": "Flop"
   },
   {
    "row": "Parts34",
    "sub": 0,
    "col": "m_modelNum",
    "src": "854fa973ad25",
-   "t": ""
+   "t": "Frappe SBL00-F"
   },
   {
    "row": "Parts34",
    "sub": 0,
    "col": "m_skillText1",
    "src": "65f5d906b47d",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot makes or takes a normal attack, the target gets [Freeze] until the opponent's turn ends.\""
   },
   {
    "row": "Parts34",
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": ""
+   "t": "Equipped by Frappe: gain [Melee]."
   },
   {
    "row": "Parts35",
    "sub": 0,
    "col": "m_name",
    "src": "0f7ba37344e9",
-   "t": ""
+   "t": "Flop"
   },
   {
    "row": "Parts35",
    "sub": 0,
    "col": "m_modelNum",
    "src": "854fa973ad25",
-   "t": ""
+   "t": "Frappe SBL00-F"
   },
   {
    "row": "Parts35",
    "sub": 0,
    "col": "m_skillText1",
    "src": "73b82183658a",
-   "t": ""
+   "t": "Choose 1 opponent Medabot; it gets [Freeze] until the opponent's turn ends."
   },
   {
    "row": "Parts35",
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": ""
+   "t": "Equipped by Frappe: gain [Melee]."
   },
   {
    "row": "Parts128",
    "sub": 0,
    "col": "m_name",
    "src": "ccbf5821e971",
-   "t": ""
+   "t": "Hitodama Sphere"
   },
   {
    "row": "Parts128",
    "sub": 0,
    "col": "m_modelNum",
    "src": "063d51071237",
-   "t": ""
+   "t": "Shaman Miko SMK00-F"
   },
   {
    "row": "Parts129",
    "sub": 0,
    "col": "m_name",
    "src": "bfbed69bcade",
-   "t": ""
+   "t": "Omikuji Ball"
   },
   {
    "row": "Parts129",
    "sub": 0,
    "col": "m_modelNum",
    "src": "063d51071237",
-   "t": ""
+   "t": "Shaman Miko SMK00-F"
   },
   {
    "row": "Parts129",
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": ""
+   "t": "Choose 1 enemy Medabot, put it into\nOverheat and inflict [Bind] on it until\nthe end of the enemy turn."
   },
   {
    "row": "Parts129",
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": ""
+   "t": "Equipped by Shaman Miko: gains [Melee]."
   },
   {
    "row": "Parts130",
    "sub": 0,
    "col": "m_name",
    "src": "bfbed69bcade",
-   "t": ""
+   "t": "Omikuji Ball"
   },
   {
    "row": "Parts130",
    "sub": 0,
    "col": "m_modelNum",
    "src": "063d51071237",
-   "t": ""
+   "t": "Shaman Miko SMK00-F"
   },
   {
    "row": "Parts130",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f2e3f915d229",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, the target loses its ability (trait) and gets [Bind] until the end of the next enemy turn."
   },
   {
    "row": "Parts130",
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": ""
+   "t": "Equipped by Shaman Miko: gains [Melee]."
   },
   {
    "row": "Parts131",
    "sub": 0,
    "col": "m_name",
    "src": "bfbed69bcade",
-   "t": ""
+   "t": "Omikuji Ball"
   },
   {
    "row": "Parts131",
    "sub": 0,
    "col": "m_modelNum",
    "src": "063d51071237",
-   "t": ""
+   "t": "Shaman Miko SMK00-F"
   },
   {
    "row": "Parts131",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": ""
+   "t": "When this Medabot destroys a part or Barrier of the enemy Leader, your opponent cannot use Medaforce until the end of their next turn."
   },
   {
    "row": "Parts131",
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": ""
+   "t": "Equipped by Shaman Miko: gains [Melee]."
   },
   {
    "row": "Parts72",
    "sub": 0,
    "col": "m_name",
    "src": "132f39b13343",
-   "t": ""
+   "t": "Shout Stand"
   },
   {
    "row": "Parts72",
    "sub": 0,
    "col": "m_modelNum",
    "src": "762cdeaca479",
-   "t": ""
+   "t": "Shushu Pop GBV01-F"
   },
   {
    "row": "Parts73",
    "sub": 0,
    "col": "m_name",
    "src": "015f50477f90",
-   "t": ""
+   "t": "Shock Shot"
   },
   {
    "row": "Parts73",
    "sub": 0,
    "col": "m_modelNum",
    "src": "762cdeaca479",
-   "t": ""
+   "t": "Shushu Pop GBV01-F"
   },
   {
    "row": "Parts73",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": ""
+   "t": "When this Medabot destroys a part or Barrier of the enemy Leader, your opponent cannot use Medaforce until the end of their next turn."
   },
   {
    "row": "Parts73",
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": ""
+   "t": "Equipped by Shushu Pop: gains [Melee]."
   },
   {
    "row": "Parts74",
    "sub": 0,
    "col": "m_name",
    "src": "015f50477f90",
-   "t": ""
+   "t": "Shock Shot"
   },
   {
    "row": "Parts74",
    "sub": 0,
    "col": "m_modelNum",
    "src": "762cdeaca479",
-   "t": ""
+   "t": "Shushu Pop GBV01-F"
   },
   {
    "row": "Parts74",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": ""
+   "t": "When this Medabot destroys a part or Barrier of the enemy Leader with a normal attack, inflict [Deathlock] on your opponent until the end of their Action phase."
   },
   {
    "row": "Parts74",
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": ""
+   "t": "Equipped by Shushu Pop: gains [Melee]."
   },
   {
    "row": "Parts75",
    "sub": 0,
    "col": "m_name",
    "src": "015f50477f90",
-   "t": ""
+   "t": "Shock Shot"
   },
   {
    "row": "Parts75",
    "sub": 0,
    "col": "m_modelNum",
    "src": "762cdeaca479",
-   "t": ""
+   "t": "Shushu Pop GBV01-F"
   },
   {
    "row": "Parts75",
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": ""
+   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
   },
   {
    "row": "Parts75",
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": ""
+   "t": "Equipped by Shushu Pop: gains [Melee]."
   },
   {
    "row": "Parts80",
    "sub": 0,
    "col": "m_name",
    "src": "e2a261abf30d",
-   "t": ""
+   "t": "Ninnin Blade"
   },
   {
    "row": "Parts80",
    "sub": 0,
    "col": "m_modelNum",
    "src": "19381ff13906",
-   "t": ""
+   "t": "Cheerful Bunny IDL03-F"
   },
   {
    "row": "Parts81",
    "sub": 0,
    "col": "m_name",
    "src": "84454cfbad11",
-   "t": ""
+   "t": "Jinjin Blade"
   },
   {
    "row": "Parts81",
    "sub": 0,
    "col": "m_modelNum",
    "src": "19381ff13906",
-   "t": ""
+   "t": "Cheerful Bunny IDL03-F"
   },
   {
    "row": "Parts81",
    "sub": 0,
    "col": "m_skillText1",
    "src": "09095d5225d1",
-   "t": ""
+   "t": "When this Medabot makes a normal attack on the enemy Leader, your opponent draws 2 cards from their deck. Then, if they have 6 or more cards in hand, destroy 1 extra enemy part."
   },
   {
    "row": "Parts81",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": ""
+   "t": "Equipped by Cheerful Bunny: gains [Melee]."
   },
   {
    "row": "Parts82",
    "sub": 0,
    "col": "m_name",
    "src": "84454cfbad11",
-   "t": ""
+   "t": "Jinjin Blade"
   },
   {
    "row": "Parts82",
    "sub": 0,
    "col": "m_modelNum",
    "src": "19381ff13906",
-   "t": ""
+   "t": "Cheerful Bunny IDL03-F"
   },
   {
    "row": "Parts82",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": ""
+   "t": "[Repair]\nWith 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
   },
   {
    "row": "Parts82",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": ""
+   "t": "Equipped by Cheerful Bunny: gains [Melee]."
   },
   {
    "row": "Parts83",
    "sub": 0,
    "col": "m_name",
    "src": "84454cfbad11",
-   "t": ""
+   "t": "Jinjin Blade"
   },
   {
    "row": "Parts83",
    "sub": 0,
    "col": "m_modelNum",
    "src": "19381ff13906",
-   "t": ""
+   "t": "Cheerful Bunny IDL03-F"
   },
   {
    "row": "Parts83",
    "sub": 0,
    "col": "m_skillText1",
    "src": "13782c29bea4",
-   "t": ""
+   "t": "When this Medabot destroys an enemy Medabot, recover 2 [Support] Tactics stock."
   },
   {
    "row": "Parts83",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": ""
+   "t": "Equipped by Cheerful Bunny: gains [Melee]."
   },
   {
    "row": "Parts120",
    "sub": 0,
    "col": "m_name",
    "src": "a71f67a2b6da",
-   "t": ""
+   "t": "Slact Yunfa"
   },
   {
    "row": "Parts120",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ce4ad2b3c552",
-   "t": ""
+   "t": "Thrud VAL06-F"
   },
   {
    "row": "Parts121",
    "sub": 0,
    "col": "m_name",
    "src": "8ed5ea65aee6",
-   "t": ""
+   "t": "Shilt Yunfa"
   },
   {
    "row": "Parts121",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ce4ad2b3c552",
-   "t": ""
+   "t": "Thrud VAL06-F"
   },
   {
    "row": "Parts121",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc040eda46cb",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 6000 damage.\nUntil the start of your next turn, gain 2 [Defense] Tactics stock."
   },
   {
    "row": "Parts121",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": ""
+   "t": "Equipped by Thrud: gains [Melee]."
   },
   {
    "row": "Parts122",
    "sub": 0,
    "col": "m_name",
    "src": "8ed5ea65aee6",
-   "t": ""
+   "t": "Shilt Yunfa"
   },
   {
    "row": "Parts122",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ce4ad2b3c552",
-   "t": ""
+   "t": "Thrud VAL06-F"
   },
   {
    "row": "Parts122",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cabc0db3e233",
-   "t": ""
+   "t": "When this Medabot makes a normal attack, inflict [Burn] on the target until the end of the enemy turn."
   },
   {
    "row": "Parts122",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": ""
+   "t": "Equipped by Thrud: gains [Melee]."
   },
   {
    "row": "Parts123",
    "sub": 0,
    "col": "m_name",
    "src": "8ed5ea65aee6",
-   "t": ""
+   "t": "Shilt Yunfa"
   },
   {
    "row": "Parts123",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ce4ad2b3c552",
-   "t": ""
+   "t": "Thrud VAL06-F"
   },
   {
    "row": "Parts123",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Parts123",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": ""
+   "t": "Equipped by Thrud: gains [Melee]."
   },
   {
    "row": "Parts36",
    "sub": 0,
    "col": "m_name",
    "src": "d11755f7da82",
-   "t": ""
+   "t": "Point Radar"
   },
   {
    "row": "Parts36",
    "sub": 0,
    "col": "m_modelNum",
    "src": "74b87b9144da",
-   "t": ""
+   "t": "Doctor Study BOK00-M"
   },
   {
    "row": "Parts37",
    "sub": 0,
    "col": "m_name",
    "src": "cc525b90247d",
-   "t": ""
+   "t": "Cut Radar"
   },
   {
    "row": "Parts37",
    "sub": 0,
    "col": "m_modelNum",
    "src": "74b87b9144da",
-   "t": ""
+   "t": "Doctor Study BOK00-M"
   },
   {
    "row": "Parts37",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": ""
+   "t": "Until the end of the turn, the next damage to the enemy Leader deals that same damage 1 extra time."
   },
   {
    "row": "Parts37",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": ""
+   "t": "Equipped by Doctor Study: gains [Support]."
   },
   {
    "row": "Parts38",
    "sub": 0,
    "col": "m_name",
    "src": "cc525b90247d",
-   "t": ""
+   "t": "Cut Radar"
   },
   {
    "row": "Parts38",
    "sub": 0,
    "col": "m_modelNum",
    "src": "74b87b9144da",
-   "t": ""
+   "t": "Doctor Study BOK00-M"
   },
   {
    "row": "Parts38",
    "sub": 0,
    "col": "m_skillText1",
    "src": "30f9c977e83f",
-   "t": ""
+   "t": "Until the end of the turn, when you use a [Support] Tactics card, deal 7000 damage to 1 random enemy Medabot. This effect does not stack."
   },
   {
    "row": "Parts38",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": ""
+   "t": "Equipped by Doctor Study: gains [Support]."
   },
   {
    "row": "Parts39",
    "sub": 0,
    "col": "m_name",
    "src": "cc525b90247d",
-   "t": ""
+   "t": "Cut Radar"
   },
   {
    "row": "Parts39",
    "sub": 0,
    "col": "m_modelNum",
    "src": "74b87b9144da",
-   "t": ""
+   "t": "Doctor Study BOK00-M"
   },
   {
    "row": "Parts39",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn.\nThis Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Parts39",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": ""
+   "t": "Equipped by Doctor Study: gains [Support]."
   },
   {
    "row": "Parts40",
    "sub": 0,
    "col": "m_name",
    "src": "7b004b69be50",
-   "t": ""
+   "t": "Memorize"
   },
   {
    "row": "Parts40",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts40",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6603d75a001f",
-   "t": ""
+   "t": "Can be used when Navi-Commune has\\n[Memorize] and [Remember] equipped.\nThe part cards turn into [Drive A]\\nand [Drive B], and the Leader\nMedachanges."
   },
   {
    "row": "Parts41",
    "sub": 0,
    "col": "m_name",
    "src": "9eb2f31573f4",
-   "t": ""
+   "t": "Remember"
   },
   {
    "row": "Parts41",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts41",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": ""
+   "t": "Choose 1 of your Supports; add the Leader's Power to it until end of turn.\nThis Medabot cannot use Quick cooldown this turn."
   },
   {
    "row": "Parts41",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": ""
+   "t": "Equipped by Navi-Commune: gains [Support]."
   },
   {
    "row": "Parts42",
    "sub": 0,
    "col": "m_name",
    "src": "9eb2f31573f4",
-   "t": ""
+   "t": "Remember"
   },
   {
    "row": "Parts42",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts42",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f6bba3f13a45",
-   "t": ""
+   "t": "Negates [Cannot Attack].\nWhen this Medabot destroys a part or Barrier of the enemy Leader, if the enemy has 5 or more parts left, choose and destroy 1 extra enemy part."
   },
   {
    "row": "Parts42",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": ""
+   "t": "Equipped by Navi-Commune: gains [Support]."
   },
   {
    "row": "Parts43",
    "sub": 0,
    "col": "m_name",
    "src": "9eb2f31573f4",
-   "t": ""
+   "t": "Remember"
   },
   {
    "row": "Parts43",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts43",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": ""
+   "t": "Until the end of the turn, enemy traps do not activate."
   },
   {
    "row": "Parts43",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": ""
+   "t": "Equipped by Navi-Commune: gains [Support]."
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_name",
    "src": "3bf896c48827",
-   "t": ""
+   "t": "Drive A"
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_skillText1",
    "src": "75c00c2996ac",
-   "t": ""
+   "t": "Choose 1 of your Supports. Its next solo normal attack performs [Finisher].\nThis Medabot cannot use Quick cooldown this turn."
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": ""
+   "t": "This part cannot be destroyed or changed.\nIt cannot be targeted while defending."
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_name",
    "src": "4cda7fbd8e83",
-   "t": ""
+   "t": "Drive B"
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3672cb9fbcd8",
-   "t": ""
+   "t": "Navi-Commune NAV00-F"
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": ""
+   "t": "Choose 1 of your Supports; add the Leader's Power to it until end of turn.\nThis Medabot cannot use Quick cooldown this turn."
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": ""
+   "t": "This part cannot be destroyed or changed.\nIt cannot be targeted while defending."
   },
   {
    "row": "Parts46",
    "sub": 0,
    "col": "m_name",
    "src": "4e5a94bcff36",
-   "t": ""
+   "t": "Influence"
   },
   {
    "row": "Parts46",
    "sub": 0,
    "col": "m_modelNum",
    "src": "460a8eff3b73",
-   "t": ""
+   "t": "Marine Healer MAR02-F"
   },
   {
    "row": "Parts47",
    "sub": 0,
    "col": "m_name",
    "src": "f5f4882bcd03",
-   "t": ""
+   "t": "Live Line"
   },
   {
    "row": "Parts47",
    "sub": 0,
    "col": "m_modelNum",
    "src": "460a8eff3b73",
-   "t": ""
+   "t": "Marine Healer MAR02-F"
   },
   {
    "row": "Parts47",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": ""
+   "t": "[Repair]\nWith 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
   },
   {
    "row": "Parts47",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9a9f5e5c76be",
-   "t": ""
+   "t": "Equipped by Marine Healer: gains [Heal]."
   },
   {
    "row": "Parts48",
    "sub": 0,
    "col": "m_name",
    "src": "f5f4882bcd03",
-   "t": ""
+   "t": "Live Line"
   },
   {
    "row": "Parts48",
    "sub": 0,
    "col": "m_modelNum",
    "src": "460a8eff3b73",
-   "t": ""
+   "t": "Marine Healer MAR02-F"
   },
   {
    "row": "Parts48",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6cc5e0335a72",
-   "t": ""
+   "t": "[Snipe]"
   },
   {
    "row": "Parts48",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9a9f5e5c76be",
-   "t": ""
+   "t": "Equipped by Marine Healer: gains [Heal]."
   },
   {
    "row": "Parts49",
    "sub": 0,
    "col": "m_name",
    "src": "f5f4882bcd03",
-   "t": ""
+   "t": "Live Line"
   },
   {
    "row": "Parts49",
    "sub": 0,
    "col": "m_modelNum",
    "src": "460a8eff3b73",
-   "t": ""
+   "t": "Marine Healer MAR02-F"
   },
   {
    "row": "Parts49",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": ""
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts49",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9a9f5e5c76be",
-   "t": ""
+   "t": "Equipped by Marine Healer: gains [Heal]."
   },
   {
    "row": "Parts50",
    "sub": 0,
    "col": "m_name",
    "src": "210d327f2c61",
-   "t": ""
+   "t": "Naturize"
   },
   {
    "row": "Parts50",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts50",
    "sub": 0,
    "col": "m_skillText1",
    "src": "25c62f42dedf",
-   "t": ""
+   "t": "Can be used when Particle has [Naturize] and [Countract] equipped.\nThe part cards turn into [Drive A] and [Drive B], and the Leader Medachanges."
   },
   {
    "row": "Parts51",
    "sub": 0,
    "col": "m_name",
    "src": "fbcb05355b2d",
-   "t": ""
+   "t": "Countract"
   },
   {
    "row": "Parts51",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts51",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7182cc6193ce",
-   "t": ""
+   "t": "[Revive: 6 or more]"
   },
   {
    "row": "Parts51",
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": ""
+   "t": "Equipped by Particle: gain [Recovery]."
   },
   {
    "row": "Parts52",
    "sub": 0,
    "col": "m_name",
    "src": "fbcb05355b2d",
-   "t": ""
+   "t": "Countract"
   },
   {
    "row": "Parts52",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts52",
    "sub": 0,
    "col": "m_skillText1",
    "src": "03374f41e157",
-   "t": ""
+   "t": "[Snipe: Leader only]\nIf you have 2 or fewer Barriers and this effect destroys a part or Barrier of the enemy Leader, choose and destroy 1 extra enemy part."
   },
   {
    "row": "Parts52",
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": ""
+   "t": "Equipped by Particle: gain [Recovery]."
   },
   {
    "row": "Parts53",
    "sub": 0,
    "col": "m_name",
    "src": "fbcb05355b2d",
-   "t": ""
+   "t": "Countract"
   },
   {
    "row": "Parts53",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts53",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": ""
+   "t": "Until the end of the turn, enemy traps do not activate."
   },
   {
    "row": "Parts53",
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": ""
+   "t": "Equipped by Particle: gain [Recovery]."
   },
   {
    "row": "Parts54",
    "sub": 0,
    "col": "m_name",
    "src": "3bf896c48827",
-   "t": ""
+   "t": "Drive A"
   },
   {
    "row": "Parts54",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts54",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
   },
   {
    "row": "Parts54",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": ""
+   "t": "This part cannot be destroyed or changed.\nIt cannot be targeted while defending."
   },
   {
    "row": "Parts55",
    "sub": 0,
    "col": "m_name",
    "src": "4cda7fbd8e83",
-   "t": ""
+   "t": "Drive B"
   },
   {
    "row": "Parts55",
    "sub": 0,
    "col": "m_modelNum",
    "src": "df35bf4ae8d8",
-   "t": ""
+   "t": "Particle AAG00-F"
   },
   {
    "row": "Parts55",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e1793d338d5a",
-   "t": ""
+   "t": "From turn 5 on, power increases by 4000."
   },
   {
    "row": "Parts55",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": ""
+   "t": "This part cannot be destroyed or changed.\nIt cannot be targeted while defending."
   },
   {
    "row": "Parts56",
    "sub": 0,
    "col": "m_name",
    "src": "0fef0c4539e6",
-   "t": ""
+   "t": "Right Scutum"
   },
   {
    "row": "Parts56",
    "sub": 0,
    "col": "m_modelNum",
    "src": "cd266cfdde44",
-   "t": ""
+   "t": "Armor Chario NIT03-M"
   },
   {
    "row": "Parts57",
    "sub": 0,
    "col": "m_name",
    "src": "ec74fc4f1561",
-   "t": ""
+   "t": "Left Scutum"
   },
   {
    "row": "Parts57",
    "sub": 0,
    "col": "m_modelNum",
    "src": "cd266cfdde44",
-   "t": ""
+   "t": "Armor Chario NIT03-M"
   },
   {
    "row": "Parts57",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Parts57",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": ""
+   "t": "Equipped by Armor Chario: gain [Defense]."
   },
   {
    "row": "Parts58",
    "sub": 0,
    "col": "m_name",
    "src": "ec74fc4f1561",
-   "t": ""
+   "t": "Left Scutum"
   },
   {
    "row": "Parts58",
    "sub": 0,
    "col": "m_modelNum",
    "src": "cd266cfdde44",
-   "t": ""
+   "t": "Armor Chario NIT03-M"
   },
   {
    "row": "Parts58",
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": ""
+   "t": "[Snipe]\nIf the target has [Guard], this damage increases by 3000."
   },
   {
    "row": "Parts58",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": ""
+   "t": "Equipped by Armor Chario: gain [Defense]."
   },
   {
    "row": "Parts59",
    "sub": 0,
    "col": "m_name",
    "src": "ec74fc4f1561",
-   "t": ""
+   "t": "Left Scutum"
   },
   {
    "row": "Parts59",
    "sub": 0,
    "col": "m_modelNum",
    "src": "cd266cfdde44",
-   "t": ""
+   "t": "Armor Chario NIT03-M"
   },
   {
    "row": "Parts59",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e442d046451b",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, inflict [Bind] on the target until the end of the opponent's turn.\""
   },
   {
    "row": "Parts59",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": ""
+   "t": "Equipped by Armor Chario: gain [Defense]."
   },
   {
    "row": "Parts60",
    "sub": 0,
    "col": "m_name",
    "src": "ecbe5abaca71",
-   "t": ""
+   "t": "Saber"
   },
   {
    "row": "Parts60",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4aad5e3b1053",
-   "t": ""
+   "t": "Red Matador COW00-M"
   },
   {
    "row": "Parts61",
    "sub": 0,
    "col": "m_name",
    "src": "cd2fbb875525",
-   "t": ""
+   "t": "Cape Shield"
   },
   {
    "row": "Parts61",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4aad5e3b1053",
-   "t": ""
+   "t": "Red Matador COW00-M"
   },
   {
    "row": "Parts61",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": ""
+   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 2000. After the attack, power returns to normal.\""
   },
   {
    "row": "Parts61",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c12da3c2a03c",
-   "t": ""
+   "t": "Equipped by Red Matador: gain [Defense]."
   },
   {
    "row": "Parts62",
    "sub": 0,
    "col": "m_name",
    "src": "cd2fbb875525",
-   "t": ""
+   "t": "Cape Shield"
   },
   {
    "row": "Parts62",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4aad5e3b1053",
-   "t": ""
+   "t": "Red Matador COW00-M"
   },
   {
    "row": "Parts62",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Parts62",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c12da3c2a03c",
-   "t": ""
+   "t": "Equipped by Red Matador: gain [Defense]."
   },
   {
    "row": "Parts63",
    "sub": 0,
    "col": "m_name",
    "src": "cd2fbb875525",
-   "t": ""
+   "t": "Cape Shield"
   },
   {
    "row": "Parts63",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4aad5e3b1053",
-   "t": ""
+   "t": "Red Matador COW00-M"
   },
   {
    "row": "Parts63",
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": ""
+   "t": "Until the start of your next turn, gain \"When the opponent chooses a Medabot as a target, they must choose this Medabot if possible.\""
   },
   {
    "row": "Parts63",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c12da3c2a03c",
-   "t": ""
+   "t": "Equipped by Red Matador: gain [Defense]."
   },
   {
    "row": "Parts64",
    "sub": 0,
    "col": "m_name",
    "src": "27f2031c1135",
-   "t": ""
+   "t": "Cheap Trap"
   },
   {
    "row": "Parts64",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e91a5ec55b9c",
-   "t": ""
+   "t": "Shoot Spider SPI01-M"
   },
   {
    "row": "Parts65",
    "sub": 0,
    "col": "m_name",
    "src": "b7aea9fcc399",
-   "t": ""
+   "t": "Bargain Trap"
   },
   {
    "row": "Parts65",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e91a5ec55b9c",
-   "t": ""
+   "t": "Shoot Spider SPI01-M"
   },
   {
    "row": "Parts65",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7fef01b34d0",
-   "t": ""
+   "t": "[Deploy: 6] [Tactics Trap]"
   },
   {
    "row": "Parts65",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9b07834a7bb6",
-   "t": ""
+   "t": "Equipped by Shoot Spider: gain [Deploy]."
   },
   {
    "row": "Parts66",
    "sub": 0,
    "col": "m_name",
    "src": "b7aea9fcc399",
-   "t": ""
+   "t": "Bargain Trap"
   },
   {
    "row": "Parts66",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e91a5ec55b9c",
-   "t": ""
+   "t": "Shoot Spider SPI01-M"
   },
   {
    "row": "Parts66",
    "sub": 0,
    "col": "m_skillText1",
    "src": "88f2cfacab09",
-   "t": ""
+   "t": "Choose 1 Medabot. Its action cost increases by 2 until the end of the opponent's turn."
   },
   {
    "row": "Parts66",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9b07834a7bb6",
-   "t": ""
+   "t": "Equipped by Shoot Spider: gain [Deploy]."
   },
   {
    "row": "Parts67",
    "sub": 0,
    "col": "m_name",
    "src": "b7aea9fcc399",
-   "t": ""
+   "t": "Bargain Trap"
   },
   {
    "row": "Parts67",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e91a5ec55b9c",
-   "t": ""
+   "t": "Shoot Spider SPI01-M"
   },
   {
    "row": "Parts67",
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 6000\ndamage.\nInflict [Bind] on it until the end of\nthe opponent's turn."
   },
   {
    "row": "Parts67",
    "sub": 0,
    "col": "m_skillText2",
    "src": "9b07834a7bb6",
-   "t": ""
+   "t": "Equipped by Shoot Spider: gain [Deploy]."
   },
   {
    "row": "Parts68",
    "sub": 0,
    "col": "m_name",
    "src": "a80415717585",
-   "t": ""
+   "t": "Axet"
   },
   {
    "row": "Parts68",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ad6dc611a592",
-   "t": ""
+   "t": "Iron Horse IHS00-F"
   },
   {
    "row": "Parts69",
    "sub": 0,
    "col": "m_name",
    "src": "49a0677c4e15",
-   "t": ""
+   "t": "Clutchit"
   },
   {
    "row": "Parts69",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ad6dc611a592",
-   "t": ""
+   "t": "Iron Horse IHS00-F"
   },
   {
    "row": "Parts69",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d33c3177615c",
-   "t": ""
+   "t": "[Deploy: 6] [Energy Plant]"
   },
   {
    "row": "Parts69",
    "sub": 0,
    "col": "m_skillText2",
    "src": "51c439d75175",
-   "t": ""
+   "t": "Equipped by Iron Horse: gain [Deploy]."
   },
   {
    "row": "Parts70",
    "sub": 0,
    "col": "m_name",
    "src": "49a0677c4e15",
-   "t": ""
+   "t": "Clutchit"
   },
   {
    "row": "Parts70",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ad6dc611a592",
-   "t": ""
+   "t": "Iron Horse IHS00-F"
   },
   {
    "row": "Parts70",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5e9a3a1e36e8",
-   "t": ""
+   "t": "[Frenzy]"
   },
   {
    "row": "Parts70",
    "sub": 0,
    "col": "m_skillText2",
    "src": "51c439d75175",
-   "t": ""
+   "t": "Equipped by Iron Horse: gain [Deploy]."
   },
   {
    "row": "Parts71",
    "sub": 0,
    "col": "m_name",
    "src": "49a0677c4e15",
-   "t": ""
+   "t": "Clutchit"
   },
   {
    "row": "Parts71",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ad6dc611a592",
-   "t": ""
+   "t": "Iron Horse IHS00-F"
   },
   {
    "row": "Parts71",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": ""
+   "t": "Until the end of the opponent's next turn, negate one enemy effect that targets this Medabot."
   },
   {
    "row": "Parts71",
    "sub": 0,
    "col": "m_skillText2",
    "src": "51c439d75175",
-   "t": ""
+   "t": "Equipped by Iron Horse: gain [Deploy]."
   },
   {
    "row": "Parts84",
    "sub": 0,
    "col": "m_name",
    "src": "0b71b10c7320",
-   "t": ""
+   "t": "Core Volcano"
   },
   {
    "row": "Parts84",
    "sub": 0,
    "col": "m_modelNum",
    "src": "28a1f9b1aa18",
-   "t": ""
+   "t": "Tzafo Behemoth BHM01-M"
   },
   {
    "row": "Parts85",
    "sub": 0,
    "col": "m_name",
    "src": "d06beb9f74b4",
-   "t": ""
+   "t": "Teroreta Blaze"
   },
   {
    "row": "Parts85",
    "sub": 0,
    "col": "m_modelNum",
    "src": "0103cfa86b82",
-   "t": ""
+   "t": "Fancy Pearl FSL02-F"
   },
   {
    "row": "Parts85",
    "sub": 0,
    "col": "m_skillText1",
    "src": "668179c84c98",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 8000 damage.\nIf this Medabot has [Burn], destroy 1 random enemy part. Then this Medabot gains [Burn] until the start of your next turn."
   },
   {
    "row": "Parts96",
    "sub": 0,
    "col": "m_name",
    "src": "764720e4dad3",
-   "t": ""
+   "t": "Steam Shooter"
   },
   {
    "row": "Parts96",
    "sub": 0,
    "col": "m_modelNum",
    "src": "1538b656e6f9",
-   "t": ""
+   "t": "Steam Gunner SPG00-F"
   },
   {
    "row": "Parts97",
    "sub": 0,
    "col": "m_name",
    "src": "d0d6a7363e61",
-   "t": ""
+   "t": "Gambanteinn 2"
   },
   {
    "row": "Parts97",
    "sub": 0,
    "col": "m_modelNum",
    "src": "9f5233399e02",
-   "t": ""
+   "t": "Ragna 6 RF LHB04-M"
   },
   {
    "row": "Parts97",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb22a2910309",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Supports.\nIf this Medabot was on Standby at the start of the turn, this damage increases by 1000.\nBanish every Medabot destroyed by this effect."
   },
   {
    "row": "Parts108",
    "sub": 0,
    "col": "m_name",
    "src": "0ed2c9f3fcdc",
-   "t": ""
+   "t": "Death Bomb"
   },
   {
    "row": "Parts108",
    "sub": 0,
    "col": "m_modelNum",
    "src": "ceb373a672e9",
-   "t": ""
+   "t": "Beast Master WEA00-M"
   },
   {
    "row": "Parts109",
    "sub": 0,
    "col": "m_name",
    "src": "fe41bde7ed33",
-   "t": ""
+   "t": "Veena Tone"
   },
   {
    "row": "Parts109",
    "sub": 0,
    "col": "m_modelNum",
    "src": "6b92151f4d93",
-   "t": ""
+   "t": "Benten Sara SFJ00-F"
   },
   {
    "row": "Parts109",
    "sub": 0,
    "col": "m_skillText1",
    "src": "69651a23f825",
-   "t": ""
+   "t": "Choose 1 Medabot and deal 10000 damage.\nIf a Tactics card was used this turn, also destroy 1 enemy part.\nChoose 1 of your parts and destroy it."
   },
   {
    "row": "Parts110",
    "sub": 0,
    "col": "m_name",
    "src": "897f727d060f",
-   "t": ""
+   "t": "Back Off!"
   },
   {
    "row": "Parts110",
    "sub": 0,
    "col": "m_modelNum",
    "src": "f22474c57522",
-   "t": ""
+   "t": "Noir Katze BCT00-F"
   },
   {
    "row": "Parts110",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d39bde129bca",
-   "t": ""
+   "t": "[Snipe]\nIf the target's charge is 8 or more, this damage increases by 4000."
   },
   {
    "row": "Parts86",
    "sub": 0,
    "col": "m_name",
    "src": "05347a3aa78f",
-   "t": ""
+   "t": "Gred Hammer"
   },
   {
    "row": "Parts86",
    "sub": 0,
    "col": "m_modelNum",
    "src": "6780343d2ecd",
-   "t": ""
+   "t": "Gentle Hearts GGR00-M"
   },
   {
    "row": "Parts87",
    "sub": 0,
    "col": "m_name",
    "src": "d72ab2e48407",
-   "t": ""
+   "t": "Scale Blow"
   },
   {
    "row": "Parts87",
    "sub": 0,
    "col": "m_modelNum",
    "src": "aeea8db3585e",
-   "t": ""
+   "t": "Milgnis MCL00-M"
   },
   {
    "row": "Parts87",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e1d979f16955",
-   "t": ""
+   "t": "When this Medabot makes a normal attack on the enemy Leader, or is hit by one from it, choose 1 enemy Support on Standby and return it to the deck. If that happens, destroy 1 random enemy part."
   },
   {
    "row": "Parts98",
    "sub": 0,
    "col": "m_name",
    "src": "2da337b3e9fe",
-   "t": ""
+   "t": "Kongosho"
   },
   {
    "row": "Parts98",
    "sub": 0,
    "col": "m_modelNum",
    "src": "d58424af6cb0",
-   "t": ""
+   "t": "Nio Kaiko AGO00-M"
   },
   {
    "row": "Parts99",
    "sub": 0,
    "col": "m_name",
    "src": "3955266194be",
-   "t": ""
+   "t": "Reckless Claw"
   },
   {
    "row": "Parts99",
    "sub": 0,
    "col": "m_modelNum",
    "src": "6b0236dbc15a",
-   "t": ""
+   "t": "Fearlessness RTL00-M"
   },
   {
    "row": "Parts99",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d995c11a1bb7",
-   "t": ""
+   "t": "When this Medabot makes or receives a normal attack, if the target has [Guard], this Medabot's power increases by 4000."
   },
   {
    "row": "Parts111",
    "sub": 0,
    "col": "m_name",
    "src": "c8a2e0d33298",
-   "t": ""
+   "t": "Shurado"
   },
   {
    "row": "Parts111",
    "sub": 0,
    "col": "m_modelNum",
    "src": "4b3ac1baf08c",
-   "t": ""
+   "t": "Spenagmenog ASR00-N"
   },
   {
    "row": "Parts112",
    "sub": 0,
    "col": "m_name",
    "src": "34a7cb161b05",
-   "t": ""
+   "t": "Solar Calamity"
   },
   {
    "row": "Parts112",
    "sub": 0,
    "col": "m_modelNum",
    "src": "f617e6f6444c",
-   "t": ""
+   "t": "Urielde URL00-M"
   },
   {
    "row": "Parts112",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e8a67a76f87",
-   "t": ""
+   "t": "When this Medabot makes a normal attack,\nthe target gains 1 of [Shock], [Freeze],\n[Bind] or [Burn] at random until the end\nof the opponent's turn.\nWhen this Medabot destroys a part or a\nbarrier of an enemy Leader on Standby,\nthe opponent destroys 1 more part."
   },
   {
    "row": "Parts113",
    "sub": 0,
    "col": "m_name",
    "src": "42cc86b4531b",
-   "t": ""
+   "t": "Sentiment"
   },
   {
    "row": "Parts113",
    "sub": 0,
    "col": "m_modelNum",
    "src": "459a08de1536",
-   "t": ""
+   "t": "Capricorn CPC00-F"
   },
   {
    "row": "Parts113",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1dd2c93bdc8",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and return its power to its base value."
   },
   {
    "row": "Parts88",
    "sub": 0,
    "col": "m_name",
    "src": "77c7d3a380fc",
-   "t": ""
+   "t": "Evankeliumi"
   },
   {
    "row": "Parts88",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c7fb1c9ef0cc",
-   "t": ""
+   "t": "Punainen Nena RID01-F"
   },
   {
    "row": "Parts89",
    "sub": 0,
    "col": "m_name",
    "src": "cc450069ad5b",
-   "t": ""
+   "t": "Bunny Toast"
   },
   {
    "row": "Parts89",
    "sub": 0,
    "col": "m_modelNum",
    "src": "01766da036f4",
-   "t": ""
+   "t": "Chrono Rabbit RBT05-M"
   },
   {
    "row": "Parts89",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": ""
+   "t": "All your Medabots except this one gain 2000 power until the start of your next turn. This Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Parts104",
    "sub": 0,
    "col": "m_name",
    "src": "ecb2214d99a8",
-   "t": ""
+   "t": "Bread and Milk"
   },
   {
    "row": "Parts104",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e10a934ee384",
-   "t": ""
+   "t": "Chaperon Rouge RED01-F"
   },
   {
    "row": "Parts105",
    "sub": 0,
    "col": "m_name",
    "src": "a79c75927bb3",
-   "t": ""
+   "t": "Pickzaun"
   },
   {
    "row": "Parts105",
    "sub": 0,
    "col": "m_modelNum",
    "src": "3bcc6a582efd",
-   "t": ""
+   "t": "Frigg Flag FLG00-M"
   },
   {
    "row": "Parts105",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc115e5e9437",
-   "t": ""
+   "t": "Every Medabot of the [Melee] type loses its abilities (traits), part abilities included, except Conceal."
   },
   {
    "row": "Parts115",
    "sub": 0,
    "col": "m_name",
    "src": "f7aee0d6d14b",
-   "t": ""
+   "t": "Left Hand Arinsu"
   },
   {
    "row": "Parts115",
    "sub": 0,
    "col": "m_modelNum",
    "src": "553bb6b55d1b",
-   "t": ""
+   "t": "Arinsudayu OIR00-F"
   },
   {
    "row": "Parts115",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn.\nThis Medabot cannot Quick cooldown this turn."
   },
   {
    "row": "Parts90",
    "sub": 0,
    "col": "m_name",
    "src": "e14ce362a699",
-   "t": ""
+   "t": "Yellow Hand"
   },
   {
    "row": "Parts90",
    "sub": 0,
    "col": "m_modelNum",
    "src": "1dc043a1388d",
-   "t": ""
+   "t": "Hit Seller BNN00-F"
   },
   {
    "row": "Parts91",
    "sub": 0,
    "col": "m_name",
    "src": "a415fab0d999",
-   "t": ""
+   "t": "Reclaiming"
   },
   {
    "row": "Parts91",
    "sub": 0,
    "col": "m_modelNum",
    "src": "e1155474803a",
-   "t": ""
+   "t": "Greek Head HDR00-M"
   },
   {
    "row": "Parts91",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": ""
+   "t": "[Repair]\nWith 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
   },
   {
    "row": "Parts106",
    "sub": 0,
    "col": "m_name",
    "src": "6399296a7292",
-   "t": ""
+   "t": "Receiver"
   },
   {
    "row": "Parts106",
    "sub": 0,
    "col": "m_modelNum",
    "src": "aa0193bd761a",
-   "t": ""
+   "t": "Concave BKO00-N"
   },
   {
    "row": "Parts107",
    "sub": 0,
    "col": "m_name",
    "src": "9c4879c63e73",
-   "t": ""
+   "t": "Shooka"
   },
   {
    "row": "Parts107",
    "sub": 0,
    "col": "m_modelNum",
    "src": "1b5c7394c58f",
-   "t": ""
+   "t": "Victory Horn UNI01-M"
   },
   {
    "row": "Parts107",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bf76df9a4599",
-   "t": ""
+   "t": "Remove [Curable Ailments] from all your\nMedabots.\nReduce the enemy's Deploy points by 4."
   },
   {
    "row": "Parts92",
    "sub": 0,
    "col": "m_name",
    "src": "0c27ed804c45",
-   "t": ""
+   "t": "Steel Tortoise"
   },
   {
    "row": "Parts92",
    "sub": 0,
    "col": "m_modelNum",
    "src": "40693c6a6b66",
-   "t": ""
+   "t": "Basalt GNB00-M"
   },
   {
    "row": "Parts93",
    "sub": 0,
    "col": "m_name",
    "src": "c24792067f32",
-   "t": ""
+   "t": "Elder Shield"
   },
   {
    "row": "Parts93",
    "sub": 0,
    "col": "m_modelNum",
    "src": "9c5d48dea575",
-   "t": ""
+   "t": "Brunhilde VAL04-F"
   },
   {
    "row": "Parts93",
    "sub": 0,
    "col": "m_skillText1",
    "src": "fa8759c09beb",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot is hit by a normal attack, its power increases by 4000. After the attack, its power returns to normal.\""
   },
   {
    "row": "Parts102",
    "sub": 0,
    "col": "m_name",
    "src": "19321268ef0c",
-   "t": ""
+   "t": "Judge Shield"
   },
   {
    "row": "Parts102",
    "sub": 0,
    "col": "m_modelNum",
    "src": "12bb163d649a",
-   "t": ""
+   "t": "Le Vilain LBN00-M"
   },
   {
    "row": "Parts103",
    "sub": 0,
    "col": "m_name",
    "src": "ccc7485ef202",
-   "t": ""
+   "t": "Desir"
   },
   {
    "row": "Parts103",
    "sub": 0,
    "col": "m_modelNum",
    "src": "91de5c48bdc6",
-   "t": ""
+   "t": "Bulb Blue BBB00-M"
   },
   {
    "row": "Parts103",
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": ""
+   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot takes damage from an ability (action), choose 1 enemy [Shoot] type Support and return it to the deck.\""
   },
   {
    "row": "Parts114",
    "sub": 0,
    "col": "m_name",
    "src": "5505ec97bba1",
-   "t": ""
+   "t": "Poison Fin"
   },
   {
    "row": "Parts114",
    "sub": 0,
    "col": "m_modelNum",
    "src": "fc1f00591e7c",
-   "t": ""
+   "t": "Sea Swallow GAT00-M"
   },
   {
    "row": "Parts114",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d4cbb8291b8f",
-   "t": ""
+   "t": "Until the start of your next turn, gains\n[Guard] and [Counter].\n[Counter] damage is reduced by 2000 and\nits target becomes the Leader."
   },
   {
    "row": "Parts94",
    "sub": 0,
    "col": "m_name",
    "src": "ea15f2844709",
-   "t": ""
+   "t": "Stone Clap"
   },
   {
    "row": "Parts94",
    "sub": 0,
    "col": "m_modelNum",
    "src": "7479f493061a",
-   "t": ""
+   "t": "Genius KRN00-M"
   },
   {
    "row": "Parts95",
    "sub": 0,
    "col": "m_name",
    "src": "024a1cde02df",
-   "t": ""
+   "t": "Tide Kitchen"
   },
   {
    "row": "Parts95",
    "sub": 0,
    "col": "m_modelNum",
    "src": "81916c612cda",
-   "t": ""
+   "t": "Sidekicky DTT02-M"
   },
   {
    "row": "Parts95",
    "sub": 0,
    "col": "m_skillText1",
    "src": "12beebc10b01",
-   "t": ""
+   "t": "[Deploy: 2] [Disturbance]"
   },
   {
    "row": "Parts100",
    "sub": 0,
    "col": "m_name",
    "src": "60ac07e73747",
-   "t": ""
+   "t": "Fruit Note"
   },
   {
    "row": "Parts100",
    "sub": 0,
    "col": "m_modelNum",
    "src": "c2b9e648361f",
-   "t": ""
+   "t": "Hanumonkey HNM00-F"
   },
   {
    "row": "Parts101",
    "sub": 0,
    "col": "m_name",
    "src": "3677b4131ad4",
-   "t": ""
+   "t": "Casanova"
   },
   {
    "row": "Parts101",
    "sub": 0,
    "col": "m_modelNum",
    "src": "9e10e8a80c03",
-   "t": ""
+   "t": "Tempt Bunny RBT05-F"
   },
   {
    "row": "Parts101",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ccc0829edf61",
-   "t": ""
+   "t": "[Deploy: 2] [Power Trap]"
   },
   {
    "row": "Parts132",
    "sub": 0,
    "col": "m_name",
    "src": "6130606217e2",
-   "t": ""
+   "t": "Turmeron"
   },
   {
    "row": "Parts132",
    "sub": 0,
    "col": "m_modelNum",
    "src": "5bb3e68ced5d",
-   "t": ""
+   "t": "Wild Ucorn GRM00-M"
   },
   {
    "row": "Parts133",
    "sub": 0,
    "col": "m_name",
    "src": "de3ff01ef897",
-   "t": ""
+   "t": "Cineole"
   },
   {
    "row": "Parts133",
    "sub": 0,
    "col": "m_modelNum",
    "src": "5bb3e68ced5d",
-   "t": ""
+   "t": "Wild Ucorn GRM00-M"
   },
   {
    "row": "Medaforce00",
    "sub": 0,
    "col": "m_name",
    "src": "74d6ca96cabb",
-   "t": ""
+   "t": "Volley Fire"
   },
   {
    "row": "Medaforce00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": ""
+   "t": "Deal 6000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy part."
   },
   {
    "row": "Medaforce01",
    "sub": 0,
    "col": "m_name",
    "src": "74d6ca96cabb",
-   "t": ""
+   "t": "Volley Fire"
   },
   {
    "row": "Medaforce01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": ""
+   "t": "Deal 7000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy part."
   },
   {
    "row": "Medaforce02",
    "sub": 0,
    "col": "m_name",
    "src": "1a1b8ba0dd6d",
-   "t": ""
+   "t": "Sonic Shot"
   },
   {
    "row": "Medaforce02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2b2ba76ee6eb",
-   "t": ""
+   "t": "Deal 4000 damage to all enemy Medabots."
   },
   {
    "row": "Medaforce03",
    "sub": 0,
    "col": "m_name",
    "src": "1a1b8ba0dd6d",
-   "t": ""
+   "t": "Sonic Shot"
   },
   {
    "row": "Medaforce03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "43ce854c48ef",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Medabots."
   },
   {
    "row": "Medaforce04",
    "sub": 0,
    "col": "m_name",
    "src": "3909b59fb5f2",
-   "t": ""
+   "t": "Rock Crusher"
   },
   {
    "row": "Medaforce04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "78660f12d39b",
-   "t": ""
+   "t": "Choose 1 enemy part and destroy it."
   },
   {
    "row": "Medaforce05",
    "sub": 0,
    "col": "m_name",
    "src": "3909b59fb5f2",
-   "t": ""
+   "t": "Rock Crusher"
   },
   {
    "row": "Medaforce05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "78660f12d39b",
-   "t": ""
+   "t": "Choose 1 enemy part and destroy it."
   },
   {
    "row": "Medaforce06",
    "sub": 0,
    "col": "m_name",
    "src": "ba2e8f18b8d3",
-   "t": ""
+   "t": "Reload"
   },
   {
    "row": "Medaforce06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "70bc69b3e7cd",
-   "t": ""
+   "t": "Draw 2 random [Shoot] type Tactics cards from your deck."
   },
   {
    "row": "Medaforce07",
    "sub": 0,
    "col": "m_name",
    "src": "ba2e8f18b8d3",
-   "t": ""
+   "t": "Reload"
   },
   {
    "row": "Medaforce07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "43575b46e6b9",
-   "t": ""
+   "t": "Draw 3 random [Shoot] type Tactics cards from your deck."
   },
   {
    "row": "Medaforce08",
    "sub": 0,
    "col": "m_name",
    "src": "9a3905cdd304",
-   "t": ""
+   "t": "Vertical Slash"
   },
   {
    "row": "Medaforce08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": ""
+   "t": "Deal 6000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy part."
   },
   {
    "row": "Medaforce09",
    "sub": 0,
    "col": "m_name",
    "src": "9a3905cdd304",
-   "t": ""
+   "t": "Vertical Slash"
   },
   {
    "row": "Medaforce09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": ""
+   "t": "Deal 7000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy part."
   },
   {
    "row": "Medaforce10",
    "sub": 0,
    "col": "m_name",
    "src": "a48aa06ce347",
-   "t": ""
+   "t": "Horizontal Slash"
   },
   {
    "row": "Medaforce10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2b2ba76ee6eb",
-   "t": ""
+   "t": "Deal 4000 damage to all enemy Medabots."
   },
   {
    "row": "Medaforce11",
    "sub": 0,
    "col": "m_name",
    "src": "a48aa06ce347",
-   "t": ""
+   "t": "Horizontal Slash"
   },
   {
    "row": "Medaforce11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "43ce854c48ef",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Medabots."
   },
   {
    "row": "Medaforce12",
    "sub": 0,
    "col": "m_name",
    "src": "70c713eb98e3",
-   "t": ""
+   "t": "Lightning"
   },
   {
    "row": "Medaforce12",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1a7b4499b00",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 4000\ndamage to it.\nThe target gets [Shock] until the end of\nthe enemy's turn."
   },
   {
    "row": "Medaforce13",
    "sub": 0,
    "col": "m_name",
    "src": "70c713eb98e3",
-   "t": ""
+   "t": "Lightning"
   },
   {
    "row": "Medaforce13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "25f56a42d686",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it.\nThe target gets [Shock] until the end of\nthe enemy's turn."
   },
   {
    "row": "Medaforce14",
    "sub": 0,
    "col": "m_name",
    "src": "585be49d3e26",
-   "t": ""
+   "t": "Binder"
   },
   {
    "row": "Medaforce14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "52f25b29ccb0",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 4000\ndamage to it.\nThe target gets [Bind] until the end of\nthe enemy's turn."
   },
   {
    "row": "Medaforce15",
    "sub": 0,
    "col": "m_name",
    "src": "585be49d3e26",
-   "t": ""
+   "t": "Binder"
   },
   {
    "row": "Medaforce15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "61ffb825257f",
-   "t": ""
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it.\nThe target gets [Bind] until the end of\nthe enemy's turn."
   },
   {
    "row": "Medaforce16",
    "sub": 0,
    "col": "m_name",
    "src": "cc272435b3c9",
-   "t": ""
+   "t": "Berserk"
   },
   {
    "row": "Medaforce16",
    "sub": 0,
    "col": "m_skillText1",
    "src": "52d82e336d05",
-   "t": ""
+   "t": "Until the start of your next turn, your\nLeader gains 2000 power."
   },
   {
    "row": "Medaforce17",
    "sub": 0,
    "col": "m_name",
    "src": "cc272435b3c9",
-   "t": ""
+   "t": "Berserk"
   },
   {
    "row": "Medaforce17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb757a1abd45",
-   "t": ""
+   "t": "Until the start of your next turn, your\nLeader gains 4000 power."
   },
   {
    "row": "Medaforce18",
    "sub": 0,
    "col": "m_name",
    "src": "de7488ae2df4",
-   "t": ""
+   "t": "Overdrive"
   },
   {
    "row": "Medaforce18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d36823825fb8",
-   "t": ""
+   "t": "Until the start of your next turn, your maximum energy increases by 2."
   },
   {
    "row": "Medaforce19",
    "sub": 0,
    "col": "m_name",
    "src": "de7488ae2df4",
-   "t": ""
+   "t": "Overdrive"
   },
   {
    "row": "Medaforce19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c81cf4c0a6f4",
-   "t": ""
+   "t": "Until the start of your next turn, your maximum energy increases by 4."
   },
   {
    "row": "Medaforce20",
    "sub": 0,
    "col": "m_name",
    "src": "c23ef8385184",
-   "t": ""
+   "t": "High Mobility"
   },
   {
    "row": "Medaforce20",
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": ""
+   "t": "Until the start of your next turn, all your\nMedabots gain 1000 power.\nWhile it is active, new effects that target\nthem are nullified."
   },
   {
    "row": "Medaforce21",
    "sub": 0,
    "col": "m_name",
    "src": "c23ef8385184",
-   "t": ""
+   "t": "High Mobility"
   },
   {
    "row": "Medaforce21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": ""
+   "t": "Until the start of your next turn, all your\nMedabots gain 1000 power.\nWhile it is active, new effects that target\nthem are nullified."
   },
   {
    "row": "Medaforce22",
    "sub": 0,
    "col": "m_name",
    "src": "dcd1308bbe1b",
-   "t": ""
+   "t": "Supercharge"
   },
   {
    "row": "Medaforce22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b07eafe027",
-   "t": ""
+   "t": "The next ability (Action) you activate costs 2."
   },
   {
    "row": "Medaforce23",
    "sub": 0,
    "col": "m_name",
    "src": "dcd1308bbe1b",
-   "t": ""
+   "t": "Supercharge"
   },
   {
    "row": "Medaforce23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "04b06929f81d",
-   "t": ""
+   "t": "The next ability (Action) you activate costs 0."
   },
   {
    "row": "Medaforce24",
    "sub": 0,
    "col": "m_name",
    "src": "0076af5e4e7c",
-   "t": ""
+   "t": "All Reverse"
   },
   {
    "row": "Medaforce24",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3321c1edbc2c",
-   "t": ""
+   "t": "Add copies of 2 random cards from your discard pile to your deck, parts excluded."
   },
   {
    "row": "Medaforce25",
    "sub": 0,
    "col": "m_name",
    "src": "0076af5e4e7c",
-   "t": ""
+   "t": "All Reverse"
   },
   {
    "row": "Medaforce25",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d6a76dbe5076",
-   "t": ""
+   "t": "Add copies of 4 random cards from your discard pile to your deck, parts excluded."
   },
   {
    "row": "Medaforce26",
    "sub": 0,
    "col": "m_name",
    "src": "a26cc9b7c265",
-   "t": ""
+   "t": "Regenerate"
   },
   {
    "row": "Medaforce26",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f4517612607",
-   "t": ""
+   "t": "Choose 1 of your destroyed parts at random and add a copy of it to your spare parts. Do this 1 time."
   },
   {
    "row": "Medaforce27",
    "sub": 0,
    "col": "m_name",
    "src": "a26cc9b7c265",
-   "t": ""
+   "t": "Regenerate"
   },
   {
    "row": "Medaforce27",
    "sub": 0,
    "col": "m_skillText1",
    "src": "512807f40004",
-   "t": ""
+   "t": "Choose 1 of your destroyed parts at random and add a copy of it to your spare parts. Do this 2 times."
   },
   {
    "row": "Medaforce28",
    "sub": 0,
    "col": "m_name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "Medaforce28",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": ""
+   "t": "Continuous: At the end of your turn, if your Barrier is not at its maximum, you may choose 1 card in your hand and make it a Barrier."
   },
   {
    "row": "Medaforce29",
    "sub": 0,
    "col": "m_name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "Medaforce29",
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": ""
+   "t": "Continuous: At the end of your turn, if your Barrier is not at its maximum, you may choose 1 card in your hand and make it a Barrier."
   },
   {
    "row": "Medaforce30",
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": ""
+   "t": "Restoration"
   },
   {
    "row": "Medaforce30",
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": ""
+   "t": "Choose 2 cards in your hand and make them\nBarriers.\nAt the start of your next turn, destroy 2\nof your Barriers."
   },
   {
    "row": "Medaforce31",
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": ""
+   "t": "Restoration"
   },
   {
    "row": "Medaforce31",
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": ""
+   "t": "Choose 2 cards in your hand and make them\nBarriers.\nAt the start of your next turn, destroy 2\nof your Barriers."
   },
   {
    "row": "Medaforce32",
    "sub": 0,
    "col": "m_name",
    "src": "ee4b1e15390c",
-   "t": ""
+   "t": "Protection"
   },
   {
    "row": "Medaforce32",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b1ccc5bb7c61",
-   "t": ""
+   "t": "Until the start of your next turn, your Medabots take no damage from Tactics cards."
   },
   {
    "row": "Medaforce33",
    "sub": 0,
    "col": "m_name",
    "src": "ee4b1e15390c",
-   "t": ""
+   "t": "Protection"
   },
   {
    "row": "Medaforce33",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b1ccc5bb7c61",
-   "t": ""
+   "t": "Until the start of your next turn, your Medabots take no damage from Tactics cards."
   },
   {
    "row": "Medaforce34",
    "sub": 0,
    "col": "m_name",
    "src": "8e40f7ab159a",
-   "t": ""
+   "t": "Reflector"
   },
   {
    "row": "Medaforce34",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": ""
+   "t": "Until the start of your next turn, when one of your Medabots is hit by a normal attack, deal the same damage to the enemy Leader."
   },
   {
    "row": "Medaforce35",
    "sub": 0,
    "col": "m_name",
    "src": "8e40f7ab159a",
-   "t": ""
+   "t": "Reflector"
   },
   {
    "row": "Medaforce35",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": ""
+   "t": "Until the start of your next turn, when one of your Medabots is hit by a normal attack, deal the same damage to the enemy Leader."
   },
   {
    "row": "Medaforce36",
    "sub": 0,
    "col": "m_name",
    "src": "52c6a1af9651",
-   "t": ""
+   "t": "Impregnable"
   },
   {
    "row": "Medaforce36",
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": ""
+   "t": "Until the start of your next turn, your Medabots halve the damage they take from abilities."
   },
   {
    "row": "Medaforce37",
    "sub": 0,
    "col": "m_name",
    "src": "52c6a1af9651",
-   "t": ""
+   "t": "Impregnable"
   },
   {
    "row": "Medaforce37",
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": ""
+   "t": "Until the start of your next turn, your Medabots halve the damage they take from abilities."
   },
   {
    "row": "Medaforce38",
    "sub": 0,
    "col": "m_name",
    "src": "ab618b6df1eb",
-   "t": ""
+   "t": "High Defense"
   },
   {
    "row": "Medaforce38",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": ""
+   "t": "Until the start of your next turn, all your Medabots gain 2000 power when hit by a normal attack.\nThis effect lasts until the start of your next turn."
   },
   {
    "row": "Medaforce39",
    "sub": 0,
    "col": "m_name",
    "src": "ab618b6df1eb",
-   "t": ""
+   "t": "High Defense"
   },
   {
    "row": "Medaforce39",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": ""
+   "t": "Until the start of your next turn, all your Medabots gain 2000 power when hit by a normal attack.\nThis effect lasts until the start of your next turn."
   },
   {
    "row": "Medaforce40",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "Medaforce40",
    "sub": 0,
    "col": "m_skillText1",
    "src": "012d73e5889f",
-   "t": ""
+   "t": "Deploy [Down Plant]."
   },
   {
    "row": "Medaforce41",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "Medaforce41",
    "sub": 0,
    "col": "m_skillText1",
    "src": "012d73e5889f",
-   "t": ""
+   "t": "Deploy [Down Plant]."
   },
   {
    "row": "Medaforce42",
    "sub": 0,
    "col": "m_name",
    "src": "82ba085c19c4",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "Medaforce42",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bb2852aaf6ab",
-   "t": ""
+   "t": "Deploy [C Absorber]."
   },
   {
    "row": "Medaforce43",
    "sub": 0,
    "col": "m_name",
    "src": "82ba085c19c4",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "Medaforce43",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bb2852aaf6ab",
-   "t": ""
+   "t": "Deploy [C Absorber]."
   },
   {
    "row": "Medaforce44",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "Medaforce44",
    "sub": 0,
    "col": "m_skillText1",
    "src": "79af5721d3c3",
-   "t": ""
+   "t": "Set an [Attack Trap]."
   },
   {
    "row": "Medaforce45",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "Medaforce45",
    "sub": 0,
    "col": "m_skillText1",
    "src": "79af5721d3c3",
-   "t": ""
+   "t": "Set an [Attack Trap]."
   },
   {
    "row": "Medaforce46",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "Medaforce46",
    "sub": 0,
    "col": "m_skillText1",
    "src": "38f72e2f905c",
-   "t": ""
+   "t": "Set an [Effect Trap]."
   },
   {
    "row": "Medaforce47",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "Medaforce47",
    "sub": 0,
    "col": "m_skillText1",
    "src": "38f72e2f905c",
-   "t": ""
+   "t": "Set an [Effect Trap]."
   },
   {
    "row": "Tactics00",
    "sub": 0,
    "col": "m_name",
    "src": "494ff866d40e",
-   "t": ""
+   "t": "Precision Fire"
   },
   {
    "row": "Tactics00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics01",
    "sub": 0,
    "col": "m_name",
    "src": "e69002de87b7",
-   "t": ""
+   "t": "Rapid Fire"
   },
   {
    "row": "Tactics01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c64f931135a3",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Supports."
   },
   {
    "row": "Tactics02",
    "sub": 0,
    "col": "m_name",
    "src": "fdedc35278a1",
-   "t": ""
+   "t": "Annihilation Fire"
   },
   {
    "row": "Tactics02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b8bc0a8292f6",
-   "t": ""
+   "t": "Deal 8000 damage to 1 enemy Support."
   },
   {
    "row": "Tactics03",
    "sub": 0,
    "col": "m_name",
    "src": "27c646dc80b7",
-   "t": ""
+   "t": "Counter Shot"
   },
   {
    "row": "Tactics03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "39435314ae80",
-   "t": ""
+   "t": "Put 1 enemy Support in the discard pile."
   },
   {
    "row": "Tactics04",
    "sub": 0,
    "col": "m_name",
    "src": "58ff5c5653cd",
-   "t": ""
+   "t": "Firing Prep"
   },
   {
    "row": "Tactics04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8f97e3279a8c",
-   "t": ""
+   "t": "Choose 1 of your [Shoot] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics05",
    "sub": 0,
    "col": "m_name",
    "src": "0c8fdd7e49f5",
-   "t": ""
+   "t": "Piercing Rounds"
   },
   {
    "row": "Tactics05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3e6f2b3e630a",
-   "t": ""
+   "t": "Choose 1 of your [Shoot] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics06",
    "sub": 0,
    "col": "m_name",
    "src": "e68fab25fb16",
-   "t": ""
+   "t": "Double Bullet"
   },
   {
    "row": "Tactics06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": ""
+   "t": "Choose 1 random opponent's Medabot and deal 6000 damage.\nDo this twice."
   },
   {
    "row": "Tactics07",
    "sub": 0,
    "col": "m_name",
    "src": "926fe276500b",
-   "t": ""
+   "t": "Spotter"
   },
   {
    "row": "Tactics07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "05143f4d3923",
-   "t": ""
+   "t": "Choose 1 enemy Support.\nUntil the end of the opponent's turn,\nif the target is destroyed by [Snipe],\ndestroy 1 enemy Barrier."
   },
   {
    "row": "Tactics08",
    "sub": 0,
    "col": "m_name",
    "src": "f2abdb125648",
-   "t": ""
+   "t": "Wave Attack"
   },
   {
    "row": "Tactics08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "7772e496fa39",
-   "t": ""
+   "t": "Deal 3000 damage to 1 random enemy Medabot.\nThen return this card to your hand.\nAt the end of the End phase of that turn,\nput this card in the discard pile."
   },
   {
    "row": "Tactics09",
    "sub": 0,
    "col": "m_name",
    "src": "e183ee8622a4",
-   "t": ""
+   "t": "Begin Sniping"
   },
   {
    "row": "Tactics09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f7a1c7083e48",
-   "t": ""
+   "t": "Choose 1 of your Medabots and 1 enemy Medabot.\nDeal damage equal to your chosen\nMedabot's power to the enemy Medabot.\nThis effect also counts as [Snipe]."
   },
   {
    "row": "Tactics10",
    "sub": 0,
    "col": "m_name",
    "src": "17bd718484c8",
-   "t": ""
+   "t": "All-Out Attack"
   },
   {
    "row": "Tactics10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics11",
    "sub": 0,
    "col": "m_name",
    "src": "c1983d510396",
-   "t": ""
+   "t": "Disruptive Attack"
   },
   {
    "row": "Tactics11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c64f931135a3",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Supports."
   },
   {
    "row": "Tactics12",
    "sub": 0,
    "col": "m_name",
    "src": "8638563fc57e",
-   "t": ""
+   "t": "Vital Strike"
   },
   {
    "row": "Tactics12",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b8bc0a8292f6",
-   "t": ""
+   "t": "Deal 8000 damage to 1 enemy Support."
   },
   {
    "row": "Tactics13",
    "sub": 0,
    "col": "m_name",
    "src": "a6cac023ee3b",
-   "t": ""
+   "t": "One-Hit Kill"
   },
   {
    "row": "Tactics13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "39435314ae80",
-   "t": ""
+   "t": "Put 1 enemy Support in the discard pile."
   },
   {
    "row": "Tactics14",
    "sub": 0,
    "col": "m_name",
    "src": "360a368bfc71",
-   "t": ""
+   "t": "Combat Ready"
   },
   {
    "row": "Tactics14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "dbe85f033e6c",
-   "t": ""
+   "t": "Choose 1 of your [Melee] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics15",
    "sub": 0,
    "col": "m_name",
    "src": "3cd7af1c84c7",
-   "t": ""
+   "t": "Pursuit Prep"
   },
   {
    "row": "Tactics15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "818bdbfcacba",
-   "t": ""
+   "t": "Choose 1 of your [Melee] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics16",
    "sub": 0,
    "col": "m_name",
    "src": "fa236b1ec87e",
-   "t": ""
+   "t": "Final Blow"
   },
   {
    "row": "Tactics16",
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": ""
+   "t": "Choose 1 random opponent's Medabot and deal 6000 damage.\nDo this twice."
   },
   {
    "row": "Tactics17",
    "sub": 0,
    "col": "m_name",
    "src": "fb30d666a3ba",
-   "t": ""
+   "t": "By Any Means"
   },
   {
    "row": "Tactics17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "292d41f27425",
-   "t": ""
+   "t": "Choose 1 enemy Medabot.\nUntil the end of the opponent's turn, it\ngains 1 of [Shock], [Freeze], [Bind] or\n[Burn] at random."
   },
   {
    "row": "Tactics18",
    "sub": 0,
    "col": "m_name",
    "src": "bb685d25194d",
-   "t": ""
+   "t": "Strength in Numbers"
   },
   {
    "row": "Tactics18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a66c7b41248",
-   "t": ""
+   "t": "Choose 1 of your Medabots. Until the end\nof the turn, when the target destroys a\nMedabot with a Cross Attack, choose 1\nenemy part and destroy it.\nThis effect is lost once it activates."
   },
   {
    "row": "Tactics19",
    "sub": 0,
    "col": "m_name",
    "src": "97e7235d170e",
-   "t": ""
+   "t": "Reckless Strike"
   },
   {
    "row": "Tactics19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "10d8aebaf3bf",
-   "t": ""
+   "t": "Choose 1 Standby Medabot of yours with\n[Frenzy]. It normal attacks a random\nenemy Medabot, then takes damage equal\nto its own power (this damage cannot be\nreduced)."
   },
   {
    "row": "Tactics30",
    "sub": 0,
    "col": "m_name",
    "src": "07e1d25071d6",
-   "t": ""
+   "t": "Covering Attack"
   },
   {
    "row": "Tactics30",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics31",
    "sub": 0,
    "col": "m_name",
    "src": "f5cebf9f901e",
-   "t": ""
+   "t": "Runaway Activation"
   },
   {
    "row": "Tactics31",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c64f931135a3",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Supports."
   },
   {
    "row": "Tactics32",
    "sub": 0,
    "col": "m_name",
    "src": "43f3d817c9a3",
-   "t": ""
+   "t": "Suppression Support"
   },
   {
    "row": "Tactics32",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b8bc0a8292f6",
-   "t": ""
+   "t": "Deal 8000 damage to 1 enemy Support."
   },
   {
    "row": "Tactics33",
    "sub": 0,
    "col": "m_name",
    "src": "3b04a5e7f68e",
-   "t": ""
+   "t": "Recon"
   },
   {
    "row": "Tactics33",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2cf6f324ecd",
-   "t": ""
+   "t": "Choose 1 of your Medabots.\nUntil the end of the turn, when the\ntarget destroys the enemy leader's part\nor Barrier, choose 1 enemy part and\ndestroy it.\nThis effect is lost once it activates."
   },
   {
    "row": "Tactics34",
    "sub": 0,
    "col": "m_name",
    "src": "884051c39d12",
-   "t": ""
+   "t": "Assist"
   },
   {
    "row": "Tactics34",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ae75976700cb",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics35",
    "sub": 0,
    "col": "m_name",
    "src": "50149efe4340",
-   "t": ""
+   "t": "Tactical Data Link"
   },
   {
    "row": "Tactics35",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c019191d7d92",
-   "t": ""
+   "t": "Choose 1 of your [Support] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics36",
    "sub": 0,
    "col": "m_name",
    "src": "30a502c91018",
-   "t": ""
+   "t": "Super Boost"
   },
   {
    "row": "Tactics36",
    "sub": 0,
    "col": "m_skillText1",
    "src": "302078e6a48e",
-   "t": ""
+   "t": "Choose 1 of your Medabots. It gains 3000 power until the start of your next turn."
   },
   {
    "row": "Tactics37",
    "sub": 0,
    "col": "m_name",
    "src": "a4953420a97b",
-   "t": ""
+   "t": "Overload"
   },
   {
    "row": "Tactics37",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2ebc50943378",
-   "t": ""
+   "t": "Quick cooldown 1 of your Supports. Return it to the deck at the end of the End phase."
   },
   {
    "row": "Tactics38",
    "sub": 0,
    "col": "m_name",
    "src": "f28a4bf0db93",
-   "t": ""
+   "t": "Normalize"
   },
   {
    "row": "Tactics38",
    "sub": 0,
    "col": "m_skillText1",
    "src": "22da0e5650e6",
-   "t": ""
+   "t": "Choose 1 Support. Its power becomes 5000."
   },
   {
    "row": "Tactics39",
    "sub": 0,
    "col": "m_name",
    "src": "36c5753839be",
-   "t": ""
+   "t": "United Front"
   },
   {
    "row": "Tactics39",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ca23877a61e1",
-   "t": ""
+   "t": "All your Medabots gain 1000 power."
   },
   {
    "row": "Tactics40",
    "sub": 0,
    "col": "m_name",
    "src": "5bf24bf104b8",
-   "t": ""
+   "t": "Botched Repair"
   },
   {
    "row": "Tactics40",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics41",
    "sub": 0,
    "col": "m_name",
    "src": "943ccfb24368",
-   "t": ""
+   "t": "Quick Aid"
   },
   {
    "row": "Tactics41",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": ""
+   "t": "Remove [curable status effects] from all your Medabots."
   },
   {
    "row": "Tactics42",
    "sub": 0,
    "col": "m_name",
    "src": "db6c45441ef4",
-   "t": ""
+   "t": "Dedicated Repair"
   },
   {
    "row": "Tactics42",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4343370d3dfe",
-   "t": ""
+   "t": "Turn 1 of your Supports into a Barrier."
   },
   {
    "row": "Tactics43",
    "sub": 0,
    "col": "m_name",
    "src": "4f6205af6e2e",
-   "t": ""
+   "t": "Back to the Front"
   },
   {
    "row": "Tactics43",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cd9825c65668",
-   "t": ""
+   "t": "[Revive: 6 or more]\nThe Medabot revived by this effect gains\n4000 power."
   },
   {
    "row": "Tactics44",
    "sub": 0,
    "col": "m_name",
    "src": "c0dce59edd23",
-   "t": ""
+   "t": "Good-as-New Armor"
   },
   {
    "row": "Tactics44",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cef552d87d32",
-   "t": ""
+   "t": "Choose 1 of your [Repair] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics45",
    "sub": 0,
    "col": "m_name",
    "src": "eec3e3a3854f",
-   "t": ""
+   "t": "Nanomachine Control"
   },
   {
    "row": "Tactics45",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ae4cc77d627a",
-   "t": ""
+   "t": "Choose 1 of your [Repair] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics46",
    "sub": 0,
    "col": "m_name",
    "src": "2828d4bcbd5e",
-   "t": ""
+   "t": "Emergency Recovery"
   },
   {
    "row": "Tactics46",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6392e079c3a9",
-   "t": ""
+   "t": "Make up to 2 cards from the top of your deck into Barriers."
   },
   {
    "row": "Tactics47",
    "sub": 0,
    "col": "m_name",
    "src": "c044cfdab154",
-   "t": ""
+   "t": "Careful Repair"
   },
   {
    "row": "Tactics47",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b0583f834bef",
-   "t": ""
+   "t": "[Revive: 4 or less]\nThe Medabot revived by this effect gains\n1000 power."
   },
   {
    "row": "Tactics48",
    "sub": 0,
    "col": "m_name",
    "src": "48bcd508df86",
-   "t": ""
+   "t": "Ensure Safety"
   },
   {
    "row": "Tactics48",
    "sub": 0,
    "col": "m_skillText1",
    "src": "809faa51b274",
-   "t": ""
+   "t": "Destroy 1 random enemy Trap or Plant."
   },
   {
    "row": "Tactics49",
    "sub": 0,
    "col": "m_name",
    "src": "a08642b5a169",
-   "t": ""
+   "t": "Intensive Care"
   },
   {
    "row": "Tactics49",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6392e079c3a9",
-   "t": ""
+   "t": "Make up to 2 cards from the top of your deck into Barriers."
   },
   {
    "row": "Tactics20",
    "sub": 0,
    "col": "m_name",
    "src": "e1496f6c5bd2",
-   "t": ""
+   "t": "Shield Bash"
   },
   {
    "row": "Tactics20",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics21",
    "sub": 0,
    "col": "m_name",
    "src": "26c9a45dbbaa",
-   "t": ""
+   "t": "Armor Tackle"
   },
   {
    "row": "Tactics21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c64f931135a3",
-   "t": ""
+   "t": "Deal 5000 damage to all enemy Supports."
   },
   {
    "row": "Tactics22",
    "sub": 0,
    "col": "m_name",
    "src": "266a566bb9a7",
-   "t": ""
+   "t": "Greatshield Assault"
   },
   {
    "row": "Tactics22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b8bc0a8292f6",
-   "t": ""
+   "t": "Deal 8000 damage to 1 enemy Support."
   },
   {
    "row": "Tactics23",
    "sub": 0,
    "col": "m_name",
    "src": "4371b073b710",
-   "t": ""
+   "t": "Heavy Armor"
   },
   {
    "row": "Tactics23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a3be133a0f80",
-   "t": ""
+   "t": "Choose 1 of your Supports.\nUntil the start of your next turn, it\ngains [Guard] and [Cannot Attack], and\n4000 power."
   },
   {
    "row": "Tactics24",
    "sub": 0,
    "col": "m_name",
    "src": "223a04d498d3",
-   "t": ""
+   "t": "Equip Armor"
   },
   {
    "row": "Tactics24",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ef3e4a6a2ff",
-   "t": ""
+   "t": "Choose 1 of your [Defense] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics25",
    "sub": 0,
    "col": "m_name",
    "src": "b3d65fcf09b6",
-   "t": ""
+   "t": "Defensive Formation"
   },
   {
    "row": "Tactics25",
    "sub": 0,
    "col": "m_skillText1",
    "src": "283bac25142a",
-   "t": ""
+   "t": "Choose 1 of your Medabots with [Guard].\nUntil the start of your next turn, it\ngains [Cannot Attack] and 3000 power."
   },
   {
    "row": "Tactics26",
    "sub": 0,
    "col": "m_name",
    "src": "adbf3827e94a",
-   "t": ""
+   "t": "Wide-Area Barrier"
   },
   {
    "row": "Tactics26",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b486077ea969",
-   "t": ""
+   "t": "All your Medabots nullify damage once.\nThis effect does not stack."
   },
   {
    "row": "Tactics27",
    "sub": 0,
    "col": "m_name",
    "src": "d9300b5b1cb8",
-   "t": ""
+   "t": "Substitute"
   },
   {
    "row": "Tactics27",
    "sub": 0,
    "col": "m_skillText1",
    "src": "da2978776556",
-   "t": ""
+   "t": "Choose 1 of your Supports.\nUntil the start of your next turn, the\ntarget is destroyed in place of your\nleader's part or Barrier."
   },
   {
    "row": "Tactics28",
    "sub": 0,
    "col": "m_name",
    "src": "a5a1a0c37e24",
-   "t": ""
+   "t": "Deploy Barrier"
   },
   {
    "row": "Tactics28",
    "sub": 0,
    "col": "m_skillText1",
    "src": "871fe3b3bbb9",
-   "t": ""
+   "t": "Choose 1 of your Medabots; it nullifies\ndamage once.\nThis effect does not stack."
   },
   {
    "row": "Tactics29",
    "sub": 0,
    "col": "m_name",
    "src": "866eb08cc6e0",
-   "t": ""
+   "t": "Anti-Medaforce Formation"
   },
   {
    "row": "Tactics29",
    "sub": 0,
    "col": "m_skillText1",
    "src": "68dc231af114",
-   "t": ""
+   "t": "Until the start of your next turn, all your Medabots reduce damage taken from Medaforce by 2000."
   },
   {
    "row": "Tactics50",
    "sub": 0,
    "col": "m_name",
    "src": "66e3d9fa6f95",
-   "t": ""
+   "t": "Unfinished Trap"
   },
   {
    "row": "Tactics50",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27d00ce22cf9",
-   "t": ""
+   "t": "Deal 5000 damage to 1 enemy Medabot."
   },
   {
    "row": "Tactics51",
    "sub": 0,
    "col": "m_name",
    "src": "d85e83c8b5dd",
-   "t": ""
+   "t": "Rear Support"
   },
   {
    "row": "Tactics51",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1f9b7ea21390",
-   "t": ""
+   "t": "Put 1 of your own Supports in the\ndiscard pile.\nGain 4 Set points."
   },
   {
    "row": "Tactics52",
    "sub": 0,
    "col": "m_name",
    "src": "c8626ecf3a66",
-   "t": ""
+   "t": "Rapid Setup"
   },
   {
    "row": "Tactics52",
    "sub": 0,
    "col": "m_skillText1",
    "src": "69b4e0295073",
-   "t": ""
+   "t": "Gain 2 Set points."
   },
   {
    "row": "Tactics53",
    "sub": 0,
    "col": "m_name",
    "src": "f8704b449eb6",
-   "t": ""
+   "t": "Ambush"
   },
   {
    "row": "Tactics53",
    "sub": 0,
    "col": "m_skillText1",
    "src": "39435314ae80",
-   "t": ""
+   "t": "Put 1 enemy Support in the discard pile."
   },
   {
    "row": "Tactics54",
    "sub": 0,
    "col": "m_name",
    "src": "64b36a2430b7",
-   "t": ""
+   "t": "Ample Supply"
   },
   {
    "row": "Tactics54",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a4f86b013ba",
-   "t": ""
+   "t": "Choose 1 of your [Set] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics55",
    "sub": 0,
    "col": "m_name",
    "src": "d034f87e9ac0",
-   "t": ""
+   "t": "Efficiency Up"
   },
   {
    "row": "Tactics55",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9ee23737b91c",
-   "t": ""
+   "t": "Choose 1 of your [Set] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics56",
    "sub": 0,
    "col": "m_name",
    "src": "805018a8a1e8",
-   "t": ""
+   "t": "Lure"
   },
   {
    "row": "Tactics56",
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": ""
+   "t": "Choose 1 random opponent's Medabot and deal 6000 damage.\nDo this twice."
   },
   {
    "row": "Tactics57",
    "sub": 0,
    "col": "m_name",
    "src": "0c861fb842fb",
-   "t": ""
+   "t": "Supply Cutoff"
   },
   {
    "row": "Tactics57",
    "sub": 0,
    "col": "m_skillText1",
    "src": "84f3e822cbe7",
-   "t": ""
+   "t": "[Set: 4] Set a [Charge Trap]."
   },
   {
    "row": "Tactics58",
    "sub": 0,
    "col": "m_name",
    "src": "7849e9ed2ee1",
-   "t": ""
+   "t": "Emergency Setup"
   },
   {
    "row": "Tactics58",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f417605fba75",
-   "t": ""
+   "t": "Gain 4 Set Points."
   },
   {
    "row": "Tactics59",
    "sub": 0,
    "col": "m_name",
    "src": "fce935cbc828",
-   "t": ""
+   "t": "Alert Network"
   },
   {
    "row": "Tactics59",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b90728cbdef6",
-   "t": ""
+   "t": "[Set: 4] Set a [Hand Trap]."
   },
   {
    "row": "Tactics60",
    "sub": 0,
    "col": "m_name",
    "src": "0809ab3e0611",
-   "t": ""
+   "t": "Power Cheer"
   },
   {
    "row": "Tactics60",
    "sub": 0,
    "col": "m_skillText1",
    "src": "fb7fb5b7e5e8",
-   "t": ""
+   "t": "Choose 1 of your Medabots. Its power increases by 200 until the start of your next turn."
   },
   {
    "row": "Tactics61",
    "sub": 0,
    "col": "m_name",
    "src": "41d72a68178e",
-   "t": ""
+   "t": "Energy Cheer"
   },
   {
    "row": "Tactics61",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6439b210cc78",
-   "t": ""
+   "t": "Until the end of your next turn, your max\nenergy increases by 1 (current value does\nnot increase)."
   },
   {
    "row": "Tactics62",
    "sub": 0,
    "col": "m_name",
    "src": "b779edd1c679",
-   "t": ""
+   "t": "Tactics Cheer"
   },
   {
    "row": "Tactics62",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b19e1d3b1434",
-   "t": ""
+   "t": "Until the end of your next turn, gain 1 tactic\nstock of your Leader's type."
   },
   {
    "row": "Tactics63",
    "sub": 0,
    "col": "m_name",
    "src": "57224e5c9551",
-   "t": ""
+   "t": "Cooling Cheer"
   },
   {
    "row": "Tactics63",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3604bf96110e",
-   "t": ""
+   "t": "Choose 1 of your Medabots. Its quick cooldown cost becomes 2 until the end of the turn."
   },
   {
    "row": "Tactics64",
    "sub": 0,
    "col": "m_name",
    "src": "aaa39656393a",
-   "t": ""
+   "t": "Good Energy Efficiency"
   },
   {
    "row": "Tactics64",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a94abf77fac",
-   "t": ""
+   "t": "Until the end of the turn, your Leader's action cost is reduced by 1 (never below 1)."
   },
   {
    "row": "Tactics65",
    "sub": 0,
    "col": "m_name",
    "src": "919c417bc2d5",
-   "t": ""
+   "t": "All-Terrain Mobility"
   },
   {
    "row": "Tactics65",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab1816466a1",
-   "t": ""
+   "t": "Until the end of the turn, your Leader's quick cooldown cost is reduced by 1 (never below 1)."
   },
   {
    "row": "Tactics66",
    "sub": 0,
    "col": "m_name",
    "src": "c5f252a5788b",
-   "t": ""
+   "t": "Aerial View"
   },
   {
    "row": "Tactics66",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1948befd6d2e",
-   "t": ""
+   "t": "Until the end of the turn, gain 1 tactic stock of your Leader's type."
   },
   {
    "row": "Tactics67",
    "sub": 0,
    "col": "m_name",
    "src": "035ae7ae2afa",
-   "t": ""
+   "t": "High-Speed Movement"
   },
   {
    "row": "Tactics67",
    "sub": 0,
    "col": "m_skillText1",
    "src": "091b542fb28a",
-   "t": ""
+   "t": "Until the start of your next turn, Medaforce damage to your Leader is reduced by 3000."
   },
   {
    "row": "Tactics68",
    "sub": 0,
    "col": "m_name",
    "src": "747377bcba04",
-   "t": ""
+   "t": "Crash Dive"
   },
   {
    "row": "Tactics68",
    "sub": 0,
    "col": "m_skillText1",
    "src": "dc76ec42a511",
-   "t": ""
+   "t": "Until the start of your next turn, your Leader gains 2000 power when hit by a normal attack. Power returns to normal after the attack."
   },
   {
    "row": "Tactics69",
    "sub": 0,
    "col": "m_name",
    "src": "a0c9e45677ea",
-   "t": ""
+   "t": "Frontal Armor"
   },
   {
    "row": "Tactics69",
    "sub": 0,
    "col": "m_skillText1",
    "src": "256cdebf61c9",
-   "t": ""
+   "t": "Until the start of your next turn, ability damage to your Leader is reduced by 1000."
   },
   {
    "row": "Tactics70",
    "sub": 0,
    "col": "m_name",
    "src": "6af9bf76a066",
-   "t": ""
+   "t": "Free Movement"
   },
   {
    "row": "Tactics70",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bc112db6fbc7",
-   "t": ""
+   "t": "Draw up to 2 cards from your deck."
   },
   {
    "row": "Medarotter00",
    "sub": 0,
    "col": "m_name",
    "src": "54cd98fff6e9",
-   "t": ""
+   "t": "Ikki"
   },
   {
    "row": "Medarotter00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "aa2682b70ec9",
-   "t": ""
+   "t": "Until the end of the turn, all your [Shoot] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter01",
    "sub": 0,
    "col": "m_name",
    "src": "9732da869c5c",
-   "t": ""
+   "t": "Hikaru"
   },
   {
    "row": "Medarotter01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e9b2d7ba891",
-   "t": ""
+   "t": "Until the end of the turn, all your [Melee] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter02",
    "sub": 0,
    "col": "m_name",
    "src": "5af117a71c07",
-   "t": ""
+   "t": "Anis"
   },
   {
    "row": "Medarotter02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b61209d06604",
-   "t": ""
+   "t": "Until the end of the turn, all your [Support] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter03",
    "sub": 0,
    "col": "m_name",
    "src": "7d69850b1f00",
-   "t": ""
+   "t": "Kagami"
   },
   {
    "row": "Medarotter03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c3f8aef021d2",
-   "t": ""
+   "t": "Until the end of the turn, all your [Heal] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter04",
    "sub": 0,
    "col": "m_name",
    "src": "840abf8f4ee6",
-   "t": ""
+   "t": "Hiyori"
   },
   {
    "row": "Medarotter04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f8c55c50d3a2",
-   "t": ""
+   "t": "Until the end of the turn, all your [Defense] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter05",
    "sub": 0,
    "col": "m_name",
    "src": "b873343c73a4",
-   "t": ""
+   "t": "Suzuno"
   },
   {
    "row": "Medarotter05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "62db4f392306",
-   "t": ""
+   "t": "Until the end of the turn, all your [Set] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter06",
    "sub": 0,
    "col": "m_name",
    "src": "c3f0f225d68a",
-   "t": ""
+   "t": "Arase"
   },
   {
    "row": "Medarotter06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "27833cda32c8",
-   "t": ""
+   "t": "Until the start of your next turn, all your [Shoot] and [Melee] type Medabots gain 1000 power."
   },
   {
    "row": "Medarotter07",
    "sub": 0,
    "col": "m_name",
    "src": "02882b833dc2",
-   "t": ""
+   "t": "Hisaki"
   },
   {
    "row": "Medarotter07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d74fcbf0edb",
-   "t": ""
+   "t": "Until the start of your next turn, all your [Support], [Heal], [Defense] and [Set] type Medabots gain 1000 power."
   },
   {
    "row": "Medarotter08",
    "sub": 0,
    "col": "m_name",
    "src": "7fff07817088",
-   "t": ""
+   "t": "Dr. Medabot"
   },
   {
    "row": "Medarotter08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "cd498beabcda",
-   "t": ""
+   "t": "Draw 1 random tactics card from your deck."
   },
   {
    "row": "Medarotter09",
    "sub": 0,
    "col": "m_name",
    "src": "29ec9f429fa5",
-   "t": ""
+   "t": "Koishimaru"
   },
   {
    "row": "Medarotter09",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9adc59322cb4",
-   "t": ""
+   "t": "Draw 2 random [Shoot] or [Melee] type cards from your deck."
   },
   {
    "row": "Medarotter10",
    "sub": 0,
    "col": "m_name",
    "src": "48f29e3fb6f9",
-   "t": ""
+   "t": "Kirara"
   },
   {
    "row": "Medarotter10",
    "sub": 0,
    "col": "m_skillText1",
    "src": "734eb89c513a",
-   "t": ""
+   "t": "Draw 2 random [Support], [Heal] or [Defense] type cards from your deck."
   },
   {
    "row": "Medarotter11",
    "sub": 0,
    "col": "m_name",
    "src": "881d32cb5c24",
-   "t": ""
+   "t": "Tenma"
   },
   {
    "row": "Medarotter11",
    "sub": 0,
    "col": "m_skillText1",
    "src": "42a996b6501c",
-   "t": ""
+   "t": "Choose 1 opponent's Medabot and make it overheated."
   },
   {
    "row": "Medarotter12",
    "sub": 0,
    "col": "m_name",
    "src": "09f7a13c804a",
-   "t": ""
+   "t": "Rintaro"
   },
   {
    "row": "Medarotter12",
    "sub": 0,
    "col": "m_skillText1",
    "src": "368d03e5dc7c",
-   "t": ""
+   "t": "Until the end of the opponent's turn, ability damage to your Medabots is reduced by 2000."
   },
   {
    "row": "Medarotter13",
    "sub": 0,
    "col": "m_name",
    "src": "b7d5eb5bc136",
-   "t": ""
+   "t": "Arika"
   },
   {
    "row": "Medarotter13",
    "sub": 0,
    "col": "m_skillText1",
    "src": "197e4512da53",
-   "t": ""
+   "t": "Until the end of the opponent's turn, their\nCross Attack action cost increases by 2."
   },
   {
    "row": "Medarotter14",
    "sub": 0,
    "col": "m_name",
    "src": "6ac88fc5104f",
-   "t": ""
+   "t": "Saki"
   },
   {
    "row": "Medarotter14",
    "sub": 0,
    "col": "m_skillText1",
    "src": "3a571c227628",
-   "t": ""
+   "t": "Until the end of the opponent's turn, their quick cooldown cost increases by 2."
   },
   {
    "row": "Medarotter15",
    "sub": 0,
    "col": "m_name",
    "src": "261aa984d6e9",
-   "t": ""
+   "t": "Chitose"
   },
   {
    "row": "Medarotter15",
    "sub": 0,
    "col": "m_skillText1",
    "src": "423d3f5dd73c",
-   "t": ""
+   "t": "At the end of the turn, put all your Medabots into Standby."
   },
   {
    "row": "Medarotter16",
    "sub": 0,
    "col": "m_name",
    "src": "576bc26be3a2",
-   "t": ""
+   "t": "Mio"
   },
   {
    "row": "Medarotter16",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4fffe645cc2d",
-   "t": ""
+   "t": "Choose 1 overheated opponent's Medabot.\nIt does not cool down at the turn's start."
   },
   {
    "row": "Medarotter17",
    "sub": 0,
    "col": "m_name",
    "src": "e374507cb155",
-   "t": ""
+   "t": "Phantom Renegade"
   },
   {
    "row": "Medarotter17",
    "sub": 0,
    "col": "m_skillText1",
    "src": "e83fe18e2126",
-   "t": ""
+   "t": "Until the end of the opponent's turn, no traps activate."
   },
   {
    "row": "Medarotter18",
    "sub": 0,
    "col": "m_name",
    "src": "3346765ff4bc",
-   "t": ""
+   "t": "Azuma"
   },
   {
    "row": "Medarotter18",
    "sub": 0,
    "col": "m_skillText1",
    "src": "55c9ba0e1adc",
-   "t": ""
+   "t": "Until the end of the opponent's turn, all Plants lose their effects."
   },
   {
    "row": "Medarotter19",
    "sub": 0,
    "col": "m_name",
    "src": "e13712bf6758",
-   "t": ""
+   "t": "Cresson"
   },
   {
    "row": "Medarotter19",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f4f0265fefaf",
-   "t": ""
+   "t": "Reduce the opponent's Set Points by 3 and gain 3 Set Points."
   },
   {
    "row": "Medarotter20",
    "sub": 0,
    "col": "m_name",
    "src": "5d895177770e",
-   "t": ""
+   "t": "Mr. Uruchi"
   },
   {
    "row": "Medarotter20",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b2bf9fe6d510",
-   "t": ""
+   "t": "Until the end of your next turn, all\nMedabots lose their tactic stock."
   },
   {
    "row": "Medarotter21",
    "sub": 0,
    "col": "m_name",
    "src": "56e029c80f2e",
-   "t": ""
+   "t": "Salt"
   },
   {
    "row": "Medarotter21",
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab43ec7f4c3",
-   "t": ""
+   "t": "Choose 1 opponent's Medabot.\nIt loses its ability (trait) until the end\nof the opponent's turn."
   },
   {
    "row": "Medarotter22",
    "sub": 0,
    "col": "m_name",
    "src": "094803ce1c64",
-   "t": ""
+   "t": "Kasumi"
   },
   {
    "row": "Medarotter22",
    "sub": 0,
    "col": "m_skillText1",
    "src": "ab3b305cdd52",
-   "t": ""
+   "t": "Until the end of the turn, damage from tactics cards increases by 1000."
   },
   {
    "row": "Medarotter23",
    "sub": 0,
    "col": "m_name",
    "src": "8605e2641789",
-   "t": ""
+   "t": "Milky"
   },
   {
    "row": "Medarotter23",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a0238cfdad06",
-   "t": ""
+   "t": "Choose 1 of your support Medabots.\nIt cannot be chosen as a target until the opponent's turn ends."
   },
   {
    "row": "Medarotter24",
    "sub": 0,
    "col": "m_name",
    "src": "9b8e5c274476",
-   "t": ""
+   "t": "Shitori"
   },
   {
    "row": "Medarotter24",
    "sub": 0,
    "col": "m_skillText1",
    "src": "51545792c586",
-   "t": ""
+   "t": "Gain 1-3 random rare cards of your Leader's type."
   },
   {
    "row": "Medarotter25",
    "sub": 0,
    "col": "m_name",
    "src": "0365c542e8e9",
-   "t": ""
+   "t": "Nae"
   },
   {
    "row": "Medarotter25",
    "sub": 0,
    "col": "m_skillText1",
    "src": "1d6c27ef36f8",
-   "t": ""
+   "t": "Choose 1 card in your hand and add a copy of it to your hand."
   },
   {
    "row": "Medarotter26",
    "sub": 0,
    "col": "m_name",
    "src": "932627ccfb7b",
-   "t": ""
+   "t": "Minori & Megumi"
   },
   {
    "row": "Medarotter26",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a04c4466f5ea",
-   "t": ""
+   "t": "At the start of your next turn, move 2 of your barriers to your Barrier Hand."
   },
   {
    "row": "Medarotter27",
    "sub": 0,
    "col": "m_name",
    "src": "6b7223cfbba9",
-   "t": ""
+   "t": "Kikuhime"
   },
   {
    "row": "Medarotter27",
    "sub": 0,
    "col": "m_skillText1",
    "src": "a8abea345f9c",
-   "t": ""
+   "t": "Until the end of the turn, the next Medabot you transfer enters Standby."
   },
   {
    "row": "Trap00",
    "sub": 0,
    "col": "m_name",
    "src": "ace3c0ba8c3d",
-   "t": ""
+   "t": "Part Trap"
   },
   {
    "row": "Trap00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "84023f02d62e",
-   "t": ""
+   "t": "When the opponent's Leader activates an$ability (action), destroy 1 of their parts.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap01",
    "sub": 0,
    "col": "m_name",
    "src": "0e532646ce2b",
-   "t": ""
+   "t": "Ability Trap"
   },
   {
    "row": "Trap01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "6e958c5bb1be",
-   "t": ""
+   "t": "When an opponent's Medabot activates an$ability (action), put up to 3 cards from$the top of their deck into the discard pile.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap02",
    "sub": 0,
    "col": "m_name",
    "src": "0452f3e71e45",
-   "t": ""
+   "t": "Tactics Trap"
   },
   {
    "row": "Trap02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "09d8935a6b94",
-   "t": ""
+   "t": "When the opponent uses a tactics card,$put up to 3 cards from the top of their$deck into the discard pile.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap03",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "Trap03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "161ae4456fc4",
-   "t": ""
+   "t": "When the opponent's Leader makes a normal$attack, deal 10000 damage to all their$Medabots.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap04",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "Trap04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "bcdeec44ed97",
-   "t": ""
+   "t": "When the opponent's Leader activates an$ability (action), deal 10000 damage to$all their Medabots.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap05",
    "sub": 0,
    "col": "m_name",
    "src": "c1066343036e",
-   "t": ""
+   "t": "Charge Trap"
   },
   {
    "row": "Trap05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2fed412fa5a",
-   "t": ""
+   "t": "When the opponent uses a Barrier Hand$card during their Action Phase, after$that effect resolves, make all their$Medabots overheated.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap06",
    "sub": 0,
    "col": "m_name",
    "src": "47289d2b2dac",
-   "t": ""
+   "t": "Hand Trap"
   },
   {
    "row": "Trap06",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0113f584bb51",
-   "t": ""
+   "t": "When the opponent uses a card from hand$during their Action Phase, after that$effect resolves, deal 10000 damage to$all their Medabots.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap07",
    "sub": 0,
    "col": "m_name",
    "src": "02c47996b281",
-   "t": ""
+   "t": "Power Trap"
   },
   {
    "row": "Trap07",
    "sub": 0,
    "col": "m_skillText1",
    "src": "89333a997e7c",
-   "t": ""
+   "t": "When an opponent's Medabot gains power$outside a normal attack, choose 1 of their$support Medabots and return it to the deck.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap08",
    "sub": 0,
    "col": "m_name",
    "src": "7cf5a3ca9617",
-   "t": ""
+   "t": "Disturbance"
   },
   {
    "row": "Trap08",
    "sub": 0,
    "col": "m_skillText1",
    "src": "f544d1620841",
-   "t": ""
+   "t": "When an opponent's Medabot activates an$ability (action), nullify it if the target is$not [Shoot] or [Melee] type.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Plant00",
    "sub": 0,
    "col": "m_name",
    "src": "d2d08722a057",
-   "t": ""
+   "t": "Heater Plant"
   },
   {
    "row": "Plant00",
    "sub": 0,
    "col": "m_skillText1",
    "src": "b7c4f5fc159d",
-   "t": ""
+   "t": "Continuous: Your Medabots' action costs are\nreduced by 1 (never below 1)."
   },
   {
    "row": "Plant01",
    "sub": 0,
    "col": "m_name",
    "src": "43469c1b7a38",
-   "t": ""
+   "t": "Repair Plant"
   },
   {
    "row": "Plant01",
    "sub": 0,
    "col": "m_skillText1",
    "src": "74e86fde854f",
-   "t": ""
+   "t": "Permanent: At the end of your turn, if your barriers are not at maximum, choose 1 card in your hand and make it a barrier."
   },
   {
    "row": "Plant02",
    "sub": 0,
    "col": "m_name",
    "src": "3b96a4190f82",
-   "t": ""
+   "t": "Energy Plant"
   },
   {
    "row": "Plant02",
    "sub": 0,
    "col": "m_skillText1",
    "src": "4b94f33ec1ac",
-   "t": ""
+   "t": "Continuous: Your Medaforce damage increases\nby 2000."
   },
   {
    "row": "Plant03",
    "sub": 0,
    "col": "m_name",
    "src": "9f45240cbe6d",
-   "t": ""
+   "t": "First Aid"
   },
   {
    "row": "Plant03",
    "sub": 0,
    "col": "m_skillText1",
    "src": "c49600213101",
-   "t": ""
+   "t": "Continuous: At the end of the enemy turn,\n[Revive: 6 or more]"
   },
   {
    "row": "Plant04",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "Plant04",
    "sub": 0,
    "col": "m_skillText1",
    "src": "0478f9350df5",
-   "t": ""
+   "t": "Continuous: Enemy action costs increase by 1."
   },
   {
    "row": "Plant05",
    "sub": 0,
    "col": "m_name",
    "src": "4629a60fdbaa",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "Plant05",
    "sub": 0,
    "col": "m_skillText1",
    "src": "9208e320c59c",
-   "t": ""
+   "t": "Permanent: Every player's maximum energy$becomes 10."
   },
   {
    "row": "Dummy_Shield",
    "sub": 0,
    "col": "m_name",
    "src": "8d5605b41226",
-   "t": ""
+   "t": "Shield"
   },
   {
    "row": "Dummy_RightParts",
    "sub": 0,
    "col": "m_name",
    "src": "0760d46f85e2",
-   "t": ""
+   "t": "Right Arm Part"
   },
   {
    "row": "Dummy_LeftParts",
    "sub": 0,
    "col": "m_name",
    "src": "e51b68e78d79",
-   "t": ""
-  },
-  {
-   "row": "Parts124",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "ab4fe55b94d7",
-   "t": ""
-  },
-  {
-   "row": "Parts125",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "ab4fe55b94d7",
-   "t": ""
-  },
-  {
-   "row": "Parts126",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "ab4fe55b94d7",
-   "t": ""
-  },
-  {
-   "row": "Parts127",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "ab4fe55b94d7",
-   "t": ""
-  },
-  {
-   "row": "Parts116",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "9cb991be49b7",
-   "t": ""
-  },
-  {
-   "row": "Parts117",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "9cb991be49b7",
-   "t": ""
-  },
-  {
-   "row": "Parts118",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "9cb991be49b7",
-   "t": ""
-  },
-  {
-   "row": "Parts119",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "9cb991be49b7",
-   "t": ""
-  },
-  {
-   "row": "Parts120",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "a6dd96044163",
-   "t": ""
-  },
-  {
-   "row": "Parts121",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "a6dd96044163",
-   "t": ""
-  },
-  {
-   "row": "Parts122",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "a6dd96044163",
-   "t": ""
-  },
-  {
-   "row": "Parts123",
-   "sub": 0,
-   "col": "m_modelNum",
-   "src": "a6dd96044163",
-   "t": ""
+   "t": "Left Arm Part"
   }
  ]
 }

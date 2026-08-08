@@ -6,2576 +6,2576 @@
    "sub": 0,
    "col": "m_name",
    "src": "9e78a6f0d8f6",
-   "t": ""
+   "t": "Normal Attack"
   },
   {
    "row": "CrossAttack",
    "sub": 0,
    "col": "m_name",
    "src": "de837692e5f3",
-   "t": ""
+   "t": "Cross Attack"
   },
   {
    "row": "CannotAttack",
    "sub": 0,
    "col": "m_name",
    "src": "94e5142a4a6d",
-   "t": ""
+   "t": "No Attack (Passive)"
   },
   {
    "row": "Skill100",
    "sub": 0,
    "col": "m_name",
    "src": "7094c0872fe7",
-   "t": ""
+   "t": "Long-Range Shot (Action)"
   },
   {
    "row": "Skill101",
    "sub": 0,
    "col": "m_name",
    "src": "84c575342938",
-   "t": ""
+   "t": "Hyper Beam (Action)"
   },
   {
    "row": "Skill102",
    "sub": 0,
    "col": "m_name",
    "src": "9369a7f58920",
-   "t": ""
+   "t": "Mobile Boost (Action)"
   },
   {
    "row": "Skill103",
    "sub": 0,
    "col": "m_name",
    "src": "8716c44c2e45",
-   "t": ""
+   "t": "Anger (Passive)"
   },
   {
    "row": "Skill104",
    "sub": 0,
    "col": "m_name",
    "src": "d3c30ef1168d",
-   "t": ""
+   "t": "Heavy Arm (Passive)"
   },
   {
    "row": "Skill105",
    "sub": 0,
    "col": "m_name",
    "src": "def317b366c1",
-   "t": ""
+   "t": "Close Combat (Passive)"
   },
   {
    "row": "Skill106",
    "sub": 0,
    "col": "m_name",
    "src": "f478ba714b73",
-   "t": ""
+   "t": "Deathlock (Passive)"
   },
   {
    "row": "Skill107",
    "sub": 0,
    "col": "m_name",
    "src": "490cef17e846",
-   "t": ""
+   "t": "Accel (Passive)"
   },
   {
    "row": "Skill108",
    "sub": 0,
    "col": "m_name",
    "src": "cc828d572ac0",
-   "t": ""
+   "t": "Snow Type (Passive)"
   },
   {
    "row": "Cooler",
    "sub": 0,
    "col": "m_name",
    "src": "845b72e58d98",
-   "t": ""
+   "t": "Cooler (Passive)"
   },
   {
    "row": "Skill110",
    "sub": 0,
    "col": "m_name",
    "src": "dd762cb8e2ef",
-   "t": ""
+   "t": "Generator Up (Action)"
   },
   {
    "row": "Skill112",
    "sub": 0,
    "col": "m_name",
    "src": "de26daf467eb",
-   "t": ""
+   "t": "All Repair (Action)"
   },
   {
    "row": "Skill113",
    "sub": 0,
    "col": "m_name",
    "src": "e1abd86c7469",
-   "t": ""
+   "t": "Auto Repair (Passive)"
   },
   {
    "row": "Skill115",
    "sub": 0,
    "col": "m_name",
    "src": "33aa95bca45a",
-   "t": ""
+   "t": "Hoplite (Passive)"
   },
   {
    "row": "Skill116",
    "sub": 0,
    "col": "m_name",
    "src": "f0ea06c3dafa",
-   "t": ""
+   "t": "Perfect Guard (Action)"
   },
   {
    "row": "Skill117",
    "sub": 0,
    "col": "m_name",
    "src": "9eff3f7e9e3a",
-   "t": ""
+   "t": "Setup Prep (Passive)"
   },
   {
    "row": "Skill119",
    "sub": 0,
    "col": "m_name",
    "src": "2246a698a9a0",
-   "t": ""
+   "t": "Pupa (Passive)"
   },
   {
    "row": "Skill120",
    "sub": 0,
    "col": "m_name",
    "src": "1282da82aa55",
-   "t": ""
+   "t": "Freeze Shot (Action)"
   },
   {
    "row": "Skill121",
    "sub": 0,
    "col": "m_name",
    "src": "b124d794d974",
-   "t": ""
+   "t": "Hypercept (Action)"
   },
   {
    "row": "Skill122",
    "sub": 0,
    "col": "m_name",
    "src": "17452632b0fe",
-   "t": ""
+   "t": "Supercell (Action)"
   },
   {
    "row": "Skill123",
    "sub": 0,
    "col": "m_name",
    "src": "fa28be6a44ef",
-   "t": ""
+   "t": "Cycle Boost (Action)"
   },
   {
    "row": "Skill124",
    "sub": 0,
    "col": "m_name",
    "src": "e36d489fb955",
-   "t": ""
+   "t": "Mega Gatling (Action)"
   },
   {
    "row": "Skill125",
    "sub": 0,
    "col": "m_name",
    "src": "6ef19beb596a",
-   "t": ""
+   "t": "Captor (Passive)"
   },
   {
    "row": "Skill126",
    "sub": 0,
    "col": "m_name",
    "src": "90f6e0dac3b3",
-   "t": ""
+   "t": "Part Trap (Action)"
   },
   {
    "row": "Skill127",
    "sub": 0,
    "col": "m_name",
    "src": "1ac7002ff803",
-   "t": ""
+   "t": "Repair Plant (Action)"
   },
   {
    "row": "Skill128",
    "sub": 0,
    "col": "m_name",
    "src": "f3bc815a190f",
-   "t": ""
+   "t": "Virus (Passive)"
   },
   {
    "row": "Skill129",
    "sub": 0,
    "col": "m_name",
    "src": "876a67690bce",
-   "t": ""
+   "t": "All-Terrain (Passive)"
   },
   {
    "row": "Skill201",
    "sub": 0,
    "col": "m_name",
    "src": "1166cba4e6f1",
-   "t": ""
+   "t": "Hyper Missile (Action)"
   },
   {
    "row": "Skill204",
    "sub": 0,
    "col": "m_name",
    "src": "b19a68130879",
-   "t": ""
+   "t": "Napalm (Action)"
   },
   {
    "row": "Skill205",
    "sub": 0,
    "col": "m_name",
    "src": "aa8fb66ee2cf",
-   "t": ""
+   "t": "Bloodstain (Passive)"
   },
   {
    "row": "Skill206",
    "sub": 0,
    "col": "m_name",
    "src": "38f8a17ec656",
-   "t": ""
+   "t": "Charge Buster (Passive)"
   },
   {
    "row": "Skill207",
    "sub": 0,
    "col": "m_name",
    "src": "429fd7cde2f1",
-   "t": ""
+   "t": "Press (Action)"
   },
   {
    "row": "Skill208",
    "sub": 0,
    "col": "m_name",
    "src": "9f87472c9ba2",
-   "t": ""
+   "t": "Through Shot (Passive)"
   },
   {
    "row": "Skill210",
    "sub": 0,
    "col": "m_name",
    "src": "432a75071f9f",
-   "t": ""
+   "t": "Inferno (Action)"
   },
   {
    "row": "Skill212",
    "sub": 0,
    "col": "m_name",
    "src": "043e15deff10",
-   "t": ""
+   "t": "Crossfire (Passive)"
   },
   {
    "row": "Skill216",
    "sub": 0,
    "col": "m_name",
    "src": "cce82ad7564b",
-   "t": ""
+   "t": "Thunder (Passive)"
   },
   {
    "row": "Skill218",
    "sub": 0,
    "col": "m_name",
    "src": "9db61f841e64",
-   "t": ""
+   "t": "Hammer (Passive)"
   },
   {
    "row": "Skill222",
    "sub": 0,
    "col": "m_name",
    "src": "69f6981064f6",
-   "t": ""
+   "t": "Rush (Passive)"
   },
   {
    "row": "Skill223",
    "sub": 0,
    "col": "m_name",
    "src": "17230015e471",
-   "t": ""
+   "t": "Fire (Passive)"
   },
   {
    "row": "Skill225",
    "sub": 0,
    "col": "m_name",
    "src": "1147e150216c",
-   "t": ""
+   "t": "Destroy (Passive)"
   },
   {
    "row": "Skill227",
    "sub": 0,
    "col": "m_name",
    "src": "05275a552e14",
-   "t": ""
+   "t": "Canceler (Passive)"
   },
   {
    "row": "Skill229",
    "sub": 0,
    "col": "m_name",
    "src": "41bb658782b1",
-   "t": ""
+   "t": "Count Attack (Passive)"
   },
   {
    "row": "Skill230",
    "sub": 0,
    "col": "m_name",
    "src": "50e8b8559756",
-   "t": ""
+   "t": "Dominion (Action)"
   },
   {
    "row": "Skill231",
    "sub": 0,
    "col": "m_name",
    "src": "4d2c0275f869",
-   "t": ""
+   "t": "Radar Sight (Action)"
   },
   {
    "row": "Skill233",
    "sub": 0,
    "col": "m_name",
    "src": "d436ee8070c7",
-   "t": ""
+   "t": "Conceal (Trait)"
   },
   {
    "row": "Skill235",
    "sub": 0,
    "col": "m_name",
    "src": "71e14f145000",
-   "t": ""
+   "t": "Shoot Boost (Action)"
   },
   {
    "row": "Skill236",
    "sub": 0,
    "col": "m_name",
    "src": "c1dd389e0b30",
-   "t": ""
+   "t": "Fight Boost (Action)"
   },
   {
    "row": "Skill237",
    "sub": 0,
    "col": "m_name",
    "src": "ae22ad03845a",
-   "t": ""
+   "t": "Guard Boost (Action)"
   },
   {
    "row": "Skill243",
    "sub": 0,
    "col": "m_name",
    "src": "63d283bd249a",
-   "t": ""
+   "t": "Charge Repair (Action)"
   },
   {
    "row": "Skill244",
    "sub": 0,
    "col": "m_name",
    "src": "b82b0c02e93e",
-   "t": ""
+   "t": "Holy Grace (Passive)"
   },
   {
    "row": "Skill245",
    "sub": 0,
    "col": "m_name",
    "src": "1368426d1c57",
-   "t": ""
+   "t": "Count Repair (Action)"
   },
   {
    "row": "Skill247",
    "sub": 0,
    "col": "m_name",
    "src": "c64b796c1d0d",
-   "t": ""
+   "t": "Trap Clear (Action)"
   },
   {
    "row": "Skill248",
    "sub": 0,
    "col": "m_name",
    "src": "7f1ff87d97d5",
-   "t": ""
+   "t": "Reverse (Action)"
   },
   {
    "row": "Skill249",
    "sub": 0,
    "col": "m_name",
    "src": "69ba30f61f1c",
-   "t": ""
+   "t": "White Mage (Passive)"
   },
   {
    "row": "Skill250",
    "sub": 0,
    "col": "m_name",
    "src": "3e812c2f873f",
-   "t": ""
+   "t": "Restore (Action)"
   },
   {
    "row": "Skill251",
    "sub": 0,
    "col": "m_name",
    "src": "7f1ff87d97d5",
-   "t": ""
+   "t": "Reverse (Action)"
   },
   {
    "row": "Skill253",
    "sub": 0,
    "col": "m_name",
    "src": "30947c144d30",
-   "t": ""
+   "t": "Reversal (Passive)"
   },
   {
    "row": "Skill254",
    "sub": 0,
    "col": "m_name",
    "src": "cf23684ad096",
-   "t": ""
+   "t": "Counter Guard (Action)"
   },
   {
    "row": "Skill255",
    "sub": 0,
    "col": "m_name",
    "src": "d6114a22109b",
-   "t": ""
+   "t": "Alert (Passive)"
   },
   {
    "row": "Skill256",
    "sub": 0,
    "col": "m_name",
    "src": "395b3e81e6c8",
-   "t": ""
+   "t": "Guard 2000 (Action)"
   },
   {
    "row": "Skill257",
    "sub": 0,
    "col": "m_name",
    "src": "b0a79d99a526",
-   "t": ""
+   "t": "Action Guard (Action)"
   },
   {
    "row": "Skill261",
    "sub": 0,
    "col": "m_name",
    "src": "5e782472f3e5",
-   "t": ""
+   "t": "Super Armor (Action)"
   },
   {
    "row": "Skill263",
    "sub": 0,
    "col": "m_name",
    "src": "eccf29f80f22",
-   "t": ""
+   "t": "Zero Gravity (Action)"
   },
   {
    "row": "Skill265",
    "sub": 0,
    "col": "m_name",
    "src": "d6e7b32524be",
-   "t": ""
+   "t": "Mirror Guard (Passive)"
   },
   {
    "row": "Skill269",
    "sub": 0,
    "col": "m_name",
    "src": "5f6628e40272",
-   "t": ""
+   "t": "Heater Plant (Action)"
   },
   {
    "row": "Skill271",
    "sub": 0,
    "col": "m_name",
    "src": "c6f4d455d134",
-   "t": ""
+   "t": "Bug (Action)"
   },
   {
    "row": "Skill272",
    "sub": 0,
    "col": "m_name",
    "src": "4d59929b7c59",
-   "t": ""
+   "t": "Joint Setup (Passive)"
   },
   {
    "row": "Skill274",
    "sub": 0,
    "col": "m_name",
    "src": "0aa404809eed",
-   "t": ""
+   "t": "Charm (Passive)"
   },
   {
    "row": "Skill275",
    "sub": 0,
    "col": "m_name",
    "src": "bd44326a0abe",
-   "t": ""
+   "t": "Joint Trigger (Action)"
   },
   {
    "row": "Skill277",
    "sub": 0,
    "col": "m_name",
    "src": "f45db554b48e",
-   "t": ""
+   "t": "Fortress (Passive)"
   },
   {
    "row": "Skill278",
    "sub": 0,
    "col": "m_name",
    "src": "8271ff24fa95",
-   "t": ""
+   "t": "Revenger (Passive)"
   },
   {
    "row": "Skill279",
    "sub": 0,
    "col": "m_name",
    "src": "380bc16d2d5f",
-   "t": ""
+   "t": "Trap Up (Action)"
   },
   {
    "row": "Skill281",
    "sub": 0,
    "col": "m_name",
    "src": "094f34cb83a0",
-   "t": ""
+   "t": "H Survivor (Passive)"
   },
   {
    "row": "Skill282",
    "sub": 0,
    "col": "m_name",
    "src": "c093b68ea806",
-   "t": ""
+   "t": "Clock Rage (Passive)"
   },
   {
    "row": "Skill283",
    "sub": 0,
    "col": "m_name",
    "src": "f02b50f4917a",
-   "t": ""
+   "t": "Shotgun (Action)"
   },
   {
    "row": "Skill284",
    "sub": 0,
    "col": "m_name",
    "src": "76b618b09588",
-   "t": ""
+   "t": "Optical (Passive)"
   },
   {
    "row": "Skill287",
    "sub": 0,
    "col": "m_name",
    "src": "4c43d5ab85ce",
-   "t": ""
+   "t": "Power Rifle (Passive)"
   },
   {
    "row": "Skill289",
    "sub": 0,
    "col": "m_name",
    "src": "f55c8e81da1f",
-   "t": ""
+   "t": "Charge Blade (Passive)"
   },
   {
    "row": "Skill290",
    "sub": 0,
    "col": "m_name",
    "src": "266e5a1efb24",
-   "t": ""
+   "t": "Railgun (Action)"
   },
   {
    "row": "Skill291",
    "sub": 0,
    "col": "m_name",
    "src": "68ba2f11a12c",
-   "t": ""
+   "t": "Break (Action)"
   },
   {
    "row": "Skill294",
    "sub": 0,
    "col": "m_name",
    "src": "caeb96b00185",
-   "t": ""
+   "t": "Hold (Action)"
   },
   {
    "row": "CrossFight",
    "sub": 0,
    "col": "m_name",
    "src": "d7af2f203dca",
-   "t": ""
+   "t": "Cross Fight (Passive)"
   },
   {
    "row": "Skill297",
    "sub": 0,
    "col": "m_name",
    "src": "0ad17a736f81",
-   "t": ""
+   "t": "Freeze (Passive)"
   },
   {
    "row": "Skill299",
    "sub": 0,
    "col": "m_name",
    "src": "c33e3969166e",
-   "t": ""
+   "t": "Confusion (Passive)"
   },
   {
    "row": "Skill301",
    "sub": 0,
    "col": "m_name",
    "src": "34da98d72059",
-   "t": ""
+   "t": "MF Seal (Passive)"
   },
   {
    "row": "Skill303",
    "sub": 0,
    "col": "m_name",
    "src": "7de80c8c6a9e",
-   "t": ""
+   "t": "All-Rounder (Passive)"
   },
   {
    "row": "Skill306",
    "sub": 0,
    "col": "m_name",
    "src": "8742ad406a27",
-   "t": ""
+   "t": "Interference Clear (Action)"
   },
   {
    "row": "Skill308",
    "sub": 0,
    "col": "m_name",
    "src": "19da5ed481b7",
-   "t": ""
+   "t": "Ward (Passive)"
   },
   {
    "row": "Skill309",
    "sub": 0,
    "col": "m_name",
    "src": "9ce4bb0f5cb7",
-   "t": ""
+   "t": "Sanctuary (Action)"
   },
   {
    "row": "Skill310",
    "sub": 0,
    "col": "m_name",
    "src": "86a438e2c41e",
-   "t": ""
+   "t": "Brilliance (Passive)"
   },
   {
    "row": "Skill318",
    "sub": 0,
    "col": "m_name",
    "src": "4caab65bb889",
-   "t": ""
+   "t": "Ability Trap (Action)"
   },
   {
    "row": "Skill320",
    "sub": 0,
    "col": "m_name",
    "src": "3b2b6ab5329b",
-   "t": ""
+   "t": "Tactic Trap (Action)"
   },
   {
    "row": "Skill323",
    "sub": 0,
    "col": "m_name",
    "src": "0d175eb4a7b2",
-   "t": ""
+   "t": "Energy Plant (Action)"
   },
   {
    "row": "Skill325",
    "sub": 0,
    "col": "m_name",
    "src": "af516bd081af",
-   "t": ""
+   "t": "First Aid (Action)"
   },
   {
    "row": "Skill326",
    "sub": 0,
    "col": "m_name",
    "src": "c4af33e29215",
-   "t": ""
+   "t": "High Provoke (Action)"
   },
   {
    "row": "Skill327",
    "sub": 0,
    "col": "m_name",
    "src": "cce82ad7564b",
-   "t": ""
+   "t": "Thunder (Passive)"
   },
   {
    "row": "Skill328",
    "sub": 0,
    "col": "m_name",
    "src": "17230015e471",
-   "t": ""
+   "t": "Fire (Passive)"
   },
   {
    "row": "Skill400",
    "sub": 0,
    "col": "m_name",
    "src": "af30e552184e",
-   "t": ""
+   "t": "Gatling (Action)"
   },
   {
    "row": "Skill402",
    "sub": 0,
    "col": "m_name",
    "src": "e36d489fb955",
-   "t": ""
+   "t": "Mega Gatling (Action)"
   },
   {
    "row": "Skill403",
    "sub": 0,
    "col": "m_name",
    "src": "e36d489fb955",
-   "t": ""
+   "t": "Mega Gatling (Action)"
   },
   {
    "row": "Skill406",
    "sub": 0,
    "col": "m_name",
    "src": "94d29cf6ffdb",
-   "t": ""
+   "t": "Anti-Air (Action)"
   },
   {
    "row": "Skill407",
    "sub": 0,
    "col": "m_name",
    "src": "b19a68130879",
-   "t": ""
+   "t": "Napalm (Action)"
   },
   {
    "row": "Skill408",
    "sub": 0,
    "col": "m_name",
    "src": "52a9ede6bb32",
-   "t": ""
+   "t": "Missile (Passive)"
   },
   {
    "row": "Skill409",
    "sub": 0,
    "col": "m_name",
    "src": "7422e08ee427",
-   "t": ""
+   "t": "Sacrifice (Action)"
   },
   {
    "row": "Skill410",
    "sub": 0,
    "col": "m_name",
    "src": "caeb96b00185",
-   "t": ""
+   "t": "Hold (Action)"
   },
   {
    "row": "Skill414",
    "sub": 0,
    "col": "m_name",
    "src": "3a8db466f032",
-   "t": ""
+   "t": "Break Hammer (Passive)"
   },
   {
    "row": "Skill416",
    "sub": 0,
    "col": "m_name",
    "src": "941a7fce7146",
-   "t": ""
+   "t": "Pile (Passive)"
   },
   {
    "row": "Skill417",
    "sub": 0,
    "col": "m_name",
    "src": "fa972574572e",
-   "t": ""
+   "t": "Beam Sword (Passive)"
   },
   {
    "row": "Skill419",
    "sub": 0,
    "col": "m_name",
    "src": "88a00c3f3ba6",
-   "t": ""
+   "t": "Absolute Guard (Action)"
   },
   {
    "row": "Skill420",
    "sub": 0,
    "col": "m_name",
    "src": "00199f8d8e96",
-   "t": ""
+   "t": "Power Blade (Passive)"
   },
   {
    "row": "Skill421",
    "sub": 0,
    "col": "m_name",
    "src": "7dd0d46a7c62",
-   "t": ""
+   "t": "Wave (Action)"
   },
   {
    "row": "Skill425",
    "sub": 0,
    "col": "m_name",
    "src": "37e1df209e8b",
-   "t": ""
+   "t": "Freeze Guard (Action)"
   },
   {
    "row": "Skill428",
    "sub": 0,
    "col": "m_name",
    "src": "b1e114215fd5",
-   "t": ""
+   "t": "Sword Drone (Action)"
   },
   {
    "row": "Skill430",
    "sub": 0,
    "col": "m_name",
    "src": "87799423d3d1",
-   "t": ""
+   "t": "Power Link (Action)"
   },
   {
    "row": "Skill431",
    "sub": 0,
    "col": "m_name",
    "src": "3a8db466f032",
-   "t": ""
+   "t": "Break Hammer (Passive)"
   },
   {
    "row": "Skill433",
    "sub": 0,
    "col": "m_name",
    "src": "eb4acd9037c3",
-   "t": ""
+   "t": "Chain Action (Action)"
   },
   {
    "row": "Skill442",
    "sub": 0,
    "col": "m_name",
    "src": "eac1a90a8e05",
-   "t": ""
+   "t": "Time Attack (Passive)"
   },
   {
    "row": "Skill445",
    "sub": 0,
    "col": "m_name",
    "src": "179464cc3aba",
-   "t": ""
+   "t": "Melee Bash (Action)"
   },
   {
    "row": "Skill448",
    "sub": 0,
    "col": "m_name",
    "src": "e5744b8673b5",
-   "t": ""
+   "t": "Provoke (Action)"
   },
   {
    "row": "Skill458",
    "sub": 0,
    "col": "m_name",
    "src": "e910ade1fa01",
-   "t": ""
+   "t": "Thunder Shot (Action)"
   },
   {
    "row": "Skill461",
    "sub": 0,
    "col": "m_name",
    "src": "2f836a1441b3",
-   "t": ""
+   "t": "Overcharge (Trait)"
   },
   {
    "row": "Skill463",
    "sub": 0,
    "col": "m_name",
    "src": "ff888efec140",
-   "t": ""
+   "t": "Charge Drain (Trait)"
   },
   {
    "row": "Skill464",
    "sub": 0,
    "col": "m_name",
    "src": "91f8f7f620b2",
-   "t": ""
+   "t": "Meteor (Action)"
   },
   {
    "row": "Skill465",
    "sub": 0,
    "col": "m_name",
    "src": "6c1417850338",
-   "t": ""
+   "t": "Blow Away (Trait)"
   },
   {
    "row": "Skill466",
    "sub": 0,
    "col": "m_name",
    "src": "ae22ad03845a",
-   "t": ""
+   "t": "Guard Boost (Action)"
   },
   {
    "row": "Skill468",
    "sub": 0,
    "col": "m_name",
    "src": "39ff731ef76b",
-   "t": ""
+   "t": "Guard 4000 (Action)"
   },
   {
    "row": "Skill469",
    "sub": 0,
    "col": "m_name",
    "src": "fcc1f6b569ed",
-   "t": ""
+   "t": "Disturbance (Action)"
   },
   {
    "row": "Skill470",
    "sub": 0,
    "col": "m_name",
    "src": "9bebd0c8bc53",
-   "t": ""
+   "t": "Charge Sonic (Action)"
   },
   {
    "row": "Skill471",
    "sub": 0,
    "col": "m_name",
    "src": "044dfbed4571",
-   "t": ""
+   "t": "Claw (Trait)"
   },
   {
    "row": "Skill472",
    "sub": 0,
    "col": "m_name",
    "src": "d3ca9f912d53",
-   "t": ""
+   "t": "Power Trap (Action)"
   },
   {
    "row": "Skill473",
    "sub": 0,
    "col": "m_name",
    "src": "8d559c9ef41f",
-   "t": ""
+   "t": "Shot Guard (Action)"
   },
   {
    "row": "Skill474",
    "sub": 0,
    "col": "m_name",
    "src": "d436ee8070c7",
-   "t": ""
+   "t": "Conceal (Trait)"
   },
   {
    "row": "Skill475",
    "sub": 0,
    "col": "m_name",
    "src": "8742ad406a27",
-   "t": ""
+   "t": "Interference Clear (Action)"
   },
   {
    "row": "Skill476",
    "sub": 0,
    "col": "m_name",
    "src": "3fa130d536bb",
-   "t": ""
+   "t": "Microwave (Action)"
   },
   {
    "row": "Skill478",
    "sub": 0,
    "col": "m_name",
    "src": "38cc34d9f430",
-   "t": ""
+   "t": "Punishment (Trait)"
   },
   {
    "row": "Skill479",
    "sub": 0,
    "col": "m_name",
    "src": "e07d3c93325e",
-   "t": ""
+   "t": "Effect Clear (Action)"
   },
   {
    "row": "Skill480",
    "sub": 0,
    "col": "m_name",
    "src": "160eba8438a7",
-   "t": ""
+   "t": "Needle Guard (Action)"
   },
   {
    "row": "Skill482",
    "sub": 0,
    "col": "m_name",
    "src": "1602a77fc9fa",
-   "t": ""
+   "t": "Tornado (Action)"
   },
   {
    "row": "Skill483",
    "sub": 0,
    "col": "m_name",
    "src": "355497fe962d",
-   "t": ""
+   "t": "Break Thunder (Trait)"
   },
   {
    "row": "Skill484",
    "sub": 0,
    "col": "m_name",
    "src": "407564502523",
-   "t": ""
+   "t": "Search Laser (Action)"
   },
   {
    "row": "Skill485",
    "sub": 0,
    "col": "m_name",
    "src": "5a8cd8c7ef2c",
-   "t": ""
+   "t": "Shield Attack (Action)"
   },
   {
    "row": "Skill488",
    "sub": 0,
    "col": "m_name",
    "src": "1e85fd36bc14",
-   "t": ""
+   "t": "Sword (Trait)"
   },
   {
    "row": "Fusion",
    "sub": 0,
    "col": "m_name",
    "src": "c320e5706454",
-   "t": ""
+   "t": "Fusion"
   },
   {
    "row": "Skill492",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill493",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill494",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill495",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill496",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill497",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill498",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill499",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill500",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill501",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill502",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill503",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill504",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill505",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill506",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill507",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill508",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill509",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill510",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill511",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill512",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill513",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill514",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill515",
    "sub": 0,
    "col": "m_name",
    "src": "e1db3dbc9582",
-   "t": ""
+   "t": "Original Bonus (Trait)"
   },
   {
    "row": "Skill516",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill517",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill518",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill519",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill520",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill521",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill522",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill523",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill524",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill525",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Skill526",
    "sub": 0,
    "col": "m_name",
    "src": "6c40a622556a",
-   "t": ""
+   "t": "Medachange (Action)"
   },
   {
    "row": "Medarotter00",
    "sub": 0,
    "col": "m_name",
    "src": "9732da869c5c",
-   "t": ""
+   "t": "Hikaru"
   },
   {
    "row": "Medarotter01",
    "sub": 0,
    "col": "m_name",
    "src": "54cd98fff6e9",
-   "t": ""
+   "t": "Ikki"
   },
   {
    "row": "Medarotter02",
    "sub": 0,
    "col": "m_name",
    "src": "7d69850b1f00",
-   "t": ""
+   "t": "Kagami"
   },
   {
    "row": "Medarotter03",
    "sub": 0,
    "col": "m_name",
    "src": "5af117a71c07",
-   "t": ""
+   "t": "Anis"
   },
   {
    "row": "Medarotter04",
    "sub": 0,
    "col": "m_name",
    "src": "840abf8f4ee6",
-   "t": ""
+   "t": "Hiyori"
   },
   {
    "row": "Medarotter05",
    "sub": 0,
    "col": "m_name",
    "src": "b873343c73a4",
-   "t": ""
+   "t": "Suzuno"
   },
   {
    "row": "Medarotter06",
    "sub": 0,
    "col": "m_name",
    "src": "0365c542e8e9",
-   "t": ""
+   "t": "Nae"
   },
   {
    "row": "Medarotter07",
    "sub": 0,
    "col": "m_name",
    "src": "7fff07817088",
-   "t": ""
+   "t": "Dr. Medabot"
   },
   {
    "row": "Medarotter08",
    "sub": 0,
    "col": "m_name",
    "src": "5d895177770e",
-   "t": ""
+   "t": "Mr. Uruchi"
   },
   {
    "row": "Medarotter09",
    "sub": 0,
    "col": "m_name",
    "src": "e374507cb155",
-   "t": ""
+   "t": "Phantom Renegade"
   },
   {
    "row": "Medarotter10",
    "sub": 0,
    "col": "m_name",
    "src": "29ec9f429fa5",
-   "t": ""
+   "t": "Koishimaru"
   },
   {
    "row": "Medarotter11",
    "sub": 0,
    "col": "m_name",
    "src": "3346765ff4bc",
-   "t": ""
+   "t": "Azuma"
   },
   {
    "row": "Medarotter12",
    "sub": 0,
    "col": "m_name",
    "src": "56e029c80f2e",
-   "t": ""
+   "t": "Salt"
   },
   {
    "row": "Medarotter13",
    "sub": 0,
    "col": "m_name",
    "src": "881d32cb5c24",
-   "t": ""
+   "t": "Tenma"
   },
   {
    "row": "Medarotter14",
    "sub": 0,
    "col": "m_name",
    "src": "09f7a13c804a",
-   "t": ""
+   "t": "Rintaro"
   },
   {
    "row": "Medarotter15",
    "sub": 0,
    "col": "m_name",
    "src": "094803ce1c64",
-   "t": ""
+   "t": "Kasumi"
   },
   {
    "row": "Medarotter16",
    "sub": 0,
    "col": "m_name",
    "src": "932627ccfb7b",
-   "t": ""
+   "t": "Minori & Megumi"
   },
   {
    "row": "Medarotter17",
    "sub": 0,
    "col": "m_name",
    "src": "48f29e3fb6f9",
-   "t": ""
+   "t": "Kirara"
   },
   {
    "row": "Medarotter18",
    "sub": 0,
    "col": "m_name",
    "src": "b7d5eb5bc136",
-   "t": ""
+   "t": "Arika"
   },
   {
    "row": "Medarotter19",
    "sub": 0,
    "col": "m_name",
    "src": "6ac88fc5104f",
-   "t": ""
+   "t": "Saki"
   },
   {
    "row": "Medarotter20",
    "sub": 0,
    "col": "m_name",
    "src": "261aa984d6e9",
-   "t": ""
+   "t": "Chitose"
   },
   {
    "row": "Medarotter21",
    "sub": 0,
    "col": "m_name",
    "src": "576bc26be3a2",
-   "t": ""
+   "t": "Mio"
   },
   {
    "row": "Medarotter22",
    "sub": 0,
    "col": "m_name",
    "src": "8605e2641789",
-   "t": ""
+   "t": "Milky"
   },
   {
    "row": "Medarotter23",
    "sub": 0,
    "col": "m_name",
    "src": "6b7223cfbba9",
-   "t": ""
+   "t": "Kikuhime"
   },
   {
    "row": "Medarotter24",
    "sub": 0,
    "col": "m_name",
    "src": "e13712bf6758",
-   "t": ""
+   "t": "Cresson"
   },
   {
    "row": "Medarotter25",
    "sub": 0,
    "col": "m_name",
    "src": "c3f0f225d68a",
-   "t": ""
+   "t": "Arase"
   },
   {
    "row": "Medarotter26",
    "sub": 0,
    "col": "m_name",
    "src": "02882b833dc2",
-   "t": ""
+   "t": "Hisaki"
   },
   {
    "row": "Medarotter27",
    "sub": 0,
    "col": "m_name",
    "src": "9b8e5c274476",
-   "t": ""
+   "t": "Shitori"
   },
   {
    "row": "MedaForce00",
    "sub": 0,
    "col": "m_name",
    "src": "74d6ca96cabb",
-   "t": ""
+   "t": "Volley Fire"
   },
   {
    "row": "MedaForce01",
    "sub": 0,
    "col": "m_name",
    "src": "74d6ca96cabb",
-   "t": ""
+   "t": "Volley Fire"
   },
   {
    "row": "MedaForce02",
    "sub": 0,
    "col": "m_name",
    "src": "1a1b8ba0dd6d",
-   "t": ""
+   "t": "Sonic Shot"
   },
   {
    "row": "MedaForce03",
    "sub": 0,
    "col": "m_name",
    "src": "1a1b8ba0dd6d",
-   "t": ""
+   "t": "Sonic Shot"
   },
   {
    "row": "MedaForce04",
    "sub": 0,
    "col": "m_name",
    "src": "3909b59fb5f2",
-   "t": ""
+   "t": "Rock Crusher"
   },
   {
    "row": "MedaForce05",
    "sub": 0,
    "col": "m_name",
    "src": "3909b59fb5f2",
-   "t": ""
+   "t": "Rock Crusher"
   },
   {
    "row": "MedaForce06",
    "sub": 0,
    "col": "m_name",
    "src": "ba2e8f18b8d3",
-   "t": ""
+   "t": "Reload"
   },
   {
    "row": "MedaForce07",
    "sub": 0,
    "col": "m_name",
    "src": "ba2e8f18b8d3",
-   "t": ""
+   "t": "Reload"
   },
   {
    "row": "MedaForce08",
    "sub": 0,
    "col": "m_name",
    "src": "b40889aa0d7f",
-   "t": ""
+   "t": "Vertical Slash"
   },
   {
    "row": "MedaForce09",
    "sub": 0,
    "col": "m_name",
    "src": "b40889aa0d7f",
-   "t": ""
+   "t": "Vertical Slash"
   },
   {
    "row": "MedaForce10",
    "sub": 0,
    "col": "m_name",
    "src": "a48aa06ce347",
-   "t": ""
+   "t": "Horizontal Slash"
   },
   {
    "row": "MedaForce11",
    "sub": 0,
    "col": "m_name",
    "src": "a48aa06ce347",
-   "t": ""
+   "t": "Horizontal Slash"
   },
   {
    "row": "MedaForce12",
    "sub": 0,
    "col": "m_name",
    "src": "76c35dbb3cb5",
-   "t": ""
+   "t": "Lightning"
   },
   {
    "row": "MedaForce13",
    "sub": 0,
    "col": "m_name",
    "src": "76c35dbb3cb5",
-   "t": ""
+   "t": "Lightning"
   },
   {
    "row": "MedaForce14",
    "sub": 0,
    "col": "m_name",
    "src": "585be49d3e26",
-   "t": ""
+   "t": "Binder"
   },
   {
    "row": "MedaForce15",
    "sub": 0,
    "col": "m_name",
    "src": "585be49d3e26",
-   "t": ""
+   "t": "Binder"
   },
   {
    "row": "MedaForce16",
    "sub": 0,
    "col": "m_name",
    "src": "cc272435b3c9",
-   "t": ""
+   "t": "Berserk"
   },
   {
    "row": "MedaForce17",
    "sub": 0,
    "col": "m_name",
    "src": "cc272435b3c9",
-   "t": ""
+   "t": "Berserk"
   },
   {
    "row": "MedaForce18",
    "sub": 0,
    "col": "m_name",
    "src": "de7488ae2df4",
-   "t": ""
+   "t": "Overdrive"
   },
   {
    "row": "MedaForce19",
    "sub": 0,
    "col": "m_name",
    "src": "de7488ae2df4",
-   "t": ""
+   "t": "Overdrive"
   },
   {
    "row": "MedaForce20",
    "sub": 0,
    "col": "m_name",
    "src": "c23ef8385184",
-   "t": ""
+   "t": "High Mobility"
   },
   {
    "row": "MedaForce21",
    "sub": 0,
    "col": "m_name",
    "src": "c23ef8385184",
-   "t": ""
+   "t": "High Mobility"
   },
   {
    "row": "MedaForce22",
    "sub": 0,
    "col": "m_name",
    "src": "dcd1308bbe1b",
-   "t": ""
+   "t": "Supercharge"
   },
   {
    "row": "MedaForce23",
    "sub": 0,
    "col": "m_name",
    "src": "dcd1308bbe1b",
-   "t": ""
+   "t": "Supercharge"
   },
   {
    "row": "MedaForce24",
    "sub": 0,
    "col": "m_name",
    "src": "0076af5e4e7c",
-   "t": ""
+   "t": "All Reverse"
   },
   {
    "row": "MedaForce25",
    "sub": 0,
    "col": "m_name",
    "src": "0076af5e4e7c",
-   "t": ""
+   "t": "All Reverse"
   },
   {
    "row": "MedaForce26",
    "sub": 0,
    "col": "m_name",
    "src": "a26cc9b7c265",
-   "t": ""
+   "t": "Regenerate"
   },
   {
    "row": "MedaForce27",
    "sub": 0,
    "col": "m_name",
    "src": "a26cc9b7c265",
-   "t": ""
+   "t": "Regenerate"
   },
   {
    "row": "MedaForce28",
    "sub": 0,
    "col": "m_name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "MedaForce29",
    "sub": 0,
    "col": "m_name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "MedaForce30",
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": ""
+   "t": "Restoration"
   },
   {
    "row": "MedaForce31",
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": ""
+   "t": "Restoration"
   },
   {
    "row": "MedaForce32",
    "sub": 0,
    "col": "m_name",
    "src": "ee4b1e15390c",
-   "t": ""
+   "t": "Protection"
   },
   {
    "row": "MedaForce33",
    "sub": 0,
    "col": "m_name",
    "src": "ee4b1e15390c",
-   "t": ""
+   "t": "Protection"
   },
   {
    "row": "MedaForce34",
    "sub": 0,
    "col": "m_name",
    "src": "8e40f7ab159a",
-   "t": ""
+   "t": "Reflector"
   },
   {
    "row": "MedaForce35",
    "sub": 0,
    "col": "m_name",
    "src": "8e40f7ab159a",
-   "t": ""
+   "t": "Reflector"
   },
   {
    "row": "MedaForce36",
    "sub": 0,
    "col": "m_name",
    "src": "52c6a1af9651",
-   "t": ""
+   "t": "Impregnable"
   },
   {
    "row": "MedaForce37",
    "sub": 0,
    "col": "m_name",
    "src": "52c6a1af9651",
-   "t": ""
+   "t": "Impregnable"
   },
   {
    "row": "MedaForce38",
    "sub": 0,
    "col": "m_name",
    "src": "ab618b6df1eb",
-   "t": ""
+   "t": "High Defense"
   },
   {
    "row": "MedaForce39",
    "sub": 0,
    "col": "m_name",
    "src": "ab618b6df1eb",
-   "t": ""
+   "t": "High Defense"
   },
   {
    "row": "MedaForce40",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "MedaForce41",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "MedaForce42",
    "sub": 0,
    "col": "m_name",
    "src": "82ba085c19c4",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "MedaForce43",
    "sub": 0,
    "col": "m_name",
    "src": "82ba085c19c4",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "MedaForce44",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "MedaForce45",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "MedaForce46",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "MedaForce47",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "Tactics00",
    "sub": 0,
    "col": "m_name",
    "src": "494ff866d40e",
-   "t": ""
+   "t": "Precision Fire"
   },
   {
    "row": "Tactics01",
    "sub": 0,
    "col": "m_name",
    "src": "e69002de87b7",
-   "t": ""
+   "t": "Rapid Fire"
   },
   {
    "row": "Tactics02",
    "sub": 0,
    "col": "m_name",
    "src": "fdedc35278a1",
-   "t": ""
+   "t": "Annihilation Fire"
   },
   {
    "row": "Tactics03",
    "sub": 0,
    "col": "m_name",
    "src": "27c646dc80b7",
-   "t": ""
+   "t": "Counter Shot"
   },
   {
    "row": "Tactics04",
    "sub": 0,
    "col": "m_name",
    "src": "58ff5c5653cd",
-   "t": ""
+   "t": "Firing Prep"
   },
   {
    "row": "Tactics05",
    "sub": 0,
    "col": "m_name",
    "src": "0c8fdd7e49f5",
-   "t": ""
+   "t": "Piercing Rounds"
   },
   {
    "row": "Tactics06",
    "sub": 0,
    "col": "m_name",
    "src": "e68fab25fb16",
-   "t": ""
+   "t": "Double Bullet"
   },
   {
    "row": "Tactics07",
    "sub": 0,
    "col": "m_name",
    "src": "926fe276500b",
-   "t": ""
+   "t": "Spotter"
   },
   {
    "row": "Tactics08",
    "sub": 0,
    "col": "m_name",
    "src": "f2abdb125648",
-   "t": ""
+   "t": "Wave Attack"
   },
   {
    "row": "Tactics09",
    "sub": 0,
    "col": "m_name",
    "src": "e183ee8622a4",
-   "t": ""
+   "t": "Begin Sniping"
   },
   {
    "row": "Tactics10",
    "sub": 0,
    "col": "m_name",
    "src": "17bd718484c8",
-   "t": ""
+   "t": "All-Out Attack"
   },
   {
    "row": "Tactics11",
    "sub": 0,
    "col": "m_name",
    "src": "c1983d510396",
-   "t": ""
+   "t": "Disruptive Attack"
   },
   {
    "row": "Tactics12",
    "sub": 0,
    "col": "m_name",
    "src": "8638563fc57e",
-   "t": ""
+   "t": "Vital Strike"
   },
   {
    "row": "Tactics13",
    "sub": 0,
    "col": "m_name",
    "src": "a6cac023ee3b",
-   "t": ""
+   "t": "One-Hit Kill"
   },
   {
    "row": "Tactics14",
    "sub": 0,
    "col": "m_name",
    "src": "360a368bfc71",
-   "t": ""
+   "t": "Combat Ready"
   },
   {
    "row": "Tactics15",
    "sub": 0,
    "col": "m_name",
    "src": "3cd7af1c84c7",
-   "t": ""
+   "t": "Pursuit Prep"
   },
   {
    "row": "Tactics16",
    "sub": 0,
    "col": "m_name",
    "src": "fa236b1ec87e",
-   "t": ""
+   "t": "Final Blow"
   },
   {
    "row": "Tactics17",
    "sub": 0,
    "col": "m_name",
    "src": "fb30d666a3ba",
-   "t": ""
+   "t": "By Any Means"
   },
   {
    "row": "Tactics18",
    "sub": 0,
    "col": "m_name",
    "src": "bb685d25194d",
-   "t": ""
+   "t": "Strength in Numbers"
   },
   {
    "row": "Tactics19",
    "sub": 0,
    "col": "m_name",
    "src": "97e7235d170e",
-   "t": ""
+   "t": "Reckless Strike"
   },
   {
    "row": "Tactics20",
    "sub": 0,
    "col": "m_name",
    "src": "e1496f6c5bd2",
-   "t": ""
+   "t": "Shield Bash"
   },
   {
    "row": "Tactics21",
    "sub": 0,
    "col": "m_name",
    "src": "26c9a45dbbaa",
-   "t": ""
+   "t": "Armor Tackle"
   },
   {
    "row": "Tactics22",
    "sub": 0,
    "col": "m_name",
    "src": "266a566bb9a7",
-   "t": ""
+   "t": "Greatshield Assault"
   },
   {
    "row": "Tactics23",
    "sub": 0,
    "col": "m_name",
    "src": "4371b073b710",
-   "t": ""
+   "t": "Heavy Armor"
   },
   {
    "row": "Tactics24",
    "sub": 0,
    "col": "m_name",
    "src": "223a04d498d3",
-   "t": ""
+   "t": "Equip Armor"
   },
   {
    "row": "Tactics25",
    "sub": 0,
    "col": "m_name",
    "src": "b3d65fcf09b6",
-   "t": ""
+   "t": "Defensive Formation"
   },
   {
    "row": "Tactics26",
    "sub": 0,
    "col": "m_name",
    "src": "adbf3827e94a",
-   "t": ""
+   "t": "Wide-Area Barrier"
   },
   {
    "row": "Tactics27",
    "sub": 0,
    "col": "m_name",
    "src": "d9300b5b1cb8",
-   "t": ""
+   "t": "Substitute"
   },
   {
    "row": "Tactics28",
    "sub": 0,
    "col": "m_name",
    "src": "a5a1a0c37e24",
-   "t": ""
+   "t": "Deploy Barrier"
   },
   {
    "row": "Tactics29",
    "sub": 0,
    "col": "m_name",
    "src": "866eb08cc6e0",
-   "t": ""
+   "t": "Anti-Medaforce Formation"
   },
   {
    "row": "Tactics30",
    "sub": 0,
    "col": "m_name",
    "src": "07e1d25071d6",
-   "t": ""
+   "t": "Covering Attack"
   },
   {
    "row": "Tactics31",
    "sub": 0,
    "col": "m_name",
    "src": "f5cebf9f901e",
-   "t": ""
+   "t": "Runaway Activation"
   },
   {
    "row": "Tactics32",
    "sub": 0,
    "col": "m_name",
    "src": "43f3d817c9a3",
-   "t": ""
+   "t": "Suppression Support"
   },
   {
    "row": "Tactics33",
    "sub": 0,
    "col": "m_name",
    "src": "3b04a5e7f68e",
-   "t": ""
+   "t": "Recon"
   },
   {
    "row": "Tactics34",
    "sub": 0,
    "col": "m_name",
    "src": "884051c39d12",
-   "t": ""
+   "t": "Assist"
   },
   {
    "row": "Tactics35",
    "sub": 0,
    "col": "m_name",
    "src": "50149efe4340",
-   "t": ""
+   "t": "Tactical Data Link"
   },
   {
    "row": "Tactics36",
    "sub": 0,
    "col": "m_name",
    "src": "30a502c91018",
-   "t": ""
+   "t": "Super Boost"
   },
   {
    "row": "Tactics37",
    "sub": 0,
    "col": "m_name",
    "src": "a4953420a97b",
-   "t": ""
+   "t": "Overload"
   },
   {
    "row": "Tactics38",
    "sub": 0,
    "col": "m_name",
    "src": "f28a4bf0db93",
-   "t": ""
+   "t": "Normalize"
   },
   {
    "row": "Tactics39",
    "sub": 0,
    "col": "m_name",
    "src": "36c5753839be",
-   "t": ""
+   "t": "United Front"
   },
   {
    "row": "Tactics40",
    "sub": 0,
    "col": "m_name",
    "src": "5bf24bf104b8",
-   "t": ""
+   "t": "Botched Repair"
   },
   {
    "row": "Tactics41",
    "sub": 0,
    "col": "m_name",
    "src": "943ccfb24368",
-   "t": ""
+   "t": "Quick Aid"
   },
   {
    "row": "Tactics42",
    "sub": 0,
    "col": "m_name",
    "src": "db6c45441ef4",
-   "t": ""
+   "t": "Dedicated Repair"
   },
   {
    "row": "Tactics43",
    "sub": 0,
    "col": "m_name",
    "src": "4f6205af6e2e",
-   "t": ""
+   "t": "Back to the Front"
   },
   {
    "row": "Tactics44",
    "sub": 0,
    "col": "m_name",
    "src": "c0dce59edd23",
-   "t": ""
+   "t": "Good-as-New Armor"
   },
   {
    "row": "Tactics45",
    "sub": 0,
    "col": "m_name",
    "src": "eec3e3a3854f",
-   "t": ""
+   "t": "Nanomachine Control"
   },
   {
    "row": "Tactics46",
    "sub": 0,
    "col": "m_name",
    "src": "2828d4bcbd5e",
-   "t": ""
+   "t": "Emergency Recovery"
   },
   {
    "row": "Tactics47",
    "sub": 0,
    "col": "m_name",
    "src": "c044cfdab154",
-   "t": ""
+   "t": "Careful Repair"
   },
   {
    "row": "Tactics48",
    "sub": 0,
    "col": "m_name",
    "src": "48bcd508df86",
-   "t": ""
+   "t": "Ensure Safety"
   },
   {
    "row": "Tactics49",
    "sub": 0,
    "col": "m_name",
    "src": "a08642b5a169",
-   "t": ""
+   "t": "Intensive Care"
   },
   {
    "row": "Tactics50",
    "sub": 0,
    "col": "m_name",
    "src": "66e3d9fa6f95",
-   "t": ""
+   "t": "Unfinished Trap"
   },
   {
    "row": "Tactics51",
    "sub": 0,
    "col": "m_name",
    "src": "d85e83c8b5dd",
-   "t": ""
+   "t": "Rear Support"
   },
   {
    "row": "Tactics52",
    "sub": 0,
    "col": "m_name",
    "src": "c8626ecf3a66",
-   "t": ""
+   "t": "Rapid Setup"
   },
   {
    "row": "Tactics53",
    "sub": 0,
    "col": "m_name",
    "src": "f8704b449eb6",
-   "t": ""
+   "t": "Ambush"
   },
   {
    "row": "Tactics54",
    "sub": 0,
    "col": "m_name",
    "src": "64b36a2430b7",
-   "t": ""
+   "t": "Ample Supply"
   },
   {
    "row": "Tactics55",
    "sub": 0,
    "col": "m_name",
    "src": "d034f87e9ac0",
-   "t": ""
+   "t": "Efficiency Up"
   },
   {
    "row": "Tactics56",
    "sub": 0,
    "col": "m_name",
    "src": "805018a8a1e8",
-   "t": ""
+   "t": "Lure"
   },
   {
    "row": "Tactics57",
    "sub": 0,
    "col": "m_name",
    "src": "0c861fb842fb",
-   "t": ""
+   "t": "Supply Cutoff"
   },
   {
    "row": "Tactics58",
    "sub": 0,
    "col": "m_name",
    "src": "7849e9ed2ee1",
-   "t": ""
+   "t": "Emergency Setup"
   },
   {
    "row": "Tactics59",
    "sub": 0,
    "col": "m_name",
    "src": "fce935cbc828",
-   "t": ""
+   "t": "Alert Network"
   },
   {
    "row": "Tactics60",
    "sub": 0,
    "col": "m_name",
    "src": "0809ab3e0611",
-   "t": ""
+   "t": "Power Cheer"
   },
   {
    "row": "Tactics61",
    "sub": 0,
    "col": "m_name",
    "src": "770cf30da5c9",
-   "t": ""
+   "t": "Charge Cheer"
   },
   {
    "row": "Tactics62",
    "sub": 0,
    "col": "m_name",
    "src": "b779edd1c679",
-   "t": ""
+   "t": "Tactics Cheer"
   },
   {
    "row": "Tactics63",
    "sub": 0,
    "col": "m_name",
    "src": "57224e5c9551",
-   "t": ""
+   "t": "Cooling Cheer"
   },
   {
    "row": "Tactics64",
    "sub": 0,
    "col": "m_name",
    "src": "aaa39656393a",
-   "t": ""
+   "t": "Good Energy Efficiency"
   },
   {
    "row": "Tactics65",
    "sub": 0,
    "col": "m_name",
    "src": "919c417bc2d5",
-   "t": ""
+   "t": "All-Terrain Mobility"
   },
   {
    "row": "Tactics66",
    "sub": 0,
    "col": "m_name",
    "src": "c5f252a5788b",
-   "t": ""
+   "t": "Aerial View"
   },
   {
    "row": "Tactics67",
    "sub": 0,
    "col": "m_name",
    "src": "035ae7ae2afa",
-   "t": ""
+   "t": "High-Speed Movement"
   },
   {
    "row": "Tactics68",
    "sub": 0,
    "col": "m_name",
    "src": "747377bcba04",
-   "t": ""
+   "t": "Crash Dive"
   },
   {
    "row": "Tactics69",
    "sub": 0,
    "col": "m_name",
    "src": "a0c9e45677ea",
-   "t": ""
+   "t": "Frontal Armor"
   },
   {
    "row": "Tactics70",
    "sub": 0,
    "col": "m_name",
    "src": "6af9bf76a066",
-   "t": ""
+   "t": "Free Movement"
   },
   {
    "row": "Trap00",
    "sub": 0,
    "col": "m_name",
    "src": "ace3c0ba8c3d",
-   "t": ""
+   "t": "Part Trap"
   },
   {
    "row": "Trap01",
    "sub": 0,
    "col": "m_name",
    "src": "0e532646ce2b",
-   "t": ""
+   "t": "Ability Trap"
   },
   {
    "row": "Trap02",
    "sub": 0,
    "col": "m_name",
    "src": "0452f3e71e45",
-   "t": ""
+   "t": "Tactics Trap"
   },
   {
    "row": "Trap03",
    "sub": 0,
    "col": "m_name",
    "src": "e00a51b29882",
-   "t": ""
+   "t": "Attack Trap"
   },
   {
    "row": "Trap04",
    "sub": 0,
    "col": "m_name",
    "src": "a38e0e2d423e",
-   "t": ""
+   "t": "Effect Trap"
   },
   {
    "row": "Trap05",
    "sub": 0,
    "col": "m_name",
    "src": "c1066343036e",
-   "t": ""
+   "t": "Charge Trap"
   },
   {
    "row": "Trap06",
    "sub": 0,
    "col": "m_name",
    "src": "47289d2b2dac",
-   "t": ""
+   "t": "Hand Trap"
   },
   {
    "row": "Trap07",
    "sub": 0,
    "col": "m_name",
    "src": "02c47996b281",
-   "t": ""
+   "t": "Power Trap"
   },
   {
    "row": "Trap08",
    "sub": 0,
    "col": "m_name",
    "src": "6103cd2e6dbe",
-   "t": ""
+   "t": "Disturbance Trap"
   },
   {
    "row": "Plant00",
    "sub": 0,
    "col": "m_name",
    "src": "d2d08722a057",
-   "t": ""
+   "t": "Heater Plant"
   },
   {
    "row": "Plant01",
    "sub": 0,
    "col": "m_name",
    "src": "43469c1b7a38",
-   "t": ""
+   "t": "Repair Plant"
   },
   {
    "row": "Plant02",
    "sub": 0,
    "col": "m_name",
    "src": "3b96a4190f82",
-   "t": ""
+   "t": "Energy Plant"
   },
   {
    "row": "Plant03",
    "sub": 0,
    "col": "m_name",
    "src": "9f45240cbe6d",
-   "t": ""
+   "t": "First Aid"
   },
   {
    "row": "Plant04",
    "sub": 0,
    "col": "m_name",
    "src": "00da4061becd",
-   "t": ""
+   "t": "Down Plant"
   },
   {
    "row": "Plant05",
    "sub": 0,
    "col": "m_name",
    "src": "82ba085c19c4",
-   "t": ""
+   "t": "C Absorber"
   },
   {
    "row": "BreakParts",
    "sub": 0,
    "col": "m_name",
    "src": "9a0cc0c22223",
-   "t": ""
+   "t": "For extra part destruction buff"
   },
   {
    "row": "BreakShield",
    "sub": 0,
    "col": "m_name",
    "src": "58c28ae1aa20",
-   "t": ""
+   "t": "For shield destruction buff"
   },
   {
    "row": "ReturnSupport",
    "sub": 0,
    "col": "m_name",
    "src": "98e19ea64389",
-   "t": ""
+   "t": "Return a Medabot to hand"
   },
   {
    "row": "SelfDamageByPower",
    "sub": 0,
    "col": "m_name",
    "src": "6760bccb26fc",
-   "t": ""
+   "t": "For self-damage"
   },
   {
    "row": "HiDefence",
    "sub": 0,
    "col": "m_name",
    "src": "41eb890ba077",
-   "t": ""
+   "t": "For High Defense"
   },
   {
    "row": "RadarSight",
    "sub": 0,
    "col": "m_name",
    "src": "f43c4af4d07b",
-   "t": ""
+   "t": "For Radar Site"
   },
   {
    "row": "Guard2000",
    "sub": 0,
    "col": "m_name",
    "src": "eac775f6b9ec",
-   "t": ""
+   "t": "For Guard 2000"
   },
   {
    "row": "CounterActiveSkill",
    "sub": 0,
    "col": "m_name",
    "src": "59137c7c9965",
-   "t": ""
+   "t": "For action counter"
   },
   {
    "row": "RapidDive",
    "sub": 0,
    "col": "m_name",
    "src": "207ac6b1696b",
-   "t": ""
+   "t": "For Crash Dive"
   },
   {
    "row": "Confusion",
    "sub": 0,
    "col": "m_name",
    "src": "48215fecf18b",
-   "t": ""
+   "t": "For Confusion"
   },
   {
    "row": "FreezeGuard",
    "sub": 0,
    "col": "m_name",
    "src": "32dc51bb535b",
-   "t": ""
+   "t": "For Freeze Guard"
   },
   {
    "row": "SwordDrone",
    "sub": 0,
    "col": "m_name",
    "src": "ecff1f4f74bb",
-   "t": ""
+   "t": "For Sword Drone"
   },
   {
    "row": "ContinuousAttack",
    "sub": 0,
    "col": "m_name",
    "src": "e0affbb2942b",
-   "t": ""
+   "t": "For consecutive attacks"
   },
   {
    "row": "FightingBash",
    "sub": 0,
    "col": "m_name",
    "src": "41a33f4b5ac5",
-   "t": ""
+   "t": "For Melee Bash"
   },
   {
    "row": "Guard4000",
    "sub": 0,
    "col": "m_name",
    "src": "218817d0ea41",
-   "t": ""
+   "t": "For Guard 4000"
   },
   {
    "row": "OverCharge",
    "sub": 0,
    "col": "m_name",
    "src": "b122ab0cb656",
-   "t": ""
+   "t": "For Overcharge"
   },
   {
    "row": "NeedleGuard",
    "sub": 0,
    "col": "m_name",
    "src": "cb804b41174d",
-   "t": ""
+   "t": "For Needle Guard"
   },
   {
    "row": "Reflector",
    "sub": 0,
    "col": "m_name",
    "src": "edff5f28a062",
-   "t": ""
+   "t": "For Reflector"
   },
   {
    "row": "AutoRepair",
    "sub": 0,
    "col": "m_name",
    "src": "a62f5a9dc6cd",
-   "t": ""
+   "t": "Auto Repair"
   },
   {
    "row": "HyperRepair",
    "sub": 0,
    "col": "m_name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "Restoration",
    "sub": 0,
    "col": "m_name",
    "src": "bcec0646fa43",
-   "t": ""
+   "t": "For Restoration"
   },
   {
    "row": "ConvertShield",
    "sub": 0,
    "col": "m_name",
    "src": "a5e5f2d4a097",
-   "t": ""
+   "t": "For Shield Conversion"
   },
   {
    "row": "SearchEnemy",
    "sub": 0,
    "col": "m_name",
    "src": "1046fc3d0ee9",
-   "t": ""
+   "t": "For Enemy Search"
   },
   {
    "row": "Burn",
    "sub": 0,
    "col": "m_name",
    "src": "5fdd001c503b",
-   "t": ""
+   "t": "For Burn"
   },
   {
    "row": "HiDefenceCPU",
    "sub": 0,
    "col": "m_name",
    "src": "5cf903390ea7",
-   "t": ""
+   "t": "For High Defense CPU Calculation"
   }
  ]
 }

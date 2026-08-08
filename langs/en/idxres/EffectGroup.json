@@ -6,721 +6,721 @@
    "sub": 0,
    "col": "name",
    "src": "222a5cbb0c1e",
-   "t": ""
+   "t": "Cooling Effect"
   },
   {
    "row": "Card_Overheat",
    "sub": 0,
    "col": "name",
    "src": "b3784c2be7cd",
-   "t": ""
+   "t": "Overheat"
   },
   {
    "row": "Normal_Hit",
    "sub": 0,
    "col": "name",
    "src": "7acd6c7b6e69",
-   "t": ""
+   "t": "Hit"
   },
   {
    "row": "Neraiuchi",
    "sub": 0,
    "col": "name",
    "src": "1d8e61975bfd",
-   "t": ""
+   "t": "Snipe"
   },
   {
    "row": "Card_Shield",
    "sub": 0,
    "col": "name",
    "src": "00948f8be10d",
-   "t": ""
+   "t": "Shield Effect"
   },
   {
    "row": "Card_Shieldcrack",
    "sub": 0,
    "col": "name",
    "src": "1300605a1c1f",
-   "t": ""
+   "t": "Shield Effect (Break)"
   },
   {
    "row": "Hyperbeam",
    "sub": 0,
    "col": "name",
    "src": "61008ba27023",
-   "t": ""
+   "t": "Hyper Beam"
   },
   {
    "row": "CoolingHurry",
    "sub": 0,
    "col": "name",
    "src": "5e1f477813aa",
-   "t": ""
+   "t": "Quick Cooldown"
   },
   {
    "row": "YokoIssen",
    "sub": 0,
    "col": "name",
    "src": "79fadc2c43d4",
-   "t": ""
+   "t": "Horizontal Slash"
   },
   {
    "row": "Break",
    "sub": 0,
    "col": "name",
    "src": "3e594ea7d473",
-   "t": ""
+   "t": "Break"
   },
   {
    "row": "Powerup",
    "sub": 0,
    "col": "name",
    "src": "678acfe1c7d2",
-   "t": ""
+   "t": "Power Up"
   },
   {
    "row": "Powerdown",
    "sub": 0,
    "col": "name",
    "src": "a70b8ac6a92c",
-   "t": ""
+   "t": "Power Down"
   },
   {
    "row": "Karatakewari",
    "sub": 0,
    "col": "name",
    "src": "0d177f72501e",
-   "t": ""
+   "t": "Vertical Slash"
   },
   {
    "row": "Allshooting",
    "sub": 0,
    "col": "name",
    "src": "25cd7ac8cf34",
-   "t": ""
+   "t": "Volley Fire"
   },
   {
    "row": "Freeze",
    "sub": 0,
    "col": "name",
    "src": "50ee54941a3b",
-   "t": ""
+   "t": "Freeze"
   },
   {
    "row": "Freeze_Finish",
    "sub": 0,
    "col": "name",
    "src": "e4fc20a912ae",
-   "t": ""
+   "t": "Freeze Finish"
   },
   {
    "row": "Hypermissile",
    "sub": 0,
    "col": "name",
    "src": "6379e57be8de",
-   "t": ""
+   "t": "Hyper Missile"
   },
   {
    "row": "Napalm",
    "sub": 0,
    "col": "name",
    "src": "6bfff0b3e9bd",
-   "t": ""
+   "t": "Napalm"
   },
   {
    "row": "Fire",
    "sub": 0,
    "col": "name",
    "src": "df66d21e0690",
-   "t": ""
+   "t": "Fire"
   },
   {
    "row": "Fire_Finish",
    "sub": 0,
    "col": "name",
    "src": "d2627abafc4a",
-   "t": ""
+   "t": "Fire Finish"
   },
   {
    "row": "Meteor",
    "sub": 0,
    "col": "name",
    "src": "f3d878e328e6",
-   "t": ""
+   "t": "Meteor"
   },
   {
    "row": "Thunder",
    "sub": 0,
    "col": "name",
    "src": "dc5215029b11",
-   "t": ""
+   "t": "Thunder"
   },
   {
    "row": "Thunder_Finish",
    "sub": 0,
    "col": "name",
    "src": "34b30b6290c6",
-   "t": ""
+   "t": "Thunder Finish"
   },
   {
    "row": "Guard_Normal",
    "sub": 0,
    "col": "name",
    "src": "e0101ecf3fd4",
-   "t": ""
+   "t": "Normal Guard"
   },
   {
    "row": "Guard_Shooting",
    "sub": 0,
    "col": "name",
    "src": "092f560bc141",
-   "t": ""
+   "t": "Shot Guard"
   },
   {
    "row": "Grtling",
    "sub": 0,
    "col": "name",
    "src": "c1bd9d4f3c3b",
-   "t": ""
+   "t": "Gatling"
   },
   {
    "row": "Conceal",
    "sub": 0,
    "col": "name",
    "src": "76248f03ce67",
-   "t": ""
+   "t": "Conceal"
   },
   {
    "row": "PrecisionShooting",
    "sub": 0,
    "col": "name",
    "src": "494ff866d40e",
-   "t": ""
+   "t": "Precision Fire"
   },
   {
    "row": "Destroy",
    "sub": 0,
    "col": "name",
    "src": "986a1bc42cbe",
-   "t": ""
+   "t": "Destroy"
   },
   {
    "row": "MobileBoost",
    "sub": 0,
    "col": "name",
    "src": "f0cb24fc8d39",
-   "t": ""
+   "t": "Mobile Boost"
   },
   {
    "row": "MobileBoost_Finish",
    "sub": 0,
    "col": "name",
    "src": "2351aaae1d06",
-   "t": ""
+   "t": "Mobile Boost Finish"
   },
   {
    "row": "Destroy_HitChain",
    "sub": 0,
    "col": "name",
    "src": "e1da41d9c8e0",
-   "t": ""
+   "t": "Destroy Chain"
   },
   {
    "row": "SonicShot_Activation",
    "sub": 0,
    "col": "name",
    "src": "471966afdbe2",
-   "t": ""
+   "t": "Sonic Shot (Activate)"
   },
   {
    "row": "SonicShot",
    "sub": 0,
    "col": "name",
    "src": "1a1b8ba0dd6d",
-   "t": ""
+   "t": "Sonic Shot"
   },
   {
    "row": "HyperCept",
    "sub": 0,
    "col": "name",
    "src": "443848e638ff",
-   "t": ""
+   "t": "Hypercept"
   },
   {
    "row": "AllRepair",
    "sub": 0,
    "col": "name",
    "src": "30affc4823bf",
-   "t": ""
+   "t": "All Repair"
   },
   {
    "row": "Lightning",
    "sub": 0,
    "col": "name",
    "src": "70c713eb98e3",
-   "t": ""
+   "t": "Lightning"
   },
   {
    "row": "RockRusher",
    "sub": 0,
    "col": "name",
    "src": "3909b59fb5f2",
-   "t": ""
+   "t": "Rock Crusher"
   },
   {
    "row": "Invalid",
    "sub": 0,
    "col": "name",
    "src": "38b49a56fb15",
-   "t": ""
+   "t": "Nullify Once"
   },
   {
    "row": "Sacrifice",
    "sub": 0,
    "col": "name",
    "src": "d159b475f021",
-   "t": ""
+   "t": "Sacrifice"
   },
   {
    "row": "Protection",
    "sub": 0,
    "col": "name",
    "src": "ee4b1e15390c",
-   "t": ""
+   "t": "Protection"
   },
   {
    "row": "Protection_Finish",
    "sub": 0,
    "col": "name",
    "src": "4d4abfd9dcaa",
-   "t": ""
+   "t": "Protection End"
   },
   {
    "row": "Impregnable",
    "sub": 0,
    "col": "name",
    "src": "29e04164a28d",
-   "t": ""
+   "t": "Impression"
   },
   {
    "row": "Impregnable_Finish",
    "sub": 0,
    "col": "name",
    "src": "52c5895b23bf",
-   "t": ""
+   "t": "Impression End"
   },
   {
    "row": "Reflector",
    "sub": 0,
    "col": "name",
    "src": "8e40f7ab159a",
-   "t": ""
+   "t": "Reflector"
   },
   {
    "row": "Reflector_Finish",
    "sub": 0,
    "col": "name",
    "src": "38342c5b616c",
-   "t": ""
+   "t": "Reflector End"
   },
   {
    "row": "Hold",
    "sub": 0,
    "col": "name",
    "src": "6b9972550e4d",
-   "t": ""
+   "t": "Hold"
   },
   {
    "row": "Binder",
    "sub": 0,
    "col": "name",
    "src": "585be49d3e26",
-   "t": ""
+   "t": "Binder"
   },
   {
    "row": "Radarsight",
    "sub": 0,
    "col": "name",
    "src": "a01992545b52",
-   "t": ""
+   "t": "Radar Site"
   },
   {
    "row": "Trap",
    "sub": 0,
    "col": "name",
    "src": "420d6874ac52",
-   "t": ""
+   "t": "Trap"
   },
   {
    "row": "Plant",
    "sub": 0,
    "col": "name",
    "src": "3047a5822bc8",
-   "t": ""
+   "t": "Plant"
   },
   {
    "row": "SwordDrone",
    "sub": 0,
    "col": "name",
    "src": "21ca6de3dd37",
-   "t": ""
+   "t": "Sword Drone"
   },
   {
    "row": "Spotter",
    "sub": 0,
    "col": "name",
    "src": "926fe276500b",
-   "t": ""
+   "t": "Spotter"
   },
   {
    "row": "Spotter_FinishA",
    "sub": 0,
    "col": "name",
    "src": "136654852e3a",
-   "t": ""
+   "t": "Spotter End Effect A"
   },
   {
    "row": "Spotter_FinishB",
    "sub": 0,
    "col": "name",
    "src": "21ed0073913e",
-   "t": ""
+   "t": "Spotter End Effect B"
   },
   {
    "row": "ChargeSonic_Activation",
    "sub": 0,
    "col": "name",
    "src": "7fa99318901e",
-   "t": ""
+   "t": "Charge Sonic Charge"
   },
   {
    "row": "ChargeSonic",
    "sub": 0,
    "col": "name",
    "src": "134d3659f612",
-   "t": ""
+   "t": "Charge Sonic"
   },
   {
    "row": "EffectClear",
    "sub": 0,
    "col": "name",
    "src": "26b7bd686bad",
-   "t": ""
+   "t": "Effect Clear"
   },
   {
    "row": "Sanctuary",
    "sub": 0,
    "col": "name",
    "src": "071e1df1c951",
-   "t": ""
+   "t": "Sanctuary"
   },
   {
    "row": "HyperRepair",
    "sub": 0,
    "col": "name",
    "src": "8ce667ed046f",
-   "t": ""
+   "t": "Hyper Repair"
   },
   {
    "row": "AntiMedaforceFormation",
    "sub": 0,
    "col": "name",
    "src": "866eb08cc6e0",
-   "t": ""
+   "t": "Anti-Medaforce Formation"
   },
   {
    "row": "AntiMedaforceFormation_Finish",
    "sub": 0,
    "col": "name",
    "src": "4ffbc179da08",
-   "t": ""
+   "t": "Anti-Medaforce Formation End"
   },
   {
    "row": "Breath",
    "sub": 0,
    "col": "name",
    "src": "d49623825c68",
-   "t": ""
+   "t": "Breath"
   },
   {
    "row": "Railgun",
    "sub": 0,
    "col": "name",
    "src": "368679d0ebbf",
-   "t": ""
+   "t": "Railgun"
   },
   {
    "row": "AllRounder",
    "sub": 0,
    "col": "name",
    "src": "eb2d1a8611c5",
-   "t": ""
+   "t": "All-Rounder"
   },
   {
    "row": "Inferno",
    "sub": 0,
    "col": "name",
    "src": "9bf4d3c8adae",
-   "t": ""
+   "t": "Inferno"
   },
   {
    "row": "Revenger",
    "sub": 0,
    "col": "name",
    "src": "c9bdddb1a14e",
-   "t": ""
+   "t": "Revenger"
   },
   {
    "row": "ZeroGravity",
    "sub": 0,
    "col": "name",
    "src": "902059a084c5",
-   "t": ""
+   "t": "Zero Gravity"
   },
   {
    "row": "SuperArmor",
    "sub": 0,
    "col": "name",
    "src": "252267a4afe4",
-   "t": ""
+   "t": "Super Armor"
   },
   {
    "row": "SuperArmor_FinishA",
    "sub": 0,
    "col": "name",
    "src": "4250dea11de2",
-   "t": ""
+   "t": "Super Armor End Effect A"
   },
   {
    "row": "SuperArmor_FinishB",
    "sub": 0,
    "col": "name",
    "src": "71709e61a830",
-   "t": ""
+   "t": "Super Armor End Effect B"
   },
   {
    "row": "Reversal",
    "sub": 0,
    "col": "name",
    "src": "9809ac472545",
-   "t": ""
+   "t": "Reversal"
   },
   {
    "row": "BreakInstallArea",
    "sub": 0,
    "col": "name",
    "src": "a356dc1eb830",
-   "t": ""
+   "t": "Zone Break"
   },
   {
    "row": "LeaderShutdown",
    "sub": 0,
    "col": "name",
    "src": "c192c4698d60",
-   "t": ""
+   "t": "Leader Function Ceased"
   },
   {
    "row": "Supercell",
    "sub": 0,
    "col": "name",
    "src": "96593857bab6",
-   "t": ""
+   "t": "Supercell"
   },
   {
    "row": "AntiAir",
    "sub": 0,
    "col": "name",
    "src": "3054fd22be08",
-   "t": ""
+   "t": "Anti-Air"
   },
   {
    "row": "Missile",
    "sub": 0,
    "col": "name",
    "src": "0a99ce973072",
-   "t": ""
+   "t": "Missile"
   },
   {
    "row": "Guard_Perfect",
    "sub": 0,
    "col": "name",
    "src": "804910963a4b",
-   "t": ""
+   "t": "Absolute Guard"
   },
   {
    "row": "Guard_Freeze",
    "sub": 0,
    "col": "name",
    "src": "3b6f0e92b6f6",
-   "t": ""
+   "t": "Freeze Guard"
   },
   {
    "row": "Guard_Counter",
    "sub": 0,
    "col": "name",
    "src": "eb5f7f565223",
-   "t": ""
+   "t": "Counter Guard"
   },
   {
    "row": "Guard_2000",
    "sub": 0,
    "col": "name",
    "src": "b3f38eb8d1e9",
-   "t": ""
+   "t": "Guard 2000"
   },
   {
    "row": "Guard_Kakutou",
    "sub": 0,
    "col": "name",
    "src": "86c93a1a585b",
-   "t": ""
+   "t": "Melee Bash"
   },
   {
    "row": "Guard_Needle",
    "sub": 0,
    "col": "name",
    "src": "7f46fe339222",
-   "t": ""
+   "t": "Needle Guard"
   },
   {
    "row": "Guard_Action",
    "sub": 0,
    "col": "name",
    "src": "ea4bcb4256eb",
-   "t": ""
+   "t": "Action Guard"
   },
   {
    "row": "Shotgun",
    "sub": 0,
    "col": "name",
    "src": "db18df358bfd",
-   "t": ""
+   "t": "Shotgun"
   },
   {
    "row": "Microwave",
    "sub": 0,
    "col": "name",
    "src": "5d123a4995db",
-   "t": ""
+   "t": "Microwave"
   },
   {
    "row": "Tornado",
    "sub": 0,
    "col": "name",
    "src": "a70ae22655bf",
-   "t": ""
+   "t": "Tornado"
   },
   {
    "row": "MegaGatling",
    "sub": 0,
    "col": "name",
    "src": "b1cbaf037ef0",
-   "t": ""
+   "t": "Mega Gatling"
   },
   {
    "row": "Provoke",
    "sub": 0,
    "col": "name",
    "src": "330ddb4ec389",
-   "t": ""
+   "t": "Provoke"
   },
   {
    "row": "Provoke_Finish_A",
    "sub": 0,
    "col": "name",
    "src": "0c6b598c6a41",
-   "t": ""
+   "t": "Provoke End Effect A"
   },
   {
    "row": "Provoke_Finish_B",
    "sub": 0,
    "col": "name",
    "src": "7863c4c1d5b2",
-   "t": ""
+   "t": "Provoke End Effect B"
   },
   {
    "row": "Hyprovoke",
    "sub": 0,
    "col": "name",
    "src": "a646fa4c61ce",
-   "t": ""
+   "t": "Hi-Provoke"
   },
   {
    "row": "Hyprovoke_Finish_B",
    "sub": 0,
    "col": "name",
    "src": "0869d03cb036",
-   "t": ""
+   "t": "Hi-Provoke End Effect B"
   },
   {
    "row": "FastMovement",
    "sub": 0,
    "col": "name",
    "src": "035ae7ae2afa",
-   "t": ""
+   "t": "High-Speed Movement"
   },
   {
    "row": "Boost",
    "sub": 0,
    "col": "name",
    "src": "4a3b3819dc66",
-   "t": ""
+   "t": "Boost"
   },
   {
    "row": "Card_Cooling_Finish",
    "sub": 0,
    "col": "name",
    "src": "16a48b4d1c48",
-   "t": ""
+   "t": "Cooling Stop"
   },
   {
    "row": "RapidFireCharge",
    "sub": 0,
    "col": "name",
    "src": "66da0a8b4279",
-   "t": ""
+   "t": "Rapid Fire Charge"
   },
   {
    "row": "RapidFireShot",
    "sub": 0,
    "col": "name",
    "src": "e69002de87b7",
-   "t": ""
+   "t": "Rapid Fire"
   },
   {
    "row": "Reverse",
    "sub": 0,
    "col": "name",
    "src": "0e8d3fc0a72e",
-   "t": ""
+   "t": "Reverse"
   },
   {
    "row": "Invalid_Finish",
    "sub": 0,
    "col": "name",
    "src": "d299d574ec54",
-   "t": ""
+   "t": "Nullify Once End"
   },
   {
    "row": "PowerUp_Kikuhime",
    "sub": 0,
    "col": "name",
    "src": "39e3edd0b9d6",
-   "t": ""
+   "t": "Power Up Kikuhime"
   },
   {
    "row": "HighDefense",
    "sub": 0,
    "col": "name",
    "src": "bcb59d45aae2",
-   "t": ""
+   "t": "High Defense"
   },
   {
    "row": "HighDefense_Finish",
    "sub": 0,
    "col": "name",
    "src": "5290775ba2cd",
-   "t": ""
+   "t": "High Defense End"
   }
  ]
 }

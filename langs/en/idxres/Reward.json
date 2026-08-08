@@ -6,910 +6,903 @@
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data00",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data01",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data02",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data03",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data04",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a02c9be4e27c",
-   "t": ""
+   "t": "Owned from the start"
   },
   {
    "row": "Data05",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "d6a4e79b56c2",
-   "t": ""
+   "t": "?"
   },
   {
    "row": "Data08",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "32cc81b0da7e",
-   "t": ""
+   "t": "Clear Practice Challenge 2"
   },
   {
    "row": "Data10b",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "3e8df9bee6af",
-   "t": ""
+   "t": "Clear Practice Challenge 1"
   },
   {
    "row": "Data12",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "aaeede45ba1c",
-   "t": ""
+   "t": "Defeat Manabu in Forest"
   },
   {
    "row": "Data13",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "745aff42d667",
-   "t": ""
+   "t": "Defeat Nei in Forest"
   },
   {
    "row": "Data14",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5c89c2dcd896",
-   "t": ""
+   "t": "Defeat Eito in Forest"
   },
   {
    "row": "Data15",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7e40b1697a57",
-   "t": ""
+   "t": "Defeat Tsukiji in Forest"
   },
   {
    "row": "Data16",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "40b8b3f162f6",
-   "t": ""
+   "t": "Defeat Saito in Forest"
   },
   {
    "row": "Data18",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "f172136b513c",
-   "t": ""
+   "t": "Defeat the Rubberobo Gang in Rocky"
   },
   {
    "row": "Data19",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "90b944c494e6",
-   "t": ""
+   "t": "Defeat Amu in Rocky"
   },
   {
    "row": "Data20",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "4dc7800d344c",
-   "t": ""
+   "t": "Defeat Memochi in Rocky"
   },
   {
    "row": "Data21",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0622fbe3fa9f",
-   "t": ""
+   "t": "Defeat Tsukiji in Rocky"
   },
   {
    "row": "Data22",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "59f102d973b0",
-   "t": ""
+   "t": "Defeat Saito in Rocky"
   },
   {
    "row": "Data24",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "adce026b3acf",
-   "t": ""
+   "t": "Defeat the Rubberobo Gang in Sand"
   },
   {
    "row": "Data25",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "1508b56c5a53",
-   "t": ""
+   "t": "Defeat Marina in Sand"
   },
   {
    "row": "Data26",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0a7513196bbe",
-   "t": ""
+   "t": "Defeat Amu in Sand"
   },
   {
    "row": "Data27",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0c8f1db83301",
-   "t": ""
+   "t": "Defeat Eito in Sand"
   },
   {
    "row": "Data28",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e69b9fbdb63d",
-   "t": ""
+   "t": "Defeat Saito in Sand"
   },
   {
    "row": "Data30",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "d2b658f1fd7e",
-   "t": ""
+   "t": "Defeat Amu in Plains"
   },
   {
    "row": "Data31",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b67c678e165a",
-   "t": ""
+   "t": "Defeat Manabu in Plains"
   },
   {
    "row": "Data32",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "c0cf8d6d7690",
-   "t": ""
+   "t": "Defeat Marina in Plains"
   },
   {
    "row": "Data33",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b24a30d4aae5",
-   "t": ""
+   "t": "Defeat Nei in Plains"
   },
   {
    "row": "Data34",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "ce4931075ccb",
-   "t": ""
+   "t": "Defeat Saito in Plains"
   },
   {
    "row": "Data36",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "1116b27c34c6",
-   "t": ""
+   "t": "Defeat the Rubberobo Gang in Water"
   },
   {
    "row": "Data37",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e9b00e84f2a2",
-   "t": ""
+   "t": "Defeat Marina in Water"
   },
   {
    "row": "Data38",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0820ba018217",
-   "t": ""
+   "t": "Defeat Memochi in Water"
   },
   {
    "row": "Data39",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "f8698d0b8758",
-   "t": ""
+   "t": "Defeat Nei in Water"
   },
   {
    "row": "Data40",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "89647fbaa7bc",
-   "t": ""
+   "t": "Defeat Saito in Water"
   },
   {
    "row": "Data42",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7de09146bd3d",
-   "t": ""
+   "t": "Defeat Manabu in Tundra"
   },
   {
    "row": "Data43",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "acf955a67281",
-   "t": ""
+   "t": "Defeat Tsukiji in Tundra"
   },
   {
    "row": "Data44",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "8572becaa6fd",
-   "t": ""
+   "t": "Defeat Memochi in Tundra"
   },
   {
    "row": "Data45",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "212600568f03",
-   "t": ""
+   "t": "Defeat Eito in Tundra"
   },
   {
    "row": "Data46",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b0a8c36b6311",
-   "t": ""
+   "t": "Defeat Saito in Tundra"
   },
   {
    "row": "Data48",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "66def10515fa",
-   "t": ""
+   "t": "Defeat Amu in Cyber"
   },
   {
    "row": "Data49",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "08c42411c09f",
-   "t": ""
+   "t": "Defeat Marina in Cyber"
   },
   {
    "row": "Data50",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "32a99904d3b7",
-   "t": ""
+   "t": "Defeat Manabu in Cyber"
   },
   {
    "row": "Data51",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e2214213fdcb",
-   "t": ""
+   "t": "Defeat the Rubberobo Gang in Cyber"
   },
   {
    "row": "Data52",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "fb45f6d312e8",
-   "t": ""
+   "t": "Defeat Memochi in Cyber"
   },
   {
    "row": "Data53",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "26ee96e0342e",
-   "t": ""
+   "t": "Defeat Nei in Cyber"
   },
   {
    "row": "Data54",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7eefec8f3f3e",
-   "t": ""
+   "t": "Defeat Tsukiji in Cyber"
   },
   {
    "row": "Data55",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "29acc5d653dd",
-   "t": ""
+   "t": "Defeat Eito in Cyber"
   },
   {
    "row": "Data56",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "442928afeca2",
-   "t": ""
+   "t": "Defeat the Card Director in Cyber"
   },
   {
    "row": "Data57",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "4e33b998cf01",
-   "t": ""
+   "t": "Defeat Saito in Cyber"
   },
   {
    "row": "Data58",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "867fc698f4d7",
-   "t": ""
+   "t": "Defeat Hakuga in Cyber"
   },
   {
    "row": "Data61",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5d8510b6231e",
-   "t": ""
+   "t": "Win on Floor 1 of Robattle Tower (Easy)"
   },
   {
    "row": "Data61",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "5d8510b6231e",
-   "t": ""
+   "t": "Win on Floor 1 of Robattle Tower (Easy)"
   },
   {
    "row": "Data63",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "3a7787006de0",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Easy)"
   },
   {
    "row": "Data63",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "3a7787006de0",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Easy)"
   },
   {
    "row": "Data65",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "1e3bf61ef56b",
-   "t": ""
+   "t": "Win on Floor 3 of Robattle Tower (Easy)"
   },
   {
    "row": "Data67",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "f052f3084069",
-   "t": ""
+   "t": "Win on Floor 1 of Robattle Tower (Normal)"
   },
   {
    "row": "Data68",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "d4955cd7bc67",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Normal)"
   },
   {
    "row": "Data68",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "d4955cd7bc67",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Normal)"
   },
   {
    "row": "Data70",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "64b29cbd6458",
-   "t": ""
+   "t": "Win on Floor 3 of Robattle Tower (Normal)"
   },
   {
    "row": "Data71",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "35e3c6427904",
-   "t": ""
+   "t": "Win on Floor 4 of Robattle Tower (Normal)"
   },
   {
    "row": "Data72",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "aed7f3e0e1d2",
-   "t": ""
+   "t": "Win on Floor 5 of Robattle Tower (Normal)"
   },
   {
    "row": "Data74",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0f48f06e9b14",
-   "t": ""
+   "t": "Win on Floor 1 of Robattle Tower (Hard)"
   },
   {
    "row": "Data75",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b9f9b206f3b1",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Hard)"
   },
   {
    "row": "Data76",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "4106ca0000f4",
-   "t": ""
+   "t": "Win on Floor 3 of Robattle Tower (Hard)"
   },
   {
    "row": "Data77",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5084d7ef4f55",
-   "t": ""
+   "t": "Win on Floor 4 of Robattle Tower (Hard)"
   },
   {
    "row": "Data77",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "5084d7ef4f55",
-   "t": ""
+   "t": "Win on Floor 4 of Robattle Tower (Hard)"
   },
   {
    "row": "Data79",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "44decc7eedca",
-   "t": ""
+   "t": "Win on Floor 5 of Robattle Tower (Hard)"
   },
   {
    "row": "Data80",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "07214604b446",
-   "t": ""
+   "t": "Win on Floor 6 of Robattle Tower (Hard)"
   },
   {
    "row": "Data81",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "505348f84f87",
-   "t": ""
+   "t": "Win on Floor 7 of Robattle Tower (Hard)"
   },
   {
    "row": "Data82",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "72c54dd14483",
-   "t": ""
+   "t": "Win on Floor 8 of Robattle Tower (Hard)"
   },
   {
    "row": "Data82",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "72c54dd14483",
-   "t": ""
+   "t": "Win on Floor 8 of Robattle Tower (Hard)"
   },
   {
    "row": "Data84",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5a7d01094a52",
-   "t": ""
+   "t": "Win on Floor 9 of Robattle Tower (Hard)"
   },
   {
    "row": "Data84",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "5a7d01094a52",
-   "t": ""
+   "t": "Win on Floor 9 of Robattle Tower (Hard)"
   },
   {
    "row": "Data86",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "881e0204c008",
-   "t": ""
+   "t": "Win on Floor 10 of Robattle Tower (Hard)"
   },
   {
    "row": "Data86",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "881e0204c008",
-   "t": ""
+   "t": "Win on Floor 10 of Robattle Tower (Hard)"
   },
   {
    "row": "Data89",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5ffc3e70244b",
-   "t": ""
+   "t": "Win on Floor 1 of Robattle Tower (Endless)"
   },
   {
    "row": "Data90",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "3ac4d76290ab",
-   "t": ""
+   "t": "Win on Floor 2 of Robattle Tower (Endless)"
   },
   {
    "row": "Data91",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "dac326b10dfd",
-   "t": ""
+   "t": "Win on Floor 3 of Robattle Tower (Endless)"
   },
   {
    "row": "Data92",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "87528d54ec2b",
-   "t": ""
+   "t": "Win on Floor 4 of Robattle Tower (Endless)"
   },
   {
    "row": "Data93",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "c9dfbc99ded1",
-   "t": ""
+   "t": "Win on Floor 5 of Robattle Tower (Endless)"
   },
   {
    "row": "Data93",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "c9dfbc99ded1",
-   "t": ""
+   "t": "Win on Floor 5 of Robattle Tower (Endless)"
   },
   {
    "row": "Data95",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7869ce1bf49f",
-   "t": ""
+   "t": "Win on Floor 6 of Robattle Tower (Endless)"
   },
   {
    "row": "Data96",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "45b1022e0857",
-   "t": ""
+   "t": "Win on Floor 7 of Robattle Tower (Endless)"
   },
   {
    "row": "Data97",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "442dbdb776a6",
-   "t": ""
+   "t": "Win on Floor 8 of Robattle Tower (Endless)"
   },
   {
    "row": "Data98",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5e601197b374",
-   "t": ""
+   "t": "Win on Floor 9 of Robattle Tower (Endless)"
   },
   {
    "row": "Data99",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "57c81d3520cd",
-   "t": ""
+   "t": "Win on Floor 10 of Robattle Tower (Endless)"
   },
   {
    "row": "Data99",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "57c81d3520cd",
-   "t": ""
+   "t": "Win on Floor 10 of Robattle Tower (Endless)"
   },
   {
    "row": "Data101",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "f1aa13951915",
-   "t": ""
+   "t": "Win on Floor 11 of Robattle Tower (Endless)"
   },
   {
    "row": "Data102",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b3e63cb06611",
-   "t": ""
+   "t": "Win on Floor 12 of Robattle Tower (Endless)"
   },
   {
    "row": "Data103",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "694a07411134",
-   "t": ""
+   "t": "Win on Floor 13 of Robattle Tower (Endless)"
   },
   {
    "row": "Data104",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "dba22b7112de",
-   "t": ""
+   "t": "Win on Floor 14 of Robattle Tower (Endless)"
   },
   {
    "row": "Data105",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "9bbb3c2dcc33",
-   "t": ""
+   "t": "Win on Floor 15 of Robattle Tower (Endless)"
   },
   {
    "row": "Data106",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "983601d75d62",
-   "t": ""
+   "t": "Win on Floor 16 of Robattle Tower (Endless)"
   },
   {
    "row": "Data107",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "920a1a186a96",
-   "t": ""
+   "t": "Win on Floor 17 of Robattle Tower (Endless)"
   },
   {
    "row": "Data108",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "a677a8d1fe89",
-   "t": ""
+   "t": "Win on Floor 18 of Robattle Tower (Endless)"
   },
   {
    "row": "Data109",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "463d8d45dbb4",
-   "t": ""
+   "t": "Win on Floor 19 of Robattle Tower (Endless)"
   },
   {
    "row": "Data110",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "c660b74be954",
-   "t": ""
+   "t": "Win on Floor 20 of Robattle Tower (Endless)"
   },
   {
    "row": "Data111",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "fe91bff718e4",
-   "t": ""
+   "t": "Win on Floor 21 of Robattle Tower (Endless)"
   },
   {
    "row": "Data112",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "d54053a21ab8",
-   "t": ""
+   "t": "Win on Floor 22 of Robattle Tower (Endless)"
   },
   {
    "row": "Data113",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "18842d2cee36",
-   "t": ""
+   "t": "Win on Floor 23 of Robattle Tower (Endless)"
   },
   {
    "row": "Data114",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "9511b7f6e8ef",
-   "t": ""
+   "t": "Win on Floor 24 of Robattle Tower (Endless)"
   },
   {
    "row": "Data115",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "16b92e9d2bf9",
-   "t": ""
+   "t": "Win on Floor 25 of Robattle Tower (Endless)"
   },
   {
    "row": "Data116",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7faf2f622d72",
-   "t": ""
+   "t": "Win on Floor 26 of Robattle Tower (Endless)"
   },
   {
    "row": "Data117",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "30c7456063ab",
-   "t": ""
+   "t": "Win on Floor 27 of Robattle Tower (Endless)"
   },
   {
    "row": "Data118",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "0be4a27c82d0",
-   "t": ""
+   "t": "Win on Floor 28 of Robattle Tower (Endless)"
   },
   {
    "row": "Data119",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "cbe17b528d60",
-   "t": ""
+   "t": "Win on Floor 29 of Robattle Tower (Endless)"
   },
   {
    "row": "Data120",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7e54dad43d30",
-   "t": ""
+   "t": "Win on Floor 30 of Robattle Tower (Endless)"
   },
   {
    "row": "Data121",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "c087bd49020a",
-   "t": ""
+   "t": "Win on Floor 31 of Robattle Tower (Endless)"
   },
   {
    "row": "Data122",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "871edb136f33",
-   "t": ""
+   "t": "Win on Floor 32 of Robattle Tower (Endless)"
   },
   {
    "row": "Data123",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "64c896511b28",
-   "t": ""
+   "t": "Win on Floor 33 of Robattle Tower (Endless)"
   },
   {
    "row": "Data124",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e6c6c3609417",
-   "t": ""
+   "t": "Win on Floor 34 of Robattle Tower (Endless)"
   },
   {
    "row": "Data125",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7f5fd257d63b",
-   "t": ""
+   "t": "Win on Floor 35 of Robattle Tower (Endless)"
   },
   {
    "row": "Data126",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5ac7d2163a5c",
-   "t": ""
+   "t": "Win on Floor 36 of Robattle Tower (Endless)"
   },
   {
    "row": "Data127",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "865765181709",
-   "t": ""
+   "t": "Win on Floor 37 of Robattle Tower (Endless)"
   },
   {
    "row": "Data128",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "856faba67241",
-   "t": ""
+   "t": "Win on Floor 38 of Robattle Tower (Endless)"
   },
   {
    "row": "Data129",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "062757119168",
-   "t": ""
+   "t": "Win on Floor 39 of Robattle Tower (Endless)"
   },
   {
    "row": "Data130",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "b2acd8ad9aaa",
-   "t": ""
+   "t": "Win on Floor 40 of Robattle Tower (Endless)"
   },
   {
    "row": "Data130",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "b2acd8ad9aaa",
-   "t": ""
+   "t": "Win on Floor 40 of Robattle Tower (Endless)"
   },
   {
    "row": "Data132",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "04f79fdd8687",
-   "t": ""
+   "t": "Win on Floor 41 of Robattle Tower (Endless)"
   },
   {
    "row": "Data133",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e61b045e8041",
-   "t": ""
+   "t": "Win on Floor 42 of Robattle Tower (Endless)"
   },
   {
    "row": "Data134",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "7581d7b76b00",
-   "t": ""
+   "t": "Win on floor 43 of Robattle Tower (Endless)"
   },
   {
    "row": "Data135",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "31327e3f64e2",
-   "t": ""
+   "t": "Win on floor 44 of Robattle Tower (Endless)"
   },
   {
    "row": "Data136",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "e8ef3f4887e2",
-   "t": ""
+   "t": "Win on floor 45 of Robattle Tower (Endless)"
   },
   {
    "row": "Data137",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "d40b5820aff4",
-   "t": ""
+   "t": "Win on floor 46 of Robattle Tower (Endless)"
   },
   {
    "row": "Data138",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "5dcbd55e843b",
-   "t": ""
+   "t": "Win on floor 47 of Robattle Tower (Endless)"
   },
   {
    "row": "Data139",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "3f8192408915",
-   "t": ""
+   "t": "Win on floor 48 of Robattle Tower (Endless)"
   },
   {
    "row": "Data140",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "6f1647952c7b",
-   "t": ""
+   "t": "Win on floor 49 of Robattle Tower (Endless)"
   },
   {
    "row": "Data141",
    "sub": 0,
    "col": "m_unlockConditionText",
    "src": "90cee4524572",
-   "t": ""
+   "t": "Win on floor 50 of Robattle Tower (Endless)"
   },
   {
    "row": "Data141",
    "sub": 1,
    "col": "m_unlockConditionText",
    "src": "90cee4524572",
-   "t": ""
-  },
-  {
-   "row": "Data05",
-   "sub": 0,
-   "col": "m_unlockConditionText",
-   "src": "7585477c94eb",
-   "t": ""
+   "t": "Win on floor 50 of Robattle Tower (Endless)"
   }
  ]
 }
