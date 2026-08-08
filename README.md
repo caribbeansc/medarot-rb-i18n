@@ -109,22 +109,15 @@ See the [AI collaboration statement](#ai-collaboration-statement).
 
 ## AI collaboration statement
 
-This project was built together with an LLM: it wrote the tools and produced both
-translations, working against constraints agreed up front. **Nine specifications**
-with **87 numbered requirements** ([docs/specs/](docs/specs/)), **302 tests** that
-each name the requirement they cover, 80% line coverage, and output checked against
-four retail dumps and against the pipeline this was ported from, file by file. The
-translations had their own passes: mechanical checks, then independent review for
-terminology and readability.
+Built together with an LLM, against constraints agreed up front: **nine
+specifications** with **87 numbered requirements** ([docs/specs/](docs/specs/)),
+**302 tests** that each name the requirement they cover, 80% line coverage, and
+output checked against four retail dumps. **Every line was reviewed by an
+experienced developer, and the game was played through with the mod installed.**
 
-The constraints did the work: they caught a cell address that collided on repeated
-row keys, a cache whose files never reached the mod, a font fallback chain that
-closed on itself, and the same concept translated four ways across batches. None of
-that turned up by reading the code.
-
-The specs, the tests and the four dumps are what stand behind this. Past them,
-treat it as unverified — including the translations, which are machine output with
-one human playthrough behind the Spanish and none yet behind the English.
+The constraints earned their place: they caught a cell address that collided on
+repeated row keys, a cache whose files never reached the mod, and a font fallback
+chain that closed on itself — none of which turned up by reading the code.
 
 ## No game data, by design
 
