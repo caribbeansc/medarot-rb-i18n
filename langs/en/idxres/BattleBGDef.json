@@ -1,0 +1,68 @@
+{
+ "table": "BattleBGDef",
+ "entries": [
+  {
+   "row": "BG00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3bfbf21e2f00",
+   "t": ""
+  },
+  {
+   "row": "BG01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1ee1d5a8577f",
+   "t": ""
+  },
+  {
+   "row": "BG02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "008e381b3a79",
+   "t": ""
+  },
+  {
+   "row": "BG03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "543401b7ea82",
+   "t": ""
+  },
+  {
+   "row": "BG04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ca4c7556b651",
+   "t": ""
+  },
+  {
+   "row": "BG05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c5e0896fc61d",
+   "t": ""
+  },
+  {
+   "row": "BG06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d26c44ddbee5",
+   "t": ""
+  },
+  {
+   "row": "BG07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e959dab1c7ee",
+   "t": ""
+  },
+  {
+   "row": "BG08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7307e2ec9a03",
+   "t": ""
+  }
+ ]
+}

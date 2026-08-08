@@ -1,0 +1,47 @@
+{
+ "table": "TypeDef",
+ "entries": [
+  {
+   "row": "Type00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d9ee3e0a5c29",
+   "t": "Disparo"
+  },
+  {
+   "row": "Type01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "afd52e9e2a90",
+   "t": "Combate"
+  },
+  {
+   "row": "Type02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9aa79fc65004",
+   "t": "Apoyo"
+  },
+  {
+   "row": "Type03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5e6594bd1b7b",
+   "t": "Curación"
+  },
+  {
+   "row": "Type04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "75ba7a572706",
+   "t": "Defensa"
+  },
+  {
+   "row": "Type05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f9ae0a0b3249",
+   "t": "Despliegue"
+  }
+ ]
+}

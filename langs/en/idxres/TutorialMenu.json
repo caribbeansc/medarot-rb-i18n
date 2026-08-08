@@ -1,0 +1,117 @@
+{
+ "table": "TutorialMenu",
+ "entries": [
+  {
+   "row": "ModeMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fdb73ba93b6e",
+   "t": ""
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "4a4dd9bd281d",
+   "t": ""
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 1,
+   "col": "m_name",
+   "src": "98bd30e8bbbb",
+   "t": ""
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 1,
+   "col": "m_infoText",
+   "src": "b4930c63c6a2",
+   "t": ""
+  },
+  {
+   "row": "StageMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9d7aad0eb5ce",
+   "t": ""
+  },
+  {
+   "row": "StageMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "0d10ab7cb00b",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "beac269f6035",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "93a20eb36009",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "599dac83b7d7",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "a1115e169cdd",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 1,
+   "col": "m_name",
+   "src": "6dc1b89dd47b",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 1,
+   "col": "m_infoText",
+   "src": "9e2f9361eecf",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 2,
+   "col": "m_name",
+   "src": "7166dcc6fe01",
+   "t": ""
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 2,
+   "col": "m_infoText",
+   "src": "376ce7f98f48",
+   "t": ""
+  },
+  {
+   "row": "MedalMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74c4893b3bde",
+   "t": ""
+  },
+  {
+   "row": "MedalMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "7ebd21353822",
+   "t": ""
+  }
+ ]
+}

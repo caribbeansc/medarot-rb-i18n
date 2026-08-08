@@ -1,0 +1,1048 @@
+{
+ "table": "DeckDef",
+ "entries": [
+  {
+   "row": "DefaultDeck00",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b0644bebefbd",
+   "t": ""
+  },
+  {
+   "row": "DefaultDeck01",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3a3f4ddb3caa",
+   "t": ""
+  },
+  {
+   "row": "Deck00",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d4a0c42c0cda",
+   "t": ""
+  },
+  {
+   "row": "Deck01",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "8313a187b554",
+   "t": ""
+  },
+  {
+   "row": "Deck02",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9f529be36b63",
+   "t": ""
+  },
+  {
+   "row": "Deck03",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "038257e15470",
+   "t": ""
+  },
+  {
+   "row": "Deck04",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ec80a52cf485",
+   "t": ""
+  },
+  {
+   "row": "Deck05",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "a80e9e4a3c8f",
+   "t": ""
+  },
+  {
+   "row": "Deck06",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "598de043c96b",
+   "t": ""
+  },
+  {
+   "row": "Deck07",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "564247113f98",
+   "t": ""
+  },
+  {
+   "row": "Deck08",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ed176a3b4979",
+   "t": ""
+  },
+  {
+   "row": "Deck09",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "5cba0740ced4",
+   "t": ""
+  },
+  {
+   "row": "Deck10",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "0c56501242b5",
+   "t": ""
+  },
+  {
+   "row": "Deck11",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "94e718835090",
+   "t": ""
+  },
+  {
+   "row": "Deck12",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2b131ac9ac75",
+   "t": ""
+  },
+  {
+   "row": "Deck13",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "81d7b53b0aed",
+   "t": ""
+  },
+  {
+   "row": "Deck14",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "821c7501e67f",
+   "t": ""
+  },
+  {
+   "row": "Deck15",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "8b10d53adbda",
+   "t": ""
+  },
+  {
+   "row": "Deck16",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "402d4ec47fa2",
+   "t": ""
+  },
+  {
+   "row": "Deck17",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d6626dcfff1b",
+   "t": ""
+  },
+  {
+   "row": "Deck18",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "a66740c3a058",
+   "t": ""
+  },
+  {
+   "row": "Deck19",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "edeca7e9e835",
+   "t": ""
+  },
+  {
+   "row": "Deck20",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "6c6f4c3e0c50",
+   "t": ""
+  },
+  {
+   "row": "Deck21",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "37a41fc71504",
+   "t": ""
+  },
+  {
+   "row": "Deck22",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "bc3f3d4c55e4",
+   "t": ""
+  },
+  {
+   "row": "Deck23",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "59e427e44d0f",
+   "t": ""
+  },
+  {
+   "row": "Deck24",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "8099907ec360",
+   "t": ""
+  },
+  {
+   "row": "Deck25",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9cf8143c8c53",
+   "t": ""
+  },
+  {
+   "row": "Deck26",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "5744c10d4cb3",
+   "t": ""
+  },
+  {
+   "row": "Deck27",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ec9e3a4fb8c8",
+   "t": ""
+  },
+  {
+   "row": "Deck28",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "dc059e5287b5",
+   "t": ""
+  },
+  {
+   "row": "Deck29",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "44794dc2767e",
+   "t": ""
+  },
+  {
+   "row": "Deck30",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "c19ff19e91d9",
+   "t": ""
+  },
+  {
+   "row": "Deck31",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ab916894a1c3",
+   "t": ""
+  },
+  {
+   "row": "Deck32",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "70acadf74396",
+   "t": ""
+  },
+  {
+   "row": "Deck33",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "eedb32c2e0a7",
+   "t": ""
+  },
+  {
+   "row": "Deck34",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2a8dd45de1cb",
+   "t": ""
+  },
+  {
+   "row": "Deck35",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "26ecac01415f",
+   "t": ""
+  },
+  {
+   "row": "Deck36",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "29b073c81405",
+   "t": ""
+  },
+  {
+   "row": "Deck37",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "38a1c2346936",
+   "t": ""
+  },
+  {
+   "row": "Deck38",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "0ccf2f42d6e6",
+   "t": ""
+  },
+  {
+   "row": "Deck39",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "64ca7e2e727d",
+   "t": ""
+  },
+  {
+   "row": "Deck40",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "234d9683b5f0",
+   "t": ""
+  },
+  {
+   "row": "Deck41",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "bea2b2c6abd1",
+   "t": ""
+  },
+  {
+   "row": "Deck42",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "1952bc3688e9",
+   "t": ""
+  },
+  {
+   "row": "Deck43",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "91132c5fa854",
+   "t": ""
+  },
+  {
+   "row": "Deck44",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3302c49583c9",
+   "t": ""
+  },
+  {
+   "row": "Deck45",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "4a105614c0da",
+   "t": ""
+  },
+  {
+   "row": "Deck46",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d33735cb4e72",
+   "t": ""
+  },
+  {
+   "row": "Deck47",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d554fc082727",
+   "t": ""
+  },
+  {
+   "row": "Deck48",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3a2a711e0c52",
+   "t": ""
+  },
+  {
+   "row": "Deck49",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "651914e8f6e2",
+   "t": ""
+  },
+  {
+   "row": "Deck50",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "a6f4efbf72c6",
+   "t": ""
+  },
+  {
+   "row": "Deck51",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "999e15ad4d75",
+   "t": ""
+  },
+  {
+   "row": "Deck52",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b605ce87f97c",
+   "t": ""
+  },
+  {
+   "row": "Deck53",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "1247ccff494f",
+   "t": ""
+  },
+  {
+   "row": "Deck54",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d00bc02a5c7e",
+   "t": ""
+  },
+  {
+   "row": "Deck55",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "c83a4b4c0b2a",
+   "t": ""
+  },
+  {
+   "row": "Deck56",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "cd4080f97975",
+   "t": ""
+  },
+  {
+   "row": "Deck57",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2bcfe1d1b06c",
+   "t": ""
+  },
+  {
+   "row": "Deck58",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "7caab1f860f9",
+   "t": ""
+  },
+  {
+   "row": "Deck59",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d65ad7b5e7ef",
+   "t": ""
+  },
+  {
+   "row": "Deck60",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2181fa851740",
+   "t": ""
+  },
+  {
+   "row": "Deck61",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "28fc59c5d4bd",
+   "t": ""
+  },
+  {
+   "row": "Deck62",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "6214895e5564",
+   "t": ""
+  },
+  {
+   "row": "Deck63",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "f85d28c3b774",
+   "t": ""
+  },
+  {
+   "row": "Deck64",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "559049b4e53f",
+   "t": ""
+  },
+  {
+   "row": "Deck65",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "6217b9c0e8d0",
+   "t": ""
+  },
+  {
+   "row": "Deck66",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "05916183027e",
+   "t": ""
+  },
+  {
+   "row": "Deck67",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9789427f364c",
+   "t": ""
+  },
+  {
+   "row": "Deck68",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "54bc9655d7e9",
+   "t": ""
+  },
+  {
+   "row": "Deck69",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2dcff06c56c5",
+   "t": ""
+  },
+  {
+   "row": "Deck70",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "81ddb265eeac",
+   "t": ""
+  },
+  {
+   "row": "Deck71",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9e83bfeb3f12",
+   "t": ""
+  },
+  {
+   "row": "Deck72",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2652a2fbd328",
+   "t": ""
+  },
+  {
+   "row": "Deck73",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b555da86ef2c",
+   "t": ""
+  },
+  {
+   "row": "Deck74",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "27591ca7106c",
+   "t": ""
+  },
+  {
+   "row": "Deck75",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9e49e7cc566f",
+   "t": ""
+  },
+  {
+   "row": "Deck76",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "46ab6cc600a9",
+   "t": ""
+  },
+  {
+   "row": "Deck77",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3f19dcf44746",
+   "t": ""
+  },
+  {
+   "row": "Deck78",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "edd6c6d70b04",
+   "t": ""
+  },
+  {
+   "row": "Deck79",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "0916b389446a",
+   "t": ""
+  },
+  {
+   "row": "Deck80",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "698cd7c1a204",
+   "t": ""
+  },
+  {
+   "row": "Deck81",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "a3cf7f7c0fa3",
+   "t": ""
+  },
+  {
+   "row": "Deck82",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "4d0a665d5584",
+   "t": ""
+  },
+  {
+   "row": "Deck83",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "eca155a11366",
+   "t": ""
+  },
+  {
+   "row": "Deck84",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "cbc0277cb86f",
+   "t": ""
+  },
+  {
+   "row": "Deck85",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ddb7362b2cd8",
+   "t": ""
+  },
+  {
+   "row": "Deck86",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3690b91179aa",
+   "t": ""
+  },
+  {
+   "row": "Deck87",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "67f85a1e86fb",
+   "t": ""
+  },
+  {
+   "row": "Deck88",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ad284e9087f0",
+   "t": ""
+  },
+  {
+   "row": "Deck89",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "7dedc463dc96",
+   "t": ""
+  },
+  {
+   "row": "Deck90",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "f96000b73a76",
+   "t": ""
+  },
+  {
+   "row": "Deck91",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "cccb44c67f19",
+   "t": ""
+  },
+  {
+   "row": "Deck92",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "eff303f429f6",
+   "t": ""
+  },
+  {
+   "row": "Deck93",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "5b46ec876038",
+   "t": ""
+  },
+  {
+   "row": "Deck94",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "76be2ede8610",
+   "t": ""
+  },
+  {
+   "row": "Deck95",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "526a68a54216",
+   "t": ""
+  },
+  {
+   "row": "Deck96",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "62d2b532bbd3",
+   "t": ""
+  },
+  {
+   "row": "Deck97",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "f3a1b262c914",
+   "t": ""
+  },
+  {
+   "row": "Deck98",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3f3ee2b6a2bd",
+   "t": ""
+  },
+  {
+   "row": "Deck99",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9afcd609f127",
+   "t": ""
+  },
+  {
+   "row": "Deck100",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d22ca71bf377",
+   "t": ""
+  },
+  {
+   "row": "Deck101",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "0ed40422d760",
+   "t": ""
+  },
+  {
+   "row": "Deck102",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "87d522722d49",
+   "t": ""
+  },
+  {
+   "row": "Deck103",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "99fda3cc313a",
+   "t": ""
+  },
+  {
+   "row": "Deck104",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "8b27d597c6df",
+   "t": ""
+  },
+  {
+   "row": "Deck105",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d27ee5a55ff9",
+   "t": ""
+  },
+  {
+   "row": "Deck106",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "6472e6f89bb7",
+   "t": ""
+  },
+  {
+   "row": "Deck107",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "234f7ea13bc9",
+   "t": ""
+  },
+  {
+   "row": "Deck108",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "79c336cbd7db",
+   "t": ""
+  },
+  {
+   "row": "Deck109",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "c08ffd8d3fdb",
+   "t": ""
+  },
+  {
+   "row": "Deck110",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b676545a5d2c",
+   "t": ""
+  },
+  {
+   "row": "Deck111",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "9c33fcb23f56",
+   "t": ""
+  },
+  {
+   "row": "Deck112",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "10c30ccdb075",
+   "t": ""
+  },
+  {
+   "row": "Deck113",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b7d17cb3ccf7",
+   "t": ""
+  },
+  {
+   "row": "Deck114",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "e2470951def2",
+   "t": ""
+  },
+  {
+   "row": "Deck115",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d6243f57cf0d",
+   "t": ""
+  },
+  {
+   "row": "Deck116",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2f2a720f587f",
+   "t": ""
+  },
+  {
+   "row": "Deck117",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "bcad4b8048f5",
+   "t": ""
+  },
+  {
+   "row": "Deck118",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "52a59b659519",
+   "t": ""
+  },
+  {
+   "row": "Deck119",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "5fda304b1562",
+   "t": ""
+  },
+  {
+   "row": "Deck120",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "34eb1f4cd326",
+   "t": ""
+  },
+  {
+   "row": "Deck121",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "96f7e2deb13b",
+   "t": ""
+  },
+  {
+   "row": "Deck122",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "2ceb34f8462d",
+   "t": ""
+  },
+  {
+   "row": "Deck123",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "b2ede408dc65",
+   "t": ""
+  },
+  {
+   "row": "Deck124",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "09e39cb81199",
+   "t": ""
+  },
+  {
+   "row": "Deck125",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ce726ac7b345",
+   "t": ""
+  },
+  {
+   "row": "Deck126",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "93a6040ed03e",
+   "t": ""
+  },
+  {
+   "row": "Deck127",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d4e3608af68d",
+   "t": ""
+  },
+  {
+   "row": "Deck128",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "f90ae70af1ed",
+   "t": ""
+  },
+  {
+   "row": "Deck129",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "86d152adf9db",
+   "t": ""
+  },
+  {
+   "row": "Deck130",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "4df6fec55aaf",
+   "t": ""
+  },
+  {
+   "row": "Deck131",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ddb7362b2cd8",
+   "t": ""
+  },
+  {
+   "row": "Deck132",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "d8aedec5b6c9",
+   "t": ""
+  },
+  {
+   "row": "Deck133",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "ad8d6900157c",
+   "t": ""
+  },
+  {
+   "row": "Deck134",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "1b15e9641525",
+   "t": ""
+  },
+  {
+   "row": "Deck135",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "531cc6707532",
+   "t": ""
+  },
+  {
+   "row": "Deck136",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "884c438c025a",
+   "t": ""
+  },
+  {
+   "row": "Deck137",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "cd00ce485fe3",
+   "t": ""
+  },
+  {
+   "row": "Deck138",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "a01992545b52",
+   "t": ""
+  },
+  {
+   "row": "Deck139",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "804910963a4b",
+   "t": ""
+  },
+  {
+   "row": "Deck140",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "86c93a1a585b",
+   "t": ""
+  },
+  {
+   "row": "Deck141",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "7cf5a3ca9617",
+   "t": ""
+  },
+  {
+   "row": "Deck142",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "20c0913dd173",
+   "t": ""
+  },
+  {
+   "row": "Deck143",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "cb84cea96b29",
+   "t": ""
+  },
+  {
+   "row": "Deck144",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "4b7a499162d0",
+   "t": ""
+  },
+  {
+   "row": "Deck145",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "3954754beb15",
+   "t": ""
+  },
+  {
+   "row": "Deck146",
+   "sub": 0,
+   "col": "m_deckName",
+   "src": "e9030589ae11",
+   "t": ""
+  }
+ ]
+}

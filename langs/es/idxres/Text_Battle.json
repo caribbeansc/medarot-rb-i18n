@@ -1,0 +1,460 @@
+{
+ "table": "Text_Battle",
+ "entries": [
+  {
+   "row": "Common_End",
+   "sub": 0,
+   "col": "text",
+   "src": "8f26d438109c",
+   "t": "Terminar"
+  },
+  {
+   "row": "TurnSwitch",
+   "sub": 0,
+   "col": "text",
+   "src": "78d8bac7d1e5",
+   "t": "Turno {0}"
+  },
+  {
+   "row": "DrawPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "35808dbd2de5",
+   "t": "Fase de robo"
+  },
+  {
+   "row": "StandbyPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "a6eea7a44811",
+   "t": "Fase de preparación"
+  },
+  {
+   "row": "ActionPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "71f25874da44",
+   "t": "Fase de acción"
+  },
+  {
+   "row": "EndPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "3d415031c6f5",
+   "t": "Fase final"
+  },
+  {
+   "row": "RapidCooling",
+   "sub": 0,
+   "col": "text",
+   "src": "5e1f477813aa",
+   "t": "Enfriamiento rápido"
+  },
+  {
+   "row": "Dialog_SupportReplace",
+   "sub": 0,
+   "col": "text",
+   "src": "419524a3e03d",
+   "t": "Retransferir Medabot"
+  },
+  {
+   "row": "Dialog_PartsChange",
+   "sub": 0,
+   "col": "text",
+   "src": "18c90e07e44a",
+   "t": "Elige la pieza a cambiar"
+  },
+  {
+   "row": "Dialog_PartsEmpty",
+   "sub": 0,
+   "col": "text",
+   "src": "4ba1400499ec",
+   "t": "No hay piezas para cambiar"
+  },
+  {
+   "row": "Dialog_PartsMedaChange",
+   "sub": 0,
+   "col": "text",
+   "src": "426c7a800d68",
+   "t": "No puedes cambiar durante el Medacambio"
+  },
+  {
+   "row": "Dialog_PartsExtPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "de664e50a5ad",
+   "t": "No puedes cambiar en esta fase"
+  },
+  {
+   "row": "Dialog_PartsOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "3469bfbda4ba",
+   "t": "Piezas del rival"
+  },
+  {
+   "row": "Dialog_PartsOpponentTurn",
+   "sub": 0,
+   "col": "text",
+   "src": "be37bd12889d",
+   "t": "No puedes cambiar en el turno rival"
+  },
+  {
+   "row": "Dialog_BreakOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "bee33b3ebed9",
+   "t": "Elige la Barrera o pieza a destruir"
+  },
+  {
+   "row": "Dialog_BreakPlayer",
+   "sub": 0,
+   "col": "text",
+   "src": "08bb0afcd6a1",
+   "t": "Elige la Barrera o pieza que recibirá el daño"
+  },
+  {
+   "row": "Dialog_BreakPartsOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "095758192022",
+   "t": "Elige la pieza a destruir"
+  },
+  {
+   "row": "Dialog_BreakPartsPlayer",
+   "sub": 0,
+   "col": "text",
+   "src": "1b36c5b9ab9b",
+   "t": "Elige la pieza que recibirá el daño"
+  },
+  {
+   "row": "MulliganSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "f91150c2559f",
+   "t": "Elige las cartas a devolver al mazo"
+  },
+  {
+   "row": "DiscardSelectHand",
+   "sub": 0,
+   "col": "text",
+   "src": "a1a86f1c9eb3",
+   "t": "Elige las cartas a descartar"
+  },
+  {
+   "row": "DiscardSelectHandWithCount",
+   "sub": 0,
+   "col": "text",
+   "src": "13aa0b7dea19",
+   "t": "Elige {0} carta(s) a descartar"
+  },
+  {
+   "row": "DiscardHandAuto",
+   "sub": 0,
+   "col": "text",
+   "src": "07ee407d0374",
+   "t": "Las cartas que exceden el límite van al Descarte"
+  },
+  {
+   "row": "Info_TargetSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "d7c24ef36d58",
+   "t": "Elige un objetivo"
+  },
+  {
+   "row": "Info_TargetSelect_Use",
+   "sub": 0,
+   "col": "text",
+   "src": "ffcaba8c47a0",
+   "t": "¿Usar?"
+  },
+  {
+   "row": "Info_TargetSelect_Activate",
+   "sub": 0,
+   "col": "text",
+   "src": "8dc314023c54",
+   "t": "¿Activar?"
+  },
+  {
+   "row": "Info_SupportSet",
+   "sub": 0,
+   "col": "text",
+   "src": "f51d49040704",
+   "t": "Elige el punto de transferencia"
+  },
+  {
+   "row": "Start_LegBonus",
+   "sub": 0,
+   "col": "text",
+   "src": "8c953c61c790",
+   "t": "Obtienes una carta de Táctica al inicio de la batalla."
+  },
+  {
+   "row": "Btn_Confirmed",
+   "sub": 0,
+   "col": "text",
+   "src": "20db9f87b860",
+   "t": "Confirmar"
+  },
+  {
+   "row": "Btn_Finish",
+   "sub": 0,
+   "col": "text",
+   "src": "8f26d438109c",
+   "t": "Terminar"
+  },
+  {
+   "row": "Btn_Cancel",
+   "sub": 0,
+   "col": "text",
+   "src": "bca84ea5c65f",
+   "t": "Cancelar"
+  },
+  {
+   "row": "Btn_PhaseEnd",
+   "sub": 0,
+   "col": "text",
+   "src": "a92fc85edc67",
+   "t": "Fin de fase"
+  },
+  {
+   "row": "Btn_Return",
+   "sub": 0,
+   "col": "text",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "Btn_Close",
+   "sub": 0,
+   "col": "text",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "Btn_CheckBoard",
+   "sub": 0,
+   "col": "text",
+   "src": "192bf0a39381",
+   "t": "Ver tablero"
+  },
+  {
+   "row": "PhaseEnd_Action",
+   "sub": 0,
+   "col": "text",
+   "src": "d261817f5ecf",
+   "t": "Fase de acción: fin"
+  },
+  {
+   "row": "PhaseEnd_StandBy",
+   "sub": 0,
+   "col": "text",
+   "src": "50d5105f4d67",
+   "t": "Fase de preparación: fin"
+  },
+  {
+   "row": "PhaseEnd_End",
+   "sub": 0,
+   "col": "text",
+   "src": "dbbcfae25bd3",
+   "t": "Fase final: fin"
+  },
+  {
+   "row": "Caution_Body_NotPlaceMedaroto",
+   "sub": 0,
+   "col": "text",
+   "src": "25e3a43af2ee",
+   "t": "Hay Medabots sin colocar"
+  },
+  {
+   "row": "Caution_Body_NotPlaceParts",
+   "sub": 0,
+   "col": "text",
+   "src": "cfc262e9e604",
+   "t": "Hay piezas sin equipar"
+  },
+  {
+   "row": "Caution_Body_NotAction",
+   "sub": 0,
+   "col": "text",
+   "src": "a4a0b7bcb3ce",
+   "t": "Quedan Medabots que pueden actuar"
+  },
+  {
+   "row": "Caution_Body_DeathLock",
+   "sub": 0,
+   "col": "text",
+   "src": "07f96d80d497",
+   "t": "No puedes descartar: Cerrojo activo"
+  },
+  {
+   "row": "Caution_Title_Caution",
+   "sub": 0,
+   "col": "text",
+   "src": "a8b7a4480407",
+   "t": "Advertencia"
+  },
+  {
+   "row": "Caution_Title_StandBy",
+   "sub": 0,
+   "col": "text",
+   "src": "01d02955c404",
+   "t": "¿Terminar la Fase de preparación?"
+  },
+  {
+   "row": "Caution_Title_End",
+   "sub": 0,
+   "col": "text",
+   "src": "3b11c907e606",
+   "t": "¿Terminar la Fase final?"
+  },
+  {
+   "row": "Caution_Title_Action",
+   "sub": 0,
+   "col": "text",
+   "src": "0660bf1d1f7e",
+   "t": "¿Terminar la Fase de acción?"
+  },
+  {
+   "row": "Result_Title_MedalPowUp",
+   "sub": 0,
+   "col": "text",
+   "src": "9ff283a1f4dc",
+   "t": "Mejora de medalla"
+  },
+  {
+   "row": "Result_Title_MedalEvolution",
+   "sub": 0,
+   "col": "text",
+   "src": "ad6672757a5c",
+   "t": "Evolución de medalla"
+  },
+  {
+   "row": "Trap_Activation_Trap",
+   "sub": 0,
+   "col": "text",
+   "src": "175863078c9f",
+   "t": "¡Trampa activada!"
+  },
+  {
+   "row": "Trap_Activation_Plant",
+   "sub": 0,
+   "col": "text",
+   "src": "b0dc54c70c20",
+   "t": "¡Planta activada!"
+  },
+  {
+   "row": "Skill_DuplicateCard_TextA",
+   "sub": 0,
+   "col": "text",
+   "src": "b6882581efdd",
+   "t": "{0}: elige {1} carta(s) de la mano a duplicar"
+  },
+  {
+   "row": "Skill_DuplicateCard_TextB",
+   "sub": 0,
+   "col": "text",
+   "src": "f26bada456ac",
+   "t": "{0}: elige de 1 a {1} cartas de la mano a duplicar"
+  },
+  {
+   "row": "Skill_Repair_TextA",
+   "sub": 0,
+   "col": "text",
+   "src": "514cad656292",
+   "t": "{0}: elige {1} carta(s) de la mano"
+  },
+  {
+   "row": "Skill_Repair_TextB",
+   "sub": 0,
+   "col": "text",
+   "src": "9455dfc94731",
+   "t": "{0}: elige de 1 a {1} cartas de la mano"
+  },
+  {
+   "row": "Rematch",
+   "sub": 0,
+   "col": "text",
+   "src": "d6773d87876b",
+   "t": "Revancha"
+  },
+  {
+   "row": "Rematch_Body_Rematch",
+   "sub": 0,
+   "col": "text",
+   "src": "fc56761caf20",
+   "t": "¿Revancha con la misma configuración?"
+  },
+  {
+   "row": "Rematch_ReturnLobby",
+   "sub": 0,
+   "col": "text",
+   "src": "04c4f88b72d3",
+   "t": "Volver a preparación"
+  },
+  {
+   "row": "Rematch_OK",
+   "sub": 0,
+   "col": "text",
+   "src": "f657b9ca2d20",
+   "t": "Jugar revancha"
+  },
+  {
+   "row": "Rematch_Body_Wait",
+   "sub": 0,
+   "col": "text",
+   "src": "0ba1e6bc275d",
+   "t": "Esperando la elección del rival..."
+  },
+  {
+   "row": "Rematch_Body_Cancel",
+   "sub": 0,
+   "col": "text",
+   "src": "9ec29152e7e9",
+   "t": "El rival canceló la revancha\nVolviendo a la pantalla de preparación"
+  },
+  {
+   "row": "Surrender_Body_First",
+   "sub": 0,
+   "col": "text",
+   "src": "29f9117f3955",
+   "t": "¿Te rindes?"
+  },
+  {
+   "row": "Surrender_Body_Second",
+   "sub": 0,
+   "col": "text",
+   "src": "7ecf3c798d40",
+   "t": "¿Estás seguro?"
+  },
+  {
+   "row": "Surrender_Button_OK",
+   "sub": 0,
+   "col": "text",
+   "src": "5e09929df590",
+   "t": "Rendirse"
+  },
+  {
+   "row": "DominionSelectHand",
+   "sub": 0,
+   "col": "text",
+   "src": "adcd0323492c",
+   "t": "Elige la carta a transferir"
+  },
+  {
+   "row": "DominionConfirm",
+   "sub": 0,
+   "col": "text",
+   "src": "1a0f29b5ed87",
+   "t": "¿Transferir aquí?"
+  },
+  {
+   "row": "DiscardSelectHandLimit",
+   "sub": 0,
+   "col": "text",
+   "src": "070cb22d71c1",
+   "t": "Elige las cartas a descartar <color=#FF3174>(hasta {0})</color>"
+  }
+ ]
+}

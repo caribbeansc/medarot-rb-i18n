@@ -1,0 +1,915 @@
+{
+ "table": "Reward",
+ "entries": [
+  {
+   "row": "Data00",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data00",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data01",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data02",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data03",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data04",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": ""
+  },
+  {
+   "row": "Data05",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d6a4e79b56c2",
+   "t": ""
+  },
+  {
+   "row": "Data08",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "32cc81b0da7e",
+   "t": ""
+  },
+  {
+   "row": "Data10b",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3e8df9bee6af",
+   "t": ""
+  },
+  {
+   "row": "Data12",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "aaeede45ba1c",
+   "t": ""
+  },
+  {
+   "row": "Data13",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "745aff42d667",
+   "t": ""
+  },
+  {
+   "row": "Data14",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5c89c2dcd896",
+   "t": ""
+  },
+  {
+   "row": "Data15",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7e40b1697a57",
+   "t": ""
+  },
+  {
+   "row": "Data16",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "40b8b3f162f6",
+   "t": ""
+  },
+  {
+   "row": "Data18",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f172136b513c",
+   "t": ""
+  },
+  {
+   "row": "Data19",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "90b944c494e6",
+   "t": ""
+  },
+  {
+   "row": "Data20",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4dc7800d344c",
+   "t": ""
+  },
+  {
+   "row": "Data21",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0622fbe3fa9f",
+   "t": ""
+  },
+  {
+   "row": "Data22",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "59f102d973b0",
+   "t": ""
+  },
+  {
+   "row": "Data24",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "adce026b3acf",
+   "t": ""
+  },
+  {
+   "row": "Data25",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1508b56c5a53",
+   "t": ""
+  },
+  {
+   "row": "Data26",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0a7513196bbe",
+   "t": ""
+  },
+  {
+   "row": "Data27",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0c8f1db83301",
+   "t": ""
+  },
+  {
+   "row": "Data28",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e69b9fbdb63d",
+   "t": ""
+  },
+  {
+   "row": "Data30",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d2b658f1fd7e",
+   "t": ""
+  },
+  {
+   "row": "Data31",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b67c678e165a",
+   "t": ""
+  },
+  {
+   "row": "Data32",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c0cf8d6d7690",
+   "t": ""
+  },
+  {
+   "row": "Data33",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b24a30d4aae5",
+   "t": ""
+  },
+  {
+   "row": "Data34",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "ce4931075ccb",
+   "t": ""
+  },
+  {
+   "row": "Data36",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1116b27c34c6",
+   "t": ""
+  },
+  {
+   "row": "Data37",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e9b00e84f2a2",
+   "t": ""
+  },
+  {
+   "row": "Data38",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0820ba018217",
+   "t": ""
+  },
+  {
+   "row": "Data39",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f8698d0b8758",
+   "t": ""
+  },
+  {
+   "row": "Data40",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "89647fbaa7bc",
+   "t": ""
+  },
+  {
+   "row": "Data42",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7de09146bd3d",
+   "t": ""
+  },
+  {
+   "row": "Data43",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "acf955a67281",
+   "t": ""
+  },
+  {
+   "row": "Data44",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "8572becaa6fd",
+   "t": ""
+  },
+  {
+   "row": "Data45",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "212600568f03",
+   "t": ""
+  },
+  {
+   "row": "Data46",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b0a8c36b6311",
+   "t": ""
+  },
+  {
+   "row": "Data48",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "66def10515fa",
+   "t": ""
+  },
+  {
+   "row": "Data49",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "08c42411c09f",
+   "t": ""
+  },
+  {
+   "row": "Data50",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "32a99904d3b7",
+   "t": ""
+  },
+  {
+   "row": "Data51",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e2214213fdcb",
+   "t": ""
+  },
+  {
+   "row": "Data52",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "fb45f6d312e8",
+   "t": ""
+  },
+  {
+   "row": "Data53",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "26ee96e0342e",
+   "t": ""
+  },
+  {
+   "row": "Data54",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7eefec8f3f3e",
+   "t": ""
+  },
+  {
+   "row": "Data55",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "29acc5d653dd",
+   "t": ""
+  },
+  {
+   "row": "Data56",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "442928afeca2",
+   "t": ""
+  },
+  {
+   "row": "Data57",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4e33b998cf01",
+   "t": ""
+  },
+  {
+   "row": "Data58",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "867fc698f4d7",
+   "t": ""
+  },
+  {
+   "row": "Data61",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5d8510b6231e",
+   "t": ""
+  },
+  {
+   "row": "Data61",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5d8510b6231e",
+   "t": ""
+  },
+  {
+   "row": "Data63",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3a7787006de0",
+   "t": ""
+  },
+  {
+   "row": "Data63",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "3a7787006de0",
+   "t": ""
+  },
+  {
+   "row": "Data65",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1e3bf61ef56b",
+   "t": ""
+  },
+  {
+   "row": "Data67",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f052f3084069",
+   "t": ""
+  },
+  {
+   "row": "Data68",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d4955cd7bc67",
+   "t": ""
+  },
+  {
+   "row": "Data68",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "d4955cd7bc67",
+   "t": ""
+  },
+  {
+   "row": "Data70",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "64b29cbd6458",
+   "t": ""
+  },
+  {
+   "row": "Data71",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "35e3c6427904",
+   "t": ""
+  },
+  {
+   "row": "Data72",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "aed7f3e0e1d2",
+   "t": ""
+  },
+  {
+   "row": "Data74",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0f48f06e9b14",
+   "t": ""
+  },
+  {
+   "row": "Data75",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b9f9b206f3b1",
+   "t": ""
+  },
+  {
+   "row": "Data76",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4106ca0000f4",
+   "t": ""
+  },
+  {
+   "row": "Data77",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5084d7ef4f55",
+   "t": ""
+  },
+  {
+   "row": "Data77",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5084d7ef4f55",
+   "t": ""
+  },
+  {
+   "row": "Data79",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "44decc7eedca",
+   "t": ""
+  },
+  {
+   "row": "Data80",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "07214604b446",
+   "t": ""
+  },
+  {
+   "row": "Data81",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "505348f84f87",
+   "t": ""
+  },
+  {
+   "row": "Data82",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "72c54dd14483",
+   "t": ""
+  },
+  {
+   "row": "Data82",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "72c54dd14483",
+   "t": ""
+  },
+  {
+   "row": "Data84",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5a7d01094a52",
+   "t": ""
+  },
+  {
+   "row": "Data84",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5a7d01094a52",
+   "t": ""
+  },
+  {
+   "row": "Data86",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "881e0204c008",
+   "t": ""
+  },
+  {
+   "row": "Data86",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "881e0204c008",
+   "t": ""
+  },
+  {
+   "row": "Data89",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5ffc3e70244b",
+   "t": ""
+  },
+  {
+   "row": "Data90",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3ac4d76290ab",
+   "t": ""
+  },
+  {
+   "row": "Data91",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "dac326b10dfd",
+   "t": ""
+  },
+  {
+   "row": "Data92",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "87528d54ec2b",
+   "t": ""
+  },
+  {
+   "row": "Data93",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c9dfbc99ded1",
+   "t": ""
+  },
+  {
+   "row": "Data93",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "c9dfbc99ded1",
+   "t": ""
+  },
+  {
+   "row": "Data95",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7869ce1bf49f",
+   "t": ""
+  },
+  {
+   "row": "Data96",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "45b1022e0857",
+   "t": ""
+  },
+  {
+   "row": "Data97",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "442dbdb776a6",
+   "t": ""
+  },
+  {
+   "row": "Data98",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5e601197b374",
+   "t": ""
+  },
+  {
+   "row": "Data99",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "57c81d3520cd",
+   "t": ""
+  },
+  {
+   "row": "Data99",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "57c81d3520cd",
+   "t": ""
+  },
+  {
+   "row": "Data101",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f1aa13951915",
+   "t": ""
+  },
+  {
+   "row": "Data102",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b3e63cb06611",
+   "t": ""
+  },
+  {
+   "row": "Data103",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "694a07411134",
+   "t": ""
+  },
+  {
+   "row": "Data104",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "dba22b7112de",
+   "t": ""
+  },
+  {
+   "row": "Data105",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "9bbb3c2dcc33",
+   "t": ""
+  },
+  {
+   "row": "Data106",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "983601d75d62",
+   "t": ""
+  },
+  {
+   "row": "Data107",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "920a1a186a96",
+   "t": ""
+  },
+  {
+   "row": "Data108",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a677a8d1fe89",
+   "t": ""
+  },
+  {
+   "row": "Data109",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "463d8d45dbb4",
+   "t": ""
+  },
+  {
+   "row": "Data110",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c660b74be954",
+   "t": ""
+  },
+  {
+   "row": "Data111",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "fe91bff718e4",
+   "t": ""
+  },
+  {
+   "row": "Data112",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d54053a21ab8",
+   "t": ""
+  },
+  {
+   "row": "Data113",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "18842d2cee36",
+   "t": ""
+  },
+  {
+   "row": "Data114",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "9511b7f6e8ef",
+   "t": ""
+  },
+  {
+   "row": "Data115",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "16b92e9d2bf9",
+   "t": ""
+  },
+  {
+   "row": "Data116",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7faf2f622d72",
+   "t": ""
+  },
+  {
+   "row": "Data117",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "30c7456063ab",
+   "t": ""
+  },
+  {
+   "row": "Data118",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0be4a27c82d0",
+   "t": ""
+  },
+  {
+   "row": "Data119",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "cbe17b528d60",
+   "t": ""
+  },
+  {
+   "row": "Data120",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7e54dad43d30",
+   "t": ""
+  },
+  {
+   "row": "Data121",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c087bd49020a",
+   "t": ""
+  },
+  {
+   "row": "Data122",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "871edb136f33",
+   "t": ""
+  },
+  {
+   "row": "Data123",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "64c896511b28",
+   "t": ""
+  },
+  {
+   "row": "Data124",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e6c6c3609417",
+   "t": ""
+  },
+  {
+   "row": "Data125",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7f5fd257d63b",
+   "t": ""
+  },
+  {
+   "row": "Data126",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5ac7d2163a5c",
+   "t": ""
+  },
+  {
+   "row": "Data127",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "865765181709",
+   "t": ""
+  },
+  {
+   "row": "Data128",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "856faba67241",
+   "t": ""
+  },
+  {
+   "row": "Data129",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "062757119168",
+   "t": ""
+  },
+  {
+   "row": "Data130",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b2acd8ad9aaa",
+   "t": ""
+  },
+  {
+   "row": "Data130",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "b2acd8ad9aaa",
+   "t": ""
+  },
+  {
+   "row": "Data132",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "04f79fdd8687",
+   "t": ""
+  },
+  {
+   "row": "Data133",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e61b045e8041",
+   "t": ""
+  },
+  {
+   "row": "Data134",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7581d7b76b00",
+   "t": ""
+  },
+  {
+   "row": "Data135",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "31327e3f64e2",
+   "t": ""
+  },
+  {
+   "row": "Data136",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e8ef3f4887e2",
+   "t": ""
+  },
+  {
+   "row": "Data137",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d40b5820aff4",
+   "t": ""
+  },
+  {
+   "row": "Data138",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5dcbd55e843b",
+   "t": ""
+  },
+  {
+   "row": "Data139",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3f8192408915",
+   "t": ""
+  },
+  {
+   "row": "Data140",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "6f1647952c7b",
+   "t": ""
+  },
+  {
+   "row": "Data141",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "90cee4524572",
+   "t": ""
+  },
+  {
+   "row": "Data141",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "90cee4524572",
+   "t": ""
+  },
+  {
+   "row": "Data05",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7585477c94eb",
+   "t": ""
+  }
+ ]
+}

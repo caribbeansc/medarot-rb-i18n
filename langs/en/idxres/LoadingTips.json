@@ -1,0 +1,425 @@
+{
+ "table": "LoadingTips",
+ "entries": [
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1d8e61975bfd",
+   "t": ""
+  },
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4d405955cbbf",
+   "t": ""
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "522ba9f47afb",
+   "t": ""
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5543b96f9179",
+   "t": ""
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ded4469cb3b6",
+   "t": ""
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fe199246037a",
+   "t": ""
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "792ab5974a45",
+   "t": ""
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "50beab80832a",
+   "t": ""
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "10632230a0a1",
+   "t": ""
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "78f3e425c7a4",
+   "t": ""
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "baa5cd1c4b6f",
+   "t": ""
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cae16d4f8be7",
+   "t": ""
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "4000dce4eda1",
+   "t": ""
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "80eecda0ede2",
+   "t": ""
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cddb8af377bf",
+   "t": ""
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3daec37d078a",
+   "t": ""
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b728a66020e1",
+   "t": ""
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "322780c610eb",
+   "t": ""
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "df82438f4b95",
+   "t": ""
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3ece0dde2e25",
+   "t": ""
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "efc9a6a01ac6",
+   "t": ""
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b59453892e5c",
+   "t": ""
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b8187137b853",
+   "t": ""
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a735b9df986d",
+   "t": ""
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "5e1f477813aa",
+   "t": ""
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1106fb49fb84",
+   "t": ""
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f9ae0a0b3249",
+   "t": ""
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c31498b7e619",
+   "t": ""
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "27aa0203af0b",
+   "t": ""
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8b8153aaa8ab",
+   "t": ""
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "53ce36b5da9e",
+   "t": ""
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cf8165886218",
+   "t": ""
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8ff87668daee",
+   "t": ""
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0121fe7ed486",
+   "t": ""
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3427fc1d66f7",
+   "t": ""
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "73f7de787ace",
+   "t": ""
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f57ca4624425",
+   "t": ""
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "6c58d1ac2c06",
+   "t": ""
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aee7e141d605",
+   "t": ""
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "810207cfd2ea",
+   "t": ""
+  },
+  {
+   "row": "Tips20",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9e8f2f0f6605",
+   "t": ""
+  },
+  {
+   "row": "Tips20",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8bcff9363b02",
+   "t": ""
+  },
+  {
+   "row": "Tips21",
+   "sub": 0,
+   "col": "m_title",
+   "src": "85ebf6a8ae73",
+   "t": ""
+  },
+  {
+   "row": "Tips21",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f79b84033b27",
+   "t": ""
+  },
+  {
+   "row": "Tips22",
+   "sub": 0,
+   "col": "m_title",
+   "src": "57e7dc3b2012",
+   "t": ""
+  },
+  {
+   "row": "Tips22",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b455a3251db3",
+   "t": ""
+  },
+  {
+   "row": "Tips23",
+   "sub": 0,
+   "col": "m_title",
+   "src": "71402a20847c",
+   "t": ""
+  },
+  {
+   "row": "Tips23",
+   "sub": 0,
+   "col": "m_text",
+   "src": "35cb5295800d",
+   "t": ""
+  },
+  {
+   "row": "Tips24",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b68d8ff0219a",
+   "t": ""
+  },
+  {
+   "row": "Tips24",
+   "sub": 0,
+   "col": "m_text",
+   "src": "885b7cc980d5",
+   "t": ""
+  },
+  {
+   "row": "Tips25",
+   "sub": 0,
+   "col": "m_title",
+   "src": "524746976904",
+   "t": ""
+  },
+  {
+   "row": "Tips25",
+   "sub": 0,
+   "col": "m_text",
+   "src": "51dfc5b50009",
+   "t": ""
+  },
+  {
+   "row": "Tips26",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1de429be2dfc",
+   "t": ""
+  },
+  {
+   "row": "Tips26",
+   "sub": 0,
+   "col": "m_text",
+   "src": "75f1c3a99872",
+   "t": ""
+  },
+  {
+   "row": "Tips27",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e1cb4ff76cd6",
+   "t": ""
+  },
+  {
+   "row": "Tips27",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9072a9c2586d",
+   "t": ""
+  },
+  {
+   "row": "Tips28",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1f936200d8da",
+   "t": ""
+  },
+  {
+   "row": "Tips28",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3fa18a201c97",
+   "t": ""
+  },
+  {
+   "row": "Tips29",
+   "sub": 0,
+   "col": "m_title",
+   "src": "de837692e5f3",
+   "t": ""
+  },
+  {
+   "row": "Tips29",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3cf84743412a",
+   "t": ""
+  }
+ ]
+}

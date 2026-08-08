@@ -1,0 +1,1013 @@
+{
+ "table": "KeyAssignBar",
+ "entries": [
+  {
+   "row": "ModeSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "ModeSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text3",
+   "src": "15e8c79d5605",
+   "t": "eShop"
+  },
+  {
+   "row": "StageSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "StageSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OpponentSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OpponentSelectTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "b3f0b4c88746",
+   "t": "Saltar"
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "dd2cf7bdbc3b",
+   "t": "Cambiar"
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "69819b6ed6f7",
+   "t": "Editar"
+  },
+  {
+   "row": "OpponentSelectTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OpponentSelectTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "15e8c79d5605",
+   "t": "eShop"
+  },
+  {
+   "row": "OpponentSelectTrialTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "b3f0b4c88746",
+   "t": "Saltar"
+  },
+  {
+   "row": "OpponentSelectTrialTutorial",
+   "sub": 0,
+   "col": "text2",
+   "src": "15e8c79d5605",
+   "t": "eShop"
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "c2576c53402f",
+   "t": "Recomp."
+  },
+  {
+   "row": "TowerStageSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "TowerStageSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "ad9c2cfdf6ff",
+   "t": "Retirar"
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text3",
+   "src": "576496d29eb2",
+   "t": "Mazo"
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text4",
+   "src": "23528e95380b",
+   "t": "Info"
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "254fe34c42ed",
+   "t": "Crear"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8f80377dddd1",
+   "t": "Agregar"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "9a12b30135c5",
+   "t": "Quitar"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text5",
+   "src": "c747510d7472",
+   "t": "Mejorar"
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text6",
+   "src": "254fe34c42ed",
+   "t": "Crear"
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "771deab7bee4",
+   "t": "Ampliar"
+  },
+  {
+   "row": "SleeveViewMode",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": "Guardar"
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8f80377dddd1",
+   "t": "Agregar"
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "9a12b30135c5",
+   "t": "Quitar"
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text5",
+   "src": "254fe34c42ed",
+   "t": "Crear"
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": "Elegir"
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": "Todo"
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": "Elegir"
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": "Todo"
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text4",
+   "src": "c90bb75fa377",
+   "t": "Ninguno"
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": "Todo"
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": "Todo"
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text4",
+   "src": "c90bb75fa377",
+   "t": "Ninguno"
+  },
+  {
+   "row": "CardShop_OpenAnime",
+   "sub": 0,
+   "col": "text1",
+   "src": "850325ba9c09",
+   "t": "Saltar"
+  },
+  {
+   "row": "CardShop_OpenAnime",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": "Result."
+  },
+  {
+   "row": "CardShop_CardOpen",
+   "sub": 0,
+   "col": "text1",
+   "src": "3aa692fcaae4",
+   "t": "Abrir"
+  },
+  {
+   "row": "CardShop_CardOpen",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": "Result."
+  },
+  {
+   "row": "CardShop_CardOpenView",
+   "sub": 0,
+   "col": "text1",
+   "src": "23528e95380b",
+   "t": "Info"
+  },
+  {
+   "row": "CardShop_CardOpenView",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": "Result."
+  },
+  {
+   "row": "CardShop_CardOpenBtn",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "CardShop_CardOpenBtn",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": "Result."
+  },
+  {
+   "row": "CardShop_Result",
+   "sub": 0,
+   "col": "text1",
+   "src": "23528e95380b",
+   "t": "Info"
+  },
+  {
+   "row": "CardShop_Result",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text1",
+   "src": "71d6b8502271",
+   "t": "Vista"
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text3",
+   "src": "257080972bbb",
+   "t": "Pestaña"
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text4",
+   "src": "254fe34c42ed",
+   "t": "Crear"
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text5",
+   "src": "c747510d7472",
+   "t": "Mejorar"
+  },
+  {
+   "row": "CardLibrary_Medal",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "CardLibrary_Medal",
+   "sub": 0,
+   "col": "text2",
+   "src": "257080972bbb",
+   "t": "Pestaña"
+  },
+  {
+   "row": "MultiSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "MultiSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "MultiLobby",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "MuiltiLobby_DeckSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "dd2cf7bdbc3b",
+   "t": "Cambiar"
+  },
+  {
+   "row": "MuiltiLobby_DeckSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "Result",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": "Girar"
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text3",
+   "src": "1ea5727fb05c",
+   "t": "Sig."
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text4",
+   "src": "3cbdb6a4a2ca",
+   "t": "Ant."
+  },
+  {
+   "row": "ViewMode_Opponent",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "ViewMode_Opponent",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": "Girar"
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": "Girar"
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text3",
+   "src": "9a1f2735ddf2",
+   "t": "Sig."
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text4",
+   "src": "57a42930c75f",
+   "t": "Ant."
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": "Girar"
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text3",
+   "src": "9a1f2735ddf2",
+   "t": "Sig."
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text4",
+   "src": "57a42930c75f",
+   "t": "Ant."
+  },
+  {
+   "row": "Keyward",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "Keyward_Menu",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text3",
+   "src": "c7042f8d73a8",
+   "t": "Restab."
+  },
+  {
+   "row": "OptionPlayerIcon",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "OptionPlayerIcon",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text3",
+   "src": "dce52f3e1119",
+   "t": "Ver"
+  },
+  {
+   "row": "OptionCredit",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": "Ant."
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": "Ant."
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": "Ant."
+  },
+  {
+   "row": "OptionTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "OptionTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "MenuTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  },
+  {
+   "row": "MenuTutorial",
+   "sub": 0,
+   "col": "text2",
+   "src": "f7600b726bf2",
+   "t": "Ant."
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": "Ant."
+  },
+  {
+   "row": "MenuTutorialSingleEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "TerrainInfo",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "OpponentDeckCheck",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "OtherVersionReward",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": "Elegir"
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text3",
+   "src": "10ce3c3125ba",
+   "t": "Apagar"
+  },
+  {
+   "row": "CommonDialog",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "CommonDialog",
+   "sub": 0,
+   "col": "text2",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "CommonDialog_Enter",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "row": "OpponentFight",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "NpcMessage",
+   "sub": 0,
+   "col": "text1",
+   "src": "9eccdca31ee3",
+   "t": "Sig."
+  }
+ ]
+}

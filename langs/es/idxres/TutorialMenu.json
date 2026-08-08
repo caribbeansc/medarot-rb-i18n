@@ -1,0 +1,117 @@
+{
+ "table": "TutorialMenu",
+ "entries": [
+  {
+   "row": "ModeMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fdb73ba93b6e",
+   "t": "Selección de modo"
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "4a4dd9bd281d",
+   "t": "Esta pantalla reúne varias funciones\npara jugar a la Robobatalla de Cartas.\n¡Salta desde aquí al mundo de la\nRobobatalla de Cartas!"
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 1,
+   "col": "m_name",
+   "src": "98bd30e8bbbb",
+   "t": "Conseguir cartas"
+  },
+  {
+   "row": "ModeMenu",
+   "sub": 1,
+   "col": "m_infoText",
+   "src": "b4930c63c6a2",
+   "t": "¡Compra sobres con las monedas\nque ganes en las Robobatallas!\nLos sobres traen cartas de Medabot de\nSoporte, de Táctica y de Medaguerrero.\n\nLas cartas de Medabot Líder y Medaparte\nse obtienen al vencer a los rivales\nen Desafío Robobatalla y Torre\nRobobatalla."
+  },
+  {
+   "row": "StageMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9d7aad0eb5ce",
+   "t": "Desafío Robobatalla"
+  },
+  {
+   "row": "StageMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "0d10ab7cb00b",
+   "t": "Modo en el que enfrentas a rivales\nque te esperan en diversos terrenos.\nCada Líder tiene un tipo de piernas\ny gana ventaja en su terreno favorito.\n\nSi no logras ganar, elige un Líder\nsegún el rival y el terreno."
+  },
+  {
+   "row": "TowerMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "beac269f6035",
+   "t": "Torre Robobatalla"
+  },
+  {
+   "row": "TowerMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "93a20eb36009",
+   "t": "Modo en el que subes la torre\nluchando contra rivales aleatorios.\nOtorga muchas monedas: sube la torre,\ncompra sobres y consigue cartas nuevas."
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "599dac83b7d7",
+   "t": "Crear mazo 1/3"
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "a1115e169cdd",
+   "t": "Completa tu mazo eligiendo cartas de varias categorías."
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 1,
+   "col": "m_name",
+   "src": "6dc1b89dd47b",
+   "t": "Crear mazo 2/3"
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 1,
+   "col": "m_infoText",
+   "src": "9e2f9361eecf",
+   "t": "Puedes tener hasta 3 copias\nde cada carta.\nSi no llegas al límite, puedes crear\nmás copias usando Polvo.\n\nAlgunas cartas se crean usando tickets,\nque se obtienen al combatir\ncontra otros jugadores."
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 2,
+   "col": "m_name",
+   "src": "7166dcc6fe01",
+   "t": "Crear mazo 3/3"
+  },
+  {
+   "row": "DeckMenu",
+   "sub": 2,
+   "col": "m_infoText",
+   "src": "376ce7f98f48",
+   "t": "Puedes modificar la pieza inicial\ndel Líder (brazo izq.) usando monedas.\nModificar cambia la pieza por otra del\nmismo nombre con distinto rendimiento."
+  },
+  {
+   "row": "MedalMenu",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74c4893b3bde",
+   "t": "Medalla"
+  },
+  {
+   "row": "MedalMenu",
+   "sub": 0,
+   "col": "m_infoText",
+   "src": "7ebd21353822",
+   "t": "Las medallas ganan experiencia al\ncombatir y suben de nivel.\nAl subir de nivel, la Medafuerza mejora\ny puedes obtener nuevas Medafuerzas."
+  }
+ ]
+}

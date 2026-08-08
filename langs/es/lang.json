@@ -1,0 +1,44 @@
+{
+  "code": "es",
+  "name": "Español",
+  "english_name": "Spanish",
+  "mod_name": "MedarotRB_ES",
+  "font": {
+    "fallbacks": [
+      "FOT-CezannePro-DB SDF",
+      "LiberationSans SDF"
+    ],
+    "global_fallbacks": true,
+    "neutralize_kerning": true,
+    "fix_tmp_metrics": true
+  },
+  "validation": {
+    "extra_chars": "áéíóúÁÉÍÓÚñÑüÜäÄ¡¿«»—–…·™®©°×♪↑↓→←",
+    "max_line": 46,
+    "length_factor": 1.25
+  },
+  "ascii_fallback": {
+    "á": "a",
+    "é": "e",
+    "í": "i",
+    "ó": "o",
+    "ú": "u",
+    "Á": "A",
+    "É": "E",
+    "Í": "I",
+    "Ó": "O",
+    "Ú": "U",
+    "ñ": "n",
+    "Ñ": "N",
+    "ü": "u",
+    "Ü": "U",
+    "¡": "",
+    "¿": "",
+    "«": "\"",
+    "»": "\""
+  },
+  "credits": [
+    "Traducción: @caribbeanwebdev",
+    "Glosario basado en el doblaje latinoamericano de Medabots (Etcétera Group / Fox Kids, 2002)"
+  ]
+}

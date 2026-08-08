@@ -1,0 +1,726 @@
+{
+ "table": "EffectGroup",
+ "entries": [
+  {
+   "row": "Card_Cooling",
+   "sub": 0,
+   "col": "name",
+   "src": "222a5cbb0c1e",
+   "t": "Efecto de enfriamiento"
+  },
+  {
+   "row": "Card_Overheat",
+   "sub": 0,
+   "col": "name",
+   "src": "b3784c2be7cd",
+   "t": "Sobrecalentamiento"
+  },
+  {
+   "row": "Normal_Hit",
+   "sub": 0,
+   "col": "name",
+   "src": "7acd6c7b6e69",
+   "t": "Impacto"
+  },
+  {
+   "row": "Neraiuchi",
+   "sub": 0,
+   "col": "name",
+   "src": "1d8e61975bfd",
+   "t": "Francotiro"
+  },
+  {
+   "row": "Card_Shield",
+   "sub": 0,
+   "col": "name",
+   "src": "00948f8be10d",
+   "t": "Efecto de escudo"
+  },
+  {
+   "row": "Card_Shieldcrack",
+   "sub": 0,
+   "col": "name",
+   "src": "1300605a1c1f",
+   "t": "Efecto de escudo (roto)"
+  },
+  {
+   "row": "Hyperbeam",
+   "sub": 0,
+   "col": "name",
+   "src": "61008ba27023",
+   "t": "Hiperrayo"
+  },
+  {
+   "row": "CoolingHurry",
+   "sub": 0,
+   "col": "name",
+   "src": "5e1f477813aa",
+   "t": "Enfriamiento rápido"
+  },
+  {
+   "row": "YokoIssen",
+   "sub": 0,
+   "col": "name",
+   "src": "79fadc2c43d4",
+   "t": "Tajo Horizontal"
+  },
+  {
+   "row": "Break",
+   "sub": 0,
+   "col": "name",
+   "src": "3e594ea7d473",
+   "t": "Ruptura"
+  },
+  {
+   "row": "Powerup",
+   "sub": 0,
+   "col": "name",
+   "src": "678acfe1c7d2",
+   "t": "Aumento de poder"
+  },
+  {
+   "row": "Powerdown",
+   "sub": 0,
+   "col": "name",
+   "src": "a70b8ac6a92c",
+   "t": "Reducción de poder"
+  },
+  {
+   "row": "Karatakewari",
+   "sub": 0,
+   "col": "name",
+   "src": "0d177f72501e",
+   "t": "Tajo Vertical"
+  },
+  {
+   "row": "Allshooting",
+   "sub": 0,
+   "col": "name",
+   "src": "25cd7ac8cf34",
+   "t": "Andanada"
+  },
+  {
+   "row": "Freeze",
+   "sub": 0,
+   "col": "name",
+   "src": "50ee54941a3b",
+   "t": "Congelación"
+  },
+  {
+   "row": "Freeze_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "e4fc20a912ae",
+   "t": "Fin de Congelación"
+  },
+  {
+   "row": "Hypermissile",
+   "sub": 0,
+   "col": "name",
+   "src": "6379e57be8de",
+   "t": "Hipermisil"
+  },
+  {
+   "row": "Napalm",
+   "sub": 0,
+   "col": "name",
+   "src": "6bfff0b3e9bd",
+   "t": "Napalm"
+  },
+  {
+   "row": "Fire",
+   "sub": 0,
+   "col": "name",
+   "src": "df66d21e0690",
+   "t": "Fuego"
+  },
+  {
+   "row": "Fire_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "d2627abafc4a",
+   "t": "Fin de Fuego"
+  },
+  {
+   "row": "Meteor",
+   "sub": 0,
+   "col": "name",
+   "src": "f3d878e328e6",
+   "t": "Meteoro"
+  },
+  {
+   "row": "Thunder",
+   "sub": 0,
+   "col": "name",
+   "src": "dc5215029b11",
+   "t": "Trueno"
+  },
+  {
+   "row": "Thunder_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "34b30b6290c6",
+   "t": "Fin de Trueno"
+  },
+  {
+   "row": "Guard_Normal",
+   "sub": 0,
+   "col": "name",
+   "src": "e0101ecf3fd4",
+   "t": "Guardia Normal"
+  },
+  {
+   "row": "Guard_Shooting",
+   "sub": 0,
+   "col": "name",
+   "src": "092f560bc141",
+   "t": "Guardia Antidisparo"
+  },
+  {
+   "row": "Grtling",
+   "sub": 0,
+   "col": "name",
+   "src": "c1bd9d4f3c3b",
+   "t": "Gatling"
+  },
+  {
+   "row": "Conceal",
+   "sub": 0,
+   "col": "name",
+   "src": "76248f03ce67",
+   "t": "Ocultación"
+  },
+  {
+   "row": "PrecisionShooting",
+   "sub": 0,
+   "col": "name",
+   "src": "494ff866d40e",
+   "t": "Disparo de precisión"
+  },
+  {
+   "row": "Destroy",
+   "sub": 0,
+   "col": "name",
+   "src": "986a1bc42cbe",
+   "t": "Destrucción"
+  },
+  {
+   "row": "MobileBoost",
+   "sub": 0,
+   "col": "name",
+   "src": "f0cb24fc8d39",
+   "t": "Propulsión Móvil"
+  },
+  {
+   "row": "MobileBoost_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "2351aaae1d06",
+   "t": "Fin de Propulsión Móvil"
+  },
+  {
+   "row": "Destroy_HitChain",
+   "sub": 0,
+   "col": "name",
+   "src": "e1da41d9c8e0",
+   "t": "Cadena de Destrucción"
+  },
+  {
+   "row": "SonicShot_Activation",
+   "sub": 0,
+   "col": "name",
+   "src": "471966afdbe2",
+   "t": "Disparo Sónico (activación)"
+  },
+  {
+   "row": "SonicShot",
+   "sub": 0,
+   "col": "name",
+   "src": "1a1b8ba0dd6d",
+   "t": "Disparo Sónico"
+  },
+  {
+   "row": "HyperCept",
+   "sub": 0,
+   "col": "name",
+   "src": "443848e638ff",
+   "t": "Hipercept"
+  },
+  {
+   "row": "AllRepair",
+   "sub": 0,
+   "col": "name",
+   "src": "30affc4823bf",
+   "t": "Reparación Total"
+  },
+  {
+   "row": "Lightning",
+   "sub": 0,
+   "col": "name",
+   "src": "70c713eb98e3",
+   "t": "Relámpago"
+  },
+  {
+   "row": "RockRusher",
+   "sub": 0,
+   "col": "name",
+   "src": "3909b59fb5f2",
+   "t": "Rompe Rocas"
+  },
+  {
+   "row": "Invalid",
+   "sub": 0,
+   "col": "name",
+   "src": "38b49a56fb15",
+   "t": "Anula 1 vez"
+  },
+  {
+   "row": "Sacrifice",
+   "sub": 0,
+   "col": "name",
+   "src": "d159b475f021",
+   "t": "Sacrificio"
+  },
+  {
+   "row": "Protection",
+   "sub": 0,
+   "col": "name",
+   "src": "ee4b1e15390c",
+   "t": "Protección"
+  },
+  {
+   "row": "Protection_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "4d4abfd9dcaa",
+   "t": "Fin de Protección"
+  },
+  {
+   "row": "Impregnable",
+   "sub": 0,
+   "col": "name",
+   "src": "29e04164a28d",
+   "t": "Impresión"
+  },
+  {
+   "row": "Impregnable_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "52c5895b23bf",
+   "t": "Fin de Impresión"
+  },
+  {
+   "row": "Reflector",
+   "sub": 0,
+   "col": "name",
+   "src": "8e40f7ab159a",
+   "t": "Reflector"
+  },
+  {
+   "row": "Reflector_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "38342c5b616c",
+   "t": "Fin de Reflector"
+  },
+  {
+   "row": "Hold",
+   "sub": 0,
+   "col": "name",
+   "src": "6b9972550e4d",
+   "t": "Sujeción"
+  },
+  {
+   "row": "Binder",
+   "sub": 0,
+   "col": "name",
+   "src": "585be49d3e26",
+   "t": "Atador"
+  },
+  {
+   "row": "Radarsight",
+   "sub": 0,
+   "col": "name",
+   "src": "a01992545b52",
+   "t": "Mira de Radar"
+  },
+  {
+   "row": "Trap",
+   "sub": 0,
+   "col": "name",
+   "src": "420d6874ac52",
+   "t": "Trampa"
+  },
+  {
+   "row": "Plant",
+   "sub": 0,
+   "col": "name",
+   "src": "3047a5822bc8",
+   "t": "Planta"
+  },
+  {
+   "row": "SwordDrone",
+   "sub": 0,
+   "col": "name",
+   "src": "21ca6de3dd37",
+   "t": "Dron Espada"
+  },
+  {
+   "row": "Spotter",
+   "sub": 0,
+   "col": "name",
+   "src": "926fe276500b",
+   "t": "Observador"
+  },
+  {
+   "row": "Spotter_FinishA",
+   "sub": 0,
+   "col": "name",
+   "src": "136654852e3a",
+   "t": "Fin de Observador A"
+  },
+  {
+   "row": "Spotter_FinishB",
+   "sub": 0,
+   "col": "name",
+   "src": "21ed0073913e",
+   "t": "Fin de Observador B"
+  },
+  {
+   "row": "ChargeSonic_Activation",
+   "sub": 0,
+   "col": "name",
+   "src": "7fa99318901e",
+   "t": "Sónico de Impulso (activación)"
+  },
+  {
+   "row": "ChargeSonic",
+   "sub": 0,
+   "col": "name",
+   "src": "134d3659f612",
+   "t": "Sónico de Impulso"
+  },
+  {
+   "row": "EffectClear",
+   "sub": 0,
+   "col": "name",
+   "src": "26b7bd686bad",
+   "t": "Limpiar efectos"
+  },
+  {
+   "row": "Sanctuary",
+   "sub": 0,
+   "col": "name",
+   "src": "071e1df1c951",
+   "t": "Santuario"
+  },
+  {
+   "row": "HyperRepair",
+   "sub": 0,
+   "col": "name",
+   "src": "8ce667ed046f",
+   "t": "Hiperreparación"
+  },
+  {
+   "row": "AntiMedaforceFormation",
+   "sub": 0,
+   "col": "name",
+   "src": "866eb08cc6e0",
+   "t": "Formación Antimedafuerza"
+  },
+  {
+   "row": "AntiMedaforceFormation_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "4ffbc179da08",
+   "t": "Fin de Formación Antimedafuerza"
+  },
+  {
+   "row": "Breath",
+   "sub": 0,
+   "col": "name",
+   "src": "d49623825c68",
+   "t": "Aliento"
+  },
+  {
+   "row": "Railgun",
+   "sub": 0,
+   "col": "name",
+   "src": "368679d0ebbf",
+   "t": "Cañón de Riel"
+  },
+  {
+   "row": "AllRounder",
+   "sub": 0,
+   "col": "name",
+   "src": "eb2d1a8611c5",
+   "t": "Polivalente"
+  },
+  {
+   "row": "Inferno",
+   "sub": 0,
+   "col": "name",
+   "src": "9bf4d3c8adae",
+   "t": "Infierno"
+  },
+  {
+   "row": "Revenger",
+   "sub": 0,
+   "col": "name",
+   "src": "c9bdddb1a14e",
+   "t": "Vengador"
+  },
+  {
+   "row": "ZeroGravity",
+   "sub": 0,
+   "col": "name",
+   "src": "902059a084c5",
+   "t": "Gravedad Cero"
+  },
+  {
+   "row": "SuperArmor",
+   "sub": 0,
+   "col": "name",
+   "src": "252267a4afe4",
+   "t": "Superarmadura"
+  },
+  {
+   "row": "SuperArmor_FinishA",
+   "sub": 0,
+   "col": "name",
+   "src": "4250dea11de2",
+   "t": "Fin de Superarmadura A"
+  },
+  {
+   "row": "SuperArmor_FinishB",
+   "sub": 0,
+   "col": "name",
+   "src": "71709e61a830",
+   "t": "Fin de Superarmadura B"
+  },
+  {
+   "row": "Reversal",
+   "sub": 0,
+   "col": "name",
+   "src": "9809ac472545",
+   "t": "Reversión"
+  },
+  {
+   "row": "BreakInstallArea",
+   "sub": 0,
+   "col": "name",
+   "src": "a356dc1eb830",
+   "t": "Ruptura (zona de Despliegue)"
+  },
+  {
+   "row": "LeaderShutdown",
+   "sub": 0,
+   "col": "name",
+   "src": "c192c4698d60",
+   "t": "Líder: función cesada"
+  },
+  {
+   "row": "Supercell",
+   "sub": 0,
+   "col": "name",
+   "src": "96593857bab6",
+   "t": "Supercelda"
+  },
+  {
+   "row": "AntiAir",
+   "sub": 0,
+   "col": "name",
+   "src": "3054fd22be08",
+   "t": "Antiaéreo"
+  },
+  {
+   "row": "Missile",
+   "sub": 0,
+   "col": "name",
+   "src": "0a99ce973072",
+   "t": "Misil"
+  },
+  {
+   "row": "Guard_Perfect",
+   "sub": 0,
+   "col": "name",
+   "src": "804910963a4b",
+   "t": "Guardia Absoluta"
+  },
+  {
+   "row": "Guard_Freeze",
+   "sub": 0,
+   "col": "name",
+   "src": "3b6f0e92b6f6",
+   "t": "Guardia Congelante"
+  },
+  {
+   "row": "Guard_Counter",
+   "sub": 0,
+   "col": "name",
+   "src": "eb5f7f565223",
+   "t": "Guardia Contraataque"
+  },
+  {
+   "row": "Guard_2000",
+   "sub": 0,
+   "col": "name",
+   "src": "b3f38eb8d1e9",
+   "t": "Guardia 2000"
+  },
+  {
+   "row": "Guard_Kakutou",
+   "sub": 0,
+   "col": "name",
+   "src": "86c93a1a585b",
+   "t": "Golpe de Combate"
+  },
+  {
+   "row": "Guard_Needle",
+   "sub": 0,
+   "col": "name",
+   "src": "7f46fe339222",
+   "t": "Guardia de Púas"
+  },
+  {
+   "row": "Guard_Action",
+   "sub": 0,
+   "col": "name",
+   "src": "ea4bcb4256eb",
+   "t": "Guardia Antihabilidad"
+  },
+  {
+   "row": "Shotgun",
+   "sub": 0,
+   "col": "name",
+   "src": "db18df358bfd",
+   "t": "Escopeta"
+  },
+  {
+   "row": "Microwave",
+   "sub": 0,
+   "col": "name",
+   "src": "5d123a4995db",
+   "t": "Microondas"
+  },
+  {
+   "row": "Tornado",
+   "sub": 0,
+   "col": "name",
+   "src": "a70ae22655bf",
+   "t": "Tornado"
+  },
+  {
+   "row": "MegaGatling",
+   "sub": 0,
+   "col": "name",
+   "src": "b1cbaf037ef0",
+   "t": "Megagatling"
+  },
+  {
+   "row": "Provoke",
+   "sub": 0,
+   "col": "name",
+   "src": "330ddb4ec389",
+   "t": "Provocación"
+  },
+  {
+   "row": "Provoke_Finish_A",
+   "sub": 0,
+   "col": "name",
+   "src": "0c6b598c6a41",
+   "t": "Fin de Provocación A"
+  },
+  {
+   "row": "Provoke_Finish_B",
+   "sub": 0,
+   "col": "name",
+   "src": "7863c4c1d5b2",
+   "t": "Fin de Provocación B"
+  },
+  {
+   "row": "Hyprovoke",
+   "sub": 0,
+   "col": "name",
+   "src": "a646fa4c61ce",
+   "t": "Alta Provocación"
+  },
+  {
+   "row": "Hyprovoke_Finish_B",
+   "sub": 0,
+   "col": "name",
+   "src": "0869d03cb036",
+   "t": "Fin de Alta Provocación B"
+  },
+  {
+   "row": "FastMovement",
+   "sub": 0,
+   "col": "name",
+   "src": "035ae7ae2afa",
+   "t": "Movimiento rápido"
+  },
+  {
+   "row": "Boost",
+   "sub": 0,
+   "col": "name",
+   "src": "4a3b3819dc66",
+   "t": "Propulsión"
+  },
+  {
+   "row": "Card_Cooling_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "16a48b4d1c48",
+   "t": "Fin de enfriamiento"
+  },
+  {
+   "row": "RapidFireCharge",
+   "sub": 0,
+   "col": "name",
+   "src": "66da0a8b4279",
+   "t": "Disparo continuo (preparación)"
+  },
+  {
+   "row": "RapidFireShot",
+   "sub": 0,
+   "col": "name",
+   "src": "e69002de87b7",
+   "t": "Disparo continuo"
+  },
+  {
+   "row": "Reverse",
+   "sub": 0,
+   "col": "name",
+   "src": "0e8d3fc0a72e",
+   "t": "Inversión"
+  },
+  {
+   "row": "Invalid_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "d299d574ec54",
+   "t": "Fin de Anula 1 vez"
+  },
+  {
+   "row": "PowerUp_Kikuhime",
+   "sub": 0,
+   "col": "name",
+   "src": "39e3edd0b9d6",
+   "t": "Aumento de poder (Kikuhime)"
+  },
+  {
+   "row": "HighDefense",
+   "sub": 0,
+   "col": "name",
+   "src": "bcb59d45aae2",
+   "t": "Alta Defensa"
+  },
+  {
+   "row": "HighDefense_Finish",
+   "sub": 0,
+   "col": "name",
+   "src": "5290775ba2cd",
+   "t": "Fin de Alta Defensa"
+  }
+ ]
+}

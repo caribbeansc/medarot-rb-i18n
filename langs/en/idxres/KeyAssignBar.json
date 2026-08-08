@@ -1,0 +1,1013 @@
+{
+ "table": "KeyAssignBar",
+ "entries": [
+  {
+   "row": "ModeSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "ModeSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "ModeSelectTrial",
+   "sub": 0,
+   "col": "text3",
+   "src": "15e8c79d5605",
+   "t": ""
+  },
+  {
+   "row": "StageSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "StageSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelectTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "b3f0b4c88746",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "dd2cf7bdbc3b",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelect_DeckSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "69819b6ed6f7",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelectTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelectTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "15e8c79d5605",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelectTrialTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "b3f0b4c88746",
+   "t": ""
+  },
+  {
+   "row": "OpponentSelectTrialTutorial",
+   "sub": 0,
+   "col": "text2",
+   "src": "15e8c79d5605",
+   "t": ""
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "TowerSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "c2576c53402f",
+   "t": ""
+  },
+  {
+   "row": "TowerStageSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "TowerStageSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "ad9c2cfdf6ff",
+   "t": ""
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "DeckList",
+   "sub": 0,
+   "col": "text3",
+   "src": "576496d29eb2",
+   "t": ""
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "DeckCategory",
+   "sub": 0,
+   "col": "text4",
+   "src": "23528e95380b",
+   "t": ""
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "LeaderEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "254fe34c42ed",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8f80377dddd1",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "9a12b30135c5",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text5",
+   "src": "c747510d7472",
+   "t": ""
+  },
+  {
+   "row": "PartsEdit",
+   "sub": 0,
+   "col": "text6",
+   "src": "254fe34c42ed",
+   "t": ""
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "MedalEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "KeyCardEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "SleeveEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "771deab7bee4",
+   "t": ""
+  },
+  {
+   "row": "SleeveViewMode",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text1",
+   "src": "901a99ef46c7",
+   "t": ""
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text3",
+   "src": "8f80377dddd1",
+   "t": ""
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text4",
+   "src": "9a12b30135c5",
+   "t": ""
+  },
+  {
+   "row": "DeckEdit",
+   "sub": 0,
+   "col": "text5",
+   "src": "254fe34c42ed",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelect_Remove",
+   "sub": 0,
+   "col": "text4",
+   "src": "c90bb75fa377",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text3",
+   "src": "4cd31aa46c54",
+   "t": ""
+  },
+  {
+   "row": "CardShop_PackSelectBtn_Remove",
+   "sub": 0,
+   "col": "text4",
+   "src": "c90bb75fa377",
+   "t": ""
+  },
+  {
+   "row": "CardShop_OpenAnime",
+   "sub": 0,
+   "col": "text1",
+   "src": "850325ba9c09",
+   "t": ""
+  },
+  {
+   "row": "CardShop_OpenAnime",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpen",
+   "sub": 0,
+   "col": "text1",
+   "src": "3aa692fcaae4",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpen",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpenView",
+   "sub": 0,
+   "col": "text1",
+   "src": "23528e95380b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpenView",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpenBtn",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "CardShop_CardOpenBtn",
+   "sub": 0,
+   "col": "text2",
+   "src": "f214cd315f27",
+   "t": ""
+  },
+  {
+   "row": "CardShop_Result",
+   "sub": 0,
+   "col": "text1",
+   "src": "23528e95380b",
+   "t": ""
+  },
+  {
+   "row": "CardShop_Result",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text1",
+   "src": "71d6b8502271",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text3",
+   "src": "257080972bbb",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text4",
+   "src": "254fe34c42ed",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary",
+   "sub": 0,
+   "col": "text5",
+   "src": "c747510d7472",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary_Medal",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "CardLibrary_Medal",
+   "sub": 0,
+   "col": "text2",
+   "src": "257080972bbb",
+   "t": ""
+  },
+  {
+   "row": "MultiSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "MultiSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "MultiLobby",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "MuiltiLobby_DeckSelect",
+   "sub": 0,
+   "col": "text1",
+   "src": "dd2cf7bdbc3b",
+   "t": ""
+  },
+  {
+   "row": "MuiltiLobby_DeckSelect",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "Result",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": ""
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text3",
+   "src": "1ea5727fb05c",
+   "t": ""
+  },
+  {
+   "row": "ViewMode",
+   "sub": 0,
+   "col": "text4",
+   "src": "3cbdb6a4a2ca",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Opponent",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Opponent",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text3",
+   "src": "9a1f2735ddf2",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_Library",
+   "sub": 0,
+   "col": "text4",
+   "src": "57a42930c75f",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text2",
+   "src": "dcf82b82e163",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text3",
+   "src": "9a1f2735ddf2",
+   "t": ""
+  },
+  {
+   "row": "ViewMode_CardShop",
+   "sub": 0,
+   "col": "text4",
+   "src": "57a42930c75f",
+   "t": ""
+  },
+  {
+   "row": "Keyward",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "Keyward_Menu",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "Option",
+   "sub": 0,
+   "col": "text3",
+   "src": "c7042f8d73a8",
+   "t": ""
+  },
+  {
+   "row": "OptionPlayerIcon",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "OptionPlayerIcon",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OptionWallpaper",
+   "sub": 0,
+   "col": "text3",
+   "src": "dce52f3e1119",
+   "t": ""
+  },
+  {
+   "row": "OptionCredit",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": ""
+  },
+  {
+   "row": "OptionTips",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": ""
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text1",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": ""
+  },
+  {
+   "row": "OptionSupporter",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": ""
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": ""
+  },
+  {
+   "row": "OptionTipsEnd",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": ""
+  },
+  {
+   "row": "OptionTrial",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "OptionTrial",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorial",
+   "sub": 0,
+   "col": "text1",
+   "src": "9eccdca31ee3",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorial",
+   "sub": 0,
+   "col": "text2",
+   "src": "f7600b726bf2",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text2",
+   "src": "9eccdca31ee3",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorialEnd",
+   "sub": 0,
+   "col": "text3",
+   "src": "f7600b726bf2",
+   "t": ""
+  },
+  {
+   "row": "MenuTutorialSingleEnd",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "TerrainInfo",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "OpponentDeckCheck",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "OtherVersionReward",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text1",
+   "src": "e721d064de48",
+   "t": ""
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text2",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "SortDialog",
+   "sub": 0,
+   "col": "text3",
+   "src": "10ce3c3125ba",
+   "t": ""
+  },
+  {
+   "row": "CommonDialog",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "CommonDialog",
+   "sub": 0,
+   "col": "text2",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "CommonDialog_Enter",
+   "sub": 0,
+   "col": "text1",
+   "src": "df3535a64718",
+   "t": ""
+  },
+  {
+   "row": "OpponentFight",
+   "sub": 0,
+   "col": "text1",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "NpcMessage",
+   "sub": 0,
+   "col": "text1",
+   "src": "9eccdca31ee3",
+   "t": ""
+  }
+ ]
+}

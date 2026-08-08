@@ -1,0 +1,76 @@
+{
+ "textures": [
+  {
+   "texture": "BattleCard_Medaforce",
+   "text": "NO DISPONIBLE"
+  },
+  {
+   "texture": "Card_Change",
+   "text": "CAMBIAR"
+  },
+  {
+   "texture": "Card_Mask_Select",
+   "text": "Elegir"
+  },
+  {
+   "texture": "Card_Trash",
+   "text": "Descartar"
+  },
+  {
+   "texture": "ClearText",
+   "text": "TORRE ROBOBATALLA / ¡DIFÍCIL SUPERADA! / ¡NORMAL SUPERADA! / ¡FÁCIL SUPERADA!"
+  },
+  {
+   "texture": "Font_MedaChange",
+   "text": "MEDACAMBIO"
+  },
+  {
+   "texture": "Font_MedaChange_Enemy",
+   "text": "MEDACAMBIO"
+  },
+  {
+   "texture": "Icon_BtnL",
+   "text": "Metabee / Rokusho / [Francotiro] / Disparo / (acción) / [Frenesí] / Combate / (rasgo)"
+  },
+  {
+   "texture": "PlayerIcon_Btn_040",
+   "text": "JEFE FINAL"
+  },
+  {
+   "texture": "Prologue_Font_01",
+   "text": "Medabots: compañeros insólitos que creó la tecnología. / Al armazón «Tinpet» se acopla una «Medalla» con voluntad. / Al cambiar sus Medapartes, su poder crece sin límites."
+  },
+  {
+   "texture": "Prologue_Font_02",
+   "text": "La «Robobatalla» que los enfrenta hizo furor mundial, / y sus pilotos, los «Medaguerreros», competían día tras día."
+  },
+  {
+   "texture": "Prologue_Font_03",
+   "text": "—Y hoy, ese ardor llega a un nuevo escenario."
+  },
+  {
+   "texture": "Prologue_Font_04",
+   "text": "Toda la táctica Medabot en cartas: / ¡nace la nueva generación de cartas!"
+  },
+  {
+   "texture": "StageClearText",
+   "text": "DESAFÍO ROBOBATALLA / ¡TODO SUPERADO!"
+  },
+  {
+   "texture": "Start_Text_00",
+   "text": "¡A ROBO-"
+  },
+  {
+   "texture": "Start_Text_01",
+   "text": "¡BATALLAR!"
+  },
+  {
+   "texture": "Start_Text_02",
+   "text": "PRIMERO / VS / SEGUNDO"
+  },
+  {
+   "texture": "Tutorial_Font_Get",
+   "text": "MAZO METABEE / MAZO ROKUSHO / ¡OBTENIDO!"
+  }
+ ]
+}

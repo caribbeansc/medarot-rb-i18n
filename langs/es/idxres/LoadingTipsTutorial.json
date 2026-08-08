@@ -1,0 +1,285 @@
+{
+ "table": "LoadingTipsTutorial",
+ "entries": [
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3813180bc978",
+   "t": "El mundo de Medabots (1)"
+  },
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f1e11c47a360",
+   "t": "¡En un futuro cercano lleno de\nMedabots, robots tan listos o más\nque las personas, la historia trata\nde la convivencia humano-robot!"
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8995a7c2a10b",
+   "t": "El mundo de Medabots (2)"
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ab976043abe1",
+   "t": "¡Los Medabots son juguetes muy\npopulares, y la «Robobatalla»,\nla competencia entre Medabots,\ncausa furor en este mundo!"
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "22867217281a",
+   "t": "¿Qué es un Medabot? (1)"
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "17e2ec3e754b",
+   "t": "«Medabot» abrevia «robot de medalla»:\nun robot movido por una medalla de\npoder desconocido. Es un robot amigo\ncon personalidad e inteligencia únicas."
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "803a78252fa2",
+   "t": "¿Qué es un Medabot? (2)"
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "30b69b0c5cdd",
+   "t": "¡Un Medabot se completa al equipar\nsu Tinpet, el esqueleto, con 4\nMedapartes (cabeza, brazo der.,\nbrazo izq. y piernas) e insertar\nuna medalla como cerebro!"
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c30622fa8122",
+   "t": "Personalizar Medabots (1)"
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9db8f87c87b7",
+   "t": "¡Cambia las piezas de un Medabot\npara crear personalizaciones\nvariadas y solo tuyas!"
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3c49eb29df97",
+   "t": "Diseños de Medabots (1)"
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "bbada54e4aba",
+   "t": "Los diseños de los Medabots son muy\nvariados: insectos, animales, plantas,\nseres míticos e incluso oficios y\nvehículos. ¡Hay de todo!"
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e524167cddd7",
+   "t": "¿Qué es una medalla? (1)"
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "97d73f2f4431",
+   "t": "¡Se cree que las medallas contienen\nel alma y los recuerdos de seres\nantiguos, sellados en un metal\nhexagonal!"
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "78cd658b7d10",
+   "t": "¿Qué es una medalla? (2)"
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "69e880303ae1",
+   "t": "¡Las medallas se excavan en ruinas,\npero la mayoría en circulación\nson copias (clones) hechas\ncon alta tecnología!"
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f18ebb3e5c1d",
+   "t": "¿Qué es la Robobatalla? (1)"
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "adffcd867cde",
+   "t": "¡El combate entre Medabots se llama\n«Robobatalla» y suele pelearse en\nequipos de varios Medabots!"
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3f7f40a6e90c",
+   "t": "¿Qué es la Robobatalla? (2)"
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a87a83f5ddfb",
+   "t": "«Robobatalla» une «robot» y «batalla».\n¡Es un deporte y hobby mundial que\nsigue reglas y modales estrictos!"
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "30ee7cf4dda6",
+   "t": "¿Qué es la Robobatalla? (3)"
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fa21c60f1994",
+   "t": "¡En la Robobatalla puedes destruir\ne inutilizar las piezas del rival!\nSi destruyes su cabeza y deja\nde funcionar, ¡ganas!"
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "63363d29a9b4",
+   "t": "Tipos de habilidad"
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a46584b16636",
+   "t": "Hay 6 tipos de habilidad: Disparo,\nCombate, Apoyo, Curación, Defensa\ny Despliegue. ¡Combinarlos a tu favor\nes la esencia de la Robobatalla!"
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "eaedf9ad5b66",
+   "t": "¿Qué es la Medafuerza? (1)"
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "922fd23a477d",
+   "t": "¡La Medafuerza es una poderosa técnica\nque libera al límite el potencial\ndormido en la medalla!"
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "bd1362e433ba",
+   "t": "¿Qué es la Medafuerza? (2)"
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4f32ba6314e3",
+   "t": "La Medafuerza se aprende conforme\ncrece la medalla. ¡Es la prueba del\nlazo entre Medabot y Medaguerrero!"
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aabe01f22ca0",
+   "t": "¿Qué es un Medaguerrero? (1)"
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "95b56c31f4eb",
+   "t": "Un Medaguerrero es quien tiene un\nMedabot como compañero y le da\nórdenes. ¡También es responsable\nde cuidarlo y manejarlo!"
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "0f7b0adac6e9",
+   "t": "¿Qué es un Medaguerrero? (2)"
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "68951f3d7b3e",
+   "t": "No cualquiera puede usar un Medabot\nlibremente: existe un registro y cada\ndueño figura en los datos como\nMedaguerrero."
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c182d45d2218",
+   "t": "¿Qué es un Medaguerrero? (3)"
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "2829cb7ab0ea",
+   "t": "¡«Medaguerrero» no significa solo\ndueño: es el mejor compañero, que\nama a su Medabot y pelea a su lado!"
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d4f61d56e863",
+   "t": "Medabots y Medaguerreros"
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "68ce881b9f69",
+   "t": "Un Medabot es un robot amigo con\nconciencia propia, que forja un\nfuerte lazo con su Medaguerrero\ny crece a su lado."
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7a6cdcc75d59",
+   "t": "Terreno y piernas"
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7929b877b61b",
+   "t": "¡En la Robobatalla, la afinidad\nterreno-piernas es clave!\nSi es buena, obtienes bonos\ny peleas con ventaja."
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "4fe7c907d026",
+   "t": "¿Qué es el Medacambio?"
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "30aaac96b810",
+   "t": "El Medacambio es la transformación\nexclusiva de ciertos modelos.\n¡Cambiar de forma renueva del todo\nsus capacidades y técnicas!"
+  }
+ ]
+}

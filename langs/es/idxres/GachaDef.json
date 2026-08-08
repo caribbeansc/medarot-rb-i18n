@@ -1,0 +1,26 @@
+{
+ "table": "GachaDef",
+ "entries": [
+  {
+   "row": "GachaNormal",
+   "sub": 0,
+   "col": "m_rarityName",
+   "src": "33d69acbbb80",
+   "t": "Normal"
+  },
+  {
+   "row": "GachaUncommon",
+   "sub": 0,
+   "col": "m_rarityName",
+   "src": "8644b8ecf738",
+   "t": "Poco común"
+  },
+  {
+   "row": "GachaRare",
+   "sub": 0,
+   "col": "m_rarityName",
+   "src": "3bbbdb28a544",
+   "t": "Rara"
+  }
+ ]
+}

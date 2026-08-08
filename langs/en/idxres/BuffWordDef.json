@@ -1,0 +1,1111 @@
+{
+ "table": "BuffWordDef",
+ "entries": [
+  {
+   "row": "BuffWord00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "59ec685ec302",
+   "t": ""
+  },
+  {
+   "row": "BuffWord00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c6369f05c8f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d313d6378959",
+   "t": ""
+  },
+  {
+   "row": "BuffWord01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cbb521cd166d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6bd9ef4c0b46",
+   "t": ""
+  },
+  {
+   "row": "BuffWord02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c6369f05c8f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d66f38d0f9f1",
+   "t": ""
+  },
+  {
+   "row": "BuffWord03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "57bb6525d046",
+   "t": ""
+  },
+  {
+   "row": "BuffWord04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8d274dc16dd0",
+   "t": ""
+  },
+  {
+   "row": "BuffWord04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7a9a8e6e5664",
+   "t": ""
+  },
+  {
+   "row": "BuffWord05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b72e05f58474",
+   "t": ""
+  },
+  {
+   "row": "BuffWord05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "87e0e73ea5b8",
+   "t": ""
+  },
+  {
+   "row": "BuffWord06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "189773a1b2f8",
+   "t": ""
+  },
+  {
+   "row": "BuffWord06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c7f88cfed67",
+   "t": ""
+  },
+  {
+   "row": "BuffWord07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ded4469cb3b6",
+   "t": ""
+  },
+  {
+   "row": "BuffWord07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1d274aeb90bf",
+   "t": ""
+  },
+  {
+   "row": "BuffWord08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "10632230a0a1",
+   "t": ""
+  },
+  {
+   "row": "BuffWord08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "356c2c94e04f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "baa5cd1c4b6f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "194abcb5cfa8",
+   "t": ""
+  },
+  {
+   "row": "BuffWord10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "792ab5974a45",
+   "t": ""
+  },
+  {
+   "row": "BuffWord10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "60d9c1a30539",
+   "t": ""
+  },
+  {
+   "row": "BuffWord11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6f6ecffd4395",
+   "t": ""
+  },
+  {
+   "row": "BuffWord11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ac00618eb56c",
+   "t": ""
+  },
+  {
+   "row": "BuffWord12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a9b5244bef10",
+   "t": ""
+  },
+  {
+   "row": "BuffWord12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "227a6197e1cd",
+   "t": ""
+  },
+  {
+   "row": "BuffWord13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d3b202bdbd3d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3d778bed7967",
+   "t": ""
+  },
+  {
+   "row": "BuffWord14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d2b8ee95ed57",
+   "t": ""
+  },
+  {
+   "row": "BuffWord14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ae6e4bd07e49",
+   "t": ""
+  },
+  {
+   "row": "BuffWord15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cc909e82002c",
+   "t": ""
+  },
+  {
+   "row": "BuffWord15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4195f3adc219",
+   "t": ""
+  },
+  {
+   "row": "BuffWord16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d5510d3c2d36",
+   "t": ""
+  },
+  {
+   "row": "BuffWord16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "d06c3df53c2e",
+   "t": ""
+  },
+  {
+   "row": "BuffWord17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "09101e4c1875",
+   "t": ""
+  },
+  {
+   "row": "BuffWord17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "618437fe262b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "940253676208",
+   "t": ""
+  },
+  {
+   "row": "BuffWord18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e2638320cfb5",
+   "t": ""
+  },
+  {
+   "row": "BuffWord19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6643448220ff",
+   "t": ""
+  },
+  {
+   "row": "BuffWord19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "45bd12b0bed4",
+   "t": ""
+  },
+  {
+   "row": "BuffWord20",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b8cca7c3b3be",
+   "t": ""
+  },
+  {
+   "row": "BuffWord20",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c7891fcfc521",
+   "t": ""
+  },
+  {
+   "row": "BuffWord21",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2b95fedfcdfb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord21",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5732abde6c61",
+   "t": ""
+  },
+  {
+   "row": "BuffWord22",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f2def35a54e9",
+   "t": ""
+  },
+  {
+   "row": "BuffWord22",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ff9eb55f7d92",
+   "t": ""
+  },
+  {
+   "row": "BuffWord23",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d745e6a8510f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord23",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0e8bb2ab0324",
+   "t": ""
+  },
+  {
+   "row": "BuffWord24",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aca1d2bcfa64",
+   "t": ""
+  },
+  {
+   "row": "BuffWord24",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3601ffcf14e0",
+   "t": ""
+  },
+  {
+   "row": "BuffWord25",
+   "sub": 0,
+   "col": "m_title",
+   "src": "50818ba972fe",
+   "t": ""
+  },
+  {
+   "row": "BuffWord25",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a1b5a34d2baa",
+   "t": ""
+  },
+  {
+   "row": "BuffWord26",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aba1c83b5ede",
+   "t": ""
+  },
+  {
+   "row": "BuffWord26",
+   "sub": 0,
+   "col": "m_text",
+   "src": "834195f668de",
+   "t": ""
+  },
+  {
+   "row": "BuffWord27",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9fb866ee8645",
+   "t": ""
+  },
+  {
+   "row": "BuffWord27",
+   "sub": 0,
+   "col": "m_text",
+   "src": "21fccfdac07d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord28",
+   "sub": 0,
+   "col": "m_title",
+   "src": "36048ca980aa",
+   "t": ""
+  },
+  {
+   "row": "BuffWord28",
+   "sub": 0,
+   "col": "m_text",
+   "src": "972f83120f2c",
+   "t": ""
+  },
+  {
+   "row": "BuffWord29",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9d5e4fb5b463",
+   "t": ""
+  },
+  {
+   "row": "BuffWord29",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c6307dce2d2d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord30",
+   "sub": 0,
+   "col": "m_title",
+   "src": "07209a764178",
+   "t": ""
+  },
+  {
+   "row": "BuffWord30",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b16023ab06a3",
+   "t": ""
+  },
+  {
+   "row": "BuffWord31",
+   "sub": 0,
+   "col": "m_title",
+   "src": "40fedd0ba092",
+   "t": ""
+  },
+  {
+   "row": "BuffWord31",
+   "sub": 0,
+   "col": "m_text",
+   "src": "13591caa6e46",
+   "t": ""
+  },
+  {
+   "row": "BuffWord32",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c3e81d1fc170",
+   "t": ""
+  },
+  {
+   "row": "BuffWord32",
+   "sub": 0,
+   "col": "m_text",
+   "src": "2091187ce5fc",
+   "t": ""
+  },
+  {
+   "row": "BuffWord33",
+   "sub": 0,
+   "col": "m_title",
+   "src": "522ba9f47afb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord33",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cf5cf180f078",
+   "t": ""
+  },
+  {
+   "row": "BuffWord34",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ae4fc4d594ae",
+   "t": ""
+  },
+  {
+   "row": "BuffWord34",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1b0822d8631f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord35",
+   "sub": 0,
+   "col": "m_title",
+   "src": "82ca1a833a60",
+   "t": ""
+  },
+  {
+   "row": "BuffWord35",
+   "sub": 0,
+   "col": "m_text",
+   "src": "233ccbc427ea",
+   "t": ""
+  },
+  {
+   "row": "BuffWord36",
+   "sub": 0,
+   "col": "m_title",
+   "src": "092f560bc141",
+   "t": ""
+  },
+  {
+   "row": "BuffWord36",
+   "sub": 0,
+   "col": "m_text",
+   "src": "204e05b6d8c0",
+   "t": ""
+  },
+  {
+   "row": "BuffWord37",
+   "sub": 0,
+   "col": "m_title",
+   "src": "926fe276500b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord37",
+   "sub": 0,
+   "col": "m_text",
+   "src": "90a4d152ab4e",
+   "t": ""
+  },
+  {
+   "row": "BuffWord38",
+   "sub": 0,
+   "col": "m_title",
+   "src": "bb685d25194d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord38",
+   "sub": 0,
+   "col": "m_text",
+   "src": "31adaf8b5f66",
+   "t": ""
+  },
+  {
+   "row": "BuffWord39",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3b04a5e7f68e",
+   "t": ""
+  },
+  {
+   "row": "BuffWord39",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8f0616ac2beb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord40",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ab618b6df1eb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord40",
+   "sub": 0,
+   "col": "m_text",
+   "src": "d3b94fc41099",
+   "t": ""
+  },
+  {
+   "row": "BuffWord41",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cddb8af377bf",
+   "t": ""
+  },
+  {
+   "row": "BuffWord41",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1b51afdac1ab",
+   "t": ""
+  },
+  {
+   "row": "BuffWord42",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f0cb24fc8d39",
+   "t": ""
+  },
+  {
+   "row": "BuffWord42",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fde2826b5a51",
+   "t": ""
+  },
+  {
+   "row": "BuffWord43",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b728a66020e1",
+   "t": ""
+  },
+  {
+   "row": "BuffWord43",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9e78930e5206",
+   "t": ""
+  },
+  {
+   "row": "BuffWord44",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d9300b5b1cb8",
+   "t": ""
+  },
+  {
+   "row": "BuffWord44",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7669fd94e06c",
+   "t": ""
+  },
+  {
+   "row": "BuffWord45",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a01992545b52",
+   "t": ""
+  },
+  {
+   "row": "BuffWord45",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f67815e88038",
+   "t": ""
+  },
+  {
+   "row": "BuffWord46",
+   "sub": 0,
+   "col": "m_title",
+   "src": "194068e0300b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord46",
+   "sub": 0,
+   "col": "m_text",
+   "src": "39ec9c11d5a1",
+   "t": ""
+  },
+  {
+   "row": "BuffWord47",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b3f38eb8d1e9",
+   "t": ""
+  },
+  {
+   "row": "BuffWord47",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0dcfdad35f06",
+   "t": ""
+  },
+  {
+   "row": "BuffWord48",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ea4bcb4256eb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord48",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0288a9bd4909",
+   "t": ""
+  },
+  {
+   "row": "BuffWord49",
+   "sub": 0,
+   "col": "m_title",
+   "src": "96593857bab6",
+   "t": ""
+  },
+  {
+   "row": "BuffWord49",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9ae4ca6a8363",
+   "t": ""
+  },
+  {
+   "row": "BuffWord50",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f21c7d8e0edc",
+   "t": ""
+  },
+  {
+   "row": "BuffWord50",
+   "sub": 0,
+   "col": "m_text",
+   "src": "364b00a5fc27",
+   "t": ""
+  },
+  {
+   "row": "BuffWord51",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2eb5dea7fc49",
+   "t": ""
+  },
+  {
+   "row": "BuffWord51",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e70e66af1433",
+   "t": ""
+  },
+  {
+   "row": "BuffWord52",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8e40f7ab159a",
+   "t": ""
+  },
+  {
+   "row": "BuffWord52",
+   "sub": 0,
+   "col": "m_text",
+   "src": "391ed1bdd7b2",
+   "t": ""
+  },
+  {
+   "row": "BuffWord53",
+   "sub": 0,
+   "col": "m_title",
+   "src": "46f70513ace6",
+   "t": ""
+  },
+  {
+   "row": "BuffWord53",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3f821fb2f648",
+   "t": ""
+  },
+  {
+   "row": "BuffWord54",
+   "sub": 0,
+   "col": "m_title",
+   "src": "747377bcba04",
+   "t": ""
+  },
+  {
+   "row": "BuffWord54",
+   "sub": 0,
+   "col": "m_text",
+   "src": "17af5d95a622",
+   "t": ""
+  },
+  {
+   "row": "BuffWord55",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9ec318692e9d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord55",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5c60ed309720",
+   "t": ""
+  },
+  {
+   "row": "BuffWord56",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aaa4df181a0e",
+   "t": ""
+  },
+  {
+   "row": "BuffWord56",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ecd597d26ab4",
+   "t": ""
+  },
+  {
+   "row": "BuffWord57",
+   "sub": 0,
+   "col": "m_title",
+   "src": "93524e7ef17b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord58",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e386870add48",
+   "t": ""
+  },
+  {
+   "row": "BuffWord58",
+   "sub": 0,
+   "col": "m_text",
+   "src": "514b4bce3003",
+   "t": ""
+  },
+  {
+   "row": "BuffWord59",
+   "sub": 0,
+   "col": "m_title",
+   "src": "adb4030fd247",
+   "t": ""
+  },
+  {
+   "row": "BuffWord59",
+   "sub": 0,
+   "col": "m_text",
+   "src": "963ac9ad55ef",
+   "t": ""
+  },
+  {
+   "row": "BuffWord60",
+   "sub": 0,
+   "col": "m_title",
+   "src": "804910963a4b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord60",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fe6f6373aeaf",
+   "t": ""
+  },
+  {
+   "row": "BuffWord61",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3b6f0e92b6f6",
+   "t": ""
+  },
+  {
+   "row": "BuffWord61",
+   "sub": 0,
+   "col": "m_text",
+   "src": "6ac44a1a98eb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord62",
+   "sub": 0,
+   "col": "m_title",
+   "src": "21ca6de3dd37",
+   "t": ""
+  },
+  {
+   "row": "BuffWord62",
+   "sub": 0,
+   "col": "m_text",
+   "src": "13580a6ca7a2",
+   "t": ""
+  },
+  {
+   "row": "BuffWord63",
+   "sub": 0,
+   "col": "m_title",
+   "src": "74bc490cc0c9",
+   "t": ""
+  },
+  {
+   "row": "BuffWord63",
+   "sub": 0,
+   "col": "m_text",
+   "src": "087aa695c7b0",
+   "t": ""
+  },
+  {
+   "row": "BuffWord64",
+   "sub": 0,
+   "col": "m_title",
+   "src": "86c93a1a585b",
+   "t": ""
+  },
+  {
+   "row": "BuffWord64",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b187ec158aed",
+   "t": ""
+  },
+  {
+   "row": "BuffWord65",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7e1fb5775333",
+   "t": ""
+  },
+  {
+   "row": "BuffWord65",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1e32d38c9e81",
+   "t": ""
+  },
+  {
+   "row": "BuffWord66",
+   "sub": 0,
+   "col": "m_title",
+   "src": "766804765a69",
+   "t": ""
+  },
+  {
+   "row": "BuffWord67",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c0c868843034",
+   "t": ""
+  },
+  {
+   "row": "BuffWord67",
+   "sub": 0,
+   "col": "m_text",
+   "src": "bec50b849102",
+   "t": ""
+  },
+  {
+   "row": "BuffWord68",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9874c80edd8f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord68",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9782065fe08d",
+   "t": ""
+  },
+  {
+   "row": "BuffWord69",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7f46fe339222",
+   "t": ""
+  },
+  {
+   "row": "BuffWord69",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cddadecd69e1",
+   "t": ""
+  },
+  {
+   "row": "BuffWord70",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8ce667ed046f",
+   "t": ""
+  },
+  {
+   "row": "BuffWord70",
+   "sub": 0,
+   "col": "m_text",
+   "src": "27e68883eb22",
+   "t": ""
+  },
+  {
+   "row": "BuffWord71",
+   "sub": 0,
+   "col": "m_title",
+   "src": "37979d862afd",
+   "t": ""
+  },
+  {
+   "row": "BuffWord71",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b4f2d20b9c69",
+   "t": ""
+  },
+  {
+   "row": "BuffWord72",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a62f5a9dc6cd",
+   "t": ""
+  },
+  {
+   "row": "BuffWord72",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8b2a6163baeb",
+   "t": ""
+  },
+  {
+   "row": "BuffWord73",
+   "sub": 0,
+   "col": "m_title",
+   "src": "229c81655887",
+   "t": ""
+  },
+  {
+   "row": "BuffWord73",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e83fe18e2126",
+   "t": ""
+  },
+  {
+   "row": "BuffWord74",
+   "sub": 0,
+   "col": "m_title",
+   "src": "da6494018583",
+   "t": ""
+  },
+  {
+   "row": "BuffWord74",
+   "sub": 0,
+   "col": "m_text",
+   "src": "55c9ba0e1adc",
+   "t": ""
+  },
+  {
+   "row": "BuffWord75",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d51283059bb8",
+   "t": ""
+  },
+  {
+   "row": "BuffWord75",
+   "sub": 0,
+   "col": "m_text",
+   "src": "07769830247a",
+   "t": ""
+  },
+  {
+   "row": "BuffWord76",
+   "sub": 0,
+   "col": "m_title",
+   "src": "724ab7730cf2",
+   "t": ""
+  },
+  {
+   "row": "BuffWord76",
+   "sub": 0,
+   "col": "m_text",
+   "src": "73f135328a48",
+   "t": ""
+  },
+  {
+   "row": "BuffWord77",
+   "sub": 0,
+   "col": "m_title",
+   "src": "275ead2f2ee9",
+   "t": ""
+  },
+  {
+   "row": "BuffWord77",
+   "sub": 0,
+   "col": "m_text",
+   "src": "34e6e0755096",
+   "t": ""
+  },
+  {
+   "row": "BuffWord78",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c23ef8385184",
+   "t": ""
+  },
+  {
+   "row": "BuffWord78",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8dc034bde819",
+   "t": ""
+  },
+  {
+   "row": "BuffWord79",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e15f709fb917",
+   "t": ""
+  },
+  {
+   "row": "BuffWord79",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a5c55d180afe",
+   "t": ""
+  }
+ ]
+}

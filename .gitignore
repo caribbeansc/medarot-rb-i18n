@@ -1,0 +1,38 @@
+# ─── Never commit anything that came out of the game ────────────────────────
+# Your dump, and anything extracted from it.
+game/
+romfs/
+*.xci
+*.nsp
+*.nca
+*.tik
+*.keys
+
+# The local working area: source text next to translations, PNG exports,
+# inventories, caches. This is where the game's own text lives (SPEC-005/R-7).
+work/
+
+# Generated mods and packaged releases.
+build/
+dist/
+
+# Local configuration (points at your own dump).
+mrb.config.json
+
+# ─── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.egg-info/
+
+# ─── Editors and OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json

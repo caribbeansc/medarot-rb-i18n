@@ -1,0 +1,12 @@
+{
+ "table": "StageTypeDef",
+ "entries": [
+  {
+   "row": "StageType09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f9b22bbf8fa1",
+   "t": "Aleatorio"
+  }
+ ]
+}

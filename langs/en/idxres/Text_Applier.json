@@ -1,0 +1,208 @@
+{
+ "table": "Text_Applier",
+ "entries": [
+  {
+   "row": "TowerMenu_DifficultyText00",
+   "sub": 0,
+   "col": "text",
+   "src": "5bee1f879d37",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyText01",
+   "sub": 0,
+   "col": "text",
+   "src": "33d69acbbb80",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyText02",
+   "sub": 0,
+   "col": "text",
+   "src": "34e1afc58c09",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyText03",
+   "sub": 0,
+   "col": "text",
+   "src": "d77db2ff7b73",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyGuideText00",
+   "sub": 0,
+   "col": "text",
+   "src": "a50648586453",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyGuideText01",
+   "sub": 0,
+   "col": "text",
+   "src": "cf2c68286f05",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyGuideText02",
+   "sub": 0,
+   "col": "text",
+   "src": "2bea8e059b45",
+   "t": ""
+  },
+  {
+   "row": "TowerMenu_DifficultyGuideText03",
+   "sub": 0,
+   "col": "text",
+   "src": "6e2499bff346",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_MatchingTypeText00",
+   "sub": 0,
+   "col": "text",
+   "src": "b55eb06d25e1",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_MatchingTypeText01",
+   "sub": 0,
+   "col": "text",
+   "src": "aea55d8e7476",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_MatchingTypeText02",
+   "sub": 0,
+   "col": "text",
+   "src": "410448385c05",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText00",
+   "sub": 0,
+   "col": "text",
+   "src": "837070476b80",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText01",
+   "sub": 0,
+   "col": "text",
+   "src": "ed409b78eed0",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText02",
+   "sub": 0,
+   "col": "text",
+   "src": "530fef78d94c",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText03",
+   "sub": 0,
+   "col": "text",
+   "src": "fb5522603012",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText04",
+   "sub": 0,
+   "col": "text",
+   "src": "eca990c0235a",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText05",
+   "sub": 0,
+   "col": "text",
+   "src": "4235614d7455",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText06",
+   "sub": 0,
+   "col": "text",
+   "src": "a05d765eb586",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText07",
+   "sub": 0,
+   "col": "text",
+   "src": "dcdf235be4d3",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText08",
+   "sub": 0,
+   "col": "text",
+   "src": "2406ad2cd0bc",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText09",
+   "sub": 0,
+   "col": "text",
+   "src": "12e5151fe78d",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText10",
+   "sub": 0,
+   "col": "text",
+   "src": "97393371aa25",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText11",
+   "sub": 0,
+   "col": "text",
+   "src": "082fb5d153a1",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText12",
+   "sub": 0,
+   "col": "text",
+   "src": "09592df64b1d",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText13",
+   "sub": 0,
+   "col": "text",
+   "src": "8f0847c45a74",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText14",
+   "sub": 0,
+   "col": "text",
+   "src": "b7efe23be0a7",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText15",
+   "sub": 0,
+   "col": "text",
+   "src": "b9b2747eae1c",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText16",
+   "sub": 0,
+   "col": "text",
+   "src": "64d9c2169d37",
+   "t": ""
+  },
+  {
+   "row": "MultiMenu_CommentText17",
+   "sub": 0,
+   "col": "text",
+   "src": "5b0c4c48dc08",
+   "t": ""
+  }
+ ]
+}

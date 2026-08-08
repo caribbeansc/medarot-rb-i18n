@@ -1,0 +1,33 @@
+{
+ "table": "RefereeVoice",
+ "entries": [
+  {
+   "row": "Uruchi",
+   "sub": 0,
+   "col": "name",
+   "src": "5c273c54cd72",
+   "t": "Uruchi"
+  },
+  {
+   "row": "Bunny",
+   "sub": 0,
+   "col": "name",
+   "src": "ee6a19a1a108",
+   "t": "Cheerful Bunny"
+  },
+  {
+   "row": "Riarira",
+   "sub": 0,
+   "col": "name",
+   "src": "c5dfd7ebf80d",
+   "t": "Riarira"
+  },
+  {
+   "row": "Shushu",
+   "sub": 0,
+   "col": "name",
+   "src": "d5a73f92689e",
+   "t": "Shushu Pop"
+  }
+ ]
+}

@@ -1,0 +1,915 @@
+{
+ "table": "Reward",
+ "entries": [
+  {
+   "row": "Data00",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data00",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data01",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data02",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data03",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data04",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a02c9be4e27c",
+   "t": "Desde el inicio"
+  },
+  {
+   "row": "Data05",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d6a4e79b56c2",
+   "t": "¿?"
+  },
+  {
+   "row": "Data08",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "32cc81b0da7e",
+   "t": "Supera el Desafío 2 de Práctica"
+  },
+  {
+   "row": "Data10b",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3e8df9bee6af",
+   "t": "Supera el Desafío 1 de Práctica"
+  },
+  {
+   "row": "Data12",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "aaeede45ba1c",
+   "t": "Vence a Manabu en el Bosque"
+  },
+  {
+   "row": "Data13",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "745aff42d667",
+   "t": "Vence a Nei en el Bosque"
+  },
+  {
+   "row": "Data14",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5c89c2dcd896",
+   "t": "Vence a Eito en el Bosque"
+  },
+  {
+   "row": "Data15",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7e40b1697a57",
+   "t": "Vence a Tsukiji en el Bosque"
+  },
+  {
+   "row": "Data16",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "40b8b3f162f6",
+   "t": "Vence a Saito en el Bosque"
+  },
+  {
+   "row": "Data18",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f172136b513c",
+   "t": "Vence a la Pandilla Rubberobo en el Pedregal"
+  },
+  {
+   "row": "Data19",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "90b944c494e6",
+   "t": "Vence a Amu en el Pedregal"
+  },
+  {
+   "row": "Data20",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4dc7800d344c",
+   "t": "Vence a Memochi en el Pedregal"
+  },
+  {
+   "row": "Data21",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0622fbe3fa9f",
+   "t": "Vence a Tsukiji en el Pedregal"
+  },
+  {
+   "row": "Data22",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "59f102d973b0",
+   "t": "Vence a Saito en el Pedregal"
+  },
+  {
+   "row": "Data24",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "adce026b3acf",
+   "t": "Vence a la Pandilla Rubberobo en el Arenal"
+  },
+  {
+   "row": "Data25",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1508b56c5a53",
+   "t": "Vence a Marina en el Arenal"
+  },
+  {
+   "row": "Data26",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0a7513196bbe",
+   "t": "Vence a Amu en el Arenal"
+  },
+  {
+   "row": "Data27",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0c8f1db83301",
+   "t": "Vence a Eito en el Arenal"
+  },
+  {
+   "row": "Data28",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e69b9fbdb63d",
+   "t": "Vence a Saito en el Arenal"
+  },
+  {
+   "row": "Data30",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d2b658f1fd7e",
+   "t": "Vence a Amu en la Llanura"
+  },
+  {
+   "row": "Data31",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b67c678e165a",
+   "t": "Vence a Manabu en la Llanura"
+  },
+  {
+   "row": "Data32",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c0cf8d6d7690",
+   "t": "Vence a Marina en la Llanura"
+  },
+  {
+   "row": "Data33",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b24a30d4aae5",
+   "t": "Vence a Nei en la Llanura"
+  },
+  {
+   "row": "Data34",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "ce4931075ccb",
+   "t": "Vence a Saito en la Llanura"
+  },
+  {
+   "row": "Data36",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1116b27c34c6",
+   "t": "Vence a la Pandilla Rubberobo en la Ribera"
+  },
+  {
+   "row": "Data37",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e9b00e84f2a2",
+   "t": "Vence a Marina en la Ribera"
+  },
+  {
+   "row": "Data38",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0820ba018217",
+   "t": "Vence a Memochi en la Ribera"
+  },
+  {
+   "row": "Data39",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f8698d0b8758",
+   "t": "Vence a Nei en la Ribera"
+  },
+  {
+   "row": "Data40",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "89647fbaa7bc",
+   "t": "Vence a Saito en la Ribera"
+  },
+  {
+   "row": "Data42",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7de09146bd3d",
+   "t": "Vence a Manabu en la Tundra"
+  },
+  {
+   "row": "Data43",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "acf955a67281",
+   "t": "Vence a Tsukiji en la Tundra"
+  },
+  {
+   "row": "Data44",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "8572becaa6fd",
+   "t": "Vence a Memochi en la Tundra"
+  },
+  {
+   "row": "Data45",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "212600568f03",
+   "t": "Vence a Eito en la Tundra"
+  },
+  {
+   "row": "Data46",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b0a8c36b6311",
+   "t": "Vence a Saito en la Tundra"
+  },
+  {
+   "row": "Data48",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "66def10515fa",
+   "t": "Vence a Amu en el Ciberespacio"
+  },
+  {
+   "row": "Data49",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "08c42411c09f",
+   "t": "Vence a Marina en el Ciberespacio"
+  },
+  {
+   "row": "Data50",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "32a99904d3b7",
+   "t": "Vence a Manabu en el Ciberespacio"
+  },
+  {
+   "row": "Data51",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e2214213fdcb",
+   "t": "Vence a la Pandilla Rubberobo en el Ciberespacio"
+  },
+  {
+   "row": "Data52",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "fb45f6d312e8",
+   "t": "Vence a Memochi en el Ciberespacio"
+  },
+  {
+   "row": "Data53",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "26ee96e0342e",
+   "t": "Vence a Nei en el Ciberespacio"
+  },
+  {
+   "row": "Data54",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7eefec8f3f3e",
+   "t": "Vence a Tsukiji en el Ciberespacio"
+  },
+  {
+   "row": "Data55",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "29acc5d653dd",
+   "t": "Vence a Eito en el Ciberespacio"
+  },
+  {
+   "row": "Data56",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "442928afeca2",
+   "t": "Vence al Director de Cartas en el Ciberespacio"
+  },
+  {
+   "row": "Data57",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4e33b998cf01",
+   "t": "Vence a Saito en el Ciberespacio"
+  },
+  {
+   "row": "Data58",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "867fc698f4d7",
+   "t": "Vence a Hakuga en el Ciberespacio"
+  },
+  {
+   "row": "Data61",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5d8510b6231e",
+   "t": "Gana en el piso 1 de la Torre Robobatalla (Fácil)"
+  },
+  {
+   "row": "Data61",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5d8510b6231e",
+   "t": "Gana en el piso 1 de la Torre Robobatalla (Fácil)"
+  },
+  {
+   "row": "Data63",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3a7787006de0",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Fácil)"
+  },
+  {
+   "row": "Data63",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "3a7787006de0",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Fácil)"
+  },
+  {
+   "row": "Data65",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "1e3bf61ef56b",
+   "t": "Gana en el piso 3 de la Torre Robobatalla (Fácil)"
+  },
+  {
+   "row": "Data67",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f052f3084069",
+   "t": "Gana en el piso 1 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data68",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d4955cd7bc67",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data68",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "d4955cd7bc67",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data70",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "64b29cbd6458",
+   "t": "Gana en el piso 3 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data71",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "35e3c6427904",
+   "t": "Gana en el piso 4 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data72",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "aed7f3e0e1d2",
+   "t": "Gana en el piso 5 de la Torre Robobatalla (Normal)"
+  },
+  {
+   "row": "Data74",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0f48f06e9b14",
+   "t": "Gana en el piso 1 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data75",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b9f9b206f3b1",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data76",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "4106ca0000f4",
+   "t": "Gana en el piso 3 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data77",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5084d7ef4f55",
+   "t": "Gana en el piso 4 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data77",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5084d7ef4f55",
+   "t": "Gana en el piso 4 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data79",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "44decc7eedca",
+   "t": "Gana en el piso 5 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data80",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "07214604b446",
+   "t": "Gana en el piso 6 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data81",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "505348f84f87",
+   "t": "Gana en el piso 7 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data82",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "72c54dd14483",
+   "t": "Gana en el piso 8 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data82",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "72c54dd14483",
+   "t": "Gana en el piso 8 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data84",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5a7d01094a52",
+   "t": "Gana en el piso 9 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data84",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "5a7d01094a52",
+   "t": "Gana en el piso 9 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data86",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "881e0204c008",
+   "t": "Gana en el piso 10 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data86",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "881e0204c008",
+   "t": "Gana en el piso 10 de la Torre Robobatalla (Difícil)"
+  },
+  {
+   "row": "Data89",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5ffc3e70244b",
+   "t": "Gana en el piso 1 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data90",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3ac4d76290ab",
+   "t": "Gana en el piso 2 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data91",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "dac326b10dfd",
+   "t": "Gana en el piso 3 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data92",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "87528d54ec2b",
+   "t": "Gana en el piso 4 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data93",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c9dfbc99ded1",
+   "t": "Gana en el piso 5 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data93",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "c9dfbc99ded1",
+   "t": "Gana en el piso 5 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data95",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7869ce1bf49f",
+   "t": "Gana en el piso 6 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data96",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "45b1022e0857",
+   "t": "Gana en el piso 7 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data97",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "442dbdb776a6",
+   "t": "Gana en el piso 8 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data98",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5e601197b374",
+   "t": "Gana en el piso 9 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data99",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "57c81d3520cd",
+   "t": "Gana en el piso 10 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data99",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "57c81d3520cd",
+   "t": "Gana en el piso 10 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data101",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "f1aa13951915",
+   "t": "Gana en el piso 11 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data102",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b3e63cb06611",
+   "t": "Gana en el piso 12 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data103",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "694a07411134",
+   "t": "Gana en el piso 13 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data104",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "dba22b7112de",
+   "t": "Gana en el piso 14 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data105",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "9bbb3c2dcc33",
+   "t": "Gana en el piso 15 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data106",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "983601d75d62",
+   "t": "Gana en el piso 16 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data107",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "920a1a186a96",
+   "t": "Gana en el piso 17 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data108",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "a677a8d1fe89",
+   "t": "Gana en el piso 18 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data109",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "463d8d45dbb4",
+   "t": "Gana en el piso 19 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data110",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c660b74be954",
+   "t": "Gana en el piso 20 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data111",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "fe91bff718e4",
+   "t": "Gana en el piso 21 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data112",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d54053a21ab8",
+   "t": "Gana en el piso 22 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data113",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "18842d2cee36",
+   "t": "Gana en el piso 23 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data114",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "9511b7f6e8ef",
+   "t": "Gana en el piso 24 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data115",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "16b92e9d2bf9",
+   "t": "Gana en el piso 25 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data116",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7faf2f622d72",
+   "t": "Gana en el piso 26 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data117",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "30c7456063ab",
+   "t": "Gana en el piso 27 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data118",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "0be4a27c82d0",
+   "t": "Gana en el piso 28 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data119",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "cbe17b528d60",
+   "t": "Gana en el piso 29 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data120",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7e54dad43d30",
+   "t": "Gana en el piso 30 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data121",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "c087bd49020a",
+   "t": "Gana en el piso 31 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data122",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "871edb136f33",
+   "t": "Gana en el piso 32 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data123",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "64c896511b28",
+   "t": "Gana en el piso 33 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data124",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e6c6c3609417",
+   "t": "Gana en el piso 34 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data125",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7f5fd257d63b",
+   "t": "Gana en el piso 35 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data126",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5ac7d2163a5c",
+   "t": "Gana en el piso 36 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data127",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "865765181709",
+   "t": "Gana en el piso 37 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data128",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "856faba67241",
+   "t": "Gana en el piso 38 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data129",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "062757119168",
+   "t": "Gana en el piso 39 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data130",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "b2acd8ad9aaa",
+   "t": "Gana en el piso 40 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data130",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "b2acd8ad9aaa",
+   "t": "Gana en el piso 40 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data132",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "04f79fdd8687",
+   "t": "Gana en el piso 41 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data133",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e61b045e8041",
+   "t": "Gana en el piso 42 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data134",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7581d7b76b00",
+   "t": "Gana en el piso 43 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data135",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "31327e3f64e2",
+   "t": "Gana en el piso 44 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data136",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "e8ef3f4887e2",
+   "t": "Gana en el piso 45 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data137",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "d40b5820aff4",
+   "t": "Gana en el piso 46 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data138",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "5dcbd55e843b",
+   "t": "Gana en el piso 47 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data139",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "3f8192408915",
+   "t": "Gana en el piso 48 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data140",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "6f1647952c7b",
+   "t": "Gana en el piso 49 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data141",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "90cee4524572",
+   "t": "Gana en el piso 50 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data141",
+   "sub": 1,
+   "col": "m_unlockConditionText",
+   "src": "90cee4524572",
+   "t": "Gana en el piso 50 de la Torre Robobatalla (Infinito)"
+  },
+  {
+   "row": "Data05",
+   "sub": 0,
+   "col": "m_unlockConditionText",
+   "src": "7585477c94eb",
+   "t": "Introduce el comando secreto en la pantalla de título"
+  }
+ ]
+}

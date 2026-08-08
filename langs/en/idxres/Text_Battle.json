@@ -1,0 +1,460 @@
+{
+ "table": "Text_Battle",
+ "entries": [
+  {
+   "row": "Common_End",
+   "sub": 0,
+   "col": "text",
+   "src": "8f26d438109c",
+   "t": ""
+  },
+  {
+   "row": "TurnSwitch",
+   "sub": 0,
+   "col": "text",
+   "src": "78d8bac7d1e5",
+   "t": ""
+  },
+  {
+   "row": "DrawPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "35808dbd2de5",
+   "t": ""
+  },
+  {
+   "row": "StandbyPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "a6eea7a44811",
+   "t": ""
+  },
+  {
+   "row": "ActionPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "71f25874da44",
+   "t": ""
+  },
+  {
+   "row": "EndPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "3d415031c6f5",
+   "t": ""
+  },
+  {
+   "row": "RapidCooling",
+   "sub": 0,
+   "col": "text",
+   "src": "5e1f477813aa",
+   "t": ""
+  },
+  {
+   "row": "Dialog_SupportReplace",
+   "sub": 0,
+   "col": "text",
+   "src": "419524a3e03d",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsChange",
+   "sub": 0,
+   "col": "text",
+   "src": "18c90e07e44a",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsEmpty",
+   "sub": 0,
+   "col": "text",
+   "src": "4ba1400499ec",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsMedaChange",
+   "sub": 0,
+   "col": "text",
+   "src": "426c7a800d68",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsExtPhase",
+   "sub": 0,
+   "col": "text",
+   "src": "de664e50a5ad",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "3469bfbda4ba",
+   "t": ""
+  },
+  {
+   "row": "Dialog_PartsOpponentTurn",
+   "sub": 0,
+   "col": "text",
+   "src": "be37bd12889d",
+   "t": ""
+  },
+  {
+   "row": "Dialog_BreakOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "bee33b3ebed9",
+   "t": ""
+  },
+  {
+   "row": "Dialog_BreakPlayer",
+   "sub": 0,
+   "col": "text",
+   "src": "08bb0afcd6a1",
+   "t": ""
+  },
+  {
+   "row": "Dialog_BreakPartsOpponent",
+   "sub": 0,
+   "col": "text",
+   "src": "095758192022",
+   "t": ""
+  },
+  {
+   "row": "Dialog_BreakPartsPlayer",
+   "sub": 0,
+   "col": "text",
+   "src": "1b36c5b9ab9b",
+   "t": ""
+  },
+  {
+   "row": "MulliganSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "f91150c2559f",
+   "t": ""
+  },
+  {
+   "row": "DiscardSelectHand",
+   "sub": 0,
+   "col": "text",
+   "src": "a1a86f1c9eb3",
+   "t": ""
+  },
+  {
+   "row": "DiscardSelectHandWithCount",
+   "sub": 0,
+   "col": "text",
+   "src": "13aa0b7dea19",
+   "t": ""
+  },
+  {
+   "row": "DiscardHandAuto",
+   "sub": 0,
+   "col": "text",
+   "src": "07ee407d0374",
+   "t": ""
+  },
+  {
+   "row": "Info_TargetSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "d7c24ef36d58",
+   "t": ""
+  },
+  {
+   "row": "Info_TargetSelect_Use",
+   "sub": 0,
+   "col": "text",
+   "src": "ffcaba8c47a0",
+   "t": ""
+  },
+  {
+   "row": "Info_TargetSelect_Activate",
+   "sub": 0,
+   "col": "text",
+   "src": "8dc314023c54",
+   "t": ""
+  },
+  {
+   "row": "Info_SupportSet",
+   "sub": 0,
+   "col": "text",
+   "src": "f51d49040704",
+   "t": ""
+  },
+  {
+   "row": "Start_LegBonus",
+   "sub": 0,
+   "col": "text",
+   "src": "8c953c61c790",
+   "t": ""
+  },
+  {
+   "row": "Btn_Confirmed",
+   "sub": 0,
+   "col": "text",
+   "src": "20db9f87b860",
+   "t": ""
+  },
+  {
+   "row": "Btn_Finish",
+   "sub": 0,
+   "col": "text",
+   "src": "8f26d438109c",
+   "t": ""
+  },
+  {
+   "row": "Btn_Cancel",
+   "sub": 0,
+   "col": "text",
+   "src": "bca84ea5c65f",
+   "t": ""
+  },
+  {
+   "row": "Btn_PhaseEnd",
+   "sub": 0,
+   "col": "text",
+   "src": "a92fc85edc67",
+   "t": ""
+  },
+  {
+   "row": "Btn_Return",
+   "sub": 0,
+   "col": "text",
+   "src": "8fc7f899161b",
+   "t": ""
+  },
+  {
+   "row": "Btn_Close",
+   "sub": 0,
+   "col": "text",
+   "src": "f6c244f98893",
+   "t": ""
+  },
+  {
+   "row": "Btn_CheckBoard",
+   "sub": 0,
+   "col": "text",
+   "src": "192bf0a39381",
+   "t": ""
+  },
+  {
+   "row": "PhaseEnd_Action",
+   "sub": 0,
+   "col": "text",
+   "src": "d261817f5ecf",
+   "t": ""
+  },
+  {
+   "row": "PhaseEnd_StandBy",
+   "sub": 0,
+   "col": "text",
+   "src": "50d5105f4d67",
+   "t": ""
+  },
+  {
+   "row": "PhaseEnd_End",
+   "sub": 0,
+   "col": "text",
+   "src": "dbbcfae25bd3",
+   "t": ""
+  },
+  {
+   "row": "Caution_Body_NotPlaceMedaroto",
+   "sub": 0,
+   "col": "text",
+   "src": "25e3a43af2ee",
+   "t": ""
+  },
+  {
+   "row": "Caution_Body_NotPlaceParts",
+   "sub": 0,
+   "col": "text",
+   "src": "cfc262e9e604",
+   "t": ""
+  },
+  {
+   "row": "Caution_Body_NotAction",
+   "sub": 0,
+   "col": "text",
+   "src": "a4a0b7bcb3ce",
+   "t": ""
+  },
+  {
+   "row": "Caution_Body_DeathLock",
+   "sub": 0,
+   "col": "text",
+   "src": "07f96d80d497",
+   "t": ""
+  },
+  {
+   "row": "Caution_Title_Caution",
+   "sub": 0,
+   "col": "text",
+   "src": "a8b7a4480407",
+   "t": ""
+  },
+  {
+   "row": "Caution_Title_StandBy",
+   "sub": 0,
+   "col": "text",
+   "src": "01d02955c404",
+   "t": ""
+  },
+  {
+   "row": "Caution_Title_End",
+   "sub": 0,
+   "col": "text",
+   "src": "3b11c907e606",
+   "t": ""
+  },
+  {
+   "row": "Caution_Title_Action",
+   "sub": 0,
+   "col": "text",
+   "src": "0660bf1d1f7e",
+   "t": ""
+  },
+  {
+   "row": "Result_Title_MedalPowUp",
+   "sub": 0,
+   "col": "text",
+   "src": "9ff283a1f4dc",
+   "t": ""
+  },
+  {
+   "row": "Result_Title_MedalEvolution",
+   "sub": 0,
+   "col": "text",
+   "src": "ad6672757a5c",
+   "t": ""
+  },
+  {
+   "row": "Trap_Activation_Trap",
+   "sub": 0,
+   "col": "text",
+   "src": "175863078c9f",
+   "t": ""
+  },
+  {
+   "row": "Trap_Activation_Plant",
+   "sub": 0,
+   "col": "text",
+   "src": "b0dc54c70c20",
+   "t": ""
+  },
+  {
+   "row": "Skill_DuplicateCard_TextA",
+   "sub": 0,
+   "col": "text",
+   "src": "b6882581efdd",
+   "t": ""
+  },
+  {
+   "row": "Skill_DuplicateCard_TextB",
+   "sub": 0,
+   "col": "text",
+   "src": "f26bada456ac",
+   "t": ""
+  },
+  {
+   "row": "Skill_Repair_TextA",
+   "sub": 0,
+   "col": "text",
+   "src": "514cad656292",
+   "t": ""
+  },
+  {
+   "row": "Skill_Repair_TextB",
+   "sub": 0,
+   "col": "text",
+   "src": "9455dfc94731",
+   "t": ""
+  },
+  {
+   "row": "Rematch",
+   "sub": 0,
+   "col": "text",
+   "src": "d6773d87876b",
+   "t": ""
+  },
+  {
+   "row": "Rematch_Body_Rematch",
+   "sub": 0,
+   "col": "text",
+   "src": "fc56761caf20",
+   "t": ""
+  },
+  {
+   "row": "Rematch_ReturnLobby",
+   "sub": 0,
+   "col": "text",
+   "src": "04c4f88b72d3",
+   "t": ""
+  },
+  {
+   "row": "Rematch_OK",
+   "sub": 0,
+   "col": "text",
+   "src": "f657b9ca2d20",
+   "t": ""
+  },
+  {
+   "row": "Rematch_Body_Wait",
+   "sub": 0,
+   "col": "text",
+   "src": "0ba1e6bc275d",
+   "t": ""
+  },
+  {
+   "row": "Rematch_Body_Cancel",
+   "sub": 0,
+   "col": "text",
+   "src": "9ec29152e7e9",
+   "t": ""
+  },
+  {
+   "row": "Surrender_Body_First",
+   "sub": 0,
+   "col": "text",
+   "src": "29f9117f3955",
+   "t": ""
+  },
+  {
+   "row": "Surrender_Body_Second",
+   "sub": 0,
+   "col": "text",
+   "src": "7ecf3c798d40",
+   "t": ""
+  },
+  {
+   "row": "Surrender_Button_OK",
+   "sub": 0,
+   "col": "text",
+   "src": "5e09929df590",
+   "t": ""
+  },
+  {
+   "row": "DominionSelectHand",
+   "sub": 0,
+   "col": "text",
+   "src": "adcd0323492c",
+   "t": ""
+  },
+  {
+   "row": "DominionConfirm",
+   "sub": 0,
+   "col": "text",
+   "src": "1a0f29b5ed87",
+   "t": ""
+  },
+  {
+   "row": "DiscardSelectHandLimit",
+   "sub": 0,
+   "col": "text",
+   "src": "070cb22d71c1",
+   "t": ""
+  }
+ ]
+}

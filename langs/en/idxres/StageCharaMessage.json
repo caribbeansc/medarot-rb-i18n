@@ -1,0 +1,2084 @@
+{
+ "table": "StageCharaMessage",
+ "entries": [
+  {
+   "row": "Tutorial00",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "e6b19cd6e902",
+   "t": ""
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": ""
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "c0e86231f294",
+   "t": ""
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 2,
+   "col": "m_startMsg",
+   "src": "69cffb640db0",
+   "t": ""
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 3,
+   "col": "m_startMsg",
+   "src": "384588afd6fa",
+   "t": ""
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c5e4477e3ea3",
+   "t": ""
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "08b2c6c0393d",
+   "t": ""
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "0c2c6b1e350d",
+   "t": ""
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "9bfe549c9f40",
+   "t": ""
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1883d6f89e16",
+   "t": ""
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "895b3c35f54a",
+   "t": ""
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "6d17e9832b2e",
+   "t": ""
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "860ab6610798",
+   "t": ""
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c47e3d512197",
+   "t": ""
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "491844758885",
+   "t": ""
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "330f7fb824b0",
+   "t": ""
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "bd858aa93107",
+   "t": ""
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b760fa06ea34",
+   "t": ""
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "514243b98ba9",
+   "t": ""
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "f7d79c1f7081",
+   "t": ""
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f1ae08ede69b",
+   "t": ""
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "cacaf7cb9f60",
+   "t": ""
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": ""
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "a25409e159fd",
+   "t": ""
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "06e37b4f3770",
+   "t": ""
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": ""
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f3b13cfa2956",
+   "t": ""
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "7bf65f861d97",
+   "t": ""
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1433e1098c7e",
+   "t": ""
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b760fa06ea34",
+   "t": ""
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e1dd65ed7804",
+   "t": ""
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "a4c6c530b7d6",
+   "t": ""
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7e727d1f889f",
+   "t": ""
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": ""
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "52b0b3893be8",
+   "t": ""
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "cb62699ac9aa",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "2212c1fe71c6",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "14c3f13d2d46",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3898512516fe",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "98c8ebe6030b",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "57c39cc3611e",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 3,
+   "col": "m_winMsg",
+   "src": "4639d4a6cd6d",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 4,
+   "col": "m_winMsg",
+   "src": "c9123c7bdf93",
+   "t": ""
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 5,
+   "col": "m_winMsg",
+   "src": "4608098ccf08",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "43b9374962b9",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "14c3f13d2d46",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3898512516fe",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "98c8ebe6030b",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "57c39cc3611e",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 3,
+   "col": "m_winMsg",
+   "src": "4639d4a6cd6d",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 4,
+   "col": "m_winMsg",
+   "src": "c9123c7bdf93",
+   "t": ""
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 5,
+   "col": "m_winMsg",
+   "src": "4608098ccf08",
+   "t": ""
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "3e2f27fe18a8",
+   "t": ""
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "91c21ea48cd4",
+   "t": ""
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": ""
+  },
+  {
+   "row": "Messge11",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d8aecd450107",
+   "t": ""
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7a59553b286c",
+   "t": ""
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "363391c0c9f5",
+   "t": ""
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": ""
+  },
+  {
+   "row": "Messge12",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "59c67a53ee44",
+   "t": ""
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "14bee5559768",
+   "t": ""
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e2f2a44aec44",
+   "t": ""
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": ""
+  },
+  {
+   "row": "Messge13",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d04d6fd4c1aa",
+   "t": ""
+  },
+  {
+   "row": "Messge13",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "50e5b4fbdf7a",
+   "t": ""
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ff5976b49f74",
+   "t": ""
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "55c6f8643020",
+   "t": ""
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge14",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f36587354748",
+   "t": ""
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ff5976b49f74",
+   "t": ""
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "55c6f8643020",
+   "t": ""
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge15",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f36587354748",
+   "t": ""
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "63ae8fd76ed8",
+   "t": ""
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "82ee681c24a4",
+   "t": ""
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge16",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "93061114ca9c",
+   "t": ""
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "63ae8fd76ed8",
+   "t": ""
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "82ee681c24a4",
+   "t": ""
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge17",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "03a5db1e497e",
+   "t": ""
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7ab8ba524adf",
+   "t": ""
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "124aa76e6d5d",
+   "t": ""
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": ""
+  },
+  {
+   "row": "Messge18",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5b9e48de7438",
+   "t": ""
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7478fea7f8cc",
+   "t": ""
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "bf43dd06f087",
+   "t": ""
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": ""
+  },
+  {
+   "row": "Messge19",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "7a5d6dc4ad39",
+   "t": ""
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a6a4e06e35d7",
+   "t": ""
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "cb2d5547c65d",
+   "t": ""
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": ""
+  },
+  {
+   "row": "Messge20",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "93c2004e6f1b",
+   "t": ""
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "feaa4baf88b9",
+   "t": ""
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "86fc2358faa9",
+   "t": ""
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge21",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1abe6fd79a25",
+   "t": ""
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "60b3474d458d",
+   "t": ""
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "d34b1dd4dc18",
+   "t": ""
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge22",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "803648c397dd",
+   "t": ""
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "60b3474d458d",
+   "t": ""
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "d34b1dd4dc18",
+   "t": ""
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge23",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "803648c397dd",
+   "t": ""
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4d60b36f4623",
+   "t": ""
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "dfc4ef9f64c4",
+   "t": ""
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": ""
+  },
+  {
+   "row": "Messge24",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "2a1a81bb4946",
+   "t": ""
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "b68b3be4ed1e",
+   "t": ""
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "9d5ff1d20622",
+   "t": ""
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": ""
+  },
+  {
+   "row": "Messge25",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ea95cd2eca32",
+   "t": ""
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "baaca2b9bbca",
+   "t": ""
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0d3239a55a4b",
+   "t": ""
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": ""
+  },
+  {
+   "row": "Messge26",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "9ecac9646a75",
+   "t": ""
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "e48db5e5bacf",
+   "t": ""
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "eb35a5f4aedd",
+   "t": ""
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": ""
+  },
+  {
+   "row": "Messge27",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1ce78ea568df",
+   "t": ""
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4773493ce919",
+   "t": ""
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4fd9794891cc",
+   "t": ""
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge28",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "180a29ebb3a4",
+   "t": ""
+  },
+  {
+   "row": "Messge28",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "b43a32eebbbb",
+   "t": ""
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4773493ce919",
+   "t": ""
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4fd9794891cc",
+   "t": ""
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge29",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a98d609efd7d",
+   "t": ""
+  },
+  {
+   "row": "Messge29",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "b43a32eebbbb",
+   "t": ""
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "69b8ac1d6d51",
+   "t": ""
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "12436c0ce001",
+   "t": ""
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": ""
+  },
+  {
+   "row": "Messge30",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "481789fe99a7",
+   "t": ""
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "9b1b49ec38b6",
+   "t": ""
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "188da155669b",
+   "t": ""
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "259d5df9aa39",
+   "t": ""
+  },
+  {
+   "row": "Messge31",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "35450b0188f4",
+   "t": ""
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "32d31d36ee0c",
+   "t": ""
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "408ee0f546cb",
+   "t": ""
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": ""
+  },
+  {
+   "row": "Messge32",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "20111c2c740b",
+   "t": ""
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "0b300d826404",
+   "t": ""
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "c2e4b4e39fd5",
+   "t": ""
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": ""
+  },
+  {
+   "row": "Messge33",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "071d6a3b882b",
+   "t": ""
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "27221ad9fbf5",
+   "t": ""
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "afc306742f70",
+   "t": ""
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge34",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4e729b408e2f",
+   "t": ""
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "27221ad9fbf5",
+   "t": ""
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "afc306742f70",
+   "t": ""
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge35",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4e729b408e2f",
+   "t": ""
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4f3a1a1ef068",
+   "t": ""
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "2821541288ec",
+   "t": ""
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": ""
+  },
+  {
+   "row": "Messge36",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3192b1caaad0",
+   "t": ""
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "cc9d053c8c84",
+   "t": ""
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "05949056d931",
+   "t": ""
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": ""
+  },
+  {
+   "row": "Messge37",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ddc2116a72f7",
+   "t": ""
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "98a37464be94",
+   "t": ""
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "ea34397b2bd8",
+   "t": ""
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": ""
+  },
+  {
+   "row": "Messge38",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ba003259e64b",
+   "t": ""
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7af720ea73ac",
+   "t": ""
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "2d7c8e80834c",
+   "t": ""
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": ""
+  },
+  {
+   "row": "Messge39",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5e684c2e815e",
+   "t": ""
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a50a3448268c",
+   "t": ""
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f088eca158ea",
+   "t": ""
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge40",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1a527c2c09be",
+   "t": ""
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a50a3448268c",
+   "t": ""
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f088eca158ea",
+   "t": ""
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge41",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1a527c2c09be",
+   "t": ""
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c82b030ba99c",
+   "t": ""
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5c787a36f730",
+   "t": ""
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": ""
+  },
+  {
+   "row": "Messge42",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3b122c52051e",
+   "t": ""
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "5681a8b6ecdf",
+   "t": ""
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "a174a4e6c00f",
+   "t": ""
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge43",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a64f0c6fcb0b",
+   "t": ""
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4c2970c78ae5",
+   "t": ""
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "257a1cad9912",
+   "t": ""
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": ""
+  },
+  {
+   "row": "Messge44",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e16f662afd6c",
+   "t": ""
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f5d6a016274b",
+   "t": ""
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "ccc56da99009",
+   "t": ""
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": ""
+  },
+  {
+   "row": "Messge45",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f3b5f9d9e44a",
+   "t": ""
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f13d30bea776",
+   "t": ""
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6f0ac7f6ff12",
+   "t": ""
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge46",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5495dbef5887",
+   "t": ""
+  },
+  {
+   "row": "Messge46",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e12b11ae6732",
+   "t": ""
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f13d30bea776",
+   "t": ""
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6f0ac7f6ff12",
+   "t": ""
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge47",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5495dbef5887",
+   "t": ""
+  },
+  {
+   "row": "Messge47",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e12b11ae6732",
+   "t": ""
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "37e82351c5ea",
+   "t": ""
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f2bf411a8cc6",
+   "t": ""
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": ""
+  },
+  {
+   "row": "Messge48",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d44c4aeea899",
+   "t": ""
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "0544a283b1d5",
+   "t": ""
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b50b95813531",
+   "t": ""
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": ""
+  },
+  {
+   "row": "Messge49",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "05c7d05e44cb",
+   "t": ""
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fa45d1e891ee",
+   "t": ""
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f6a5094ca020",
+   "t": ""
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": ""
+  },
+  {
+   "row": "Messge50",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e6d7f8d196bb",
+   "t": ""
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f9e467ac3f17",
+   "t": ""
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "540caf1d9eff",
+   "t": ""
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": ""
+  },
+  {
+   "row": "Messge51",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "bd9daff8c76f",
+   "t": ""
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "428f8d3ff8c5",
+   "t": ""
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "09df96f1f481",
+   "t": ""
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": ""
+  },
+  {
+   "row": "Messge52",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "51dde7b16666",
+   "t": ""
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a2d9a745b8d6",
+   "t": ""
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e4465efc5cc9",
+   "t": ""
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": ""
+  },
+  {
+   "row": "Messge53",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "42670670f840",
+   "t": ""
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "974c4c64f9d2",
+   "t": ""
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "959600255114",
+   "t": ""
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge54",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4eed275bb53b",
+   "t": ""
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "974c4c64f9d2",
+   "t": ""
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "959600255114",
+   "t": ""
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": ""
+  },
+  {
+   "row": "Messge55",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "2cf6b820eabf",
+   "t": ""
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "73b8702a7b6d",
+   "t": ""
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e0662985103b",
+   "t": ""
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "322d28b61b21",
+   "t": ""
+  },
+  {
+   "row": "Messge56",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "989f74a213fd",
+   "t": ""
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "82d3d9e554eb",
+   "t": ""
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6ca828330626",
+   "t": ""
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": ""
+  },
+  {
+   "row": "Messge57",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "fcd8c67100e1",
+   "t": ""
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fe9b98ccb901",
+   "t": ""
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "872af75b7705",
+   "t": ""
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge58",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "74bdd7395d57",
+   "t": ""
+  },
+  {
+   "row": "Messge58",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e2dca8b586ca",
+   "t": ""
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fe9b98ccb901",
+   "t": ""
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "872af75b7705",
+   "t": ""
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": ""
+  },
+  {
+   "row": "Messge59",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "74bdd7395d57",
+   "t": ""
+  },
+  {
+   "row": "Messge59",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e2dca8b586ca",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1048a9ba94ee",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b43fa80a4af0",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "76027a5acc74",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a3f9ccdd24dc",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "6a6e576a85d0",
+   "t": ""
+  },
+  {
+   "row": "Messge60",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "800ff0653975",
+   "t": ""
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "688be825c93b",
+   "t": ""
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "50ff8cd8c2bb",
+   "t": ""
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a23c7f28214b",
+   "t": ""
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1613276c3bdf",
+   "t": ""
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5f74697d997f",
+   "t": ""
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "5aa87520220e",
+   "t": ""
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "2e39bca06979",
+   "t": ""
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4dd7ba252493",
+   "t": ""
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "c4231a6271b1",
+   "t": ""
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a2ed18eb4d1d",
+   "t": ""
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0c9d86ebf6b1",
+   "t": ""
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": ""
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ca51bcba9c1f",
+   "t": ""
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5c44606695be",
+   "t": ""
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ad62c1787dda",
+   "t": ""
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "9ea9c11056dd",
+   "t": ""
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0367141523b8",
+   "t": ""
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "d573bd523802",
+   "t": ""
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "5c3e8e882b61",
+   "t": ""
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "7ac1d430114a",
+   "t": ""
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "011275734827",
+   "t": ""
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1b45aba515a0",
+   "t": ""
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "80e70f234e51",
+   "t": ""
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "e7ec6c99b796",
+   "t": ""
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "25e76e62b859",
+   "t": ""
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4bbf935527e1",
+   "t": ""
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "97d07b75aff4",
+   "t": ""
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "b98153e3735b",
+   "t": ""
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "1b93aaf16b56",
+   "t": ""
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "8f1e4b88bfb8",
+   "t": ""
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7755304f6a81",
+   "t": ""
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b533dce9f098",
+   "t": ""
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "3ef0f6f08fc3",
+   "t": ""
+  },
+  {
+   "row": "Messge71",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "1244f609efdc",
+   "t": ""
+  }
+ ]
+}

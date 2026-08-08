@@ -1,0 +1,24 @@
+{
+  "code": "en",
+  "name": "English",
+  "english_name": "English",
+  "mod_name": "MedarotRB_EN",
+  "font": {
+    "fallbacks": [],
+    "global_fallbacks": false,
+    "neutralize_kerning": true,
+    "fix_tmp_metrics": true
+  },
+  "validation": {
+    "extra_chars": "—–…·™®©°×♪↑↓→←",
+    "max_line": 46,
+    "length_factor": 1.25
+  },
+  "ascii_fallback": {},
+  "credits": [],
+  "_status": "Not translated yet. Every key is here with an empty 't' — pick a table and start.",
+  "_notes": {
+    "font": "Every font in the game already has the full ASCII set, so English needs no fallback fonts; it does need the kerning and metric fixes, or Latin letters overlap.",
+    "start_here": "Text_Menu (186), Text_Battle (65), Tutorial (11) are small and high impact. CardDef (1078) is the big one."
+  }
+}

@@ -1,0 +1,425 @@
+{
+ "table": "LoadingTips",
+ "entries": [
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1d8e61975bfd",
+   "t": "Francotiro"
+  },
+  {
+   "row": "Tips00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4d405955cbbf",
+   "t": "¡[Francotiro] inflige a un Medabot\ndaño igual al poder del atacante!\n¡No recibe contraataque ni siquiera\nde rivales En Espera!"
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "522ba9f47afb",
+   "t": "Guardia"
+  },
+  {
+   "row": "Tips01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5543b96f9179",
+   "t": "¡Si hay un Medabot con [Guardia],\nlos ataques normales y cruzados del\nrival solo pueden dirigirse a él!\nPara proteger a tu Líder,\ntransfiere un Medabot con [Guardia]."
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ded4469cb3b6",
+   "t": "Quemadura"
+  },
+  {
+   "row": "Tips02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fe199246037a",
+   "t": "¡Un Medabot en estado de [Quemadura]\npierde 3000 de poder al atacar!"
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "792ab5974a45",
+   "t": "Atadura"
+  },
+  {
+   "row": "Tips03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "50beab80832a",
+   "t": "¡Un Medabot en estado de [Atadura]\nnecesita descartar 2 cartas más\npara usar el enfriamiento rápido!"
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "10632230a0a1",
+   "t": "Shock"
+  },
+  {
+   "row": "Tips04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "78f3e425c7a4",
+   "t": "¡Un Medabot en estado de [Shock]\nno puede retransferirse ni activar\nhabilidades (acciones)!"
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "baa5cd1c4b6f",
+   "t": "Congelación"
+  },
+  {
+   "row": "Tips05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cae16d4f8be7",
+   "t": "¡Un Medabot en estado de [Congelación]\nno puede retransferirse!\n¡Además, no podrá realizar\nninguna acción!"
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "4000dce4eda1",
+   "t": "Frenesí"
+  },
+  {
+   "row": "Tips06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "80eecda0ede2",
+   "t": "¡[Frenesí] es un Rasgo que aumenta\nen 2000 el poder del Medabot al atacar!\n¡No lo pases por alto solo porque\nsu poder parezca bajo!"
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cddb8af377bf",
+   "t": "Cerrojo"
+  },
+  {
+   "row": "Tips07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3daec37d078a",
+   "t": "¡En estado de [Cerrojo] no puedes\ndescartar cartas!\n¡Tampoco podrás usar el enfriamiento\nrápido, que las descarta como costo!"
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b728a66020e1",
+   "t": "No puede atacar"
+  },
+  {
+   "row": "Tips08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "322780c610eb",
+   "t": "¡Un Medabot con [No puede atacar]\nno puede elegir ataque normal ni\nataque cruzado, pero sí puede\ncontraatacar al ser atacado!"
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "df82438f4b95",
+   "t": "Límite de Barrera"
+  },
+  {
+   "row": "Tips09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3ece0dde2e25",
+   "t": "Las cartas con [Límite de Barrera]\nsolo se juegan si la Barrera del Líder\nestá en el valor indicado o menos.\n¡Son fuertes, pero no salen al inicio!"
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "efc9a6a01ac6",
+   "t": "Reparación"
+  },
+  {
+   "row": "Tips10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b59453892e5c",
+   "t": "¡[Reparación] convierte una carta\nde tu mano en Barrera!\nNo sirve con la Barrera al máximo\nni con la mano vacía."
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b8187137b853",
+   "t": "Destrucción de Medabots"
+  },
+  {
+   "row": "Tips11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a735b9df986d",
+   "t": "¡[Destrucción de Medabots] incluye no\nsolo destruir Medabots Soporte, sino\ntambién piezas y Barrera del Líder!"
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "5e1f477813aa",
+   "t": "Enfriamiento rápido"
+  },
+  {
+   "row": "Tips12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1106fb49fb84",
+   "t": "¡[Enfriamiento rápido] pone al Medabot\nEn Espera de inmediato!\nCuesta descartar el número\nindicado de cartas de tu mano."
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f9ae0a0b3249",
+   "t": "Despliegue"
+  },
+  {
+   "row": "Tips13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c31498b7e619",
+   "t": "¡[Despliegue] se activa gastando los\npuntos de despliegue indicados!\n¡Coloca Trampas y Plantas en el campo!"
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "27aa0203af0b",
+   "t": "Pila de cartas y mazo"
+  },
+  {
+   "row": "Tips14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8b8153aaa8ab",
+   "t": "La [Pila de cartas] es el conjunto de\ncartas que usas en el juego.\nAquí, tu pila inicial es de 35 cartas.\n¡Durante la Robobatalla, esta pila\nse llama [Mazo]!"
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "53ce36b5da9e",
+   "t": "Mano"
+  },
+  {
+   "row": "Tips15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cf8165886218",
+   "t": "La [Mano] son las cartas que robas de\ntu mazo y con las que juegas.\nEn la Fase de robo, robas cartas del\nmazo hasta tener 6 en la mano.\nEso sí, al terminar la Fase final\ndebes quedarte con 5 o menos."
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8ff87668daee",
+   "t": "Campo"
+  },
+  {
+   "row": "Tips16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0121fe7ed486",
+   "t": "El [Campo] es donde están las cartas\nen la Robobatalla, dividido en áreas."
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3427fc1d66f7",
+   "t": "Cartas desechadas"
+  },
+  {
+   "row": "Tips17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "73f7de787ace",
+   "t": "Las [Cartas desechadas] son cartas de\nuso instantáneo o retiradas del campo.\nEl [Descarte] es la zona donde\nse agrupan, aparte de las demás."
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f57ca4624425",
+   "t": "Mazo agotado"
+  },
+  {
+   "row": "Tips18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "6c58d1ac2c06",
+   "t": "[Mazo agotado] es quedarte sin cartas\nen el mazo de tanto robar.\n¡Si ya no puedes robar cartas\ndel mazo, pierdes al instante!"
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aee7e141d605",
+   "t": "Turno"
+  },
+  {
+   "row": "Tips19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "810207cfd2ea",
+   "t": "Un [Turno] es la serie de acciones\ndesde que llega tu momento de jugar\nhasta que le toca al rival.\n¡Aquí cada [Turno] se resuelve\nen orden con 4 [Fases]!"
+  },
+  {
+   "row": "Tips20",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9e8f2f0f6605",
+   "t": "Bono de terreno"
+  },
+  {
+   "row": "Tips20",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8bcff9363b02",
+   "t": "El [Bono de terreno] se gana si el\nterreno y las piernas del Líder\ntienen buena afinidad.\n¡Al empezar, 2 cartas de Táctica según\ntus piernas van a tu Mano de Barrera!"
+  },
+  {
+   "row": "Tips21",
+   "sub": 0,
+   "col": "m_title",
+   "src": "85ebf6a8ae73",
+   "t": "Medafuerza"
+  },
+  {
+   "row": "Tips21",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f79b84033b27",
+   "t": "La [Medafuerza] es una técnica especial\nque solo se activa si tu Barrera bajó.\n¡Al subir de nivel tu medalla, puedes\nllevar hasta 2 en el mazo!"
+  },
+  {
+   "row": "Tips22",
+   "sub": 0,
+   "col": "m_title",
+   "src": "57e7dc3b2012",
+   "t": "Carta favorita"
+  },
+  {
+   "row": "Tips22",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b455a3251db3",
+   "t": "La [Carta favorita] muestra qué clase\nde mazo tienes.\n¡Puedes elegirla entre las cartas\nde tu mazo!"
+  },
+  {
+   "row": "Tips23",
+   "sub": 0,
+   "col": "m_title",
+   "src": "71402a20847c",
+   "t": "Fundas"
+  },
+  {
+   "row": "Tips23",
+   "sub": 0,
+   "col": "m_text",
+   "src": "35cb5295800d",
+   "t": "Las [Fundas] cambian el reverso\nde tus cartas.\n¡Se consiguen al cumplir\nciertas condiciones!"
+  },
+  {
+   "row": "Tips24",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b68d8ff0219a",
+   "t": "Ícono de jugador"
+  },
+  {
+   "row": "Tips24",
+   "sub": 0,
+   "col": "m_text",
+   "src": "885b7cc980d5",
+   "t": "El [Ícono de jugador] te representa.\n¡Se consigue al cumplir\nciertas condiciones!"
+  },
+  {
+   "row": "Tips25",
+   "sub": 0,
+   "col": "m_title",
+   "src": "524746976904",
+   "t": "Fondo de pantalla"
+  },
+  {
+   "row": "Tips25",
+   "sub": 0,
+   "col": "m_text",
+   "src": "51dfc5b50009",
+   "t": "El [Fondo de pantalla] cambia el\nfondo del menú.\n¡Se consigue al cumplir\nciertas condiciones!"
+  },
+  {
+   "row": "Tips26",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1de429be2dfc",
+   "t": "Ataques por habilidad"
+  },
+  {
+   "row": "Tips26",
+   "sub": 0,
+   "col": "m_text",
+   "src": "75f1c3a99872",
+   "t": "¡Los ataques por habilidad, como el\ndisparo a distancia, ignoran la\n[Guardia] del rival!"
+  },
+  {
+   "row": "Tips27",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e1cb4ff76cd6",
+   "t": "Efecto"
+  },
+  {
+   "row": "Tips27",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9072a9c2586d",
+   "t": "Un [Efecto] se activa al usar\nhabilidades distintas del ataque\nnormal o cartas como Táctica,\nMedaguerrero y Medafuerza."
+  },
+  {
+   "row": "Tips28",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1f936200d8da",
+   "t": "Trampas y Plantas"
+  },
+  {
+   "row": "Tips28",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3fa18a201c97",
+   "t": "En el campo puedes desplegar 2 tipos:\n[Trampa] y [Planta].\nLa [Trampa] desaparece al resolverse,\n¡pero la [Planta] sigue en el campo\ncon su efecto hasta ser destruida!"
+  },
+  {
+   "row": "Tips29",
+   "sub": 0,
+   "col": "m_title",
+   "src": "de837692e5f3",
+   "t": "Ataque cruzado"
+  },
+  {
+   "row": "Tips29",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3cf84743412a",
+   "t": "¡El [Ataque cruzado] lanza un ataque\nnormal con varios Medabots!\nSi ataca al Líder, ¡destruye piezas y\nBarrera por cada participante!"
+  }
+ ]
+}

@@ -1,0 +1,1185 @@
+{
+ "entries": [
+  {
+   "src": "008e381b3a79",
+   "t": "Arenal"
+  },
+  {
+   "src": "01c2df03fd3f",
+   "t": "No"
+  },
+  {
+   "src": "070c47d9dc21",
+   "t": "Las cartas de Ánimo son las 4 siguientes\n"
+  },
+  {
+   "src": "0825abbd4069",
+   "t": "Nombre de la acción (acción)"
+  },
+  {
+   "src": "0943908e8c16",
+   "t": "Elemento"
+  },
+  {
+   "src": "095b4bb9101d",
+   "t": "Centro"
+  },
+  {
+   "src": "0a55dabbc64b",
+   "t": "Nombre de habilidad"
+  },
+  {
+   "src": "0a772e8a01e4",
+   "t": "Versión"
+  },
+  {
+   "src": "0b38dd1c3056",
+   "t": "Elige un sobre\n"
+  },
+  {
+   "src": "0cc87e1be8de",
+   "t": "¡De acuerdo!"
+  },
+  {
+   "src": "0e7174df091c",
+   "t": "Sí"
+  },
+  {
+   "src": "0f3741363e08",
+   "t": "Atrás"
+  },
+  {
+   "src": "0f7450ecc84e",
+   "t": "Para el próximo nivel"
+  },
+  {
+   "src": "112fba4b9137",
+   "t": "¡Todos son bienvenidos!"
+  },
+  {
+   "src": "1156d42c762c",
+   "t": "Carta de Ánimo"
+  },
+  {
+   "src": "1171bbe78a70",
+   "t": "Ordenar"
+  },
+  {
+   "src": "11791a8a4146",
+   "t": "Disparo"
+  },
+  {
+   "src": "11e3680dac6e",
+   "t": "Configura las condiciones\ny busca una sala"
+  },
+  {
+   "src": "1230ddd9a232",
+   "t": "Hoja de Impulso (constante): "
+  },
+  {
+   "src": "134c080f2384",
+   "t": "Nombre del botón"
+  },
+  {
+   "src": "1381bf06d489",
+   "t": "Cuerpo del texto\nabcdefghijklmnopqrstuvwxyzabcdefghi\nabcdefghijklmnopqrstuvwxyzabcdefghi\nUnos 35 caracteres por 5 líneas\nAjuste izq. / centrado\n"
+  },
+  {
+   "src": "175863078c9f",
+   "t": "¡Trampa activada!"
+  },
+  {
+   "src": "187eba6ce8d0",
+   "t": "Esperando la selección del rival...."
+  },
+  {
+   "src": "192bf0a39381",
+   "t": "Ver tablero"
+  },
+  {
+   "src": "195bc68ade96",
+   "t": "Nombre del terreno"
+  },
+  {
+   "src": "1a1b8ba0dd6d",
+   "t": "Disparo Sónico"
+  },
+  {
+   "src": "1a83976161b0",
+   "t": "¡Kabuto subió al rango Oro!\n¡Ahora puede usar la Medafuerza \"Disparo Sónico\"!"
+  },
+  {
+   "src": "1ab4eb6d6f9b",
+   "t": "¡Robobatalla de cartas\ncon gente cercana!"
+  },
+  {
+   "src": "1b6b1a6f8931",
+   "t": "Buscar"
+  },
+  {
+   "src": "1d2a1be524e0",
+   "t": "Monedas actuales"
+  },
+  {
+   "src": "1d7bdee5706c",
+   "t": "Polvo actual"
+  },
+  {
+   "src": "1d9a35d131ca",
+   "t": "Sin obtener"
+  },
+  {
+   "src": "1e1acf2ad9d9",
+   "t": "—"
+  },
+  {
+   "src": "1e7e3645d41a",
+   "t": "¡Subiste de nivel!"
+  },
+  {
+   "src": "1eb8db77a9bd",
+   "t": "Asc. ↑"
+  },
+  {
+   "src": "1ee1d5a8577f",
+   "t": "Pedregal"
+  },
+  {
+   "src": "1fec10d7b07a",
+   "t": "Sonido"
+  },
+  {
+   "src": "20305252825b",
+   "t": "Sobre las cartas de Medaguerrero"
+  },
+  {
+   "src": "20db9f87b860",
+   "t": "Confirmar"
+  },
+  {
+   "src": "225cc5abf7b2",
+   "t": "Apellido Nombre\naa aaa"
+  },
+  {
+   "src": "22ddb4cf4073",
+   "t": "Piso máximo"
+  },
+  {
+   "src": "25e3a43af2ee",
+   "t": "Hay Medabots sin colocar"
+  },
+  {
+   "src": "25e7b45e727d",
+   "t": "Enfriamiento 2"
+  },
+  {
+   "src": "2732402ee30a",
+   "t": "Monedas obtenidas"
+  },
+  {
+   "src": "288e4331f439",
+   "t": "Faltan monedas"
+  },
+  {
+   "src": "29f9117f3955",
+   "t": "¿Te rindes?"
+  },
+  {
+   "src": "2dbce4c71942",
+   "t": "Apellido Nombre\n"
+  },
+  {
+   "src": "2e847fccc4fd",
+   "t": "Elige la pieza a cambiar\n"
+  },
+  {
+   "src": "30d802e18fdb",
+   "t": "Lista de salas"
+  },
+  {
+   "src": "3142a9cf8a77",
+   "t": "Buscar salas creadas\npor un amigo"
+  },
+  {
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "src": "325b6cb1bb0f",
+   "t": "Mazo en uso"
+  },
+  {
+   "src": "342528b973d0",
+   "t": "¡Ticket obtenido!"
+  },
+  {
+   "src": "363301428a4a",
+   "t": "Costo de enfriamiento"
+  },
+  {
+   "src": "39a60c548d30",
+   "t": "Recompensa por historial"
+  },
+  {
+   "src": "3bbbdb28a544",
+   "t": "Rara"
+  },
+  {
+   "src": "3bfbf21e2f00",
+   "t": "Bosque"
+  },
+  {
+   "src": "3d0c9e729bfc",
+   "t": "Desafiar"
+  },
+  {
+   "src": "40153830eaea",
+   "t": "Nombre del fondo \"Condición de desbloqueo\""
+  },
+  {
+   "src": "410d1878d875",
+   "t": "Nombre de Medafuerza"
+  },
+  {
+   "src": "41b2767dfe2c",
+   "t": "Mazo"
+  },
+  {
+   "src": "45673de10fd8",
+   "t": "Cuando en la Fase de batalla el rival juegue\no use como costo una carta de su Mano de Escudo,\ntras resolver el efecto, todos los Medabots rivales quedan en estado Recalentado"
+  },
+  {
+   "src": "4615f2c1b692",
+   "t": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 35 caracteres\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 35 caracteres"
+  },
+  {
+   "src": "462b6f065348",
+   "t": "Tanque"
+  },
+  {
+   "src": "48cbbfbe8a64",
+   "t": "Costo a pagar"
+  },
+  {
+   "src": "48ef2b674823",
+   "t": "No"
+  },
+  {
+   "src": "4a424678ca89",
+   "t": "Cuerpo del texto\nabcdefghijklmnopqrstuvwxyz\n26 caracteres por 5 líneas\nAlineado a la izquierda\n"
+  },
+  {
+   "src": "4ac42c6932f9",
+   "t": "Fase de personalización"
+  },
+  {
+   "src": "4bdbfa66e663",
+   "t": "Disparo conjunto\n"
+  },
+  {
+   "src": "4c978e9b7c93",
+   "t": "Multijugador"
+  },
+  {
+   "src": "4da0d3c0df01",
+   "t": "Monedas ganadas"
+  },
+  {
+   "src": "4e1d8353eb4c",
+   "t": "Nombre del botón (obtenido de IdxRes)"
+  },
+  {
+   "src": "51695ad45a11",
+   "t": "Terreno"
+  },
+  {
+   "src": "524746976904",
+   "t": "Fondo de pantalla"
+  },
+  {
+   "src": "52e55b091a61",
+   "t": "Desc. ↓"
+  },
+  {
+   "src": "535ee71f557e",
+   "t": "Carga"
+  },
+  {
+   "src": "538fa5973853",
+   "t": "Sí"
+  },
+  {
+   "src": "543401b7ea82",
+   "t": "Llanura"
+  },
+  {
+   "src": "5461d30a804c",
+   "t": "Piezas"
+  },
+  {
+   "src": "552df7a5e301",
+   "t": "NombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombreNombre"
+  },
+  {
+   "src": "55629d217caa",
+   "t": "Cuando este Medabot combate, su poder se reduce en 1000\nAl terminar el combate, el poder vuelve a la normalidad"
+  },
+  {
+   "src": "572a6a52e9a6",
+   "t": "Tipo"
+  },
+  {
+   "src": "58c8dc1eb7e1",
+   "t": "Sin terreno"
+  },
+  {
+   "src": "5b717728bbea",
+   "t": "Opciones"
+  },
+  {
+   "src": "5bee1f879d37",
+   "t": "Fácil"
+  },
+  {
+   "src": "5dc1df9eecbf",
+   "t": "¡¡Medafuerza activada!!"
+  },
+  {
+   "src": "5e09929df590",
+   "t": "Rendirse"
+  },
+  {
+   "src": "5f6e1fe6b0d1",
+   "t": "Buscar salas\nde amigos"
+  },
+  {
+   "src": "607d48862126",
+   "t": "MetabeeMetabee"
+  },
+  {
+   "src": "61031c9114a7",
+   "t": "Fin de fase"
+  },
+  {
+   "src": "616654205353",
+   "t": "Nombre de habilidad aaaaa (acción)"
+  },
+  {
+   "src": "62cf289ea843",
+   "t": "Fase de personalización: fin"
+  },
+  {
+   "src": "63869b4d8696",
+   "t": "Ajustes de emparejamiento"
+  },
+  {
+   "src": "644c4bd6be8b",
+   "t": "Lista de mazos"
+  },
+  {
+   "src": "646f88c33079",
+   "t": "¡Avanza derrotando a montones de rivales!"
+  },
+  {
+   "src": "653894ed2bd9",
+   "t": "Resultados"
+  },
+  {
+   "src": "657763466066",
+   "t": "Límite de tiempo"
+  },
+  {
+   "src": "6698f0c111af",
+   "t": "Filtro"
+  },
+  {
+   "src": "685df70aed66",
+   "t": "¡Vamos!"
+  },
+  {
+   "src": "69b6412b8546",
+   "t": "Costo"
+  },
+  {
+   "src": "6b9190f59aa3",
+   "t": "Comentario"
+  },
+  {
+   "src": "6c6fa279e15d",
+   "t": "Cargo"
+  },
+  {
+   "src": "6c97964b9284",
+   "t": "Nombre de pieza 1"
+  },
+  {
+   "src": "6cac16b39789",
+   "t": "Enfriamiento"
+  },
+  {
+   "src": "6e1b53d1ab6c",
+   "t": "Combate local"
+  },
+  {
+   "src": "6e2e10d8086f",
+   "t": "En uso"
+  },
+  {
+   "src": "6e46f28bc8b0",
+   "t": "Texto explicativo"
+  },
+  {
+   "src": "6f3443ca32a1",
+   "t": "Menú"
+  },
+  {
+   "src": "6fa0b1b9b422",
+   "t": "¡Recompensa de piso obtenida!"
+  },
+  {
+   "src": "70e39859279e",
+   "t": "Estado"
+  },
+  {
+   "src": "71402a20847c",
+   "t": "Funda"
+  },
+  {
+   "src": "73085bfb7e4f",
+   "t": "Vibración"
+  },
+  {
+   "src": "73188d0422b7",
+   "t": "Próxima recompensa de piso"
+  },
+  {
+   "src": "732fac95364d",
+   "t": "Nombre del mazo AAAAA\n"
+  },
+  {
+   "src": "73c5747c7d9b",
+   "t": "Paga 6 de costo de carga.\r\nInflige a 1 Medabot objetivo un daño igual al poder de este Medabot"
+  },
+  {
+   "src": "743806abcacf",
+   "t": "Por tipo ↑"
+  },
+  {
+   "src": "74c4893b3bde",
+   "t": "Medalla"
+  },
+  {
+   "src": "751dd2ab091a",
+   "t": "Robobatalla"
+  },
+  {
+   "src": "76b0364b5086",
+   "t": "Si el escudo es 1 o menos, el poder de\neste Medabot aumenta en 2000."
+  },
+  {
+   "src": "783da48ea44b",
+   "t": "Experiencia obtenida"
+  },
+  {
+   "src": "797fdf432ff3",
+   "t": "¡¡Habilidad activada!!"
+  },
+  {
+   "src": "79eef7683431",
+   "t": "Sobre las cartas de Medaguerrero\nDescripción AAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAA 30 caracteres\n"
+  },
+  {
+   "src": "7a1ef7911599",
+   "t": "Guardia (rasgo)"
+  },
+  {
+   "src": "7ab5e5a672ab",
+   "t": "Nombre del mazo AAAAAA"
+  },
+  {
+   "src": "7baf61da7242",
+   "t": "Voz del réferi"
+  },
+  {
+   "src": "7d9650594d19",
+   "t": "<size=-10>Turno </size><voffset=-0.1em>{0}</voffset>"
+  },
+  {
+   "src": "7ecf3c798d40",
+   "t": "¿Estás seguro?"
+  },
+  {
+   "src": "7f8487f8b6fe",
+   "t": "Crear con tus\npropias reglas"
+  },
+  {
+   "src": "80e21758b4eb",
+   "t": "Crear a partir de un mazo prearmado"
+  },
+  {
+   "src": "812e1128723a",
+   "t": "Francotiro (enfriamiento): "
+  },
+  {
+   "src": "81965fc07c1c",
+   "t": "Nombre de la empresa"
+  },
+  {
+   "src": "81d7b53b0aed",
+   "t": "Rokusho"
+  },
+  {
+   "src": "821c7501e67f",
+   "t": "Metabee"
+  },
+  {
+   "src": "825a729082c2",
+   "t": "Elige las cartas de la mano a descartar\n"
+  },
+  {
+   "src": "82b42df081d8",
+   "t": "Elige 1 Medabot Soporte rival.\nHasta tu próxima Fase de preparación,\ncuando el Medabot elegido sea destruido por Francotiro (acción),\ndestruye 1 Escudo adicional del rival.\nEste efecto no se acumula.\nEste efecto no se acumula.\nEste efecto no se acumula.\nEste efecto no se acumula.\nEste efecto no se acumula."
+  },
+  {
+   "src": "840395115cbf",
+   "t": "Valor inicial"
+  },
+  {
+   "src": "84ea1ef2c7f8",
+   "t": "Polvo a gastar"
+  },
+  {
+   "src": "854d2ca897af",
+   "t": "Si las piernas del Medabot Líder son de tipo Submarino,\nal iniciar la batalla obtienes la carta de Táctica [Inmersión Rápida].\n"
+  },
+  {
+   "src": "85caf67e0c1f",
+   "t": "Recompensa de piso"
+  },
+  {
+   "src": "85ebf6a8ae73",
+   "t": "Medafuerza"
+  },
+  {
+   "src": "8644b8ecf738",
+   "t": "Poco común"
+  },
+  {
+   "src": "868310e193d1",
+   "t": "No"
+  },
+  {
+   "src": "872605e11e3f",
+   "t": "Faltan cartas\n"
+  },
+  {
+   "src": "87c8ff00c101",
+   "t": "¿Gastar monedas para modificar la pieza?\n<size=-5>(Podrás volver a la pieza original)</size>\n"
+  },
+  {
+   "src": "88074d4c5cc6",
+   "t": "Categoría"
+  },
+  {
+   "src": "885006044732",
+   "t": "Obtenida"
+  },
+  {
+   "src": "899bfefbb828",
+   "t": "Nombre del ícono de jugador \"Condición de desbloqueo\""
+  },
+  {
+   "src": "89c3232e29fe",
+   "t": "Crear nuevo"
+  },
+  {
+   "src": "8b83b7d92644",
+   "t": "Bono por versión distinta"
+  },
+  {
+   "src": "8d68716b3d27",
+   "t": "ID de sala"
+  },
+  {
+   "src": "8f90d85ec13a",
+   "t": "Sí"
+  },
+  {
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "src": "8fd4770f892b",
+   "t": "Carta clave"
+  },
+  {
+   "src": "8fe3961a1da9",
+   "t": "Común"
+  },
+  {
+   "src": "900f8294213e",
+   "t": "Crear"
+  },
+  {
+   "src": "901a99ef46c7",
+   "t": "Guardar y volver"
+  },
+  {
+   "src": "909e11113b05",
+   "t": "No se encontraron salas con esas condiciones"
+  },
+  {
+   "src": "91d1f8eae571",
+   "t": "¿Saltar la Práctica?\nEl juego empezará sin explicar los controles básicos ni las reglas."
+  },
+  {
+   "src": "9220afe6bf5d",
+   "t": "Shoot Spider"
+  },
+  {
+   "src": "924b0cc27017",
+   "t": "Editar mazo"
+  },
+  {
+   "src": "92e8174ef160",
+   "t": "Solo cartas propias"
+  },
+  {
+   "src": "94e7e656d288",
+   "t": "El rival está eligiendo cartas"
+  },
+  {
+   "src": "9537d4a350c5",
+   "t": "Nombre del mazo"
+  },
+  {
+   "src": "9652e7b5f699",
+   "t": "Detalles"
+  },
+  {
+   "src": "96cb391d9967",
+   "t": "Tipo Táctica"
+  },
+  {
+   "src": "96d39996152d",
+   "t": "Límite de set"
+  },
+  {
+   "src": "98910f064233",
+   "t": "Virgo"
+  },
+  {
+   "src": "98dded5555fc",
+   "t": "Cuando el Medabot objetivo combate, su poder se reduce en 1000\nAl terminar el combate, el poder vuelve a la normalidad"
+  },
+  {
+   "src": "990c0882923c",
+   "t": "Multiplicador de ganancias"
+  },
+  {
+   "src": "9a0899ea1788",
+   "t": "Elegir ataque cruzado"
+  },
+  {
+   "src": "9a81cb038340",
+   "t": "Bono de victoria"
+  },
+  {
+   "src": "9c36935cab82",
+   "t": "Phoenix"
+  },
+  {
+   "src": "9d7aad0eb5ce",
+   "t": "Desafío Robobatalla"
+  },
+  {
+   "src": "9e305eab23dd",
+   "t": "Preparando"
+  },
+  {
+   "src": "9eccdca31ee3",
+   "t": "Siguiente"
+  },
+  {
+   "src": "9f653feec9ba",
+   "t": "Te damos la bienvenida a Medarot Card Robattle Next.\r\nAhora te enseñaré las bases de la Robobatalla de cartas.\r\nEmpecemos con la Práctica 1.\r\n"
+  },
+  {
+   "src": "9ff283a1f4dc",
+   "t": "Mejora de medalla"
+  },
+  {
+   "src": "a09e073f3351",
+   "t": "Texto de error 3"
+  },
+  {
+   "src": "a27dedd839e3",
+   "t": "¿Terminar la Fase de preparación?"
+  },
+  {
+   "src": "a28c73065c29",
+   "t": "Rareza"
+  },
+  {
+   "src": "a351d7d0d6f6",
+   "t": "Buscar sala"
+  },
+  {
+   "src": "a39ca290908e",
+   "t": "Piso alcanzado"
+  },
+  {
+   "src": "a3e3cb5fd6f9",
+   "t": "Sobre las cartas de Medaguerrero\nDescripción AAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAA 30 caracteres"
+  },
+  {
+   "src": "a50648586453",
+   "t": "¡Un desafío rápido y sencillo!"
+  },
+  {
+   "src": "a55782616f8b",
+   "t": "Piernas"
+  },
+  {
+   "src": "a5ee1e91e235",
+   "t": "Recompensa de combate"
+  },
+  {
+   "src": "a6ab4547fdae",
+   "t": "Energía",
+   "note": "HUD de batalla: etiqueta del medidor octagonal (Data/level3)"
+  },
+  {
+   "src": "a78fd5524058",
+   "t": "Comprar"
+  },
+  {
+   "src": "a82f8b7da13b",
+   "t": "¡Desafío en curso!"
+  },
+  {
+   "src": "a887d8e89087",
+   "t": "Cuando este Medabot combate, su poder se reduce en 1000\nAl terminar el combate, el poder vuelve a la normalidad\nAl terminar el combate, el poder vuelve a la normalidad"
+  },
+  {
+   "src": "a93e0031021d",
+   "t": "¡Efecto de terreno favorable activado!"
+  },
+  {
+   "src": "ad6672757a5c",
+   "t": "Evolución de medalla"
+  },
+  {
+   "src": "aea55d8e7476",
+   "t": "Solo búsqueda por ID"
+  },
+  {
+   "src": "af292b841c37",
+   "t": "Descarte"
+  },
+  {
+   "src": "af76d62610c1",
+   "t": "Texto"
+  },
+  {
+   "src": "afd52e9e2a90",
+   "t": "Combate"
+  },
+  {
+   "src": "b0897bab82b0",
+   "t": "¿Gastar polvo para crear la carta?"
+  },
+  {
+   "src": "b0d96f634c22",
+   "t": "Crear sala"
+  },
+  {
+   "src": "b16a966a9465",
+   "t": "Texto de efecto\nMáx. 6 líneas entre 2, 24 caracteres; 8 líneas si es 1\nabcdefghijklmnopqrstuvwx\n"
+  },
+  {
+   "src": "b1cd407ea9c9",
+   "t": "Crear sala"
+  },
+  {
+   "src": "b25ace0065ed",
+   "t": "Voz"
+  },
+  {
+   "src": "b33f56ec36d2",
+   "t": "Solo puedes tener 3 cartas del mismo nombre"
+  },
+  {
+   "src": "b40be21b5369",
+   "t": "Cantidad a crear"
+  },
+  {
+   "src": "b4f65423517b",
+   "t": "Recompensa"
+  },
+  {
+   "src": "b56060ed03bc",
+   "t": "Barrera"
+  },
+  {
+   "src": "b68d8ff0219a",
+   "t": "Ícono de jugador"
+  },
+  {
+   "src": "b818d7a5bc84",
+   "t": "Efecto del terreno aaaaaaaaaaaaaaaa"
+  },
+  {
+   "src": "b8b25d78da57",
+   "t": "Hay brazos sin piezas equipadas"
+  },
+  {
+   "src": "b8c57a016dc8",
+   "t": "Texto, texto, texto, texto"
+  },
+  {
+   "src": "b8f39c8447a4",
+   "t": "Poder"
+  },
+  {
+   "src": "ba2e8f18b8d3",
+   "t": "Recargar"
+  },
+  {
+   "src": "bb964a6eeb10",
+   "t": "Texto de efecto\nMáx. 6 líneas entre 2, 24 caracteres; 8 líneas si es 1\nabcdefghijklmnopqrstuvwx"
+  },
+  {
+   "src": "bbbf41ef1055",
+   "t": "Créditos"
+  },
+  {
+   "src": "bc4457dd1a4d",
+   "t": "Revertir"
+  },
+  {
+   "src": "bca84ea5c65f",
+   "t": "Cancelar"
+  },
+  {
+   "src": "bd22ca83211f",
+   "t": "Chou"
+  },
+  {
+   "src": "beac269f6035",
+   "t": "Torre Robobatalla"
+  },
+  {
+   "src": "c1066343036e",
+   "t": "Trampa de Impulso"
+  },
+  {
+   "src": "c1135567f800",
+   "t": "Almacén"
+  },
+  {
+   "src": "c47d33913ef0",
+   "t": "Combate en línea"
+  },
+  {
+   "src": "c58b20e15f71",
+   "t": "¡A robo-\nbatallar!"
+  },
+  {
+   "src": "c5dfd7ebf80d",
+   "t": "Riarira"
+  },
+  {
+   "src": "c5e0896fc61d",
+   "t": "Ribera"
+  },
+  {
+   "src": "c62991e857bf",
+   "t": "Atacar"
+  },
+  {
+   "src": "c66c8b622f97",
+   "t": "Favoritas\n"
+  },
+  {
+   "src": "c738b89ea684",
+   "t": "<size=+8><voffset=-0.05em>1</voffset></size> sobre</size>"
+  },
+  {
+   "src": "c73d356eb6af",
+   "t": "Habilidad 1"
+  },
+  {
+   "src": "c747510d7472",
+   "t": "Modificar piezas"
+  },
+  {
+   "src": "c76bfd416ebf",
+   "t": "Turno 99\n"
+  },
+  {
+   "src": "c8c8bdcad340",
+   "t": "Nombre de pieza 2\n"
+  },
+  {
+   "src": "ca4c7556b651",
+   "t": "Tundra"
+  },
+  {
+   "src": "ca63cb89dd11",
+   "t": "Tu turno"
+  },
+  {
+   "src": "cb915bcc28b8",
+   "t": "Créditos\n"
+  },
+  {
+   "src": "cca492719669",
+   "t": "Habilidad 2"
+  },
+  {
+   "src": "cd6d943d3f21",
+   "t": "Monedas a gastar"
+  },
+  {
+   "src": "cf2799d4be19",
+   "t": "Pow total"
+  },
+  {
+   "src": "cf747271c229",
+   "t": "Zona de despliegue"
+  },
+  {
+   "src": "cfe431e0128a",
+   "t": "Controles"
+  },
+  {
+   "src": "d05955fdc8a8",
+   "t": "Monedas"
+  },
+  {
+   "src": "d1092245c1fa",
+   "t": "Colaborador especial"
+  },
+  {
+   "src": "d193e9d2b723",
+   "t": "Recompensas obtenidas"
+  },
+  {
+   "src": "d242b1313e5f",
+   "t": "Ver descripción del menú"
+  },
+  {
+   "src": "d2cee3016249",
+   "t": "Confirmar fin de fase"
+  },
+  {
+   "src": "d3d2c11096f1",
+   "t": "Carga total"
+  },
+  {
+   "src": "d43ed767d2b1",
+   "t": "¡Robobatalla de cartas con\ngente de todo el mundo!"
+  },
+  {
+   "src": "d5106436e753",
+   "t": "Recompensas de piso"
+  },
+  {
+   "src": "d517b29bedb8",
+   "t": "Nombre del jugador"
+  },
+  {
+   "src": "d67bc8e9df7c",
+   "t": "Total de monedas obtenidas"
+  },
+  {
+   "src": "d6c05bd40059",
+   "t": "[Título]\n"
+  },
+  {
+   "src": "d77db2ff7b73",
+   "t": "Infinito"
+  },
+  {
+   "src": "d7c24ef36d58",
+   "t": "Elige un objetivo"
+  },
+  {
+   "src": "d821806fd7d1",
+   "t": "¡Destruido!"
+  },
+  {
+   "src": "d8840619ed70",
+   "t": "Piso máximo superado"
+  },
+  {
+   "src": "d9acb15aeab3",
+   "t": "Palabra clave"
+  },
+  {
+   "src": "db1e73dd2a0b",
+   "t": "¡Los \"Bípedos\", de gran movilidad, llevan la ventaja!"
+  },
+  {
+   "src": "db1ed45a1bc0",
+   "t": "Gacha"
+  },
+  {
+   "src": "dc750e279070",
+   "t": "Tickets en posesión"
+  },
+  {
+   "src": "dce67b080f93",
+   "t": "AAAAAAAA"
+  },
+  {
+   "src": "de837692e5f3",
+   "t": "Ataque cruzado"
+  },
+  {
+   "src": "ded4469cb3b6",
+   "t": "Quemadura"
+  },
+  {
+   "src": "df06d7057eea",
+   "t": "¿Están de acuerdo?"
+  },
+  {
+   "src": "df3535a64718",
+   "t": "OK"
+  },
+  {
+   "src": "e0cb80ee42f4",
+   "t": "Elige un Medabot como objetivo.\nPaga un costo igual al costo de\ncarga de este Medabot.\nInflige al Medabot objetivo un daño\nigual al poder de este Medabot."
+  },
+  {
+   "src": "e232f514692b",
+   "t": "Faltan cartas"
+  },
+  {
+   "src": "e2938839e150",
+   "t": "Líder"
+  },
+  {
+   "src": "e3cc5d95efb6",
+   "t": "Transferencia de Medabots"
+  },
+  {
+   "src": "e4448fe427c6",
+   "t": "Colección de cartas"
+  },
+  {
+   "src": "e4c43ca04608",
+   "t": "Nombre del mazo aaaaaaaaa"
+  },
+  {
+   "src": "e5a95b86f738",
+   "t": "Elige la pieza a recibir"
+  },
+  {
+   "src": "e727d840003b",
+   "t": "Medacambio"
+  },
+  {
+   "src": "e76fdcf2c006",
+   "t": "Shoot Spider"
+  },
+  {
+   "src": "e7bd01e73eb5",
+   "t": "Contenido del sobre\n"
+  },
+  {
+   "src": "e7c11911d1b4",
+   "t": "Derecha"
+  },
+  {
+   "src": "e89441facc61",
+   "t": "Buscar sala"
+  },
+  {
+   "src": "e959dab1c7ee",
+   "t": "Ciberespacio"
+  },
+  {
+   "src": "ea366facae58",
+   "t": "Apellido Nombre\naaa ii"
+  },
+  {
+   "src": "ea749f376e7a",
+   "t": "¡A robo-\n batallar<size=+4><space=-0.2em>!</size>"
+  },
+  {
+   "src": "ec04610f4b07",
+   "t": "Por costo de carga ↑"
+  },
+  {
+   "src": "ee8562a57545",
+   "t": "Confirmar costo"
+  },
+  {
+   "src": "ef5b73920208",
+   "t": "Bípedo"
+  },
+  {
+   "src": "f00f240b5f34",
+   "t": "No se puede saltar en la Edición de Práctica."
+  },
+  {
+   "src": "f098fbea8d5f",
+   "t": "Turno del rival"
+  },
+  {
+   "src": "f0a22e1b94ee",
+   "t": "Fase de batalla: fin"
+  },
+  {
+   "src": "f1368d6dfb0b",
+   "t": "Solo 1 Medaguerrero por turno"
+  },
+  {
+   "src": "f57ca4624425",
+   "t": "Mazo agotado"
+  },
+  {
+   "src": "f6d2cadb8096",
+   "t": "Sin límite de tiempo"
+  },
+  {
+   "src": "f7adf6245b88",
+   "t": "Encabezado del tutorial"
+  },
+  {
+   "src": "f890ba8f45de",
+   "t": "Piernas afines"
+  },
+  {
+   "src": "f9b22bbf8fa1",
+   "t": "Aleatorio"
+  },
+  {
+   "src": "f9c9f42e6311",
+   "t": "Táct."
+  },
+  {
+   "src": "fce6964ad287",
+   "t": "Izquierda"
+  },
+  {
+   "src": "fd9dfee70dd6",
+   "t": "Nombre del rasgo (rasgo)"
+  },
+  {
+   "src": "fdb73ba93b6e",
+   "t": "Selección de modo"
+  },
+  {
+   "src": "ff5dfdedcc8d",
+   "t": "Nombre del jugador aaaaaaa"
+  },
+  {
+   "src": "ffecce448e29",
+   "t": "Recompensa básica"
+  }
+ ]
+}

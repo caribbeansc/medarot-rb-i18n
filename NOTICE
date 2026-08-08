@@ -1,0 +1,27 @@
+This is an unofficial, non-commercial fan project. It is not affiliated with,
+endorsed by, or connected to Imagineer, Rocket Studio, Natsume Atari, Nintendo,
+or any other rights holder of the Medarot / Medabots series.
+
+*Medarot Card Robattle RB* and all related names, characters and artwork are the
+property of their respective owners.
+
+What this repository contains
+-----------------------------
+
+Tools, documentation, and translations of the game's text into other languages.
+
+What it deliberately does not contain
+-------------------------------------
+
+Any part of the game: no executable, no romfs, no bundles, no artwork, no fonts,
+and **not one line of the original Japanese script**. Translations are stored as
+a key plus a fingerprint of the source string, never the source string itself
+(docs/specs/SPEC-005-translation-keys.md), and translated artwork is stored as
+the difference against a texture that only you have.
+
+The tools read the game from *your own legally obtained copy*, on your own
+machine, and write a mod that only works if you already have that copy. Nothing
+is uploaded anywhere.
+
+Do not ask this project for game files, and do not open issues or pull requests
+that include them, including screenshots of the original script.

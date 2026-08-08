@@ -1,0 +1,2084 @@
+{
+ "table": "StageCharaMessage",
+ "entries": [
+  {
+   "row": "Tutorial00",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "e6b19cd6e902",
+   "t": "¡Oh, llegaste! ¡Este es el Laboratorio\nde Cartas! Llámame Director de Cartas."
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": "¡Muy bien, ya lo entendiste!"
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "c0e86231f294",
+   "t": "Lo que ves proyectado ahí atrás es la\nNeural Allied Virtual Interface Card Optimizer"
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 2,
+   "col": "m_startMsg",
+   "src": "69cffb640db0",
+   "t": "¡Para abreviar: Navico!\nEnseña las reglas fácil a los novatos."
+  },
+  {
+   "row": "Tutorial00",
+   "sub": 3,
+   "col": "m_startMsg",
+   "src": "384588afd6fa",
+   "t": "¡Bueno, empecemos con lo básico de la\nRobobatalla! ¡Navico, te lo encargo!"
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c5e4477e3ea3",
+   "t": "Ahora van los Medabots de Soporte.\n¡Sí, los compañeros que ayudan al Líder!"
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "08b2c6c0393d",
+   "t": "¡Nada mal!\nEl Ataque cruzado te salió perfecto."
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "0c2c6b1e350d",
+   "t": "Ah, y también te explico lo de las fases.\nAnda, Navico, te toca a ti."
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "9bfe549c9f40",
+   "t": "¡No se te olvide que atacando en equipo\nel golpe sale bien fuerte!"
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1883d6f89e16",
+   "t": "¡Ahora, las Medapartes de ambos brazos\ndel Líder! ¡No confundas los lados! ¿Sí?"
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "895b3c35f54a",
+   "t": "¡Muy bien! Dominas las Medapartes\ny el Enfriamiento rápido."
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "6d17e9832b2e",
+   "t": "Y de paso, el Enfriamiento rápido.\n¡Navico, te dejo el resto!"
+  },
+  {
+   "row": "Tutorial02",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "860ab6610798",
+   "t": "Eso sí, ¡vigila cuánta Energía te queda!\n¡Sin Energía no puedes hacer nada!"
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c47e3d512197",
+   "t": "¡Ahora, cómo defenderte cuando te atacan!\n¡Navico, te lo encargo!"
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "491844758885",
+   "t": "¡Eso es, vas muy bien!"
+  },
+  {
+   "row": "Tutorial03",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "330f7fb824b0",
+   "t": "¿Bloquear con Barrera o con Medaparte?\n¡Decide leyendo cómo va la partida!"
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "bd858aa93107",
+   "t": "¡Bueno, ahora toca hablar de la mano!"
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b760fa06ea34",
+   "t": "¡Perfecto!"
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "514243b98ba9",
+   "t": "De paso te explico el Límite de Barrera.\n¡Navico, te toca!"
+  },
+  {
+   "row": "Tutorial04",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "f7d79c1f7081",
+   "t": "De nada sirve aferrarte a cartas que\nno puedes jugar. ¡No ganarás así! ¡Ojo!"
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f1ae08ede69b",
+   "t": "A ver si entendiste todo lo explicado:\n¡hagamos una Robobatalla de Cartas!"
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "cacaf7cb9f60",
+   "t": "¡Eso es, aprobado!\n¡Lo tienes más que claro!"
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": "¡Ay, no! ¡Aún te falta estudiar mucho!"
+  },
+  {
+   "row": "Tutorial05",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "a25409e159fd",
+   "t": "¡Ahora vamos con las cartas que no\nson unidades de Medabot!"
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "06e37b4f3770",
+   "t": "¡Ahora toca la Medafuerza!"
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": "¡Muy bien, ya lo entendiste!"
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f3b13cfa2956",
+   "t": "Tiene sus condiciones para usarla, así\nque apréndelas bien. ¡Navico, te toca!"
+  },
+  {
+   "row": "Tutorial06",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "7bf65f861d97",
+   "t": "¡La Medafuerza es tu as bajo la manga\npara voltear la partida! ¡Grábatelo!"
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1433e1098c7e",
+   "t": "¡Bueno, siguen las cartas de Táctica!"
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b760fa06ea34",
+   "t": "¡Perfecto!"
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e1dd65ed7804",
+   "t": "Puede que sea algo enredado, ¡así que\npon atención! ¡Navico, te lo encargo!"
+  },
+  {
+   "row": "Tutorial07",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "a4c6c530b7d6",
+   "t": "¡Jamás olvides que sin Reserva táctica\nno puedes usar cartas de Táctica!"
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7e727d1f889f",
+   "t": "¡Y ahora, las cartas de Medaguerrero!"
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "647e45efa2d4",
+   "t": "¡Muy bien, ya lo entendiste!"
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "52b0b3893be8",
+   "t": "Esta también es una carta muy potente,\n¡apréndetela bien! ¡Navico, el resto!"
+  },
+  {
+   "row": "Tutorial08",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "cb62699ac9aa",
+   "t": "¡No olvides que solo puedes usar 1 carta\nde Medaguerrero por turno!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "2212c1fe71c6",
+   "t": "¡A poner en práctica todo lo aprendido\ncon el mazo de Metabee!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "14c3f13d2d46",
+   "t": "¡Nada mal, nada mal!\n¡Desde hoy eres luchador de Medacartas!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": "¡Ay, no! ¡Aún te falta estudiar mucho!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3898512516fe",
+   "t": "¡Muy bien!\n¡Ven con todo!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "98c8ebe6030b",
+   "t": "...A ver, escúchame bien.\nDe aquí en adelante hay 7 áreas."
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "57c39cc3611e",
+   "t": "En cada área te esperan luchadores de\nMedacartas bien duros de vencer."
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 3,
+   "col": "m_winMsg",
+   "src": "4639d4a6cd6d",
+   "t": "Cuando los venzas a todos, se abrirá\nla puerta hacia la siguiente área."
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 4,
+   "col": "m_winMsg",
+   "src": "c9123c7bdf93",
+   "t": "Y al final te cerrará el paso...\n¡el luchador de Medacartas más fuerte!"
+  },
+  {
+   "row": "Tutorial09",
+   "sub": 5,
+   "col": "m_winMsg",
+   "src": "4608098ccf08",
+   "t": "¿Tendrás lo necesario para vencerlos?\n¡Te deseo mucha suerte!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "43b9374962b9",
+   "t": "¡A poner en práctica todo lo aprendido\ncon el mazo de Rokusho!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "14c3f13d2d46",
+   "t": "¡Nada mal, nada mal!\n¡Desde hoy eres luchador de Medacartas!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": "¡Ay, no! ¡Aún te falta estudiar mucho!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3898512516fe",
+   "t": "¡Muy bien!\n¡Ven con todo!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "98c8ebe6030b",
+   "t": "...A ver, escúchame bien.\nDe aquí en adelante hay 7 áreas."
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "57c39cc3611e",
+   "t": "En cada área te esperan luchadores de\nMedacartas bien duros de vencer."
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 3,
+   "col": "m_winMsg",
+   "src": "4639d4a6cd6d",
+   "t": "Cuando los venzas a todos, se abrirá\nla puerta hacia la siguiente área."
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 4,
+   "col": "m_winMsg",
+   "src": "c9123c7bdf93",
+   "t": "Y al final te cerrará el paso...\n¡el luchador de Medacartas más fuerte!"
+  },
+  {
+   "row": "Tutorial10",
+   "sub": 5,
+   "col": "m_winMsg",
+   "src": "4608098ccf08",
+   "t": "¿Tendrás lo necesario para vencerlos?\n¡Te deseo mucha suerte!"
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "3e2f27fe18a8",
+   "t": "¡Hey! Tú eres el nuevo, ¿verdad?\nPues yo mismo comprobaré\nesa fuerza tuya, ¡en persona!"
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "91c21ea48cd4",
+   "t": "¿Que yo... perdí?\n...Nada mal, ¿eh? ¡Me ganaste\ntotalmente en estrategia!"
+  },
+  {
+   "row": "Messge11",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": "Buena pelea.\n¡Pule más tus habilidades\ny vuelve a intentarlo!"
+  },
+  {
+   "row": "Messge11",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d8aecd450107",
+   "t": "¡Mi compañero es Frappé!\n¿Aguantarás su ataque híbrido\nde Disparo y Combate?"
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7a59553b286c",
+   "t": "¡Tú debes ser quien acaba de empezar!\n¡Vamos, muéstrame\nde lo que eres capaz!"
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "363391c0c9f5",
+   "t": "¡Ajaja! Perdí...\nEres más genial de lo que imaginaba.\n¡Gracias por el combate!"
+  },
+  {
+   "row": "Messge12",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": "¡Bien, gané yo!\n¡Ajaja, me divertí muchísimo!"
+  },
+  {
+   "row": "Messge12",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "59c67a53ee44",
+   "t": "¡Mi compañera es Cheerful Bunny!\nSaborea bien el poder del Ánimo.\n...¡Allá voooy!"
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "14bee5559768",
+   "t": "Vaya, ¿tú eres el famoso «novato»?\nJujú, espero que no me aburras."
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e2f2a44aec44",
+   "t": "Agh...\nB-bueno, es que hoy me faltaba\nun poco de ajuste, ¿sí?"
+  },
+  {
+   "row": "Messge13",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": "Tal como calculé: perdiste.\nDime, ¿qué se siente?\n¿Te duele perder?"
+  },
+  {
+   "row": "Messge13",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d04d6fd4c1aa",
+   "t": "Primero mediré con calma\nesa supuesta fuerza tuya.\nTrata de no caer de forma patética, ¿sí?"
+  },
+  {
+   "row": "Messge13",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "50e5b4fbdf7a",
+   "t": "Solo me contuve a-pro-pó-si-to\npara medir tu fuerza,\nque quede claro."
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ff5976b49f74",
+   "t": "He oído hablar de ti.\nParece que tienes agallas."
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "55c6f8643020",
+   "t": "Pensaba dejar brillar al novato,\npero esta derrota fue muy real."
+  },
+  {
+   "row": "Messge14",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge14",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f36587354748",
+   "t": "Seré tu rival de entrenamiento.\nNo te contengas:\n¡ven con todo lo que tengas!"
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ff5976b49f74",
+   "t": "He oído hablar de ti.\nParece que tienes agallas."
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "55c6f8643020",
+   "t": "Pensaba dejar brillar al novato,\npero esta derrota fue muy real."
+  },
+  {
+   "row": "Messge15",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge15",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f36587354748",
+   "t": "Seré tu rival de entrenamiento.\nNo te contengas:\n¡ven con todo lo que tengas!"
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "63ae8fd76ed8",
+   "t": "Tienes buena mirada.\n¡Tu aura de fuerza\nse siente a kilómetros!"
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "82ee681c24a4",
+   "t": "Tu mazo es directo y fuerte de verdad.\n¡La próxima vez te superaré!"
+  },
+  {
+   "row": "Messge16",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge16",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "93061114ca9c",
+   "t": "¡Te reto a una Robobatalla de cartas!\n¡Vamos, Metabee!\n¡Conseguiré la mejor victoria!"
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "63ae8fd76ed8",
+   "t": "Tienes buena mirada.\n¡Tu aura de fuerza\nse siente a kilómetros!"
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "82ee681c24a4",
+   "t": "Tu mazo es directo y fuerte de verdad.\n¡La próxima vez te superaré!"
+  },
+  {
+   "row": "Messge17",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge17",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "03a5db1e497e",
+   "t": "¡Te reto a una Robobatalla de cartas!\n¡Vamos, Rokusho!\n¡Conseguiré la mejor victoria!"
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7ab8ba524adf",
+   "t": "¿Tú eres el que acaba de empezar, robo?\n¡Primero veré esa fuerza tuya, robo!"
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "124aa76e6d5d",
+   "t": "¡¿Mi mazo supermaligno, derrotado?!\n¡Esto tiene que ser un error, robo!"
+  },
+  {
+   "row": "Messge18",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": "¡¿Viste eso, robo?!\n¡Un paso más cerca de conquistar\nel mundo, robo!"
+  },
+  {
+   "row": "Messge18",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5b9e48de7438",
+   "t": "¡Mi mazo es el mazo de Disparo\nmás maligno, robo!\n¡Conocerás el terror de Gofu Bullet, robo!"
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7478fea7f8cc",
+   "t": "E-este... ¿un duelo conmigo?\nUn momentito, por favor,\nestoy haciendo cálculos..."
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "bf43dd06f087",
+   "t": "N-no puede ser...\n¡Esto no estaba en mis cálculos!\n¿A-acaso... perdí... yo...?"
+  },
+  {
+   "row": "Messge19",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": "Vaya, vaya, ¿ya se acabó?\nMe quedé un poco decepcionada."
+  },
+  {
+   "row": "Messge19",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "7a5d6dc4ad39",
+   "t": "Mi Líder es Shoot Spider.\n¡Te acorralaré poquito a poco\ncon estados negativos!"
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a6a4e06e35d7",
+   "t": "Jujú, ¿tú eres el novato del que\nhablan? Está bien: yo misma\npondré a prueba tu fuerza."
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "cb2d5547c65d",
+   "t": "Mmm... perdí. Eres más\nagresivo de lo que pensé.\nEstá bien, esta vez ganas tú."
+  },
+  {
+   "row": "Messge20",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": "¡Jujú, gané yo! Te esforzaste,\npero parece que sigo estando\nun paso adelante."
+  },
+  {
+   "row": "Messge20",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "93c2004e6f1b",
+   "t": "Mi Líder es Shaman Miko.\n...Vamos, ¿nos divertimos un rato?"
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "feaa4baf88b9",
+   "t": "¡Hey, nos volvemos a ver!\nLo siento, pero esta vez\nno será tan fácil."
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "86fc2358faa9",
+   "t": "Ahh, ¡perdí!\nTu fuerza es auténtica."
+  },
+  {
+   "row": "Messge21",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge21",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1abe6fd79a25",
+   "t": "La defensa de mi compañero Red Matador\nno es de adorno.\n¡Muéstrame cómo abres esta muralla!"
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "60b3474d458d",
+   "t": "¡Te estaba esperando!\nMi mazo también moría de ganas\nde volver a pelear contigo."
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "d34b1dd4dc18",
+   "t": "Uy... ¡perdí!\n¡De verdad eres increíble!"
+  },
+  {
+   "row": "Messge22",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge22",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "803648c397dd",
+   "t": "Si crees que soy el mismo de antes,\nte equivocas.\n¡Mira el fruto de mi entrenamiento!"
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "60b3474d458d",
+   "t": "¡Te estaba esperando!\nMi mazo también moría de ganas\nde volver a pelear contigo."
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "d34b1dd4dc18",
+   "t": "Uy... ¡perdí!\n¡De verdad eres increíble!"
+  },
+  {
+   "row": "Messge23",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge23",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "803648c397dd",
+   "t": "Si crees que soy el mismo de antes,\nte equivocas.\n¡Mira el fruto de mi entrenamiento!"
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4d60b36f4623",
+   "t": "¡Robooo! ¡Robo-robo-robo!\n¡Mi derrota anterior era parte\nde mi plan superprofundo, robo!"
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "dfc4ef9f64c4",
+   "t": "¡¡Recuerda esto, robo!!\n¡Hoy mis cartas simplemente\nno estaban en forma, robo!"
+  },
+  {
+   "row": "Messge24",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": "¡¿Viste eso, robo?!\n¡Un paso más cerca de conquistar\nel mundo, robo!"
+  },
+  {
+   "row": "Messge24",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "2a1a81bb4946",
+   "t": "¡¡Hoy sí verás mi verdadera\nfuerza, roboooo!!\n¡Vamos, Gofu Bullet!"
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "b68b3be4ed1e",
+   "t": "Así que tú eres el famoso novato.\n¡Yo en persona juzgaré\nesa fuerza tuya!"
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "9d5ff1d20622",
+   "t": "...Espléndido. He perdido.\n¡Nada mal, nada mal!"
+  },
+  {
+   "row": "Messge25",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": "Je, al menos me entretuviste un poco.\nFue una buena batalla; lo agradezco."
+  },
+  {
+   "row": "Messge25",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ea95cd2eca32",
+   "t": "¡Mi compañero es Hawk Dakar!\n¡Acabará con esto en un instante!"
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "baaca2b9bbca",
+   "t": "E-este... ya ingresé todos los datos\nde nuestro combate anterior.\nSí, preparé la contramedida perfecta."
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0d3239a55a4b",
+   "t": "¡¿Q-qué...?! ¡No puedo creerlo!\nQ-que yo vuelva a perder..."
+  },
+  {
+   "row": "Messge26",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": "Vaya, vaya, ¿ya se acabó?\nMe quedé un poco decepcionada."
+  },
+  {
+   "row": "Messge26",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "9ecac9646a75",
+   "t": "...Por favor, saborea con calma\nel verdadero poder de mi mazo\n«Shoot Spider» actualizado."
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "e48db5e5bacf",
+   "t": "Jeje, qué honor que juegue contigo\notra vez, ¿no? Ahora te consentiré...\ncon mi mazo de Francotiro."
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "eb35a5f4aedd",
+   "t": "¡Ajajá! Increíble, de verdad\nme venciste. Bueno, te concedo\nla victoria... por esta vez."
+  },
+  {
+   "row": "Messge27",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": "Tal como calculé: perdiste.\nDime, ¿qué se siente?\n¿Te duele perder?"
+  },
+  {
+   "row": "Messge27",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1ce78ea568df",
+   "t": "Huyas a donde huyas, no escaparás\nde mi mira. Me muero por ver cuánto\nte dura esa carita confiada... ♪"
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4773493ce919",
+   "t": "¡Te hice esperar!\n¡El de hoy no es el mismo\nde antes!"
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4fd9794891cc",
+   "t": "Ahh... otra vez me quedé\na un paso."
+  },
+  {
+   "row": "Messge28",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge28",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "180a29ebb3a4",
+   "t": "¡Que arda el alma!\n¡A robobatallar a toda potencia!\n¡¡Vamos, Arcadia, mi nuevo compañero!!"
+  },
+  {
+   "row": "Messge28",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "b43a32eebbbb",
+   "t": "Eres increíble, en serio.\n¡Gracias por esa gran Robobatalla!"
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4773493ce919",
+   "t": "¡Te hice esperar!\n¡El de hoy no es el mismo\nde antes!"
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4fd9794891cc",
+   "t": "Ahh... otra vez me quedé\na un paso."
+  },
+  {
+   "row": "Messge29",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge29",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a98d609efd7d",
+   "t": "¡Que arda el alma!\n¡A robobatallar a toda potencia!\n¡¡Vamos, Thrud, mi nueva compañera!!"
+  },
+  {
+   "row": "Messge29",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "b43a32eebbbb",
+   "t": "Eres increíble, en serio.\n¡Gracias por esa gran Robobatalla!"
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "69b8ac1d6d51",
+   "t": "E-este... ya terminé de cotejar\ntodos los datos.\nMis cálculos ya no pueden fallar."
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "12436c0ce001",
+   "t": "¡N-no...! ¡¿Volví a perder...?!\n¿Habrá fallado mi cálculo\nen alguna parte...?"
+  },
+  {
+   "row": "Messge30",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": "Vaya, vaya, ¿ya se acabó?\nMe quedé un poco decepcionada."
+  },
+  {
+   "row": "Messge30",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "481789fe99a7",
+   "t": "¡Con este mazo Dron Espada\nte mostraré con creces\nmi verdadera fuerza!"
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "9b1b49ec38b6",
+   "t": "¡Nos volvemos a ver! Vine a saldar\nmi deuda. ¡Mi nuevo compañero\nes este: Armor Chario!"
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "188da155669b",
+   "t": "...Tsk, qué vergüenza.\nGolpeaste justo la debilidad\nde mi juego defensivo."
+  },
+  {
+   "row": "Messge31",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "259d5df9aa39",
+   "t": "Buena pelea.\n¡Pero pule más tus habilidades\ny vuelve a intentarlo!"
+  },
+  {
+   "row": "Messge31",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "35450b0188f4",
+   "t": "No creas que romperás mi defensa\nde hierro con ataquecitos."
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "32d31d36ee0c",
+   "t": "Y bien, ¿estás listo?\nNo vayas a envanecerte\npor una sola victoria."
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "408ee0f546cb",
+   "t": "Agh... he perdido.\n¡La próxima vez no será igual!"
+  },
+  {
+   "row": "Messge32",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": "Je, al menos me entretuviste un poco.\nFue una buena batalla; lo agradezco."
+  },
+  {
+   "row": "Messge32",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "20111c2c740b",
+   "t": "El próximo campo de batalla estará\nsembrado de trampas por doquier.\n¡Veré hasta dónde logras resistir!"
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "0b300d826404",
+   "t": "¡Ajaja, qué genial jugar contigo\notra vez! ¡Ahora mi compañera\nes Shushu Pop!"
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "c2e4b4e39fd5",
+   "t": "¡Ajaja! Volví a perder...\n¡De verdad que eres fuerte!"
+  },
+  {
+   "row": "Messge33",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": "¡Bien, gané yo!\n¡Ajaja, me divertí muchísimo!"
+  },
+  {
+   "row": "Messge33",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "071d6a3b882b",
+   "t": "Te mostraré todo el poder\ndel trabajo en equipo.\nY ahora... ¡allá voooy!"
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "27221ad9fbf5",
+   "t": "¡Por fin llegas!\n¡Hoy estoy motivado como nunca!"
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "afc306742f70",
+   "t": "Me faltó fuerza...\nPero esta frustración me hará\naún más fuerte. ¡Ya verás!"
+  },
+  {
+   "row": "Messge34",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge34",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4e729b408e2f",
+   "t": "¡Sin contemplaciones, voy con todo!\n¡¡Vamos... a robobatallar!!"
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "27221ad9fbf5",
+   "t": "¡Por fin llegas!\n¡Hoy estoy motivado como nunca!"
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "afc306742f70",
+   "t": "Me faltó fuerza...\nPero esta frustración me hará\naún más fuerte. ¡Ya verás!"
+  },
+  {
+   "row": "Messge35",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge35",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4e729b408e2f",
+   "t": "¡Sin contemplaciones, voy con todo!\n¡¡Vamos... a robobatallar!!"
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4f3a1a1ef068",
+   "t": "¡¿Cómo te atreves a humillarme\n2 veces, robo...?!\n¡Este mazo no es como los otros, robo!"
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "2821541288ec",
+   "t": "¡Gyaaaa! ¡Iba a arrastrarte conmigo,\npero solo yo caí\nal infierno, roboooo!"
+  },
+  {
+   "row": "Messge36",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": "¡¿Viste eso, robo?!\n¡Un paso más cerca de conquistar\nel mundo, robo!"
+  },
+  {
+   "row": "Messge36",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3192b1caaad0",
+   "t": "¡Es un mazo de sacrificio a todo\no nada, robo!\n¡¡Acabarás hecho trizas conmigo, roboooo!!"
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "cc9d053c8c84",
+   "t": "Esta vez soy diferente.\n¡Con este mazo de Enfriamiento rápido\nte arrollaré de un solo golpe!"
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "05949056d931",
+   "t": "No puede ser...\nMe duele, pero debo reconocerlo."
+  },
+  {
+   "row": "Messge37",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": "Je, al menos me entretuviste un poco.\nFue una buena batalla; lo agradezco."
+  },
+  {
+   "row": "Messge37",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ddc2116a72f7",
+   "t": "Será un duelo de velocidad.\n...¿Podrás seguirme el ritmo\nhasta el final?"
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "98a37464be94",
+   "t": "Jujú, ¿quieres jugar conmigo\notra vez?\nMi Líder ahora es Marine Healer."
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "ea34397b2bd8",
+   "t": "Vaya, vaya, perdí. Mi Curación\nno dio abasto... Eres más agresivo\nde lo que aparentas."
+  },
+  {
+   "row": "Messge38",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": "¡Jujú, gané yo! Te esforzaste,\npero parece que sigo estando\nun paso adelante."
+  },
+  {
+   "row": "Messge38",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "ba003259e64b",
+   "t": "Con mi mazo de Curación te haré\nun combate laaargo y tendido.\n¿Tendrás paciencia hasta el final?"
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7af720ea73ac",
+   "t": "¡Ahora mi compañera es Riarira!\nY también armé un mazo nuevo."
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "2d7c8e80834c",
+   "t": "¡Waaa! ¡¿Me leíste por completo?!\n¡Eres lo máximo!"
+  },
+  {
+   "row": "Messge39",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": "¡Bien, gané yo!\n¡Ajaja, me divertí muchísimo!"
+  },
+  {
+   "row": "Messge39",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5e684c2e815e",
+   "t": "¡Lo llamo mazo de Disparo táctico\nen ráfaga! ¡Esta vez ganaré yo!\n...¡Allá voooy!"
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a50a3448268c",
+   "t": "¡Hey, te esperaba! Mi mazo y yo\nnos moríamos de ganas\nde pelear contigo."
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f088eca158ea",
+   "t": "¡Qué fuerte eres! Pero no pienso\nrendirme todavía.\n¡La próxima no perderé!"
+  },
+  {
+   "row": "Messge40",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge40",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1a527c2c09be",
+   "t": "¡Evolucioné y estoy que ardo!\n¡Veamos quién tiene\nmás fuego! ¡Duelo!"
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a50a3448268c",
+   "t": "¡Hey, te esperaba! Mi mazo y yo\nnos moríamos de ganas\nde pelear contigo."
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f088eca158ea",
+   "t": "¡Qué fuerte eres! Pero no pienso\nrendirme todavía.\n¡La próxima no perderé!"
+  },
+  {
+   "row": "Messge41",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge41",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "1a527c2c09be",
+   "t": "¡Evolucioné y estoy que ardo!\n¡Veamos quién tiene\nmás fuego! ¡Duelo!"
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "c82b030ba99c",
+   "t": "Ahora el área es esta gélida Tundra.\n¡Aquí mi compañero Frappé\njuega de local!"
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5c787a36f730",
+   "t": "¡Imposible...! ¡¿Mi Curación\nno da abasto...?!\n¡Rayos, derrota total!"
+  },
+  {
+   "row": "Messge42",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": "Buena pelea.\n¡Pule más tus habilidades\ny vuelve a intentarlo!"
+  },
+  {
+   "row": "Messge42",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "3b122c52051e",
+   "t": "Defender, curar y levantarme\nlas veces que haga falta...\n¡La tercera es la vencida!"
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "5681a8b6ecdf",
+   "t": "¡Vaya, cuántas ganas! ¡Así se habla!\nPero yo también rearmé mi mazo\npara esta revancha."
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "a174a4e6c00f",
+   "t": "Estás mucho más afilado que antes.\nMe siento de maravilla.\n¡Tu ofensiva es de verdad!"
+  },
+  {
+   "row": "Messge43",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge43",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a64f0c6fcb0b",
+   "t": "Preparé el mejor «escudo».\nRecibiré todo tu poder.\n...¡Ven sin miedo!"
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "4c2970c78ae5",
+   "t": "Jujú, sí que te gusta jugar conmigo.\nPero no creas que esta vez\nserá como la anterior."
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "257a1cad9912",
+   "t": "Mmm... perdí. La próxima\nno será tan fácil...\n¡Que no se te olvide!"
+  },
+  {
+   "row": "Messge44",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": "¡Jujú, gané yo! Te esforzaste,\npero parece que sigo estando\nun paso adelante."
+  },
+  {
+   "row": "Messge44",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e16f662afd6c",
+   "t": "Ahora uso un mazo de Ataque cruzado\ncon estados negativos.\n...¡A divertirnos!"
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f5d6a016274b",
+   "t": "Jujú. Qué gustos tan raros tienes.\nBien: entonces te haré probar\nla desesperación suprema."
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "ccc56da99009",
+   "t": "¡Ajajá! Me venciste por 3.ª vez...\nDe verdad, qué poco adorable eres."
+  },
+  {
+   "row": "Messge45",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "f549f8ccb38b",
+   "t": "Tal como calculé: perdiste.\nDime, ¿qué se siente?\n¿Te duele perder?"
+  },
+  {
+   "row": "Messge45",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "f3b5f9d9e44a",
+   "t": "Purificaré una «mancha» como tú\ncon luz sagrada. ...Dime, ¿ya estás\nlisto para postrarte? ¡Ajajá! ♪"
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f13d30bea776",
+   "t": "¡Te hice esperar! Para pelear contigo\nsuperé un entrenamiento infernal."
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6f0ac7f6ff12",
+   "t": "...¡Derrota total!\nEres increíble, en serio."
+  },
+  {
+   "row": "Messge46",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge46",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5495dbef5887",
+   "t": "¡Ahora mismo te mostraré un poder\nque supera todo lo que imaginas!\n¡¡Vamos!!"
+  },
+  {
+   "row": "Messge46",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e12b11ae6732",
+   "t": "Soy afortunado de tener un rival\ncomo tú. ¡Te juro que me desquitaré\nen la próxima Robobatalla! ¡Promesa!"
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f13d30bea776",
+   "t": "¡Te hice esperar! Para pelear contigo\nsuperé un entrenamiento infernal."
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6f0ac7f6ff12",
+   "t": "...¡Derrota total!\nEres increíble, en serio."
+  },
+  {
+   "row": "Messge47",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge47",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "5495dbef5887",
+   "t": "¡Ahora mismo te mostraré un poder\nque supera todo lo que imaginas!\n¡¡Vamos!!"
+  },
+  {
+   "row": "Messge47",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e12b11ae6732",
+   "t": "Soy afortunado de tener un rival\ncomo tú. ¡Te juro que me desquitaré\nen la próxima Robobatalla! ¡Promesa!"
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "37e82351c5ea",
+   "t": "E-este... contempla la culminación\nde todos mis datos:\nmi «conclusión»."
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f2bf411a8cc6",
+   "t": "A-ah... no puedo creerlo...\nYa ni siquiera recuerdo\ncómo se calcula..."
+  },
+  {
+   "row": "Messge48",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "769fb45298b1",
+   "t": "Vaya, vaya, ¿ya se acabó?\nMe quedé un poco decepcionada."
+  },
+  {
+   "row": "Messge48",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "d44c4aeea899",
+   "t": "¡Este es el mazo definitivo de mejora\nde Soporte! Ante mi formación\nperfecta no podrás hacer nada."
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "0544a283b1d5",
+   "t": "Mi mazo de esta vez es un mazo\nde Despliegue de Trampas\naún más pulido."
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b50b95813531",
+   "t": "Derrota total para mí.\n¡Bravo! ¡Fue una victoria espléndida!"
+  },
+  {
+   "row": "Messge49",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ca48de510e92",
+   "t": "Je, al menos me entretuviste un poco.\nFue una buena batalla; lo agradezco."
+  },
+  {
+   "row": "Messge49",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "05c7d05e44cb",
+   "t": "Al empezar la batalla, el campo\nse llenará de mis trampas.\n¿Podrás sortear mis planes? ¡Duelo!"
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fa45d1e891ee",
+   "t": "Esta vez no solo voy a resistir.\n¡Toda la fuerza con que embistas\nte la devolveré enterita!"
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "f6a5094ca020",
+   "t": "¡Rayos...! Atravesaste hasta mi\nContraataque. Mi muralla mejorada...\n¡Derrota total!"
+  },
+  {
+   "row": "Messge50",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "7eb4822c933f",
+   "t": "Buena pelea.\n¡Pule más tus habilidades\ny vuelve a intentarlo!"
+  },
+  {
+   "row": "Messge50",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "e6d7f8d196bb",
+   "t": "¡Ruge, bramido de acero!\n¡¡Ve, Armor Chario!!"
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "f9e467ac3f17",
+   "t": "¡No te creas tanto por unas victorias,\nrobo! ¡En mi diccionario no existe\nla palabra «rendirse», robo!"
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "540caf1d9eff",
+   "t": "¡Hoy mis cartas salieron mal por pura\ncasualidad, robo! ¡Tener a la suerte\nde tu lado es trampa, robo!"
+  },
+  {
+   "row": "Messge51",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": "¡¿Viste eso, robo?!\n¡Un paso más cerca de conquistar\nel mundo, robo!"
+  },
+  {
+   "row": "Messge51",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "bd9daff8c76f",
+   "t": "Esta vez sí te bajaré esos humos,\nrobo. ¡¡Contempla bien mi verdadera\nfuerza pulida, robo!!"
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "428f8d3ff8c5",
+   "t": "Jujú, de verdad te encanta jugar\nconmigo. Está bien: si insistes,\nte divertiré aún más."
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "09df96f1f481",
+   "t": "Uy... ¡derrota total, total!\n...¡No tienes nada de piedad!"
+  },
+  {
+   "row": "Messge52",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "b48f7ca5200c",
+   "t": "¡Jujú, gané yo! Te esforzaste,\npero parece que sigo estando\nun paso adelante."
+  },
+  {
+   "row": "Messge52",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "51dde7b16666",
+   "t": "Este mazo es mi «as bajo la manga».\n...¿Quién ganará esta vez?"
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a2d9a745b8d6",
+   "t": "¡Mi compañera de hoy es Shushu Pop!\n...Pero si crees que será como antes,\n¡te equivocas!"
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e4465efc5cc9",
+   "t": "...Uf, derrota total. ¡Ganaste!\n¡Gracias por este rato genial!"
+  },
+  {
+   "row": "Messge53",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2a669aabef0e",
+   "t": "¡Bien, gané yo!\n¡Ajaja, me divertí muchísimo!"
+  },
+  {
+   "row": "Messge53",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "42670670f840",
+   "t": "¡Mira mi mazo de Despliegue\ncon Cerrojo! ¡A ver si superas\nmis trucos! ¡¡Allá voooy!!"
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "974c4c64f9d2",
+   "t": "Buena cara de guerrero.\nResponderé a ese espíritu\ncon toda mi potencia de fuego."
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "959600255114",
+   "t": "...Uf. La verdad, creí que con esto\nganaría. Derrota total. Has llegado\nmás lejos de lo que imaginaba."
+  },
+  {
+   "row": "Messge54",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge54",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "4eed275bb53b",
+   "t": "¡Arcbeetle y yo comprobaremos\ncuánto has crecido!"
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "974c4c64f9d2",
+   "t": "Buena cara de guerrero.\nResponderé a ese espíritu\ncon toda mi potencia de fuego."
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "959600255114",
+   "t": "...Uf. La verdad, creí que con esto\nganaría. Derrota total. Has llegado\nmás lejos de lo que imaginaba."
+  },
+  {
+   "row": "Messge55",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "2b974c0fe438",
+   "t": "Te enfrentaré cuando quieras.\n¡Vuelve cuando seas más fuerte!"
+  },
+  {
+   "row": "Messge55",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "2cf6b820eabf",
+   "t": "¡Titan Beetle y yo comprobaremos\ncuánto has crecido!"
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "73b8702a7b6d",
+   "t": "De verdad te encanta que te preste\natención, ¿eh? Está bien.\nJugaré contigo una vez más."
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "e0662985103b",
+   "t": "¡N-no te burles! ¡¿Qué fue eso?!\n¡No tiene sentido! ...¡Agh, qué rabia!\n¡¡Esta no cuenta, para nada!!"
+  },
+  {
+   "row": "Messge56",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "322d28b61b21",
+   "t": "Tal como calculé: perdiste.\nDime, ¿qué se siente?\n¿Te duele perder?"
+  },
+  {
+   "row": "Messge56",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "989f74a213fd",
+   "t": "Pero hoy iré un poquito en serio, ¿sí?\nTe daré una paliza\ncon mi mazo favorito."
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "82d3d9e554eb",
+   "t": "Vaya, vaya, ¡cómo has crecido!\nSiendo así, yo mismo\nseré tu oponente."
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "6ca828330626",
+   "t": "¡Ja, ja, ja! ¡Espléndido, en serio!\n¡Qué combate tan entretenido!"
+  },
+  {
+   "row": "Messge57",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a12733499c1f",
+   "t": "Ay, no, no...\n¡Te falta muchísimo por aprender!"
+  },
+  {
+   "row": "Messge57",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "fcd8c67100e1",
+   "t": "Con el mazo de mejora de Soporte\nde Navico, veré bien de qué\nestás hecho. ¡Vamooos!"
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fe9b98ccb901",
+   "t": "¡Nuestras Robobatallas no tienen fin!\nHoy, mañana y siempre,\nseguiremos compitiendo."
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "872af75b7705",
+   "t": "Agh... ¡derrota total! Pelear contigo\nsiempre me muestra\nlo que aún me falta."
+  },
+  {
+   "row": "Messge58",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge58",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "74bdd7395d57",
+   "t": "Comprueba en carne propia\ncuánto me he fortalecido...\n¡¡Vamos!!"
+  },
+  {
+   "row": "Messge58",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e2dca8b586ca",
+   "t": "¡Por eso no puedo dejar de\nrobobatallar! ¡La próxima será\nuna Robobatalla aún más ardiente!"
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "fe9b98ccb901",
+   "t": "¡Nuestras Robobatallas no tienen fin!\nHoy, mañana y siempre,\nseguiremos compitiendo."
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "872af75b7705",
+   "t": "Agh... ¡derrota total! Pelear contigo\nsiempre me muestra\nlo que aún me falta."
+  },
+  {
+   "row": "Messge59",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "bcd7e5797088",
+   "t": "¡Genial, gané yo!\n¡Robobatallar contigo es divertido!\n¡Hagámoslo otra vez!"
+  },
+  {
+   "row": "Messge59",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "74bdd7395d57",
+   "t": "Comprueba en carne propia\ncuánto me he fortalecido...\n¡¡Vamos!!"
+  },
+  {
+   "row": "Messge59",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "e2dca8b586ca",
+   "t": "¡Por eso no puedo dejar de\nrobobatallar! ¡La próxima será\nuna Robobatalla aún más ardiente!"
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1048a9ba94ee",
+   "t": "Comencemos: el rondó de la victoria\nperfecta que solo un ser supremo\ncomo yo puede interpretar."
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b43fa80a4af0",
+   "t": "Jujú... ¡ajajajá! ¡Magnífico!\n¡Darle a mi vida el matiz\nde semejante «humillación»!"
+  },
+  {
+   "row": "Messge60",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "76027a5acc74",
+   "t": "He visto tu esfuerzo.\nPero ante mi resplandor supremo,\ntodos acaban postrados en tierra."
+  },
+  {
+   "row": "Messge60",
+   "sub": 1,
+   "col": "m_startMsg",
+   "src": "a3f9ccdd24dc",
+   "t": "¡Alaba a Meteoranisi, el ala\nde mi alma! ¡Arrodíllate ante\nel bautismo de la tempestad!"
+  },
+  {
+   "row": "Messge60",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "6a6e576a85d0",
+   "t": "Muy bien: por hoy me retiraré.\nPero la próxima vez\nque nos veamos..."
+  },
+  {
+   "row": "Messge60",
+   "sub": 2,
+   "col": "m_winMsg",
+   "src": "800ff0653975",
+   "t": "¡Te aplastaré por completo con una\ntempestad arrolladora, inmune\na cualquier truquito!"
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "688be825c93b",
+   "t": "E-este... según mi simulación,\nel resultado de este duelo\nya está prácticamente decidido."
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "50ff8cd8c2bb",
+   "t": "¡N-no... esto no estaba\nen mis cálculos!\n¿Se habrá dañado mi calculadora...?"
+  },
+  {
+   "row": "Messge61",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "a23c7f28214b",
+   "t": "Vaya, gané yo.\nTodo terminó exactamente\nsegún mis cálculos."
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1613276c3bdf",
+   "t": "Lánzame todo tu poder.\nNo me aburras, ¿entendido?"
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5f74697d997f",
+   "t": "...Nada mal.\nLo admito: esta vez he perdido."
+  },
+  {
+   "row": "Messge62",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "5aa87520220e",
+   "t": "He ganado. Aún no estás a mi altura.\n...Aunque reconozco\nese espíritu tuyo."
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "2e39bca06979",
+   "t": "¡Es hora de robobatallar!\n¡Iré con todo, sin piedad!"
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4dd7ba252493",
+   "t": "¡No puede ser...! ¿Me ganaste\nen estrategia...? Tsk, qué vergüenza.\nDerrota total."
+  },
+  {
+   "row": "Messge63",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "c4231a6271b1",
+   "t": "Perdona: mi instinto rugió\n«¡es aquí!». ¡La próxima dame una\nRobobatalla más ardiente!"
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "a2ed18eb4d1d",
+   "t": "¡Oye, tú!\n¡Si quieres pasar por aquí,\ntendrás que vencerme, robo!"
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0c9d86ebf6b1",
+   "t": "¡Perdí, robo!\n¡¿Acaso hiciste trampa, robo?!\n¡¡No lo acepto, no lo acepto, roboooo!!"
+  },
+  {
+   "row": "Messge64",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "726df2a1df45",
+   "t": "¡¿Viste eso, robo?!\n¡Un paso más cerca de conquistar\nel mundo, robo!"
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "ca51bcba9c1f",
+   "t": "¿Empezamos?\nMe muero por ver\ncon qué jugada vienes."
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "5c44606695be",
+   "t": "Vaya, vaya, perdí.\nJujú, no lo haces nada mal."
+  },
+  {
+   "row": "Messge65",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "ad62c1787dda",
+   "t": "¡Bien, victoria!\n¿Quieres que juegue\ncontigo otra vez?"
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "9ea9c11056dd",
+   "t": "¡Holaaa! ¿Qué tal un duelo conmigo?\n¡Ven con todo!\n¡Allá voooy!"
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "0367141523b8",
+   "t": "¡Ajaja! ¡Perdí!\n...¡Qué genial! Pero la próxima\n¡no será tan fácil!"
+  },
+  {
+   "row": "Messge66",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "d573bd523802",
+   "t": "¡Ajaja! ¡Mi plan salió a la\nperfección! ¡Gracias por esta gran\npartida! ¡Juega conmigo otra vez!"
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "5c3e8e882b61",
+   "t": "...¿Estás listo?\nSin contemplaciones:\n¡ven de frente!"
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "7ac1d430114a",
+   "t": "Ya veo... así que también se puede\natacar así. ...La próxima no pierdo.\n¡Enfréntame de nuevo!"
+  },
+  {
+   "row": "Messge67",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "011275734827",
+   "t": "¡Buena pelea!\nMe divertí como nunca.\n¡Repitamos!"
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "1b45aba515a0",
+   "t": "¿Quieres jugar conmigo? Bueno,\njusto estaba aburrido. Te dejaré\nser mi comparsa un ratito ♪"
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "80e70f234e51",
+   "t": "...¡J-jum! Hoy solo tuve\nun poco de mala suerte.\n¡No creas que volverás a ganar!"
+  },
+  {
+   "row": "Messge68",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "e7ec6c99b796",
+   "t": "¿Eh, ya se acabó?\n¿Dónde quedaron esos ánimos?\nQué debilucho ♪"
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "25e76e62b859",
+   "t": "¡Vaya, vaya, te esperaba! Este mazo\nlo ajustó en serio un genio como yo:\n¡no lo vencerás tan fácil!"
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "4bbf935527e1",
+   "t": "Vaya, vaya...\n¡Quién diría que a mí me barrerían\nel piso con tanta elegancia!"
+  },
+  {
+   "row": "Messge69",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "97d07b75aff4",
+   "t": "¡Gané yo! Al final,\nel amor siempre triunfa.\n¡Debes amar más tus cartas!"
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "b98153e3735b",
+   "t": "¡Te hice esperar! Nadie me enciende\ncomo tú. ¡Te venceré y conseguiré\nla mejor victoria!"
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "1b93aaf16b56",
+   "t": "¡Derrota total...! Tu fuerza quedó\ngrabada en mi pecho. Volveré mucho,\nmucho más fuerte."
+  },
+  {
+   "row": "Messge70",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "8f1e4b88bfb8",
+   "t": "¡Robobatallar contigo fue lo más\nardiente y emocionante! ¡Gracias por\nla pelea! Te espero cuando quieras."
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_startMsg",
+   "src": "7755304f6a81",
+   "t": "Permíteme grabar en tu alma\nignorante lo que es\nel verdadero combate."
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_winMsg",
+   "src": "b533dce9f098",
+   "t": "Inconcebible... ¿Yo, con un error\nde cálculo? Mi talento innato,\nmi táctica perfecta..."
+  },
+  {
+   "row": "Messge71",
+   "sub": 0,
+   "col": "m_loseMsg",
+   "src": "3ef0f6f08fc3",
+   "t": "Era la conclusión lógica.\nTu derrota quedó sellada en cuanto\nte enfrentaste a mí."
+  },
+  {
+   "row": "Messge71",
+   "sub": 1,
+   "col": "m_winMsg",
+   "src": "1244f609efdc",
+   "t": "¡¿Y todo eso se rindió ante un\n«factor impredecible» como tú...?!"
+  }
+ ]
+}

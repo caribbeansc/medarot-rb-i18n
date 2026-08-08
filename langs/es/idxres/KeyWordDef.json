@@ -1,0 +1,677 @@
+{
+ "table": "KeyWordDef",
+ "entries": [
+  {
+   "row": "KeyWord00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1d8e61975bfd",
+   "t": "Francotiro"
+  },
+  {
+   "row": "KeyWord00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a924d61f6cdc",
+   "t": "Inflige a 1 Medabot rival un daño igual a tu Poder."
+  },
+  {
+   "row": "KeyWord01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "522ba9f47afb",
+   "t": "Guardia"
+  },
+  {
+   "row": "KeyWord01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "25a2fe726456",
+   "t": "El rival solo puede elegir como objetivo de ataques normales a Medabots con Guardia.\nGuardia es un Rasgo."
+  },
+  {
+   "row": "KeyWord02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ded4469cb3b6",
+   "t": "Quemadura"
+  },
+  {
+   "row": "KeyWord02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1d274aeb90bf",
+   "t": "Cuando el Medabot afectado hace un ataque normal, su Poder se reduce en 3000.\nTras el combate, el Poder se restaura."
+  },
+  {
+   "row": "KeyWord03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "792ab5974a45",
+   "t": "Atadura"
+  },
+  {
+   "row": "KeyWord03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b5eddecb34c4",
+   "t": "El costo de Enfriamiento rápido del Medabot afectado aumenta en 2."
+  },
+  {
+   "row": "KeyWord04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "10632230a0a1",
+   "t": "Shock"
+  },
+  {
+   "row": "KeyWord04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "bed7df7f69da",
+   "t": "El Medabot afectado no puede activar ninguna habilidad (acción).\nNo puede sustituirse al Retransferir."
+  },
+  {
+   "row": "KeyWord05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "baa5cd1c4b6f",
+   "t": "Congelación"
+  },
+  {
+   "row": "KeyWord05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ad48f76626bf",
+   "t": "El Medabot afectado no puede realizar ninguna acción.\nNo puede sustituirse al Retransferir."
+  },
+  {
+   "row": "KeyWord06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "4000dce4eda1",
+   "t": "Frenesí"
+  },
+  {
+   "row": "KeyWord06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "85842603e24f",
+   "t": "Al hacer un ataque normal, el Poder de este Medabot aumenta en 2000.\nTras el ataque, el Poder se restaura."
+  },
+  {
+   "row": "KeyWord07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cddb8af377bf",
+   "t": "Cerrojo"
+  },
+  {
+   "row": "KeyWord07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fcac072b01bf",
+   "t": "No puedes descartar cartas de tu mano."
+  },
+  {
+   "row": "KeyWord08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cd25194ae75d",
+   "t": "Impulso"
+  },
+  {
+   "row": "KeyWord08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8c915f1a517e",
+   "t": "Su efecto se aplica cuando la Barrera es igual o inferior al número indicado."
+  },
+  {
+   "row": "KeyWord09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "4a3b3819dc66",
+   "t": "Propulsión"
+  },
+  {
+   "row": "KeyWord09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "22a21d3bfb6d",
+   "t": "Aumenta el Poder del objetivo hasta tu próxima Fase de robo"
+  },
+  {
+   "row": "KeyWord10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b728a66020e1",
+   "t": "No puede atacar"
+  },
+  {
+   "row": "KeyWord10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9e78930e5206",
+   "t": "Este Medabot no puede elegir ataque normal ni Ataque cruzado."
+  },
+  {
+   "row": "KeyWord11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "df82438f4b95",
+   "t": "Límite de Barrera"
+  },
+  {
+   "row": "KeyWord11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8561367833ca",
+   "t": "Puede activarse cuando la Barrera es igual o inferior al número indicado."
+  },
+  {
+   "row": "KeyWord12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "efc9a6a01ac6",
+   "t": "Reparación"
+  },
+  {
+   "row": "KeyWord12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "77b4a2d9e9c0",
+   "t": "Puede activarse cuando la Barrera no está al máximo.\nPuedes elegir 1 carta de tu mano y convertirla en Barrera."
+  },
+  {
+   "row": "KeyWord13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b8187137b853",
+   "t": "Destrucción de un Medabot"
+  },
+  {
+   "row": "KeyWord13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "db57491bde75",
+   "t": "Que un Medabot de Soporte vaya al Descarte.\nQue se destruya una pieza del Líder o su Barrera."
+  },
+  {
+   "row": "KeyWord14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "5e1f477813aa",
+   "t": "Enfriamiento rápido"
+  },
+  {
+   "row": "KeyWord14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8e28f9f8b79f",
+   "t": "Pone de inmediato al Medabot en estado En Espera."
+  },
+  {
+   "row": "KeyWord15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7c99b1563f97",
+   "t": "Despliegue: X"
+  },
+  {
+   "row": "KeyWord15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4a4622bbb754",
+   "t": "Puede activarse gastando la cantidad indicada de puntos de despliegue."
+  },
+  {
+   "row": "KeyWord17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ace3c0ba8c3d",
+   "t": "Trampa de Piezas"
+  },
+  {
+   "row": "KeyWord17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "21c1e9f29668",
+   "t": "Cuando el Líder rival activa una habilidad (acción), destruye 1 pieza del rival.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "0e532646ce2b",
+   "t": "Trampa de Habilidad"
+  },
+  {
+   "row": "KeyWord16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7e4906cf9d2f",
+   "t": "Cuando un Medabot rival activa una habilidad (acción), manda al Descarte hasta 3 cartas de la parte superior del mazo rival.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "0452f3e71e45",
+   "t": "Trampa Táctica"
+  },
+  {
+   "row": "KeyWord18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8c834e2e3214",
+   "t": "Cuando el rival usa una carta de Táctica, manda al Descarte hasta 3 cartas de la parte superior de su mazo.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord21",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e00a51b29882",
+   "t": "Trampa de Ataque"
+  },
+  {
+   "row": "KeyWord21",
+   "sub": 0,
+   "col": "m_text",
+   "src": "58999ef8546b",
+   "t": "Cuando el Líder rival hace un ataque normal, inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord22",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a38e0e2d423e",
+   "t": "Trampa de Efecto"
+  },
+  {
+   "row": "KeyWord22",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b72a33958679",
+   "t": "Cuando el Líder rival activa una habilidad (acción), inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord23",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c1066343036e",
+   "t": "Trampa de Impulso"
+  },
+  {
+   "row": "KeyWord23",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f8a23f3a62cf",
+   "t": "Cuando el rival usa una carta de la Mano de Barrera en la Fase de acción, tras resolver su efecto, pone a todos los Medabots rivales en estado Recalentado.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord24",
+   "sub": 0,
+   "col": "m_title",
+   "src": "47289d2b2dac",
+   "t": "Trampa de Mano"
+  },
+  {
+   "row": "KeyWord24",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fcc760c3dd41",
+   "t": "Cuando el rival usa una carta de su mano en la Fase de acción, tras resolver su efecto, inflige 10000 de daño a todos los Medabots rivales.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "02c47996b281",
+   "t": "Trampa de Poder"
+  },
+  {
+   "row": "KeyWord19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "968dc7958696",
+   "t": "Cuando el Poder de un Medabot rival aumenta fuera de un ataque normal, elige 1 Soporte rival y devuélvelo al mazo.\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord20",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7cf5a3ca9617",
+   "t": "Interferencia"
+  },
+  {
+   "row": "KeyWord20",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4ac1c74078d2",
+   "t": "Cuando un Medabot rival activa una habilidad (acción), la anula si el objetivo no es de tipo [Disparo] ni [Combate].\nLa trampa se destruye al activarse."
+  },
+  {
+   "row": "KeyWord26",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d2d08722a057",
+   "t": "Planta Calefactora"
+  },
+  {
+   "row": "KeyWord26",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b7c4f5fc159d",
+   "t": "Permanente: el costo de acción de tus Medabots se reduce en 1 (el costo no baja de 1)."
+  },
+  {
+   "row": "KeyWord30",
+   "sub": 0,
+   "col": "m_title",
+   "src": "43469c1b7a38",
+   "t": "Planta de Reparación"
+  },
+  {
+   "row": "KeyWord30",
+   "sub": 0,
+   "col": "m_text",
+   "src": "27e68883eb22",
+   "t": "Permanente: al final de tu turno, si la Barrera no está al máximo, elige 1 carta de tu mano y conviértela en Barrera."
+  },
+  {
+   "row": "KeyWord27",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3b96a4190f82",
+   "t": "Planta de Energía"
+  },
+  {
+   "row": "KeyWord27",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4b94f33ec1ac",
+   "t": "Permanente: el daño de tu Medafuerza aumenta en 2000."
+  },
+  {
+   "row": "KeyWord25",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9f45240cbe6d",
+   "t": "Primeros Auxilios"
+  },
+  {
+   "row": "KeyWord25",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c49600213101",
+   "t": "Permanente: al final del turno rival, [Revivir: 6 o más]"
+  },
+  {
+   "row": "KeyWord29",
+   "sub": 0,
+   "col": "m_title",
+   "src": "00da4061becd",
+   "t": "Planta Inhibidora"
+  },
+  {
+   "row": "KeyWord29",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0478f9350df5",
+   "t": "Permanente: el costo de acción del rival aumenta en 1."
+  },
+  {
+   "row": "KeyWord28",
+   "sub": 0,
+   "col": "m_title",
+   "src": "82ba085c19c4",
+   "t": "Absorbedor C"
+  },
+  {
+   "row": "KeyWord28",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b655fa4ccc12",
+   "t": "Permanente: la Energía máxima de todos los jugadores pasa a ser 10."
+  },
+  {
+   "row": "KeyWord31",
+   "sub": 0,
+   "col": "m_title",
+   "src": "0c8fdd7e49f5",
+   "t": "Munición Perforante"
+  },
+  {
+   "row": "KeyWord31",
+   "sub": 0,
+   "col": "m_text",
+   "src": "73b32f5bcae0",
+   "t": "Carta de Táctica."
+  },
+  {
+   "row": "KeyWord32",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f04f6b2eeaed",
+   "t": "Barrera: X"
+  },
+  {
+   "row": "KeyWord32",
+   "sub": 0,
+   "col": "m_text",
+   "src": "740fd9a8ef44",
+   "t": "Su efecto se aplica cuando la Barrera es igual o inferior al número indicado."
+  },
+  {
+   "row": "KeyWord33",
+   "sub": 0,
+   "col": "m_title",
+   "src": "1156d42c762c",
+   "t": "Carta de Ánimo"
+  },
+  {
+   "row": "KeyWord33",
+   "sub": 0,
+   "col": "m_text",
+   "src": "eba458e643b6",
+   "t": "Las cartas de Ánimo son las 4 siguientes."
+  },
+  {
+   "row": "KeyWord34",
+   "sub": 0,
+   "col": "m_title",
+   "src": "41d72a68178e",
+   "t": "Ánimo de Energía"
+  },
+  {
+   "row": "KeyWord34",
+   "sub": 0,
+   "col": "m_text",
+   "src": "6439b210cc78",
+   "t": "Hasta el final de tu próximo turno, tu Energía máxima aumenta en 1 (la actual no aumenta)."
+  },
+  {
+   "row": "KeyWord35",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b779edd1c679",
+   "t": "Ánimo de Táctica"
+  },
+  {
+   "row": "KeyWord35",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c7fc324b5e65",
+   "t": "Hasta el final de tu próximo turno, obtienes al azar 1 Reserva táctica del tipo de tu Líder."
+  },
+  {
+   "row": "KeyWord36",
+   "sub": 0,
+   "col": "m_title",
+   "src": "57224e5c9551",
+   "t": "Ánimo de Enfriamiento"
+  },
+  {
+   "row": "KeyWord36",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fbeb2f3fe585",
+   "t": "Elige 1 de tus Medabots; su costo de Enfriamiento rápido será 2 hasta el inicio de tu próximo turno."
+  },
+  {
+   "row": "KeyWord37",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9e22145b5ba9",
+   "t": "Drive (Navi-Commune)"
+  },
+  {
+   "row": "KeyWord37",
+   "sub": 0,
+   "col": "m_text",
+   "src": "18133a4cf082",
+   "t": "Tras el Medacambio, las piezas de ambos brazos se reemplazan por la carta siguiente."
+  },
+  {
+   "row": "KeyWord38",
+   "sub": 0,
+   "col": "m_title",
+   "src": "05cafff298a8",
+   "t": "Drive (Particle)"
+  },
+  {
+   "row": "KeyWord38",
+   "sub": 0,
+   "col": "m_text",
+   "src": "18133a4cf082",
+   "t": "Tras el Medacambio, las piezas de ambos brazos se reemplazan por la carta siguiente."
+  },
+  {
+   "row": "KeyWord39",
+   "sub": 0,
+   "col": "m_title",
+   "src": "194068e0300b",
+   "t": "Contraataque"
+  },
+  {
+   "row": "KeyWord39",
+   "sub": 0,
+   "col": "m_text",
+   "src": "39ec9c11d5a1",
+   "t": "Cuando este Medabot recibe daño en el turno rival, inflige el mismo daño a 1 Medabot rival al azar."
+  },
+  {
+   "row": "KeyWord40",
+   "sub": 0,
+   "col": "m_title",
+   "src": "adb4030fd247",
+   "t": "Superguardia"
+  },
+  {
+   "row": "KeyWord40",
+   "sub": 0,
+   "col": "m_text",
+   "src": "2a58e75b19fe",
+   "t": "Cuando el jugador rival elige un Medabot como objetivo, debe elegir a este Medabot siempre que sea posible."
+  },
+  {
+   "row": "KeyWord41",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f420db616f22",
+   "t": "Revivir: X"
+  },
+  {
+   "row": "KeyWord41",
+   "sub": 0,
+   "col": "m_text",
+   "src": "2e1f4a4e7f5e",
+   "t": "Puede activarse si hay espacio en el campo.\nElige al azar 1 Medabot de tu Descarte cuya Carga sea X o más, o X o menos, y transfiere una copia de él en estado Recalentado."
+  },
+  {
+   "row": "KeyWord42",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6f846f00be74",
+   "t": "Umbral: X"
+  },
+  {
+   "row": "KeyWord42",
+   "sub": 0,
+   "col": "m_text",
+   "src": "692687cc4d71",
+   "t": "Su efecto se aplica cuando el Poder de este Medabot es X o más."
+  },
+  {
+   "row": "KeyWord43",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a465649a3ca2",
+   "t": "Conservación"
+  },
+  {
+   "row": "KeyWord43",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0e2654b29aed",
+   "t": "Si este Medabot no pasó al estado Recalentado durante tu turno, su efecto se aplica al final del turno."
+  },
+  {
+   "row": "KeyWord44",
+   "sub": 0,
+   "col": "m_title",
+   "src": "38d5a0f226a9",
+   "t": "Remate"
+  },
+  {
+   "row": "KeyWord44",
+   "sub": 0,
+   "col": "m_text",
+   "src": "121572b8e75f",
+   "t": "Inflige al objetivo un daño igual a tu Poder."
+  },
+  {
+   "row": "KeyWord45",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2a96eff1eff5",
+   "t": "Bono Original"
+  },
+  {
+   "row": "KeyWord45",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5b92f35aa311",
+   "t": "Cuando el Medabot indicado equipa esta pieza, obtienes Reserva táctica."
+  },
+  {
+   "row": "KeyWord46",
+   "sub": 0,
+   "col": "m_title",
+   "src": "766804765a69",
+   "t": "Destierro"
+  },
+  {
+   "row": "KeyWord46",
+   "sub": 0,
+   "col": "m_text",
+   "src": "076389a33c1d",
+   "t": "Los Medabots desterrados no van al Descarte."
+  },
+  {
+   "row": "KeyWord47",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2406fb9418ae",
+   "t": "Estados negativos curables"
+  },
+  {
+   "row": "KeyWord47",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3cbca6b8f8ae",
+   "t": "Son: [Shock], [Congelación], [Atadura], [Quemadura], [Aumento de costo de acción],\n[Aumento de costo de Enfriamiento rápido], [Rasgos sellados], [Cerrojo],\n[Aumento de costo de cartas de Táctica]."
+  }
+ ]
+}

@@ -1,0 +1,1097 @@
+{
+ "table": "MedalDef",
+ "entries": [
+  {
+   "row": "Medal_00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 1,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "c5096435fe19",
+   "t": "¡Kabuto subió al nivel 2!\n¡Se reforzó la Medafuerza «Ráfaga Total»!"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 2,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "b837be62508c",
+   "t": "¡Kabuto subió al nivel 3!\n¿Eh? Algo le pasa a Kabuto..."
+  },
+  {
+   "row": "Medal_00",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "23f35cabd971",
+   "t": "¡Kabuto subió al rango Plata!\n¡Ya puede usar la Medafuerza «Recarga»!"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 3,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "746a5a8ebcbe",
+   "t": "¡Kabuto subió al nivel 4!\n¡Se reforzó la Medafuerza «Recarga»!"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 4,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "f85df9fc6f51",
+   "t": "¡Kabuto subió al nivel 5!\n¿Eh? Algo le pasa a Kabuto..."
+  },
+  {
+   "row": "Medal_00",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "1a83976161b0",
+   "t": "¡Kabuto subió al rango Oro!\n¡Ya puede usar la Medafuerza «Disparo Sónico»!"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 5,
+   "col": "m_name",
+   "src": "322cc025563f",
+   "t": "Kabuto"
+  },
+  {
+   "row": "Medal_00",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "035777bfc2a3",
+   "t": "¡Kabuto subió al nivel 6!\n¡Se reforzó la Medafuerza «Disparo Sónico»!"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 1,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "e27932790bbf",
+   "t": "¡Elefante subió al nivel 2!\n¡Se reforzó la Medafuerza «Ráfaga Total»!"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 2,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "23bc2656dbb0",
+   "t": "¡Elefante subió al nivel 3!\n¿Eh? Algo le pasa a Elefante..."
+  },
+  {
+   "row": "Medal_01",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "8adffa047f25",
+   "t": "¡Elefante subió al rango Plata!\n¡Ya puede usar la Medafuerza «Recarga»!"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 3,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "afac23d65e4c",
+   "t": "¡Elefante subió al nivel 4!\n¡Se reforzó la Medafuerza «Recarga»!"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 4,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "9ad1a00d6d1c",
+   "t": "¡Elefante subió al nivel 5!\n¿Eh? Algo le pasa a Elefante..."
+  },
+  {
+   "row": "Medal_01",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "0c3ddae5b8bc",
+   "t": "¡Elefante subió al rango Oro!\n¡Ya puede usar la Medafuerza «Rompe Rocas»!"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 5,
+   "col": "m_name",
+   "src": "9669c7aa0d83",
+   "t": "Elefante"
+  },
+  {
+   "row": "Medal_01",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "1cb95b19cf33",
+   "t": "¡Elefante subió al nivel 6!\n¡Se reforzó la Medafuerza «Rompe Rocas»!"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 1,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "08e19f31621d",
+   "t": "¡Kuwagata subió al nivel 2!\n¡Se reforzó la Medafuerza «Tajo Vertical»!"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 2,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "172090d8d0aa",
+   "t": "¡Kuwagata subió al nivel 3!\n¿Eh? Algo le pasa a Kuwagata..."
+  },
+  {
+   "row": "Medal_02",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "ddbc8cbbe0e5",
+   "t": "¡Kuwagata subió al rango Plata!\n¡Ya puede usar la Medafuerza «Atador»!"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 3,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "2946f84ca04d",
+   "t": "¡Kuwagata subió al nivel 4!\n¡Se reforzó la Medafuerza «Atador»!"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 4,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "891877066a9f",
+   "t": "¡Kuwagata subió al nivel 5!\n¿Eh? Algo le pasa a Kuwagata..."
+  },
+  {
+   "row": "Medal_02",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "a2f449b394e3",
+   "t": "¡Kuwagata subió al rango Oro!\n¡Ya puede usar la Medafuerza «Tajo Horizontal»!"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 5,
+   "col": "m_name",
+   "src": "bfa2aa04811a",
+   "t": "Kuwagata"
+  },
+  {
+   "row": "Medal_02",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "f8b707f58f9b",
+   "t": "¡Kuwagata subió al nivel 6!\n¡Se reforzó la Medafuerza «Tajo Horizontal»!"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 1,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "c1ecb2cd184f",
+   "t": "¡Mariposa subió al nivel 2!\n¡Se reforzó la Medafuerza «Tajo Vertical»!"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 2,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "f6be1795c74a",
+   "t": "¡Mariposa subió al nivel 3!\n¿Eh? Algo le pasa a Mariposa..."
+  },
+  {
+   "row": "Medal_03",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "cc2befabe452",
+   "t": "¡Mariposa subió al rango Plata!\n¡Ya puede usar la Medafuerza «Atador»!"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 3,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "619d61aee939",
+   "t": "¡Mariposa subió al nivel 4!\n¡Se reforzó la Medafuerza «Atador»!"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 4,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "af1cc05127bc",
+   "t": "¡Mariposa subió al nivel 5!\n¿Eh? Algo le pasa a Mariposa..."
+  },
+  {
+   "row": "Medal_03",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "21123a24268e",
+   "t": "¡Mariposa subió al rango Oro!\n¡Ya puede usar la Medafuerza «Relámpago»!"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 5,
+   "col": "m_name",
+   "src": "bd22ca83211f",
+   "t": "Mariposa"
+  },
+  {
+   "row": "Medal_03",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "3894aae3f49e",
+   "t": "¡Mariposa subió al nivel 6!\n¡Se reforzó la Medafuerza «Relámpago»!"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 1,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "73cfc63590f9",
+   "t": "¡Rey subió al nivel 2!\n¡Se reforzó la Medafuerza «Sobremarcha»!"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 2,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "0d7dd0f17b97",
+   "t": "¡Rey subió al nivel 3!\n¿Eh? Algo le pasa a Rey..."
+  },
+  {
+   "row": "Medal_04",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "3af40a911518",
+   "t": "¡Rey subió al rango Plata!\n¡Ya puede usar la Medafuerza «Superimpulso»!"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 3,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "f100c8cb01ca",
+   "t": "¡Rey subió al nivel 4!\n¡Se reforzó la Medafuerza «Superimpulso»!"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 4,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "463d71899ca1",
+   "t": "¡Rey subió al nivel 5!\n¿Eh? Algo le pasa a Rey..."
+  },
+  {
+   "row": "Medal_04",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "8b6e979a55e3",
+   "t": "¡Rey subió al rango Oro!\n¡Ya puede usar la Medafuerza «Berserk»!"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 5,
+   "col": "m_name",
+   "src": "af441cd351d1",
+   "t": "Rey"
+  },
+  {
+   "row": "Medal_04",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "fe5793ff357f",
+   "t": "¡Rey subió al nivel 6!\n¡Se reforzó la Medafuerza «Berserk»!"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 1,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "994ea6475888",
+   "t": "¡Gato subió al nivel 2!\n¡Se reforzó la Medafuerza «Sobremarcha»!"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 2,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "98d05f1cc0de",
+   "t": "¡Gato subió al nivel 3!\n¿Eh? Algo le pasa a Gato..."
+  },
+  {
+   "row": "Medal_05",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "2821e1126062",
+   "t": "¡Gato subió al rango Plata!\n¡Ya puede usar la Medafuerza «Superimpulso»!"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 3,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "f445a094cbd9",
+   "t": "¡Gato subió al nivel 4!\n¡Se reforzó la Medafuerza «Superimpulso»!"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 4,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "2240ebc9df1d",
+   "t": "¡Gato subió al nivel 5!\n¿Eh? Algo le pasa a Gato..."
+  },
+  {
+   "row": "Medal_05",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "c211fa6f3aa3",
+   "t": "¡Gato subió al rango Oro!\n¡Ya puede usar la Medafuerza «Alta Movilidad»!"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 5,
+   "col": "m_name",
+   "src": "95ef19aa6374",
+   "t": "Gato"
+  },
+  {
+   "row": "Medal_05",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "530233360c78",
+   "t": "¡Gato subió al nivel 6!\n¡Se reforzó la Medafuerza «Alta Movilidad»!"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 1,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "90a9cf860897",
+   "t": "¡Fénix subió al nivel 2!\n¡Se reforzó la Medafuerza «Regeneración»!"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 2,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "c707cf684e8f",
+   "t": "¡Fénix subió al nivel 3!\n¿Eh? Algo le pasa a Fénix..."
+  },
+  {
+   "row": "Medal_06",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "7ab29a5c1dbc",
+   "t": "¡Fénix subió al rango Plata!\n¡Ya puede usar la Medafuerza «Hiperreparación»!"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 3,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "31703ed69bf4",
+   "t": "¡Fénix subió al nivel 4!\n¡Se reforzó la Medafuerza «Hiperreparación»!"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 4,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "907d956fd17f",
+   "t": "¡Fénix subió al nivel 5!\n¿Eh? Algo le pasa a Fénix..."
+  },
+  {
+   "row": "Medal_06",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "271296b96d6a",
+   "t": "¡Fénix subió al rango Oro!\n¡Ya puede usar la Medafuerza «Reversión Total»!"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 5,
+   "col": "m_name",
+   "src": "9c36935cab82",
+   "t": "Fénix"
+  },
+  {
+   "row": "Medal_06",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "f4bca2d74750",
+   "t": "¡Fénix subió al nivel 6!\n¡Se reforzó la Medafuerza «Reversión Total»!"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 1,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "d935e56be66c",
+   "t": "¡Enfermera subió al nivel 2!\n¡Se reforzó la Medafuerza «Regeneración»!"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 2,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "97dd395ae631",
+   "t": "¡Enfermera subió al nivel 3!\n¿Eh? Algo le pasa a Enfermera..."
+  },
+  {
+   "row": "Medal_07",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "b15b1d01731d",
+   "t": "¡Enfermera subió al rango Plata!\n¡Ya puede usar la Medafuerza «Hiperreparación»!"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 3,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "1bdfaa99a209",
+   "t": "¡Enfermera subió al nivel 4!\n¡Se reforzó la Medafuerza «Hiperreparación»!"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 4,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "5df337514b4e",
+   "t": "¡Enfermera subió al nivel 5!\n¿Eh? Algo le pasa a Enfermera..."
+  },
+  {
+   "row": "Medal_07",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "7dd6ec5d5aea",
+   "t": "¡Enfermera subió al rango Oro!\n¡Ya puede usar la Medafuerza «Restonación»!"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 5,
+   "col": "m_name",
+   "src": "b8b957497ad7",
+   "t": "Enfermera"
+  },
+  {
+   "row": "Medal_07",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "de37ab2a7d70",
+   "t": "¡Enfermera subió al nivel 6!\n¡Se reforzó la Medafuerza «Restonación»!"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 1,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "168f9822bb5b",
+   "t": "¡Tortuga subió al nivel 2!\n¡Se reforzó la Medafuerza «Inexpugnable»!"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 2,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "146425b13a96",
+   "t": "¡Tortuga subió al nivel 3!\n¿Eh? Algo le pasa a Tortuga..."
+  },
+  {
+   "row": "Medal_08",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "e227b1e9bc35",
+   "t": "¡Tortuga subió al rango Plata!\n¡Ya puede usar la Medafuerza «Alta Defensa»!"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 3,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "907a53af6ba9",
+   "t": "¡Tortuga subió al nivel 4!\n¡Se reforzó la Medafuerza «Alta Defensa»!"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 4,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "a96dfe206302",
+   "t": "¡Tortuga subió al nivel 5!\n¿Eh? Algo le pasa a Tortuga..."
+  },
+  {
+   "row": "Medal_08",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "2658ebbaf716",
+   "t": "¡Tortuga subió al rango Oro!\n¡Ya puede usar la Medafuerza «Protección»!"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 5,
+   "col": "m_name",
+   "src": "97a352a1c252",
+   "t": "Tortuga"
+  },
+  {
+   "row": "Medal_08",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "aeeff8cf98de",
+   "t": "¡Tortuga subió al nivel 6!\n¡Se reforzó la Medafuerza «Protección»!"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 1,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "15fbce874b9c",
+   "t": "¡Caballero subió al nivel 2!\n¡Se reforzó la Medafuerza «Inexpugnable»!"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 2,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "bff9710f9c44",
+   "t": "¡Caballero subió al nivel 3!\n¿Eh? Algo le pasa a Caballero..."
+  },
+  {
+   "row": "Medal_09",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "b294a46095db",
+   "t": "¡Caballero subió al rango Plata!\n¡Ya puede usar la Medafuerza «Alta Defensa»!"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 3,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "9b8501f6b536",
+   "t": "¡Caballero subió al nivel 4!\n¡Se reforzó la Medafuerza «Alta Defensa»!"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 4,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "86d8b8cf7012",
+   "t": "¡Caballero subió al nivel 5!\n¿Eh? Algo le pasa a Caballero..."
+  },
+  {
+   "row": "Medal_09",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "acec57bcea45",
+   "t": "¡Caballero subió al rango Oro!\n¡Ya puede usar la Medafuerza «Reflector»!"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 5,
+   "col": "m_name",
+   "src": "b82156eaa631",
+   "t": "Caballero"
+  },
+  {
+   "row": "Medal_09",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "1ab0b52e5f69",
+   "t": "¡Caballero subió al nivel 6!\n¡Se reforzó la Medafuerza «Reflector»!"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 1,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "4c38b1574164",
+   "t": "¡Zero subió al nivel 2!\n¡Se reforzó la Medafuerza «Trampa de Ataque»!"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 2,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "4b70873b296c",
+   "t": "¡Zero subió al nivel 3!\n¿Eh? Algo le pasa a Zero..."
+  },
+  {
+   "row": "Medal_10",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "deb39cbecece",
+   "t": "¡Zero subió al rango Plata!\n¡Ya puede usar la Medafuerza «Trampa de Efecto»!"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 3,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "ce579ef975e2",
+   "t": "¡Zero subió al nivel 4!\n¡Se reforzó la Medafuerza «Trampa de Efecto»!"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 4,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "238d67e2c57b",
+   "t": "¡Zero subió al nivel 5!\n¿Eh? Algo le pasa a Zero..."
+  },
+  {
+   "row": "Medal_10",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "992581fee78b",
+   "t": "¡Zero subió al rango Oro!\n¡Ya puede usar la Medafuerza «Absorbedor C»!"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 5,
+   "col": "m_name",
+   "src": "32778b29fea5",
+   "t": "Zero"
+  },
+  {
+   "row": "Medal_10",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "cb412074fbd7",
+   "t": "¡Zero subió al nivel 6!\n¡Se reforzó la Medafuerza «Absorbedor C»!"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 1,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 1,
+   "col": "m_lvup_message1",
+   "src": "7c236dba664f",
+   "t": "¡Cazador subió al nivel 2!\n¡Se reforzó la Medafuerza «Trampa de Ataque»!"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 2,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 2,
+   "col": "m_lvup_message1",
+   "src": "37d07fd724d9",
+   "t": "¡Cazador subió al nivel 3!\n¿Eh? Algo le pasa a Cazador..."
+  },
+  {
+   "row": "Medal_11",
+   "sub": 2,
+   "col": "m_lvup_message2",
+   "src": "2851b9d31d1e",
+   "t": "¡Cazador subió al rango Plata!\n¡Ya puede usar la Medafuerza «Trampa de Efecto»!"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 3,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 3,
+   "col": "m_lvup_message1",
+   "src": "9a52886e732f",
+   "t": "¡Cazador subió al nivel 4!\n¡Se reforzó la Medafuerza «Trampa de Efecto»!"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 4,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 4,
+   "col": "m_lvup_message1",
+   "src": "daef60e51e83",
+   "t": "¡Cazador subió al nivel 5!\n¿Eh? Algo le pasa a Cazador..."
+  },
+  {
+   "row": "Medal_11",
+   "sub": 4,
+   "col": "m_lvup_message2",
+   "src": "5bfd87cac4bd",
+   "t": "¡Cazador subió al rango Oro!\n¡Ya puede usar la Medafuerza «Planta Inhibidora»!"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 5,
+   "col": "m_name",
+   "src": "f9dbf89f77f6",
+   "t": "Cazador"
+  },
+  {
+   "row": "Medal_11",
+   "sub": 5,
+   "col": "m_lvup_message1",
+   "src": "d26bf1d8efba",
+   "t": "¡Cazador subió al nivel 6!\n¡Se reforzó la Medafuerza «Planta Inhibidora»!"
+  }
+ ]
+}

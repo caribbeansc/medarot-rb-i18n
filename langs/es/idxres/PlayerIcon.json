@@ -1,0 +1,502 @@
+{
+ "table": "PlayerIcon",
+ "entries": [
+  {
+   "row": "Icon00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "821c7501e67f",
+   "t": "Metabee"
+  },
+  {
+   "row": "Icon01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "81d7b53b0aed",
+   "t": "Rokusho"
+  },
+  {
+   "row": "Icon02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cd21c1cf3729",
+   "t": "Red Matador"
+  },
+  {
+   "row": "Icon03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e76fdcf2c006",
+   "t": "Shoot Spider"
+  },
+  {
+   "row": "Icon04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9f99f38df1c5",
+   "t": "Doctor Study"
+  },
+  {
+   "row": "Icon05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "89fb16918253",
+   "t": "Iron Horse"
+  },
+  {
+   "row": "Icon06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1791f3f46de4",
+   "t": "Armor Chario"
+  },
+  {
+   "row": "Icon07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "aa7cb97e69fc",
+   "t": "Arcbeetle"
+  },
+  {
+   "row": "Icon08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "912e745793e6",
+   "t": "Titan Beetle"
+  },
+  {
+   "row": "Icon09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8802a2238357",
+   "t": "Frappé"
+  },
+  {
+   "row": "Icon10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2b131ac9ac75",
+   "t": "Chibehemoth"
+  },
+  {
+   "row": "Icon11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "20168b8e2652",
+   "t": "Particle"
+  },
+  {
+   "row": "Icon12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "16cc38c32e86",
+   "t": "Gofu Bullet"
+  },
+  {
+   "row": "Icon13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a88e941d0432",
+   "t": "Hawk Dakar"
+  },
+  {
+   "row": "Icon14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a51312d42c8d",
+   "t": "Arcadia"
+  },
+  {
+   "row": "Icon15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "72a2e3eb83dc",
+   "t": "Thrud"
+  },
+  {
+   "row": "Icon16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cf794a038aee",
+   "t": "Abyss Greater"
+  },
+  {
+   "row": "Icon17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ea5663efcd3d",
+   "t": "Marine Healer"
+  },
+  {
+   "row": "Icon18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a23f9e95f97f",
+   "t": "Navi-Commune"
+  },
+  {
+   "row": "Icon19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2a79b075c3e5",
+   "t": "Shaman Miko"
+  },
+  {
+   "row": "Icon20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3bd215e95152",
+   "t": "Meteoranisi"
+  },
+  {
+   "row": "Icon21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d5a73f92689e",
+   "t": "Shushu Pop"
+  },
+  {
+   "row": "Icon22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c5dfd7ebf80d",
+   "t": "Riarira"
+  },
+  {
+   "row": "Icon23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ee6a19a1a108",
+   "t": "Cheerful Bunny"
+  },
+  {
+   "row": "Icon24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "40b7bef15469",
+   "t": "Medalla Kabuto"
+  },
+  {
+   "row": "Icon25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "11251431713b",
+   "t": "Medalla Kuwagata"
+  },
+  {
+   "row": "Icon26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "23835fa67e47",
+   "t": "God Emperor"
+  },
+  {
+   "row": "Icon27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5d97b77fc756",
+   "t": "Fermion"
+  },
+  {
+   "row": "Icon28",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e482dfda8cdb",
+   "t": "Icono de Disparo"
+  },
+  {
+   "row": "Icon29",
+   "sub": 0,
+   "col": "m_name",
+   "src": "172cfb41c8c5",
+   "t": "Icono de Combate"
+  },
+  {
+   "row": "Icon30",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7002e2109a00",
+   "t": "Icono de Apoyo"
+  },
+  {
+   "row": "Icon31",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de689a4e6a2f",
+   "t": "Icono de Curación"
+  },
+  {
+   "row": "Icon32",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0584b43c7729",
+   "t": "Icono de Defensa"
+  },
+  {
+   "row": "Icon33",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bc7ba445392c",
+   "t": "Icono de Despliegue"
+  },
+  {
+   "row": "Icon34",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1b8f59babd16",
+   "t": "MR (logo de Medabot Corp.)"
+  },
+  {
+   "row": "Icon35",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9732da869c5c",
+   "t": "Hikaru"
+  },
+  {
+   "row": "Icon36",
+   "sub": 0,
+   "col": "m_name",
+   "src": "54cd98fff6e9",
+   "t": "Ikki"
+  },
+  {
+   "row": "Icon37",
+   "sub": 0,
+   "col": "m_name",
+   "src": "094803ce1c64",
+   "t": "Kasumi"
+  },
+  {
+   "row": "Icon38",
+   "sub": 0,
+   "col": "m_name",
+   "src": "29ec9f429fa5",
+   "t": "Koishimaru"
+  },
+  {
+   "row": "Icon39",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3346765ff4bc",
+   "t": "Azuma"
+  },
+  {
+   "row": "Icon40",
+   "sub": 0,
+   "col": "m_name",
+   "src": "56e029c80f2e",
+   "t": "Salt"
+  },
+  {
+   "row": "Icon41",
+   "sub": 0,
+   "col": "m_name",
+   "src": "881d32cb5c24",
+   "t": "Tenma"
+  },
+  {
+   "row": "Icon42",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48f29e3fb6f9",
+   "t": "Kirara"
+  },
+  {
+   "row": "Icon43",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b7d5eb5bc136",
+   "t": "Erika"
+  },
+  {
+   "row": "Icon44",
+   "sub": 0,
+   "col": "m_name",
+   "src": "840abf8f4ee6",
+   "t": "Hiyori"
+  },
+  {
+   "row": "Icon45",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6ac88fc5104f",
+   "t": "Saki"
+  },
+  {
+   "row": "Icon46",
+   "sub": 0,
+   "col": "m_name",
+   "src": "261aa984d6e9",
+   "t": "Chitose"
+  },
+  {
+   "row": "Icon47",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5af117a71c07",
+   "t": "Anis"
+  },
+  {
+   "row": "Icon48",
+   "sub": 0,
+   "col": "m_name",
+   "src": "576bc26be3a2",
+   "t": "Mio"
+  },
+  {
+   "row": "Icon49",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c76bf9ec0047",
+   "t": "Minori"
+  },
+  {
+   "row": "Icon50",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d3d84cb227d6",
+   "t": "Megumi"
+  },
+  {
+   "row": "Icon51",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c3f0f225d68a",
+   "t": "Arase"
+  },
+  {
+   "row": "Icon52",
+   "sub": 0,
+   "col": "m_name",
+   "src": "02882b833dc2",
+   "t": "Hisaki"
+  },
+  {
+   "row": "Icon53",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b873343c73a4",
+   "t": "Suzuno"
+  },
+  {
+   "row": "Icon54",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7d69850b1f00",
+   "t": "Kagami"
+  },
+  {
+   "row": "Icon55",
+   "sub": 0,
+   "col": "m_name",
+   "src": "09f7a13c804a",
+   "t": "Rintaro"
+  },
+  {
+   "row": "Icon56",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7fff07817088",
+   "t": "Dr. Medabot"
+  },
+  {
+   "row": "Icon57",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e374507cb155",
+   "t": "Ladrón Fantasma Retort"
+  },
+  {
+   "row": "Icon58",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5d895177770e",
+   "t": "Sr. Réferi"
+  },
+  {
+   "row": "Icon59",
+   "sub": 0,
+   "col": "m_name",
+   "src": "27ffeb62f499",
+   "t": "Saito"
+  },
+  {
+   "row": "Icon60",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af0adf328516",
+   "t": "Tsukiji"
+  },
+  {
+   "row": "Icon61",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2a6bb1f3a643",
+   "t": "Eito"
+  },
+  {
+   "row": "Icon62",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4ddee72a7fd8",
+   "t": "Manabu"
+  },
+  {
+   "row": "Icon63",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f736919ad92e",
+   "t": "Memochi"
+  },
+  {
+   "row": "Icon64",
+   "sub": 0,
+   "col": "m_name",
+   "src": "834ac1327790",
+   "t": "Marina"
+  },
+  {
+   "row": "Icon65",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc6333f74582",
+   "t": "Nei"
+  },
+  {
+   "row": "Icon66",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa89f09c5b5d",
+   "t": "Amu"
+  },
+  {
+   "row": "Icon67",
+   "sub": 0,
+   "col": "m_name",
+   "src": "da804df21bc9",
+   "t": "Director de Cartas"
+  },
+  {
+   "row": "Icon68",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f96000b73a76",
+   "t": "Pandilla Rubberobo"
+  },
+  {
+   "row": "Icon69",
+   "sub": 0,
+   "col": "m_name",
+   "src": "052a2eba77d6",
+   "t": "Hakuga"
+  },
+  {
+   "row": "Icon70",
+   "sub": 0,
+   "col": "m_name",
+   "src": "475e1609d578",
+   "t": "Wanderer"
+  }
+ ]
+}

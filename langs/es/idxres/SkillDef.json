@@ -1,0 +1,2581 @@
+{
+ "table": "SkillDef",
+ "entries": [
+  {
+   "row": "NormalAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9e78a6f0d8f6",
+   "t": "Ataque normal"
+  },
+  {
+   "row": "CrossAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de837692e5f3",
+   "t": "Ataque cruzado"
+  },
+  {
+   "row": "CannotAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "94e5142a4a6d",
+   "t": "Sin ataque (rasgo)"
+  },
+  {
+   "row": "Skill100",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7094c0872fe7",
+   "t": "Disparo Lejano (acción)"
+  },
+  {
+   "row": "Skill101",
+   "sub": 0,
+   "col": "m_name",
+   "src": "84c575342938",
+   "t": "Hiperrayo (acción)"
+  },
+  {
+   "row": "Skill102",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9369a7f58920",
+   "t": "Propulsión Móvil (acción)"
+  },
+  {
+   "row": "Skill103",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8716c44c2e45",
+   "t": "Ira (rasgo)"
+  },
+  {
+   "row": "Skill104",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d3c30ef1168d",
+   "t": "Brazo Pesado (rasgo)"
+  },
+  {
+   "row": "Skill105",
+   "sub": 0,
+   "col": "m_name",
+   "src": "def317b366c1",
+   "t": "Combate Cercano (rasgo)"
+  },
+  {
+   "row": "Skill106",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f478ba714b73",
+   "t": "Cerrojo (rasgo)"
+  },
+  {
+   "row": "Skill107",
+   "sub": 0,
+   "col": "m_name",
+   "src": "490cef17e846",
+   "t": "Aceleración (rasgo)"
+  },
+  {
+   "row": "Skill108",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc828d572ac0",
+   "t": "Tipo Nieve (rasgo)"
+  },
+  {
+   "row": "Cooler",
+   "sub": 0,
+   "col": "m_name",
+   "src": "845b72e58d98",
+   "t": "Enfriador (rasgo)"
+  },
+  {
+   "row": "Skill110",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dd762cb8e2ef",
+   "t": "Generador+ (acción)"
+  },
+  {
+   "row": "Skill112",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de26daf467eb",
+   "t": "Reparación Total (acción)"
+  },
+  {
+   "row": "Skill113",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1abd86c7469",
+   "t": "Autorreparación (rasgo)"
+  },
+  {
+   "row": "Skill115",
+   "sub": 0,
+   "col": "m_name",
+   "src": "33aa95bca45a",
+   "t": "Hoplita (rasgo)"
+  },
+  {
+   "row": "Skill116",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f0ea06c3dafa",
+   "t": "Guardia Perfecta (acción)"
+  },
+  {
+   "row": "Skill117",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9eff3f7e9e3a",
+   "t": "Predespliegue (rasgo)"
+  },
+  {
+   "row": "Skill119",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2246a698a9a0",
+   "t": "Pupa (rasgo)"
+  },
+  {
+   "row": "Skill120",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1282da82aa55",
+   "t": "Disparo Congelante (acción)"
+  },
+  {
+   "row": "Skill121",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b124d794d974",
+   "t": "Alta Percepción (acción)"
+  },
+  {
+   "row": "Skill122",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17452632b0fe",
+   "t": "Supercelda (acción)"
+  },
+  {
+   "row": "Skill123",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa28be6a44ef",
+   "t": "Propulsión Cíclica (acción)"
+  },
+  {
+   "row": "Skill124",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": "Megagatling (acción)"
+  },
+  {
+   "row": "Skill125",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6ef19beb596a",
+   "t": "Captor (rasgo)"
+  },
+  {
+   "row": "Skill126",
+   "sub": 0,
+   "col": "m_name",
+   "src": "90f6e0dac3b3",
+   "t": "Trampa de Piezas (acción)"
+  },
+  {
+   "row": "Skill127",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1ac7002ff803",
+   "t": "Planta de Reparación (acción)"
+  },
+  {
+   "row": "Skill128",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f3bc815a190f",
+   "t": "Virus (rasgo)"
+  },
+  {
+   "row": "Skill129",
+   "sub": 0,
+   "col": "m_name",
+   "src": "876a67690bce",
+   "t": "Movilidad Total (rasgo)"
+  },
+  {
+   "row": "Skill201",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1166cba4e6f1",
+   "t": "Hipermisil (acción)"
+  },
+  {
+   "row": "Skill204",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b19a68130879",
+   "t": "Napalm (acción)"
+  },
+  {
+   "row": "Skill205",
+   "sub": 0,
+   "col": "m_name",
+   "src": "aa8fb66ee2cf",
+   "t": "Mancha de Sangre (rasgo)"
+  },
+  {
+   "row": "Skill206",
+   "sub": 0,
+   "col": "m_name",
+   "src": "38f8a17ec656",
+   "t": "Buster de Impulso (rasgo)"
+  },
+  {
+   "row": "Skill207",
+   "sub": 0,
+   "col": "m_name",
+   "src": "429fd7cde2f1",
+   "t": "Prensa (acción)"
+  },
+  {
+   "row": "Skill208",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9f87472c9ba2",
+   "t": "Disparo Directo (rasgo)"
+  },
+  {
+   "row": "Skill210",
+   "sub": 0,
+   "col": "m_name",
+   "src": "432a75071f9f",
+   "t": "Infierno (acción)"
+  },
+  {
+   "row": "Skill212",
+   "sub": 0,
+   "col": "m_name",
+   "src": "043e15deff10",
+   "t": "Fuego Cruzado (rasgo)"
+  },
+  {
+   "row": "Skill216",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cce82ad7564b",
+   "t": "Trueno (rasgo)"
+  },
+  {
+   "row": "Skill218",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9db61f841e64",
+   "t": "Martillo (rasgo)"
+  },
+  {
+   "row": "Skill222",
+   "sub": 0,
+   "col": "m_name",
+   "src": "69f6981064f6",
+   "t": "Embestida (rasgo)"
+  },
+  {
+   "row": "Skill223",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17230015e471",
+   "t": "Fuego (rasgo)"
+  },
+  {
+   "row": "Skill225",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1147e150216c",
+   "t": "Destrucción (rasgo)"
+  },
+  {
+   "row": "Skill227",
+   "sub": 0,
+   "col": "m_name",
+   "src": "05275a552e14",
+   "t": "Cancelador (rasgo)"
+  },
+  {
+   "row": "Skill229",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41bb658782b1",
+   "t": "Ataque de Conteo (rasgo)"
+  },
+  {
+   "row": "Skill230",
+   "sub": 0,
+   "col": "m_name",
+   "src": "50e8b8559756",
+   "t": "Dominio (acción)"
+  },
+  {
+   "row": "Skill231",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4d2c0275f869",
+   "t": "Mira de Radar (acción)"
+  },
+  {
+   "row": "Skill233",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d436ee8070c7",
+   "t": "Sigilo (rasgo)"
+  },
+  {
+   "row": "Skill235",
+   "sub": 0,
+   "col": "m_name",
+   "src": "71e14f145000",
+   "t": "Propulsión de Disparo (acción)"
+  },
+  {
+   "row": "Skill236",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1dd389e0b30",
+   "t": "Propulsión de Combate (acción)"
+  },
+  {
+   "row": "Skill237",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ae22ad03845a",
+   "t": "Propulsión de Guardia (acción)"
+  },
+  {
+   "row": "Skill243",
+   "sub": 0,
+   "col": "m_name",
+   "src": "63d283bd249a",
+   "t": "Reparación de Impulso (acción)"
+  },
+  {
+   "row": "Skill244",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b82b0c02e93e",
+   "t": "Gracia Divina (rasgo)"
+  },
+  {
+   "row": "Skill245",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1368426d1c57",
+   "t": "Reparación de Conteo (acción)"
+  },
+  {
+   "row": "Skill247",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c64b796c1d0d",
+   "t": "Quitar Trampas (acción)"
+  },
+  {
+   "row": "Skill248",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7f1ff87d97d5",
+   "t": "Inversión (acción)"
+  },
+  {
+   "row": "Skill249",
+   "sub": 0,
+   "col": "m_name",
+   "src": "69ba30f61f1c",
+   "t": "Mago Blanco (rasgo)"
+  },
+  {
+   "row": "Skill250",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3e812c2f873f",
+   "t": "Restauración (acción)"
+  },
+  {
+   "row": "Skill251",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7f1ff87d97d5",
+   "t": "Inversión (acción)"
+  },
+  {
+   "row": "Skill253",
+   "sub": 0,
+   "col": "m_name",
+   "src": "30947c144d30",
+   "t": "Reversión (rasgo)"
+  },
+  {
+   "row": "Skill254",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cf23684ad096",
+   "t": "Contraguardia (acción)"
+  },
+  {
+   "row": "Skill255",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d6114a22109b",
+   "t": "Alerta (rasgo)"
+  },
+  {
+   "row": "Skill256",
+   "sub": 0,
+   "col": "m_name",
+   "src": "395b3e81e6c8",
+   "t": "Guardia 2000 (acción)"
+  },
+  {
+   "row": "Skill257",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b0a79d99a526",
+   "t": "Guardia Antihabilidad (acción)"
+  },
+  {
+   "row": "Skill261",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5e782472f3e5",
+   "t": "Superarmadura (acción)"
+  },
+  {
+   "row": "Skill263",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eccf29f80f22",
+   "t": "Gravedad Cero (acción)"
+  },
+  {
+   "row": "Skill265",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d6e7b32524be",
+   "t": "Guardia Espejo (rasgo)"
+  },
+  {
+   "row": "Skill269",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5f6628e40272",
+   "t": "Planta Calefactora (acción)"
+  },
+  {
+   "row": "Skill271",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c6f4d455d134",
+   "t": "Bug (acción)"
+  },
+  {
+   "row": "Skill272",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4d59929b7c59",
+   "t": "Despliegue Conjunto (rasgo)"
+  },
+  {
+   "row": "Skill274",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0aa404809eed",
+   "t": "Encanto (rasgo)"
+  },
+  {
+   "row": "Skill275",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bd44326a0abe",
+   "t": "Activación Conjunta (acción)"
+  },
+  {
+   "row": "Skill277",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f45db554b48e",
+   "t": "Fortaleza (rasgo)"
+  },
+  {
+   "row": "Skill278",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8271ff24fa95",
+   "t": "Vengador (rasgo)"
+  },
+  {
+   "row": "Skill279",
+   "sub": 0,
+   "col": "m_name",
+   "src": "380bc16d2d5f",
+   "t": "Trampa+ (acción)"
+  },
+  {
+   "row": "Skill281",
+   "sub": 0,
+   "col": "m_name",
+   "src": "094f34cb83a0",
+   "t": "Sobreviviente H (rasgo)"
+  },
+  {
+   "row": "Skill282",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c093b68ea806",
+   "t": "Furia de Reloj (rasgo)"
+  },
+  {
+   "row": "Skill283",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f02b50f4917a",
+   "t": "Escopeta (acción)"
+  },
+  {
+   "row": "Skill284",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76b618b09588",
+   "t": "Óptica (rasgo)"
+  },
+  {
+   "row": "Skill287",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4c43d5ab85ce",
+   "t": "Rifle de Poder (rasgo)"
+  },
+  {
+   "row": "Skill289",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f55c8e81da1f",
+   "t": "Hoja de Impulso (rasgo)"
+  },
+  {
+   "row": "Skill290",
+   "sub": 0,
+   "col": "m_name",
+   "src": "266e5a1efb24",
+   "t": "Cañón de Riel (acción)"
+  },
+  {
+   "row": "Skill291",
+   "sub": 0,
+   "col": "m_name",
+   "src": "68ba2f11a12c",
+   "t": "Ruptura (acción)"
+  },
+  {
+   "row": "Skill294",
+   "sub": 0,
+   "col": "m_name",
+   "src": "caeb96b00185",
+   "t": "Agarre (acción)"
+  },
+  {
+   "row": "CrossFight",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d7af2f203dca",
+   "t": "Combate Cruzado (rasgo)"
+  },
+  {
+   "row": "Skill297",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0ad17a736f81",
+   "t": "Congelación (rasgo)"
+  },
+  {
+   "row": "Skill299",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c33e3969166e",
+   "t": "Confusión (rasgo)"
+  },
+  {
+   "row": "Skill301",
+   "sub": 0,
+   "col": "m_name",
+   "src": "34da98d72059",
+   "t": "Sello MF (rasgo)"
+  },
+  {
+   "row": "Skill303",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7de80c8c6a9e",
+   "t": "Polivalente (rasgo)"
+  },
+  {
+   "row": "Skill306",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8742ad406a27",
+   "t": "Quitar Obstáculos (acción)"
+  },
+  {
+   "row": "Skill308",
+   "sub": 0,
+   "col": "m_name",
+   "src": "19da5ed481b7",
+   "t": "Cerco Místico (rasgo)"
+  },
+  {
+   "row": "Skill309",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9ce4bb0f5cb7",
+   "t": "Santuario (acción)"
+  },
+  {
+   "row": "Skill310",
+   "sub": 0,
+   "col": "m_name",
+   "src": "86a438e2c41e",
+   "t": "Resplandor (rasgo)"
+  },
+  {
+   "row": "Skill318",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4caab65bb889",
+   "t": "Trampa de Habilidad (acción)"
+  },
+  {
+   "row": "Skill320",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b2b6ab5329b",
+   "t": "Trampa Táctica (acción)"
+  },
+  {
+   "row": "Skill323",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0d175eb4a7b2",
+   "t": "Planta de Energía (acción)"
+  },
+  {
+   "row": "Skill325",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af516bd081af",
+   "t": "Primeros Auxilios (acción)"
+  },
+  {
+   "row": "Skill326",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c4af33e29215",
+   "t": "Alta Provocación (acción)"
+  },
+  {
+   "row": "Skill327",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cce82ad7564b",
+   "t": "Trueno (rasgo)"
+  },
+  {
+   "row": "Skill328",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17230015e471",
+   "t": "Fuego (rasgo)"
+  },
+  {
+   "row": "Skill400",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af30e552184e",
+   "t": "Gatling (acción)"
+  },
+  {
+   "row": "Skill402",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": "Megagatling (acción)"
+  },
+  {
+   "row": "Skill403",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": "Megagatling (acción)"
+  },
+  {
+   "row": "Skill406",
+   "sub": 0,
+   "col": "m_name",
+   "src": "94d29cf6ffdb",
+   "t": "Antiaéreo (acción)"
+  },
+  {
+   "row": "Skill407",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b19a68130879",
+   "t": "Napalm (acción)"
+  },
+  {
+   "row": "Skill408",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52a9ede6bb32",
+   "t": "Misil (rasgo)"
+  },
+  {
+   "row": "Skill409",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7422e08ee427",
+   "t": "Sacrificio (acción)"
+  },
+  {
+   "row": "Skill410",
+   "sub": 0,
+   "col": "m_name",
+   "src": "caeb96b00185",
+   "t": "Agarre (acción)"
+  },
+  {
+   "row": "Skill414",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3a8db466f032",
+   "t": "Martillo Rompedor (rasgo)"
+  },
+  {
+   "row": "Skill416",
+   "sub": 0,
+   "col": "m_name",
+   "src": "941a7fce7146",
+   "t": "Pilote (rasgo)"
+  },
+  {
+   "row": "Skill417",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa972574572e",
+   "t": "Espada Rayo (rasgo)"
+  },
+  {
+   "row": "Skill419",
+   "sub": 0,
+   "col": "m_name",
+   "src": "88a00c3f3ba6",
+   "t": "Guardia Absoluta (acción)"
+  },
+  {
+   "row": "Skill420",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00199f8d8e96",
+   "t": "Hoja de Poder (rasgo)"
+  },
+  {
+   "row": "Skill421",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7dd0d46a7c62",
+   "t": "Onda (acción)"
+  },
+  {
+   "row": "Skill425",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37e1df209e8b",
+   "t": "Guardia Congelante (acción)"
+  },
+  {
+   "row": "Skill428",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b1e114215fd5",
+   "t": "Dron Espada (acción)"
+  },
+  {
+   "row": "Skill430",
+   "sub": 0,
+   "col": "m_name",
+   "src": "87799423d3d1",
+   "t": "Enlace de Poder (acción)"
+  },
+  {
+   "row": "Skill431",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3a8db466f032",
+   "t": "Martillo Rompedor (rasgo)"
+  },
+  {
+   "row": "Skill433",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eb4acd9037c3",
+   "t": "Acción en Cadena (acción)"
+  },
+  {
+   "row": "Skill442",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eac1a90a8e05",
+   "t": "Contrarreloj (rasgo)"
+  },
+  {
+   "row": "Skill445",
+   "sub": 0,
+   "col": "m_name",
+   "src": "179464cc3aba",
+   "t": "Golpe de Combate (acción)"
+  },
+  {
+   "row": "Skill448",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e5744b8673b5",
+   "t": "Provocación (acción)"
+  },
+  {
+   "row": "Skill458",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e910ade1fa01",
+   "t": "Disparo de Trueno (acción)"
+  },
+  {
+   "row": "Skill461",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2f836a1441b3",
+   "t": "Sobrecarga (rasgo)"
+  },
+  {
+   "row": "Skill463",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ff888efec140",
+   "t": "Drenaje de Impulso (rasgo)"
+  },
+  {
+   "row": "Skill464",
+   "sub": 0,
+   "col": "m_name",
+   "src": "91f8f7f620b2",
+   "t": "Meteoro (acción)"
+  },
+  {
+   "row": "Skill465",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c1417850338",
+   "t": "Barrido (rasgo)"
+  },
+  {
+   "row": "Skill466",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ae22ad03845a",
+   "t": "Propulsión de Guardia (acción)"
+  },
+  {
+   "row": "Skill468",
+   "sub": 0,
+   "col": "m_name",
+   "src": "39ff731ef76b",
+   "t": "Guardia 4000 (acción)"
+  },
+  {
+   "row": "Skill469",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fcc1f6b569ed",
+   "t": "Interferencia (acción)"
+  },
+  {
+   "row": "Skill470",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9bebd0c8bc53",
+   "t": "Impulso Sónico (acción)"
+  },
+  {
+   "row": "Skill471",
+   "sub": 0,
+   "col": "m_name",
+   "src": "044dfbed4571",
+   "t": "Garra (rasgo)"
+  },
+  {
+   "row": "Skill472",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d3ca9f912d53",
+   "t": "Trampa de Poder (acción)"
+  },
+  {
+   "row": "Skill473",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8d559c9ef41f",
+   "t": "Guardia Antidisparo (acción)"
+  },
+  {
+   "row": "Skill474",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d436ee8070c7",
+   "t": "Sigilo (rasgo)"
+  },
+  {
+   "row": "Skill475",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8742ad406a27",
+   "t": "Quitar Obstáculos (acción)"
+  },
+  {
+   "row": "Skill476",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3fa130d536bb",
+   "t": "Microondas (acción)"
+  },
+  {
+   "row": "Skill478",
+   "sub": 0,
+   "col": "m_name",
+   "src": "38cc34d9f430",
+   "t": "Castigo (rasgo)"
+  },
+  {
+   "row": "Skill479",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e07d3c93325e",
+   "t": "Quitar Efectos (acción)"
+  },
+  {
+   "row": "Skill480",
+   "sub": 0,
+   "col": "m_name",
+   "src": "160eba8438a7",
+   "t": "Guardia de Púas (acción)"
+  },
+  {
+   "row": "Skill482",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1602a77fc9fa",
+   "t": "Tornado (acción)"
+  },
+  {
+   "row": "Skill483",
+   "sub": 0,
+   "col": "m_name",
+   "src": "355497fe962d",
+   "t": "Trueno Rompedor (rasgo)"
+  },
+  {
+   "row": "Skill484",
+   "sub": 0,
+   "col": "m_name",
+   "src": "407564502523",
+   "t": "Láser Rastreador (acción)"
+  },
+  {
+   "row": "Skill485",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5a8cd8c7ef2c",
+   "t": "Ataque de Escudo (acción)"
+  },
+  {
+   "row": "Skill488",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1e85fd36bc14",
+   "t": "Espada (rasgo)"
+  },
+  {
+   "row": "Fusion",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c320e5706454",
+   "t": "Fusión"
+  },
+  {
+   "row": "Skill492",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill493",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill494",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill495",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill496",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill497",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill498",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill499",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill500",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill501",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill502",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill503",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill504",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill505",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill506",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill507",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill508",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill509",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill510",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill511",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill512",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill513",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill514",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill515",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": "Bono Original (rasgo)"
+  },
+  {
+   "row": "Skill516",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill517",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill518",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill519",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill520",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill521",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill522",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill523",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill524",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill525",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Skill526",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": "Medacambio (acción)"
+  },
+  {
+   "row": "Medarotter00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9732da869c5c",
+   "t": "Hikaru"
+  },
+  {
+   "row": "Medarotter01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "54cd98fff6e9",
+   "t": "Ikki"
+  },
+  {
+   "row": "Medarotter02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7d69850b1f00",
+   "t": "Kagami"
+  },
+  {
+   "row": "Medarotter03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5af117a71c07",
+   "t": "Anis"
+  },
+  {
+   "row": "Medarotter04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "840abf8f4ee6",
+   "t": "Hiyori"
+  },
+  {
+   "row": "Medarotter05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b873343c73a4",
+   "t": "Suzuno"
+  },
+  {
+   "row": "Medarotter06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0365c542e8e9",
+   "t": "Nae"
+  },
+  {
+   "row": "Medarotter07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7fff07817088",
+   "t": "Dr. Medabot"
+  },
+  {
+   "row": "Medarotter08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5d895177770e",
+   "t": "Sr. Réferi"
+  },
+  {
+   "row": "Medarotter09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e374507cb155",
+   "t": "Fantasma Renegado"
+  },
+  {
+   "row": "Medarotter10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "29ec9f429fa5",
+   "t": "Koishimaru"
+  },
+  {
+   "row": "Medarotter11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3346765ff4bc",
+   "t": "Azuma"
+  },
+  {
+   "row": "Medarotter12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "56e029c80f2e",
+   "t": "Salt"
+  },
+  {
+   "row": "Medarotter13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "881d32cb5c24",
+   "t": "Tenma"
+  },
+  {
+   "row": "Medarotter14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "09f7a13c804a",
+   "t": "Rintaro"
+  },
+  {
+   "row": "Medarotter15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "094803ce1c64",
+   "t": "Kasumi"
+  },
+  {
+   "row": "Medarotter16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "932627ccfb7b",
+   "t": "Minori & Megumi"
+  },
+  {
+   "row": "Medarotter17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48f29e3fb6f9",
+   "t": "Kirara"
+  },
+  {
+   "row": "Medarotter18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b7d5eb5bc136",
+   "t": "Erika"
+  },
+  {
+   "row": "Medarotter19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6ac88fc5104f",
+   "t": "Saki"
+  },
+  {
+   "row": "Medarotter20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "261aa984d6e9",
+   "t": "Chitose"
+  },
+  {
+   "row": "Medarotter21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "576bc26be3a2",
+   "t": "Mio"
+  },
+  {
+   "row": "Medarotter22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8605e2641789",
+   "t": "Milky"
+  },
+  {
+   "row": "Medarotter23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6b7223cfbba9",
+   "t": "Kikuhime"
+  },
+  {
+   "row": "Medarotter24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e13712bf6758",
+   "t": "Cresson"
+  },
+  {
+   "row": "Medarotter25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c3f0f225d68a",
+   "t": "Arase"
+  },
+  {
+   "row": "Medarotter26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "02882b833dc2",
+   "t": "Hisaki"
+  },
+  {
+   "row": "Medarotter27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9b8e5c274476",
+   "t": "Shitori"
+  },
+  {
+   "row": "MedaForce00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74d6ca96cabb",
+   "t": "Disparo Total"
+  },
+  {
+   "row": "MedaForce01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74d6ca96cabb",
+   "t": "Disparo Total"
+  },
+  {
+   "row": "MedaForce02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1a1b8ba0dd6d",
+   "t": "Disparo Sónico"
+  },
+  {
+   "row": "MedaForce03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1a1b8ba0dd6d",
+   "t": "Disparo Sónico"
+  },
+  {
+   "row": "MedaForce04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3909b59fb5f2",
+   "t": "Rompe Rocas"
+  },
+  {
+   "row": "MedaForce05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3909b59fb5f2",
+   "t": "Rompe Rocas"
+  },
+  {
+   "row": "MedaForce06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ba2e8f18b8d3",
+   "t": "Recarga"
+  },
+  {
+   "row": "MedaForce07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ba2e8f18b8d3",
+   "t": "Recarga"
+  },
+  {
+   "row": "MedaForce08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b40889aa0d7f",
+   "t": "Tajo Vertical"
+  },
+  {
+   "row": "MedaForce09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b40889aa0d7f",
+   "t": "Tajo Vertical"
+  },
+  {
+   "row": "MedaForce10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a48aa06ce347",
+   "t": "Tajo Horizontal"
+  },
+  {
+   "row": "MedaForce11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a48aa06ce347",
+   "t": "Tajo Horizontal"
+  },
+  {
+   "row": "MedaForce12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76c35dbb3cb5",
+   "t": "Relámpago"
+  },
+  {
+   "row": "MedaForce13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76c35dbb3cb5",
+   "t": "Relámpago"
+  },
+  {
+   "row": "MedaForce14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "585be49d3e26",
+   "t": "Atador"
+  },
+  {
+   "row": "MedaForce15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "585be49d3e26",
+   "t": "Atador"
+  },
+  {
+   "row": "MedaForce16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc272435b3c9",
+   "t": "Berserk"
+  },
+  {
+   "row": "MedaForce17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc272435b3c9",
+   "t": "Berserk"
+  },
+  {
+   "row": "MedaForce18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de7488ae2df4",
+   "t": "Sobremarcha"
+  },
+  {
+   "row": "MedaForce19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de7488ae2df4",
+   "t": "Sobremarcha"
+  },
+  {
+   "row": "MedaForce20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c23ef8385184",
+   "t": "Alta Movilidad"
+  },
+  {
+   "row": "MedaForce21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c23ef8385184",
+   "t": "Alta Movilidad"
+  },
+  {
+   "row": "MedaForce22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dcd1308bbe1b",
+   "t": "Superimpulso"
+  },
+  {
+   "row": "MedaForce23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dcd1308bbe1b",
+   "t": "Superimpulso"
+  },
+  {
+   "row": "MedaForce24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0076af5e4e7c",
+   "t": "Reversión Total"
+  },
+  {
+   "row": "MedaForce25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0076af5e4e7c",
+   "t": "Reversión Total"
+  },
+  {
+   "row": "MedaForce26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a26cc9b7c265",
+   "t": "Regeneración"
+  },
+  {
+   "row": "MedaForce27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a26cc9b7c265",
+   "t": "Regeneración"
+  },
+  {
+   "row": "MedaForce28",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": "Hiperreparación"
+  },
+  {
+   "row": "MedaForce29",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": "Hiperreparación"
+  },
+  {
+   "row": "MedaForce30",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37979d862afd",
+   "t": "Restonación"
+  },
+  {
+   "row": "MedaForce31",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37979d862afd",
+   "t": "Restonación"
+  },
+  {
+   "row": "MedaForce32",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ee4b1e15390c",
+   "t": "Protección"
+  },
+  {
+   "row": "MedaForce33",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ee4b1e15390c",
+   "t": "Protección"
+  },
+  {
+   "row": "MedaForce34",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8e40f7ab159a",
+   "t": "Reflector"
+  },
+  {
+   "row": "MedaForce35",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8e40f7ab159a",
+   "t": "Reflector"
+  },
+  {
+   "row": "MedaForce36",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52c6a1af9651",
+   "t": "Inexpugnable"
+  },
+  {
+   "row": "MedaForce37",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52c6a1af9651",
+   "t": "Inexpugnable"
+  },
+  {
+   "row": "MedaForce38",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ab618b6df1eb",
+   "t": "Alta Defensa"
+  },
+  {
+   "row": "MedaForce39",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ab618b6df1eb",
+   "t": "Alta Defensa"
+  },
+  {
+   "row": "MedaForce40",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": "Planta Inhibidora"
+  },
+  {
+   "row": "MedaForce41",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": "Planta Inhibidora"
+  },
+  {
+   "row": "MedaForce42",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": "Absorbedor C"
+  },
+  {
+   "row": "MedaForce43",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": "Absorbedor C"
+  },
+  {
+   "row": "MedaForce44",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": "Trampa de Ataque"
+  },
+  {
+   "row": "MedaForce45",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": "Trampa de Ataque"
+  },
+  {
+   "row": "MedaForce46",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": "Trampa de Efecto"
+  },
+  {
+   "row": "MedaForce47",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": "Trampa de Efecto"
+  },
+  {
+   "row": "Tactics00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "494ff866d40e",
+   "t": "Disparo Preciso"
+  },
+  {
+   "row": "Tactics01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e69002de87b7",
+   "t": "Disparo Continuo"
+  },
+  {
+   "row": "Tactics02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fdedc35278a1",
+   "t": "Disparo Aniquilador"
+  },
+  {
+   "row": "Tactics03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "27c646dc80b7",
+   "t": "Represalia"
+  },
+  {
+   "row": "Tactics04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "58ff5c5653cd",
+   "t": "Preparar Disparo"
+  },
+  {
+   "row": "Tactics05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0c8fdd7e49f5",
+   "t": "Munición Perforante"
+  },
+  {
+   "row": "Tactics06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e68fab25fb16",
+   "t": "Bala Doble"
+  },
+  {
+   "row": "Tactics07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "926fe276500b",
+   "t": "Observador"
+  },
+  {
+   "row": "Tactics08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f2abdb125648",
+   "t": "Ataque en Oleadas"
+  },
+  {
+   "row": "Tactics09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e183ee8622a4",
+   "t": "Inicio de Francotiro"
+  },
+  {
+   "row": "Tactics10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17bd718484c8",
+   "t": "Ataque Total"
+  },
+  {
+   "row": "Tactics11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1983d510396",
+   "t": "Ataque Disruptivo"
+  },
+  {
+   "row": "Tactics12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8638563fc57e",
+   "t": "Ataque Crítico"
+  },
+  {
+   "row": "Tactics13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a6cac023ee3b",
+   "t": "Golpe Mortal"
+  },
+  {
+   "row": "Tactics14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "360a368bfc71",
+   "t": "En Pie de Guerra"
+  },
+  {
+   "row": "Tactics15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3cd7af1c84c7",
+   "t": "Preparar Remate"
+  },
+  {
+   "row": "Tactics16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa236b1ec87e",
+   "t": "Golpe Final"
+  },
+  {
+   "row": "Tactics17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fb30d666a3ba",
+   "t": "A Toda Costa"
+  },
+  {
+   "row": "Tactics18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bb685d25194d",
+   "t": "Ventaja Numérica"
+  },
+  {
+   "row": "Tactics19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "97e7235d170e",
+   "t": "Golpe Temerario"
+  },
+  {
+   "row": "Tactics20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1496f6c5bd2",
+   "t": "Golpe de Escudo"
+  },
+  {
+   "row": "Tactics21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "26c9a45dbbaa",
+   "t": "Tacleada Blindada"
+  },
+  {
+   "row": "Tactics22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "266a566bb9a7",
+   "t": "Asalto con Escudo"
+  },
+  {
+   "row": "Tactics23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4371b073b710",
+   "t": "Blindaje Pesado"
+  },
+  {
+   "row": "Tactics24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "223a04d498d3",
+   "t": "Equipar Armadura"
+  },
+  {
+   "row": "Tactics25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b3d65fcf09b6",
+   "t": "Formación Defensiva"
+  },
+  {
+   "row": "Tactics26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "adbf3827e94a",
+   "t": "Barrera Amplia"
+  },
+  {
+   "row": "Tactics27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d9300b5b1cb8",
+   "t": "Sustituto"
+  },
+  {
+   "row": "Tactics28",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a5a1a0c37e24",
+   "t": "Desplegar Barrera"
+  },
+  {
+   "row": "Tactics29",
+   "sub": 0,
+   "col": "m_name",
+   "src": "866eb08cc6e0",
+   "t": "Formación Anti-Medafuerza"
+  },
+  {
+   "row": "Tactics30",
+   "sub": 0,
+   "col": "m_name",
+   "src": "07e1d25071d6",
+   "t": "Ataque de Cobertura"
+  },
+  {
+   "row": "Tactics31",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f5cebf9f901e",
+   "t": "Habilidad Desbocada"
+  },
+  {
+   "row": "Tactics32",
+   "sub": 0,
+   "col": "m_name",
+   "src": "43f3d817c9a3",
+   "t": "Apoyo de Supresión"
+  },
+  {
+   "row": "Tactics33",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b04a5e7f68e",
+   "t": "Rastreo"
+  },
+  {
+   "row": "Tactics34",
+   "sub": 0,
+   "col": "m_name",
+   "src": "884051c39d12",
+   "t": "Refuerzos"
+  },
+  {
+   "row": "Tactics35",
+   "sub": 0,
+   "col": "m_name",
+   "src": "50149efe4340",
+   "t": "Enlace Táctico"
+  },
+  {
+   "row": "Tactics36",
+   "sub": 0,
+   "col": "m_name",
+   "src": "30a502c91018",
+   "t": "Supermejora"
+  },
+  {
+   "row": "Tactics37",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a4953420a97b",
+   "t": "Sobreesfuerzo"
+  },
+  {
+   "row": "Tactics38",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f28a4bf0db93",
+   "t": "Normalización"
+  },
+  {
+   "row": "Tactics39",
+   "sub": 0,
+   "col": "m_name",
+   "src": "36c5753839be",
+   "t": "Unión Total"
+  },
+  {
+   "row": "Tactics40",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5bf24bf104b8",
+   "t": "Cura Equivocada"
+  },
+  {
+   "row": "Tactics41",
+   "sub": 0,
+   "col": "m_name",
+   "src": "943ccfb24368",
+   "t": "Auxilio Inmediato"
+  },
+  {
+   "row": "Tactics42",
+   "sub": 0,
+   "col": "m_name",
+   "src": "db6c45441ef4",
+   "t": "Cura Exclusiva"
+  },
+  {
+   "row": "Tactics43",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4f6205af6e2e",
+   "t": "Regreso al Frente"
+  },
+  {
+   "row": "Tactics44",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c0dce59edd23",
+   "t": "Blindaje como Nuevo"
+  },
+  {
+   "row": "Tactics45",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eec3e3a3854f",
+   "t": "Nanocontrol"
+  },
+  {
+   "row": "Tactics46",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2828d4bcbd5e",
+   "t": "Curación Urgente"
+  },
+  {
+   "row": "Tactics47",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c044cfdab154",
+   "t": "Cura Esmerada"
+  },
+  {
+   "row": "Tactics48",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48bcd508df86",
+   "t": "Zona Segura"
+  },
+  {
+   "row": "Tactics49",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a08642b5a169",
+   "t": "Cuidados Intensivos"
+  },
+  {
+   "row": "Tactics50",
+   "sub": 0,
+   "col": "m_name",
+   "src": "66e3d9fa6f95",
+   "t": "Trampa Incompleta"
+  },
+  {
+   "row": "Tactics51",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d85e83c8b5dd",
+   "t": "Apoyo de Retaguardia"
+  },
+  {
+   "row": "Tactics52",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c8626ecf3a66",
+   "t": "Despliegue Veloz"
+  },
+  {
+   "row": "Tactics53",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f8704b449eb6",
+   "t": "Emboscada"
+  },
+  {
+   "row": "Tactics54",
+   "sub": 0,
+   "col": "m_name",
+   "src": "64b36a2430b7",
+   "t": "Suministro Abundante"
+  },
+  {
+   "row": "Tactics55",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d034f87e9ac0",
+   "t": "Mayor Eficiencia"
+  },
+  {
+   "row": "Tactics56",
+   "sub": 0,
+   "col": "m_name",
+   "src": "805018a8a1e8",
+   "t": "Señuelo"
+  },
+  {
+   "row": "Tactics57",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0c861fb842fb",
+   "t": "Corte de Suministro"
+  },
+  {
+   "row": "Tactics58",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7849e9ed2ee1",
+   "t": "Despliegue Urgente"
+  },
+  {
+   "row": "Tactics59",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fce935cbc828",
+   "t": "Red de Vigilancia"
+  },
+  {
+   "row": "Tactics60",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0809ab3e0611",
+   "t": "Ánimo de Poder"
+  },
+  {
+   "row": "Tactics61",
+   "sub": 0,
+   "col": "m_name",
+   "src": "770cf30da5c9",
+   "t": "Ánimo de Carga"
+  },
+  {
+   "row": "Tactics62",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b779edd1c679",
+   "t": "Ánimo Táctico"
+  },
+  {
+   "row": "Tactics63",
+   "sub": 0,
+   "col": "m_name",
+   "src": "57224e5c9551",
+   "t": "Ánimo de Enfriamiento"
+  },
+  {
+   "row": "Tactics64",
+   "sub": 0,
+   "col": "m_name",
+   "src": "aaa39656393a",
+   "t": "Eficiencia Energética"
+  },
+  {
+   "row": "Tactics65",
+   "sub": 0,
+   "col": "m_name",
+   "src": "919c417bc2d5",
+   "t": "Paso Firme"
+  },
+  {
+   "row": "Tactics66",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c5f252a5788b",
+   "t": "Vista Aérea"
+  },
+  {
+   "row": "Tactics67",
+   "sub": 0,
+   "col": "m_name",
+   "src": "035ae7ae2afa",
+   "t": "Movimiento Veloz"
+  },
+  {
+   "row": "Tactics68",
+   "sub": 0,
+   "col": "m_name",
+   "src": "747377bcba04",
+   "t": "Inmersión Rápida"
+  },
+  {
+   "row": "Tactics69",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a0c9e45677ea",
+   "t": "Blindaje Frontal"
+  },
+  {
+   "row": "Tactics70",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6af9bf76a066",
+   "t": "Movimiento Libre"
+  },
+  {
+   "row": "Trap00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ace3c0ba8c3d",
+   "t": "Trampa de Piezas"
+  },
+  {
+   "row": "Trap01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0e532646ce2b",
+   "t": "Trampa de Habilidad"
+  },
+  {
+   "row": "Trap02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0452f3e71e45",
+   "t": "Trampa Táctica"
+  },
+  {
+   "row": "Trap03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": "Trampa de Ataque"
+  },
+  {
+   "row": "Trap04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": "Trampa de Efecto"
+  },
+  {
+   "row": "Trap05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1066343036e",
+   "t": "Trampa de Impulso"
+  },
+  {
+   "row": "Trap06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "47289d2b2dac",
+   "t": "Trampa de Mano"
+  },
+  {
+   "row": "Trap07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "02c47996b281",
+   "t": "Trampa de Poder"
+  },
+  {
+   "row": "Trap08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6103cd2e6dbe",
+   "t": "Trampa de Interferencia"
+  },
+  {
+   "row": "Plant00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d2d08722a057",
+   "t": "Planta Calefactora"
+  },
+  {
+   "row": "Plant01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "43469c1b7a38",
+   "t": "Planta de Reparación"
+  },
+  {
+   "row": "Plant02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b96a4190f82",
+   "t": "Planta de Energía"
+  },
+  {
+   "row": "Plant03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9f45240cbe6d",
+   "t": "Primeros Auxilios"
+  },
+  {
+   "row": "Plant04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": "Planta Inhibidora"
+  },
+  {
+   "row": "Plant05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": "Absorbedor C"
+  },
+  {
+   "row": "BreakParts",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9a0cc0c22223",
+   "t": "Para buff de destrucción extra de piezas"
+  },
+  {
+   "row": "BreakShield",
+   "sub": 0,
+   "col": "m_name",
+   "src": "58c28ae1aa20",
+   "t": "Para buff de destrucción de escudo"
+  },
+  {
+   "row": "ReturnSupport",
+   "sub": 0,
+   "col": "m_name",
+   "src": "98e19ea64389",
+   "t": "Devolver un Medabot a la mano"
+  },
+  {
+   "row": "SelfDamageByPower",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6760bccb26fc",
+   "t": "Para Daño autoinfligido"
+  },
+  {
+   "row": "HiDefence",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41eb890ba077",
+   "t": "Para Alta Defensa"
+  },
+  {
+   "row": "RadarSight",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f43c4af4d07b",
+   "t": "Para Mira de Radar"
+  },
+  {
+   "row": "Guard2000",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eac775f6b9ec",
+   "t": "Para Guardia 2000"
+  },
+  {
+   "row": "CounterActiveSkill",
+   "sub": 0,
+   "col": "m_name",
+   "src": "59137c7c9965",
+   "t": "Para Contraataque de Habilidad"
+  },
+  {
+   "row": "RapidDive",
+   "sub": 0,
+   "col": "m_name",
+   "src": "207ac6b1696b",
+   "t": "Para Inmersión Rápida"
+  },
+  {
+   "row": "Confusion",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48215fecf18b",
+   "t": "Para Confusión"
+  },
+  {
+   "row": "FreezeGuard",
+   "sub": 0,
+   "col": "m_name",
+   "src": "32dc51bb535b",
+   "t": "Para Guardia Congelante"
+  },
+  {
+   "row": "SwordDrone",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ecff1f4f74bb",
+   "t": "Para Dron Espada"
+  },
+  {
+   "row": "ContinuousAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e0affbb2942b",
+   "t": "Para ataque continuo"
+  },
+  {
+   "row": "FightingBash",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41a33f4b5ac5",
+   "t": "Para Golpe de Combate"
+  },
+  {
+   "row": "Guard4000",
+   "sub": 0,
+   "col": "m_name",
+   "src": "218817d0ea41",
+   "t": "Para Guardia 4000"
+  },
+  {
+   "row": "OverCharge",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b122ab0cb656",
+   "t": "Para Sobrecarga"
+  },
+  {
+   "row": "NeedleGuard",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cb804b41174d",
+   "t": "Para Guardia de Púas"
+  },
+  {
+   "row": "Reflector",
+   "sub": 0,
+   "col": "m_name",
+   "src": "edff5f28a062",
+   "t": "Para Reflector"
+  },
+  {
+   "row": "AutoRepair",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a62f5a9dc6cd",
+   "t": "Autorreparación"
+  },
+  {
+   "row": "HyperRepair",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": "Hiperreparación"
+  },
+  {
+   "row": "Restoration",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bcec0646fa43",
+   "t": "Para Restonación"
+  },
+  {
+   "row": "ConvertShield",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a5e5f2d4a097",
+   "t": "Para Conversión de Escudo"
+  },
+  {
+   "row": "SearchEnemy",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1046fc3d0ee9",
+   "t": "Para Rastreo"
+  },
+  {
+   "row": "Burn",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5fdd001c503b",
+   "t": "Para Quemadura"
+  },
+  {
+   "row": "HiDefenceCPU",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5cf903390ea7",
+   "t": "Para cálculo CPU de Alta Defensa"
+  }
+ ]
+}

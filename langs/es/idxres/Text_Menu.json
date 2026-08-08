@@ -1,0 +1,1321 @@
+{
+ "table": "Text_Menu",
+ "entries": [
+  {
+   "row": "Ok",
+   "sub": 0,
+   "col": "text",
+   "src": "df3535a64718",
+   "t": "Aceptar"
+  },
+  {
+   "row": "Return",
+   "sub": 0,
+   "col": "text",
+   "src": "8fc7f899161b",
+   "t": "Atrás"
+  },
+  {
+   "row": "Yes",
+   "sub": 0,
+   "col": "text",
+   "src": "8f90d85ec13a",
+   "t": "Sí"
+  },
+  {
+   "row": "No",
+   "sub": 0,
+   "col": "text",
+   "src": "48ef2b674823",
+   "t": "No"
+  },
+  {
+   "row": "Ok2",
+   "sub": 0,
+   "col": "text",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "Common_Exit",
+   "sub": 0,
+   "col": "text",
+   "src": "b65f4b08b97c",
+   "t": "Salir"
+  },
+  {
+   "row": "Common_Cancel",
+   "sub": 0,
+   "col": "text",
+   "src": "bca84ea5c65f",
+   "t": "Cancelar"
+  },
+  {
+   "row": "Common_OwnCardOnly",
+   "sub": 0,
+   "col": "text",
+   "src": "92e8174ef160",
+   "t": "Solo cartas propias"
+  },
+  {
+   "row": "Common_SetCardOnly",
+   "sub": 0,
+   "col": "text",
+   "src": "176485535a1a",
+   "t": "Solo cartas en uso"
+  },
+  {
+   "row": "Common_AllCard",
+   "sub": 0,
+   "col": "text",
+   "src": "4953535cbb44",
+   "t": "Todas las cartas"
+  },
+  {
+   "row": "Common_NotOwned",
+   "sub": 0,
+   "col": "text",
+   "src": "1d9a35d131ca",
+   "t": "No obtenida"
+  },
+  {
+   "row": "Common_SettingCard",
+   "sub": 0,
+   "col": "text",
+   "src": "6e2e10d8086f",
+   "t": "En uso"
+  },
+  {
+   "row": "Common_SelectLeader",
+   "sub": 0,
+   "col": "text",
+   "src": "72759b94693c",
+   "t": "Elige al Líder"
+  },
+  {
+   "row": "Common_ExitDeckEdit",
+   "sub": 0,
+   "col": "text",
+   "src": "eeb306e65396",
+   "t": "Los cambios del mazo no se aplicarán. ¿Salir?"
+  },
+  {
+   "row": "Common_ExitEdit",
+   "sub": 0,
+   "col": "text",
+   "src": "5734174f3c51",
+   "t": "Los cambios no se aplicarán. ¿Salir?"
+  },
+  {
+   "row": "Sort_ID",
+   "sub": 0,
+   "col": "text",
+   "src": "aaa34e05d315",
+   "t": "Por ID"
+  },
+  {
+   "row": "Sort_Type",
+   "sub": 0,
+   "col": "text",
+   "src": "2d946050d23a",
+   "t": "Por tipo"
+  },
+  {
+   "row": "Sort_Filling",
+   "sub": 0,
+   "col": "text",
+   "src": "dbc5b0765073",
+   "t": "Por carga"
+  },
+  {
+   "row": "Sort_Cooling",
+   "sub": 0,
+   "col": "text",
+   "src": "c50a4c8de9f7",
+   "t": "Por enfriamiento"
+  },
+  {
+   "row": "Sort_Power",
+   "sub": 0,
+   "col": "text",
+   "src": "396d578fd4e5",
+   "t": "Por poder"
+  },
+  {
+   "row": "Sort_Tactics",
+   "sub": 0,
+   "col": "text",
+   "src": "a05a561ff844",
+   "t": "Por táctica"
+  },
+  {
+   "row": "Sort_Cost",
+   "sub": 0,
+   "col": "text",
+   "src": "aae58595b598",
+   "t": "Por costo"
+  },
+  {
+   "row": "Sort_Shield",
+   "sub": 0,
+   "col": "text",
+   "src": "d95cf3fbf3d0",
+   "t": "Por barrera"
+  },
+  {
+   "row": "DeckCategory_SaveMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "25ba4b1c0bb2",
+   "t": "¿Guardar los cambios del mazo?"
+  },
+  {
+   "row": "DeckCategory_Save",
+   "sub": 0,
+   "col": "text",
+   "src": "dcb7b045b8e2",
+   "t": "Guardar"
+  },
+  {
+   "row": "DeckCategory_NotSave",
+   "sub": 0,
+   "col": "text",
+   "src": "a886e24ec6a8",
+   "t": "No guardar"
+  },
+  {
+   "row": "Tower_ChangeLevel",
+   "sub": 0,
+   "col": "text",
+   "src": "46d411d47146",
+   "t": "La Torre Robobatalla está en curso\nen otra dificultad.\n¿Borrar el progreso guardado y probar\notra dificultad?\n\"Perderás todo el dinero obtenido\nen este desafío\""
+  },
+  {
+   "row": "TowerDialog_Easy",
+   "sub": 0,
+   "col": "text",
+   "src": "5bee1f879d37",
+   "t": "Fácil"
+  },
+  {
+   "row": "TowerDialog_Normal",
+   "sub": 0,
+   "col": "text",
+   "src": "33d69acbbb80",
+   "t": "Normal"
+  },
+  {
+   "row": "TowerDialog_Hard",
+   "sub": 0,
+   "col": "text",
+   "src": "34e1afc58c09",
+   "t": "Difícil"
+  },
+  {
+   "row": "TowerDialog_Endless",
+   "sub": 0,
+   "col": "text",
+   "src": "d77db2ff7b73",
+   "t": "Infinito"
+  },
+  {
+   "row": "Library_Category_Leader",
+   "sub": 0,
+   "col": "text",
+   "src": "e2938839e150",
+   "t": "Líder"
+  },
+  {
+   "row": "Library_Category_Parts",
+   "sub": 0,
+   "col": "text",
+   "src": "5461d30a804c",
+   "t": "Medapartes"
+  },
+  {
+   "row": "Library_Category_Support",
+   "sub": 0,
+   "col": "text",
+   "src": "bdbdb22b4f96",
+   "t": "Soporte"
+  },
+  {
+   "row": "Library_Category_Tactics",
+   "sub": 0,
+   "col": "text",
+   "src": "f9c9f42e6311",
+   "t": "Táctica"
+  },
+  {
+   "row": "Library_Category_Medarotter",
+   "sub": 0,
+   "col": "text",
+   "src": "32e7027e15d3",
+   "t": "Medaguerrero"
+  },
+  {
+   "row": "Library_Category_Medal",
+   "sub": 0,
+   "col": "text",
+   "src": "74c4893b3bde",
+   "t": "Medalla"
+  },
+  {
+   "row": "Library_Category_Medaforce",
+   "sub": 0,
+   "col": "text",
+   "src": "85ebf6a8ae73",
+   "t": "Medafuerza"
+  },
+  {
+   "row": "MedaforceOpenLevel",
+   "sub": 0,
+   "col": "text",
+   "src": "14ca2a04f7d4",
+   "t": "Lv 3\nDesbloqueo"
+  },
+  {
+   "row": "DeckCopy",
+   "sub": 0,
+   "col": "text",
+   "src": "1be3298a2b14",
+   "t": "Copiar mazo"
+  },
+  {
+   "row": "DeckDelete",
+   "sub": 0,
+   "col": "text",
+   "src": "5e8fce8ce04d",
+   "t": "Eliminar mazo"
+  },
+  {
+   "row": "DeckDafaultName",
+   "sub": 0,
+   "col": "text",
+   "src": "b86338673cdd",
+   "t": "Mazo nuevo-"
+  },
+  {
+   "row": "DeckCopyMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "97ec6d87ada4",
+   "t": "¿Copiar el mazo?"
+  },
+  {
+   "row": "Copy",
+   "sub": 0,
+   "col": "text",
+   "src": "70f7ae4afacd",
+   "t": "Copiar"
+  },
+  {
+   "row": "DeckDeleteMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "35ce006a66df",
+   "t": "¿Eliminar el mazo?"
+  },
+  {
+   "row": "Delete",
+   "sub": 0,
+   "col": "text",
+   "src": "e9653dc3edcb",
+   "t": "Eliminar"
+  },
+  {
+   "row": "NotFreeSpace",
+   "sub": 0,
+   "col": "text",
+   "src": "1b0c5048a090",
+   "t": "No se pudo copiar por falta de espacio"
+  },
+  {
+   "row": "MedaforceOpenLevel_00",
+   "sub": 0,
+   "col": "text",
+   "src": "d70a7a9457db",
+   "t": "Nivel de desbloqueo"
+  },
+  {
+   "row": "DefaultParts",
+   "sub": 0,
+   "col": "text",
+   "src": "38649dc2da1a",
+   "t": "Equipo estándar"
+  },
+  {
+   "row": "CreateDialog_OwnTickets",
+   "sub": 0,
+   "col": "text",
+   "src": "dc750e279070",
+   "t": "Tickets en posesión"
+  },
+  {
+   "row": "CreateDialog_UseTickets",
+   "sub": 0,
+   "col": "text",
+   "src": "0c23d39d304f",
+   "t": "Tickets a consumir"
+  },
+  {
+   "row": "CreateDialog_UseTicketMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "9434530cbe0c",
+   "t": "¿Usar tickets para crear la carta?"
+  },
+  {
+   "row": "CreateDialog_OwnDusts",
+   "sub": 0,
+   "col": "text",
+   "src": "1d7bdee5706c",
+   "t": "Polvo en posesión"
+  },
+  {
+   "row": "CreateDialog_UseDusts",
+   "sub": 0,
+   "col": "text",
+   "src": "84ea1ef2c7f8",
+   "t": "Polvo a consumir"
+  },
+  {
+   "row": "CreateDialog_UseDustMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "e7a8baed7058",
+   "t": "¿Usar polvo para crear la carta?"
+  },
+  {
+   "row": "CreateDialog_LessTicket",
+   "sub": 0,
+   "col": "text",
+   "src": "51511cf0ab15",
+   "t": "No tienes suficientes tickets"
+  },
+  {
+   "row": "CreateDialog_LessDust",
+   "sub": 0,
+   "col": "text",
+   "src": "33964c1c7777",
+   "t": "No tienes suficiente polvo"
+  },
+  {
+   "row": "CreateDialog_CardMax",
+   "sub": 0,
+   "col": "text",
+   "src": "b33f56ec36d2",
+   "t": "Solo puedes tener 3 copias de cada carta"
+  },
+  {
+   "row": "ModificationDialog_Modify",
+   "sub": 0,
+   "col": "text",
+   "src": "087d76c36e9f",
+   "t": "¿Usar monedas para modificar la Medaparte?\n<size=-5>(Puedes devolverla a su estado original)</size>"
+  },
+  {
+   "row": "ModificationDialog_Return",
+   "sub": 0,
+   "col": "text",
+   "src": "074042505fb3",
+   "t": "¿Usar monedas para restaurar la Medaparte?"
+  },
+  {
+   "row": "Header_ModeSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "fdb73ba93b6e",
+   "t": "Selección de modo"
+  },
+  {
+   "row": "Header_StageSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "9d7aad0eb5ce",
+   "t": "Desafío Robobatalla"
+  },
+  {
+   "row": "Header_OpponentSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "278ae43146de",
+   "t": "Selección de rival"
+  },
+  {
+   "row": "Header_OpponentSelectPractice",
+   "sub": 0,
+   "col": "text",
+   "src": "44ffcf4e9eb6",
+   "t": "Selección de práctica"
+  },
+  {
+   "row": "Header_TowerMenu",
+   "sub": 0,
+   "col": "text",
+   "src": "beac269f6035",
+   "t": "Torre Robobatalla"
+  },
+  {
+   "row": "Header_MultiMenu",
+   "sub": 0,
+   "col": "text",
+   "src": "4c978e9b7c93",
+   "t": "Multijugador"
+  },
+  {
+   "row": "Header_MultiOnline",
+   "sub": 0,
+   "col": "text",
+   "src": "c47d33913ef0",
+   "t": "Combate en línea"
+  },
+  {
+   "row": "Header_MultiOffline",
+   "sub": 0,
+   "col": "text",
+   "src": "6e1b53d1ab6c",
+   "t": "Combate local"
+  },
+  {
+   "row": "Header_MultiLobby",
+   "sub": 0,
+   "col": "text",
+   "src": "149aa6aed8b3",
+   "t": "Sala de combate"
+  },
+  {
+   "row": "Header_DeckList",
+   "sub": 0,
+   "col": "text",
+   "src": "644c4bd6be8b",
+   "t": "Lista de mazos"
+  },
+  {
+   "row": "Header_DeckCategory",
+   "sub": 0,
+   "col": "text",
+   "src": "ac9374421cae",
+   "t": "Selección de categoría"
+  },
+  {
+   "row": "Header_DeckLeader",
+   "sub": 0,
+   "col": "text",
+   "src": "f6e1675169bc",
+   "t": "Selección de líder"
+  },
+  {
+   "row": "Header_DeckMedal",
+   "sub": 0,
+   "col": "text",
+   "src": "e6a41f7b80f8",
+   "t": "Selección de medalla"
+  },
+  {
+   "row": "Header_DeckCard",
+   "sub": 0,
+   "col": "text",
+   "src": "924b0cc27017",
+   "t": "Editar mazo"
+  },
+  {
+   "row": "Header_DeckParts",
+   "sub": 0,
+   "col": "text",
+   "src": "6e59ab75c8af",
+   "t": "Selección de piezas"
+  },
+  {
+   "row": "Header_CardLibrary",
+   "sub": 0,
+   "col": "text",
+   "src": "e4448fe427c6",
+   "t": "Colección de cartas"
+  },
+  {
+   "row": "Header_CardShop",
+   "sub": 0,
+   "col": "text",
+   "src": "9d1aa3e2ba9d",
+   "t": "Tienda de cartas"
+  },
+  {
+   "row": "Header_Option",
+   "sub": 0,
+   "col": "text",
+   "src": "5b717728bbea",
+   "t": "Opciones"
+  },
+  {
+   "row": "ModeMenu_SelectName00",
+   "sub": 0,
+   "col": "text",
+   "src": "beac269f6035",
+   "t": "Torre Robobatalla"
+  },
+  {
+   "row": "ModeMenu_SelectName01",
+   "sub": 0,
+   "col": "text",
+   "src": "9d7aad0eb5ce",
+   "t": "Desafío Robobatalla"
+  },
+  {
+   "row": "ModeMenu_SelectName02",
+   "sub": 0,
+   "col": "text",
+   "src": "4c978e9b7c93",
+   "t": "Multijugador"
+  },
+  {
+   "row": "ModeMenu_SelectName03",
+   "sub": 0,
+   "col": "text",
+   "src": "e44f9e63dcc3",
+   "t": "Sobres"
+  },
+  {
+   "row": "ModeMenu_SelectName04",
+   "sub": 0,
+   "col": "text",
+   "src": "924b0cc27017",
+   "t": "Editar mazo"
+  },
+  {
+   "row": "ModeMenu_SelectName05",
+   "sub": 0,
+   "col": "text",
+   "src": "e4448fe427c6",
+   "t": "Colección"
+  },
+  {
+   "row": "ModeMenu_SelectName06",
+   "sub": 0,
+   "col": "text",
+   "src": "5b717728bbea",
+   "t": "Opciones"
+  },
+  {
+   "row": "ModeMenu_GuideText00",
+   "sub": 0,
+   "col": "text",
+   "src": "d535d781174b",
+   "t": "¡Conquista la Torre Robobatalla!"
+  },
+  {
+   "row": "ModeMenu_GuideText01",
+   "sub": 0,
+   "col": "text",
+   "src": "4ecfa0df0aae",
+   "t": "¡Derrota a incontables rivales y avanza!"
+  },
+  {
+   "row": "ModeMenu_GuideText02",
+   "sub": 0,
+   "col": "text",
+   "src": "80f33577e95e",
+   "t": "¡A robobatallar en multijugador!"
+  },
+  {
+   "row": "ModeMenu_GuideText03",
+   "sub": 0,
+   "col": "text",
+   "src": "ca251a7be9ba",
+   "t": "¡Compra sobres y consigue cartas!"
+  },
+  {
+   "row": "ModeMenu_GuideText04",
+   "sub": 0,
+   "col": "text",
+   "src": "5053cc39a10b",
+   "t": "¡Crea tu propio mazo invencible!"
+  },
+  {
+   "row": "ModeMenu_GuideText05",
+   "sub": 0,
+   "col": "text",
+   "src": "0fc7f7f68ba7",
+   "t": "¡Admira las cartas que has reunido!"
+  },
+  {
+   "row": "ModeMenu_GuideText06",
+   "sub": 0,
+   "col": "text",
+   "src": "20eaa2fc3c1f",
+   "t": "¡Cambia los ajustes del juego!"
+  },
+  {
+   "row": "Terrain_Forest",
+   "sub": 0,
+   "col": "text",
+   "src": "51bc753f40ce",
+   "t": "Bosque"
+  },
+  {
+   "row": "Terrain_Rocky",
+   "sub": 0,
+   "col": "text",
+   "src": "b34a70eeb390",
+   "t": "Pedregal"
+  },
+  {
+   "row": "Terrain_Desert",
+   "sub": 0,
+   "col": "text",
+   "src": "2f51bf6b821f",
+   "t": "Arenal"
+  },
+  {
+   "row": "Terrain_Plain",
+   "sub": 0,
+   "col": "text",
+   "src": "2f6bae0436e1",
+   "t": "Llanura"
+  },
+  {
+   "row": "Terrain_Frozen",
+   "sub": 0,
+   "col": "text",
+   "src": "ca4c7556b651",
+   "t": "Tundra"
+  },
+  {
+   "row": "Terrain_Water",
+   "sub": 0,
+   "col": "text",
+   "src": "fd378c02c495",
+   "t": "Ribera"
+  },
+  {
+   "row": "Terrain_Mountain",
+   "sub": 0,
+   "col": "text",
+   "src": "ba25382dec8f",
+   "t": "Montaña"
+  },
+  {
+   "row": "Terrain_Cyber",
+   "sub": 0,
+   "col": "text",
+   "src": "2ee769e4d6ee",
+   "t": "Ciberespacio"
+  },
+  {
+   "row": "Terrain_None",
+   "sub": 0,
+   "col": "text",
+   "src": "58c8dc1eb7e1",
+   "t": "Sin terreno"
+  },
+  {
+   "row": "Terrain_Practice",
+   "sub": 0,
+   "col": "text",
+   "src": "3098584538b2",
+   "t": "Práctica"
+  },
+  {
+   "row": "TerrainDialog_Message",
+   "sub": 0,
+   "col": "text",
+   "src": "82ff6fd45773",
+   "t": "Si las piernas del Medabot Líder son\nde tipo {0}, obtienes la carta de\nTáctica [{1}] al inicio del combate."
+  },
+  {
+   "row": "TerrainInfo_Forest",
+   "sub": 0,
+   "col": "text",
+   "src": "aad32d29c092",
+   "t": "Zona de árboles densos. Bono de piernas para Bípedo, Multipata y Vehículo."
+  },
+  {
+   "row": "TerrainInfo_Rocky",
+   "sub": 0,
+   "col": "text",
+   "src": "e82ac66fd5ad",
+   "t": "Pedregal escarpado. Bono de piernas para Bípedo, Multipata y Flotante."
+  },
+  {
+   "row": "TerrainInfo_Desert",
+   "sub": 0,
+   "col": "text",
+   "src": "d2eee1ea9757",
+   "t": "Arenal de suelo inestable. Bono de piernas para Volador, Vehículo y Tanque."
+  },
+  {
+   "row": "TerrainInfo_Plain",
+   "sub": 0,
+   "col": "text",
+   "src": "9efb16769b8c",
+   "t": "Llanura despejada. Bono de piernas para Bípedo, Volador y Vehículo."
+  },
+  {
+   "row": "TerrainInfo_Frozen",
+   "sub": 0,
+   "col": "text",
+   "src": "ea95b8a35aa6",
+   "t": "Zona helada y resbaladiza. Bono de piernas para Vehículo, Submarino y Flotante."
+  },
+  {
+   "row": "TerrainInfo_Water",
+   "sub": 0,
+   "col": "text",
+   "src": "ba2663005dac",
+   "t": "Zona con áreas acuáticas. Bono de piernas para Submarino y Flotante."
+  },
+  {
+   "row": "TerrainInfo_Cyber",
+   "sub": 0,
+   "col": "text",
+   "src": "4c34d3c4fa1e",
+   "t": "Espacio virtual especial. Bono de piernas para todos los tipos."
+  },
+  {
+   "row": "TerrainInfo_None",
+   "sub": 0,
+   "col": "text",
+   "src": "e033fbea9337",
+   "t": "Zona de entrenamiento para aprender lo básico del combate."
+  },
+  {
+   "row": "OptionInfo_BgmVolume",
+   "sub": 0,
+   "col": "text",
+   "src": "60c4892a125f",
+   "t": "Cambia el volumen de la música"
+  },
+  {
+   "row": "OptionInfo_SeVolume",
+   "sub": 0,
+   "col": "text",
+   "src": "e27939071895",
+   "t": "Cambia el volumen de los efectos de sonido"
+  },
+  {
+   "row": "OptionInfo_VoiceVolume",
+   "sub": 0,
+   "col": "text",
+   "src": "8f0d89a4b000",
+   "t": "Cambia el volumen de las voces"
+  },
+  {
+   "row": "OptionInfo_Vibration",
+   "sub": 0,
+   "col": "text",
+   "src": "8f44a1b0705e",
+   "t": "Activa o desactiva la vibración"
+  },
+  {
+   "row": "OptionInfo_PlayerIcon",
+   "sub": 0,
+   "col": "text",
+   "src": "e202fa1795d5",
+   "t": "Cambia el ícono de jugador"
+  },
+  {
+   "row": "OptionInfo_Wallpaper",
+   "sub": 0,
+   "col": "text",
+   "src": "ef69907519c4",
+   "t": "Cambia el fondo de pantalla"
+  },
+  {
+   "row": "OptionInfo_RefereeVoice",
+   "sub": 0,
+   "col": "text",
+   "src": "14e580b540cd",
+   "t": "Cambia la voz del réferi"
+  },
+  {
+   "row": "OptionInfo_CostConfirm",
+   "sub": 0,
+   "col": "text",
+   "src": "d67065464879",
+   "t": "Configura si se pide confirmación al terminar la fase cuando aún puedes actuar"
+  },
+  {
+   "row": "OptionInfo_Tips",
+   "sub": 0,
+   "col": "text",
+   "src": "308b4e08d3f5",
+   "t": "Vuelve a ver la explicación de cada pantalla"
+  },
+  {
+   "row": "OptionInfo_Credit",
+   "sub": 0,
+   "col": "text",
+   "src": "53adc53799f3",
+   "t": "Conoce a las personas que hicieron este juego"
+  },
+  {
+   "row": "OptionInfo_SpecialSupport",
+   "sub": 0,
+   "col": "text",
+   "src": "247fa3a8c352",
+   "t": "Consulta a los colaboradores especiales"
+  },
+  {
+   "row": "Option_Vibration_On",
+   "sub": 0,
+   "col": "text",
+   "src": "67003f878dd9",
+   "t": "Sí"
+  },
+  {
+   "row": "Option_Vibration_Off",
+   "sub": 0,
+   "col": "text",
+   "src": "3d00184e2ba1",
+   "t": "No"
+  },
+  {
+   "row": "Option_CostConfirm_On",
+   "sub": 0,
+   "col": "text",
+   "src": "67003f878dd9",
+   "t": "Sí"
+  },
+  {
+   "row": "Option_CostConfirm_Off",
+   "sub": 0,
+   "col": "text",
+   "src": "3d00184e2ba1",
+   "t": "No"
+  },
+  {
+   "row": "Option_PlayerIconWindow_UnlockConditionText",
+   "sub": 0,
+   "col": "text",
+   "src": "6927eb1ec2ee",
+   "t": "{0} «{1}»"
+  },
+  {
+   "row": "Option_InitializeDialog_Text",
+   "sub": 0,
+   "col": "text",
+   "src": "6ac5a53e54a0",
+   "t": "Se restablecerá todo excepto el ícono\nde jugador y el fondo de pantalla.\n¿Restablecer los ajustes?"
+  },
+  {
+   "row": "Option_InitializeDialog_Yes",
+   "sub": 0,
+   "col": "text",
+   "src": "58fdb265c971",
+   "t": "Restablecer"
+  },
+  {
+   "row": "Option_InitializeDialog_No",
+   "sub": 0,
+   "col": "text",
+   "src": "bca84ea5c65f",
+   "t": "Cancelar"
+  },
+  {
+   "row": "MultiSelect_RoomSearch_Tips_Online",
+   "sub": 0,
+   "col": "text",
+   "src": "11e3680dac6e",
+   "t": "Configura las condiciones\ny busca una sala"
+  },
+  {
+   "row": "MultiSelect_RoomSearch_Tips_Local",
+   "sub": 0,
+   "col": "text",
+   "src": "15b81edaaa3f",
+   "t": "Busca salas creadas\npor gente cercana"
+  },
+  {
+   "row": "MultiSelect_TimeLimit_On",
+   "sub": 0,
+   "col": "text",
+   "src": "538fa5973853",
+   "t": "Sí"
+  },
+  {
+   "row": "MultiSelect_TimeLimit_Off",
+   "sub": 0,
+   "col": "text",
+   "src": "868310e193d1",
+   "t": "No"
+  },
+  {
+   "row": "MultiSelect_SearchComment_All",
+   "sub": 0,
+   "col": "text",
+   "src": "2b491b922189",
+   "t": "Sin especificar"
+  },
+  {
+   "row": "MultiLobby_StateReady",
+   "sub": 0,
+   "col": "text",
+   "src": "d888e7c7a830",
+   "t": "Listo"
+  },
+  {
+   "row": "MultiLobby_StateIdle",
+   "sub": 0,
+   "col": "text",
+   "src": "9e305eab23dd",
+   "t": "Preparando"
+  },
+  {
+   "row": "MultiLobby_ExitDialog_Host_Text",
+   "sub": 0,
+   "col": "text",
+   "src": "ff10053ceb96",
+   "t": "¿Disolver la sala?"
+  },
+  {
+   "row": "MultiLobby_ExitDialog_Host_Yes",
+   "sub": 0,
+   "col": "text",
+   "src": "3acd6a124067",
+   "t": "Disolver"
+  },
+  {
+   "row": "MultiLobby_ExitDialog_Guest_Text",
+   "sub": 0,
+   "col": "text",
+   "src": "4ea9df587fb8",
+   "t": "¿Salir de la sala?"
+  },
+  {
+   "row": "MultiLobby_ExitDialog_Guest_Yes",
+   "sub": 0,
+   "col": "text",
+   "src": "e3c62ebd12c1",
+   "t": "Salir"
+  },
+  {
+   "row": "MultiLobby_ExitDialog_No",
+   "sub": 0,
+   "col": "text",
+   "src": "bca84ea5c65f",
+   "t": "Cancelar"
+  },
+  {
+   "row": "Network_NotFoundDialog_SearchCondition",
+   "sub": 0,
+   "col": "text",
+   "src": "909e11113b05",
+   "t": "No se encontraron salas con esas condiciones"
+  },
+  {
+   "row": "Network_NotFoundDialog_Friends",
+   "sub": 0,
+   "col": "text",
+   "src": "8404e96692e5",
+   "t": "No se encontraron salas de amigos"
+  },
+  {
+   "row": "Network_NotFoundDialog_Local",
+   "sub": 0,
+   "col": "text",
+   "src": "ea57f35e7932",
+   "t": "No se encontraron salas"
+  },
+  {
+   "row": "Network_ErrorDialog_CannotParticipate",
+   "sub": 0,
+   "col": "text",
+   "src": "8c9801ea0f98",
+   "t": "No se pudo entrar a la sala"
+  },
+  {
+   "row": "Network_DisconnectDialog_Lobby_Close",
+   "sub": 0,
+   "col": "text",
+   "src": "e46604909e9e",
+   "t": "La sala fue disuelta"
+  },
+  {
+   "row": "Network_DisconnectDialog_Lobby_Disconnect",
+   "sub": 0,
+   "col": "text",
+   "src": "28406946d896",
+   "t": "Se perdió la conexión"
+  },
+  {
+   "row": "Network_DisconnectDialog_Text",
+   "sub": 0,
+   "col": "text",
+   "src": "f04dc70b26f9",
+   "t": "Se perdió la conexión con el rival"
+  },
+  {
+   "row": "Network_DisconnectDialog_After_Text",
+   "sub": 0,
+   "col": "text",
+   "src": "5e353a76edb9",
+   "t": "Se perdió la conexión con el rival.\nEl combate multijugador ha terminado."
+  },
+  {
+   "row": "RewardDialogTitle_Stage",
+   "sub": 0,
+   "col": "text",
+   "src": "ae4c29ba9046",
+   "t": "¡Recompensa obtenida!"
+  },
+  {
+   "row": "RewardDialogTitle_Tower",
+   "sub": 0,
+   "col": "text",
+   "src": "05ed47021725",
+   "t": "¡Recompensa de piso obtenida!"
+  },
+  {
+   "row": "RewardDialogTitle_Secret",
+   "sub": 0,
+   "col": "text",
+   "src": "f0be8d52ed63",
+   "t": "¡Secreto desbloqueado!"
+  },
+  {
+   "row": "RewardDialogTitle_Version",
+   "sub": 0,
+   "col": "text",
+   "src": "94f2c7930611",
+   "t": "¡Bono por comprar ambas versiones!"
+  },
+  {
+   "row": "Gacha_ButtonPackSelect",
+   "sub": 0,
+   "col": "text",
+   "src": "a78fd5524058",
+   "t": "Comprar"
+  },
+  {
+   "row": "Gacha_ButtonCardOpen",
+   "sub": 0,
+   "col": "text",
+   "src": "9eccdca31ee3",
+   "t": "Siguiente"
+  },
+  {
+   "row": "DeckError_MedalNotSet",
+   "sub": 0,
+   "col": "text",
+   "src": "d563d1fc4e3d",
+   "t": "No hay ninguna medalla equipada"
+  },
+  {
+   "row": "DeckError_CardsSurplus",
+   "sub": 0,
+   "col": "text",
+   "src": "13f4b8ca12ec",
+   "t": "Hay demasiadas cartas"
+  },
+  {
+   "row": "DeckError_CardsShortage",
+   "sub": 0,
+   "col": "text",
+   "src": "25971b53a485",
+   "t": "Faltan cartas"
+  },
+  {
+   "row": "RewardText_Version",
+   "sub": 0,
+   "col": "text",
+   "src": "48cf5c82b129",
+   "t": "Obtenida con el bono por ambas versiones"
+  },
+  {
+   "row": "StageAllClear",
+   "sub": 0,
+   "col": "text",
+   "src": "d343db0cecbe",
+   "t": "¡Felicidades por superar todas las\netapas!\nLa lucha por superarte no termina.\nDesafía tus límites en la Torre\nRobobatalla, el multijugador y más."
+  },
+  {
+   "row": "TutorialSkipDialog",
+   "sub": 0,
+   "col": "text",
+   "src": "470acf333ee0",
+   "t": "¿Saltar la Práctica?\nEl juego comenzará sin explicar los\ncontroles básicos ni las reglas.\n\n*La Práctica se puede jugar después\no saltar en cualquier momento."
+  },
+  {
+   "row": "TutorialSkipDialogTrial",
+   "sub": 0,
+   "col": "text",
+   "src": "91d1f8eae571",
+   "t": "¿Saltar la Práctica?\nEl juego comenzará sin explicar los\ncontroles básicos ni las reglas."
+  },
+  {
+   "row": "TutorialSkipDialog_Skip",
+   "sub": 0,
+   "col": "text",
+   "src": "5d74f245ac84",
+   "t": "Saltar"
+  },
+  {
+   "row": "TutorialSkipDialog_No",
+   "sub": 0,
+   "col": "text",
+   "src": "ffd3be3fb344",
+   "t": "No saltar"
+  },
+  {
+   "row": "TrialNotPlayable",
+   "sub": 0,
+   "col": "text",
+   "src": "aec20712ec96",
+   "t": "<color=#FF3174>No disponible en la Edición de Práctica.</color>"
+  },
+  {
+   "row": "TrialEndDialog",
+   "sub": 0,
+   "col": "text",
+   "src": "57f13f8c4852",
+   "t": "La Edición de Práctica termina aquí.\nDisfruta el resto en la versión completa."
+  },
+  {
+   "row": "TrialEndDialog_Close",
+   "sub": 0,
+   "col": "text",
+   "src": "f6c244f98893",
+   "t": "Cerrar"
+  },
+  {
+   "row": "TrialEndDialog_eShop",
+   "sub": 0,
+   "col": "text",
+   "src": "15e8c79d5605",
+   "t": "Ir a Nintendo eShop"
+  },
+  {
+   "row": "TrialEShopDialog",
+   "sub": 0,
+   "col": "text",
+   "src": "05bb2f224e73",
+   "t": "¿Ir a la página de la versión completa en Nintendo eShop?"
+  },
+  {
+   "row": "TrialHandoverDialog",
+   "sub": 0,
+   "col": "text",
+   "src": "846e3ae6bd24",
+   "t": "Hay datos guardados de la Edición de\nPráctica.\n¿Quieres traspasarlos?"
+  },
+  {
+   "row": "TrialHandoverDialogKBT",
+   "sub": 0,
+   "col": "text",
+   "src": "5716a31de789",
+   "t": "Hay datos guardados de la Edición de\nPráctica.\n¿Quieres traspasarlos?\n\n*Los mazos, íconos de jugador, etc.,\nse reemplazarán por los de la versión\nKabuto."
+  },
+  {
+   "row": "TrialHandoverDialog_Close",
+   "sub": 0,
+   "col": "text",
+   "src": "e1b8ae466705",
+   "t": "No traspasar"
+  },
+  {
+   "row": "TrialHandoverDialog_Ok",
+   "sub": 0,
+   "col": "text",
+   "src": "6cbc384575a2",
+   "t": "Traspasar"
+  },
+  {
+   "row": "TrialHandoverDialog_Over",
+   "sub": 0,
+   "col": "text",
+   "src": "fc12d9517873",
+   "t": "Se traspasaron los datos."
+  },
+  {
+   "row": "OpponentFightDialog_Title",
+   "sub": 0,
+   "col": "text",
+   "src": "df06d7057eea",
+   "t": "¿Están de acuerdo?"
+  },
+  {
+   "row": "OpponentFightDialog_TitleRiarira",
+   "sub": 0,
+   "col": "text",
+   "src": "068eb6120296",
+   "t": "¿Están de acuerdo?"
+  },
+  {
+   "row": "OpponentFightDialog_Button",
+   "sub": 0,
+   "col": "text",
+   "src": "0cc87e1be8de",
+   "t": "¡De acuerdo!"
+  },
+  {
+   "row": "NetworkTopMenu_NetworkTitle",
+   "sub": 0,
+   "col": "text",
+   "src": "c47d33913ef0",
+   "t": "Combate en línea"
+  },
+  {
+   "row": "NetworkTopMenu_LocalTitle",
+   "sub": 0,
+   "col": "text",
+   "src": "6e1b53d1ab6c",
+   "t": "Combate local"
+  },
+  {
+   "row": "NetworkTopMenu_NetworkMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "84f8b85f01f8",
+   "t": "¡A robobatallar con gente\nde todo el mundo!"
+  },
+  {
+   "row": "NetworkTopMenu_LocalMessage",
+   "sub": 0,
+   "col": "text",
+   "src": "82a47b055909",
+   "t": "¡A robobatallar con gente\ncercana!"
+  },
+  {
+   "row": "KeyCard_Title",
+   "sub": 0,
+   "col": "text",
+   "src": "57e7dc3b2012",
+   "t": "Cartas favoritas"
+  },
+  {
+   "row": "KeyCard_Tips",
+   "sub": 0,
+   "col": "text",
+   "src": "68614821ca8d",
+   "t": "¡Elige hasta 2 cartas favoritas entre las de tu mazo!"
+  },
+  {
+   "row": "TowerFloor_Retire_Message",
+   "sub": 0,
+   "col": "text",
+   "src": "949034f51174",
+   "t": "¿Retirarte y quedarte con\nlas monedas obtenidas?"
+  },
+  {
+   "row": "KeyAssign_SaveReturn",
+   "sub": 0,
+   "col": "text",
+   "src": "901a99ef46c7",
+   "t": "Guardar y volver"
+  },
+  {
+   "row": "TerrainInfo_Plain",
+   "sub": 0,
+   "col": "text",
+   "src": "d4897ab38761",
+   "t": "Llanura despejada. Bono de piernas para Bípedo, Volador y Vehículo."
+  },
+  {
+   "row": "OptionInfo_SpecialSupport",
+   "sub": 0,
+   "col": "text",
+   "src": "498a28f36050",
+   "t": "[Provisional] "
+  }
+ ]
+}

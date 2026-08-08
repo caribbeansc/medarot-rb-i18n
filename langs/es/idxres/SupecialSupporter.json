@@ -1,0 +1,111 @@
+{
+ "table": "SupecialSupporter",
+ "_policy": "not translated: real names of crowdfunding backers",
+ "entries": [
+  {
+   "row": "Data",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b3aee9e71429",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 1,
+   "col": "m_text",
+   "src": "c162f60b4365",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 2,
+   "col": "m_text",
+   "src": "e94f82e286b0",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 3,
+   "col": "m_text",
+   "src": "7806ec9bae40",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 4,
+   "col": "m_text",
+   "src": "cf0a791a1261",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 5,
+   "col": "m_text",
+   "src": "e4351301e922",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 6,
+   "col": "m_text",
+   "src": "992153b71680",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 7,
+   "col": "m_text",
+   "src": "76828a6ea34f",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 8,
+   "col": "m_text",
+   "src": "15184d3c3007",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 9,
+   "col": "m_text",
+   "src": "652eed7d941d",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 10,
+   "col": "m_text",
+   "src": "5bfb7eba5244",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 11,
+   "col": "m_text",
+   "src": "807bac92c62b",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 12,
+   "col": "m_text",
+   "src": "a61979a05b72",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 13,
+   "col": "m_text",
+   "src": "23595936c584",
+   "t": ""
+  },
+  {
+   "row": "Data",
+   "sub": 14,
+   "col": "m_text",
+   "src": "bbbb09d37fa7",
+   "t": ""
+  }
+ ]
+}

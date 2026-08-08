@@ -1,0 +1,25 @@
+The translations in this repository — everything under `langs/` — are licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International licence
+(CC BY-SA 4.0).
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+In short: you may copy, redistribute and adapt them, for any purpose, including
+commercially, as long as you give appropriate credit and license your
+adaptations under the same terms.
+
+What is covered:
+
+  * the translated strings in `langs/<code>/idxres/*.json` and
+    `langs/<code>/labels.json`;
+  * the glossaries, name lists and credits in `langs/<code>/*.md`;
+  * the texture deltas in `langs/<code>/textures/delta/` — the pixels the
+    translation adds, not the artwork they sit on.
+
+What is NOT covered, because it is not ours to license:
+
+  * the original Japanese text of the game (which this repository does not
+    contain: see docs/specs/SPEC-005-translation-keys.md);
+  * the game's artwork, fonts, audio or code;
+  * anything under `work/` or `build/` on your machine, which is derived from
+    your own copy of the game.

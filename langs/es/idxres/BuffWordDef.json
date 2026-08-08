@@ -1,0 +1,1111 @@
+{
+ "table": "BuffWordDef",
+ "entries": [
+  {
+   "row": "BuffWord00",
+   "sub": 0,
+   "col": "m_title",
+   "src": "59ec685ec302",
+   "t": "Aumento de poder"
+  },
+  {
+   "row": "BuffWord00",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c6369f05c8f",
+   "t": "El poder de este Medabot aumenta en {0}."
+  },
+  {
+   "row": "BuffWord01",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d313d6378959",
+   "t": "Aumento de daño"
+  },
+  {
+   "row": "BuffWord01",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cbb521cd166d",
+   "t": "El daño de las habilidades de este Medabot aumenta en {0}."
+  },
+  {
+   "row": "BuffWord02",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6bd9ef4c0b46",
+   "t": "Aumento de poder acumulable"
+  },
+  {
+   "row": "BuffWord02",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c6369f05c8f",
+   "t": "El poder de este Medabot aumenta en {0}."
+  },
+  {
+   "row": "BuffWord03",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d66f38d0f9f1",
+   "t": "Cambio de poder"
+  },
+  {
+   "row": "BuffWord03",
+   "sub": 0,
+   "col": "m_text",
+   "src": "57bb6525d046",
+   "t": "El poder cambia a {0}. Se anulan los aumentos y reducciones de poder aplicados antes de este efecto."
+  },
+  {
+   "row": "BuffWord04",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8d274dc16dd0",
+   "t": "Aumento de daño táctico"
+  },
+  {
+   "row": "BuffWord04",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7a9a8e6e5664",
+   "t": "El daño de las cartas de Táctica aumenta en {0}."
+  },
+  {
+   "row": "BuffWord05",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b72e05f58474",
+   "t": "Aumento de daño de habilidad"
+  },
+  {
+   "row": "BuffWord05",
+   "sub": 0,
+   "col": "m_text",
+   "src": "87e0e73ea5b8",
+   "t": "El daño de las habilidades (acción) aumenta en {0}."
+  },
+  {
+   "row": "BuffWord06",
+   "sub": 0,
+   "col": "m_title",
+   "src": "189773a1b2f8",
+   "t": "Daño de habilidad a la mitad"
+  },
+  {
+   "row": "BuffWord06",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3c7f88cfed67",
+   "t": "El daño recibido de habilidades se reduce a la mitad."
+  },
+  {
+   "row": "BuffWord07",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ded4469cb3b6",
+   "t": "Quemadura"
+  },
+  {
+   "row": "BuffWord07",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1d274aeb90bf",
+   "t": "Cuando el Medabot afectado usa un\nataque normal, su poder se reduce\nen 3000.\nTras el combate, el poder se restaura."
+  },
+  {
+   "row": "BuffWord08",
+   "sub": 0,
+   "col": "m_title",
+   "src": "10632230a0a1",
+   "t": "Shock"
+  },
+  {
+   "row": "BuffWord08",
+   "sub": 0,
+   "col": "m_text",
+   "src": "356c2c94e04f",
+   "t": "Este Medabot no puede activar ninguna\nhabilidad (acción).\nEste Medabot no puede cambiarse\nmediante retransferencia."
+  },
+  {
+   "row": "BuffWord09",
+   "sub": 0,
+   "col": "m_title",
+   "src": "baa5cd1c4b6f",
+   "t": "Congelación"
+  },
+  {
+   "row": "BuffWord09",
+   "sub": 0,
+   "col": "m_text",
+   "src": "194abcb5cfa8",
+   "t": "Este Medabot no puede realizar\nninguna acción.\nEste Medabot no puede cambiarse\nmediante retransferencia."
+  },
+  {
+   "row": "BuffWord10",
+   "sub": 0,
+   "col": "m_title",
+   "src": "792ab5974a45",
+   "t": "Atadura"
+  },
+  {
+   "row": "BuffWord10",
+   "sub": 0,
+   "col": "m_text",
+   "src": "60d9c1a30539",
+   "t": "El costo del Enfriamiento rápido aumenta en 2."
+  },
+  {
+   "row": "BuffWord11",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6f6ecffd4395",
+   "t": "Estado alterado aleatorio"
+  },
+  {
+   "row": "BuffWord11",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ac00618eb56c",
+   "t": "Inflige un estado alterado aleatorio."
+  },
+  {
+   "row": "BuffWord12",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a9b5244bef10",
+   "t": "Reducción de costo de acción"
+  },
+  {
+   "row": "BuffWord12",
+   "sub": 0,
+   "col": "m_text",
+   "src": "227a6197e1cd",
+   "t": "El costo de acción se reduce en {0}."
+  },
+  {
+   "row": "BuffWord13",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d3b202bdbd3d",
+   "t": "Aumento de costo de acción"
+  },
+  {
+   "row": "BuffWord13",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3d778bed7967",
+   "t": "El costo de acción aumenta en {0}."
+  },
+  {
+   "row": "BuffWord14",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d2b8ee95ed57",
+   "t": "Cambio de costo de acción"
+  },
+  {
+   "row": "BuffWord14",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ae6e4bd07e49",
+   "t": "El costo de acción cambia."
+  },
+  {
+   "row": "BuffWord15",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cc909e82002c",
+   "t": "Aumento de energía"
+  },
+  {
+   "row": "BuffWord15",
+   "sub": 0,
+   "col": "m_text",
+   "src": "4195f3adc219",
+   "t": "La energía aumenta en {0}."
+  },
+  {
+   "row": "BuffWord16",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d5510d3c2d36",
+   "t": "Menor costo de Enfriamiento rápido"
+  },
+  {
+   "row": "BuffWord16",
+   "sub": 0,
+   "col": "m_text",
+   "src": "d06c3df53c2e",
+   "t": "El costo del Enfriamiento rápido se reduce en {0}."
+  },
+  {
+   "row": "BuffWord17",
+   "sub": 0,
+   "col": "m_title",
+   "src": "09101e4c1875",
+   "t": "Mayor costo de Enfriamiento rápido"
+  },
+  {
+   "row": "BuffWord17",
+   "sub": 0,
+   "col": "m_text",
+   "src": "618437fe262b",
+   "t": "El costo del Enfriamiento rápido aumenta en {0}."
+  },
+  {
+   "row": "BuffWord18",
+   "sub": 0,
+   "col": "m_title",
+   "src": "940253676208",
+   "t": "Cambio de costo de Enfriamiento rápido"
+  },
+  {
+   "row": "BuffWord18",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e2638320cfb5",
+   "t": "El costo del Enfriamiento rápido cambia a {0}."
+  },
+  {
+   "row": "BuffWord19",
+   "sub": 0,
+   "col": "m_title",
+   "src": "6643448220ff",
+   "t": "Enfriamiento rápido prohibido"
+  },
+  {
+   "row": "BuffWord19",
+   "sub": 0,
+   "col": "m_text",
+   "src": "45bd12b0bed4",
+   "t": "Este turno no puedes usar Enfriamiento rápido."
+  },
+  {
+   "row": "BuffWord20",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b8cca7c3b3be",
+   "t": "Enfriamiento completo"
+  },
+  {
+   "row": "BuffWord20",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c7891fcfc521",
+   "t": "El enfriamiento se completa al final del turno."
+  },
+  {
+   "row": "BuffWord21",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2b95fedfcdfb",
+   "t": "Sin enfriamiento"
+  },
+  {
+   "row": "BuffWord21",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5732abde6c61",
+   "t": "El enfriamiento no se completa al inicio del turno."
+  },
+  {
+   "row": "BuffWord22",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f2def35a54e9",
+   "t": "Aumento de costo táctico"
+  },
+  {
+   "row": "BuffWord22",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ff9eb55f7d92",
+   "t": "El costo táctico aumenta."
+  },
+  {
+   "row": "BuffWord23",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d745e6a8510f",
+   "t": "Pérdida de Reserva táctica"
+  },
+  {
+   "row": "BuffWord23",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0e8bb2ab0324",
+   "t": "La Reserva táctica desaparece."
+  },
+  {
+   "row": "BuffWord24",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aca1d2bcfa64",
+   "t": "Reducción de daño de habilidad"
+  },
+  {
+   "row": "BuffWord24",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3601ffcf14e0",
+   "t": "Reduce en {0} el daño de habilidades hacia este Medabot."
+  },
+  {
+   "row": "BuffWord25",
+   "sub": 0,
+   "col": "m_title",
+   "src": "50818ba972fe",
+   "t": "Reducción de daño de Medafuerza"
+  },
+  {
+   "row": "BuffWord25",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a1b5a34d2baa",
+   "t": "Reduce en {0} el daño de la Medafuerza que activa el rival."
+  },
+  {
+   "row": "BuffWord26",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aba1c83b5ede",
+   "t": "Aumento de daño de Medafuerza"
+  },
+  {
+   "row": "BuffWord26",
+   "sub": 0,
+   "col": "m_text",
+   "src": "834195f668de",
+   "t": "El daño de la Medafuerza que activas aumenta en {0}."
+  },
+  {
+   "row": "BuffWord27",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9fb866ee8645",
+   "t": "Daño anulado"
+  },
+  {
+   "row": "BuffWord27",
+   "sub": 0,
+   "col": "m_text",
+   "src": "21fccfdac07d",
+   "t": "Anula, solo 1 vez, el daño recibido."
+  },
+  {
+   "row": "BuffWord28",
+   "sub": 0,
+   "col": "m_title",
+   "src": "36048ca980aa",
+   "t": "No seleccionable"
+  },
+  {
+   "row": "BuffWord28",
+   "sub": 0,
+   "col": "m_text",
+   "src": "972f83120f2c",
+   "t": "Los efectos que eligen objetivo no pueden elegir a este Medabot."
+  },
+  {
+   "row": "BuffWord29",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9d5e4fb5b463",
+   "t": "Daño táctico anulado"
+  },
+  {
+   "row": "BuffWord29",
+   "sub": 0,
+   "col": "m_text",
+   "src": "c6307dce2d2d",
+   "t": "Anula el daño de las cartas de Táctica."
+  },
+  {
+   "row": "BuffWord30",
+   "sub": 0,
+   "col": "m_title",
+   "src": "07209a764178",
+   "t": "Transferir En Espera"
+  },
+  {
+   "row": "BuffWord30",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b16023ab06a3",
+   "t": "El próximo Medabot que transfieras entra en estado En Espera."
+  },
+  {
+   "row": "BuffWord31",
+   "sub": 0,
+   "col": "m_title",
+   "src": "40fedd0ba092",
+   "t": "Devolver al mazo"
+  },
+  {
+   "row": "BuffWord31",
+   "sub": 0,
+   "col": "m_text",
+   "src": "13591caa6e46",
+   "t": "Este Medabot vuelve al mazo al final del turno."
+  },
+  {
+   "row": "BuffWord32",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c3e81d1fc170",
+   "t": "Poner en el Descarte"
+  },
+  {
+   "row": "BuffWord32",
+   "sub": 0,
+   "col": "m_text",
+   "src": "2091187ce5fc",
+   "t": "Esta carta va al Descarte al final del turno."
+  },
+  {
+   "row": "BuffWord33",
+   "sub": 0,
+   "col": "m_title",
+   "src": "522ba9f47afb",
+   "t": "Guardia"
+  },
+  {
+   "row": "BuffWord33",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cf5cf180f078",
+   "t": "Los Medabots rivales solo pueden atacar\nnormalmente a Medabots con Guardia.\nGuardia es un Rasgo."
+  },
+  {
+   "row": "BuffWord34",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ae4fc4d594ae",
+   "t": "Daño autoinfligido"
+  },
+  {
+   "row": "BuffWord34",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1b0822d8631f",
+   "t": "Los Medabots rivales solo pueden elegir como objetivo de ataque normal a Medabots con Guardia."
+  },
+  {
+   "row": "BuffWord35",
+   "sub": 0,
+   "col": "m_title",
+   "src": "82ca1a833a60",
+   "t": "Rasgos sellados"
+  },
+  {
+   "row": "BuffWord35",
+   "sub": 0,
+   "col": "m_text",
+   "src": "233ccbc427ea",
+   "t": "Los efectos de los Rasgos no se activan."
+  },
+  {
+   "row": "BuffWord36",
+   "sub": 0,
+   "col": "m_title",
+   "src": "092f560bc141",
+   "t": "Guardia Antidisparo"
+  },
+  {
+   "row": "BuffWord36",
+   "sub": 0,
+   "col": "m_text",
+   "src": "204e05b6d8c0",
+   "t": "Al recibir una habilidad (acción), el Medabot de Soporte rival de tipo [Disparo] vuelve al mazo."
+  },
+  {
+   "row": "BuffWord37",
+   "sub": 0,
+   "col": "m_title",
+   "src": "926fe276500b",
+   "t": "Observador"
+  },
+  {
+   "row": "BuffWord37",
+   "sub": 0,
+   "col": "m_text",
+   "src": "90a4d152ab4e",
+   "t": "Si deja de funcionar por [Francotiro], se destruye una Barrera del Líder."
+  },
+  {
+   "row": "BuffWord38",
+   "sub": 0,
+   "col": "m_title",
+   "src": "bb685d25194d",
+   "t": "Ventaja numérica"
+  },
+  {
+   "row": "BuffWord38",
+   "sub": 0,
+   "col": "m_text",
+   "src": "31adaf8b5f66",
+   "t": "Al destruir un Medabot rival con un Ataque cruzado que incluya a este Medabot, elige 1 pieza del rival y destrúyela."
+  },
+  {
+   "row": "BuffWord39",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3b04a5e7f68e",
+   "t": "Rastreo"
+  },
+  {
+   "row": "BuffWord39",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8f0616ac2beb",
+   "t": "Cuando este Medabot destruye una pieza o Barrera del Líder rival, elige 1 pieza y destrúyela."
+  },
+  {
+   "row": "BuffWord40",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ab618b6df1eb",
+   "t": "Alta Defensa"
+  },
+  {
+   "row": "BuffWord40",
+   "sub": 0,
+   "col": "m_text",
+   "src": "d3b94fc41099",
+   "t": "Hasta el inicio de tu próximo turno,\ncuando tus Medabots reciben un ataque\nnormal, su poder aumenta en 2000.\nEste efecto dura hasta el inicio\nde tu próximo turno."
+  },
+  {
+   "row": "BuffWord41",
+   "sub": 0,
+   "col": "m_title",
+   "src": "cddb8af377bf",
+   "t": "Cerrojo"
+  },
+  {
+   "row": "BuffWord41",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1b51afdac1ab",
+   "t": "No puedes descartar cartas de la mano hasta el fin de tu Fase de acción."
+  },
+  {
+   "row": "BuffWord42",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f0cb24fc8d39",
+   "t": "Propulsión Móvil"
+  },
+  {
+   "row": "BuffWord42",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fde2826b5a51",
+   "t": "Anula 1 vez un efecto del rival que\nelija a este Medabot como objetivo.\n«Elegir como objetivo» se refiere a\nefectos de habilidad (acción),\nMedafuerza, Táctica o Medaguerrero\nque seleccionan a este Medabot.\nNo incluye efectos fijos al Líder,\nglobales ni aleatorios."
+  },
+  {
+   "row": "BuffWord43",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b728a66020e1",
+   "t": "No puede atacar"
+  },
+  {
+   "row": "BuffWord43",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9e78930e5206",
+   "t": "Este Medabot no puede elegir Ataque normal ni Ataque cruzado."
+  },
+  {
+   "row": "BuffWord44",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d9300b5b1cb8",
+   "t": "Sustituto"
+  },
+  {
+   "row": "BuffWord44",
+   "sub": 0,
+   "col": "m_text",
+   "src": "7669fd94e06c",
+   "t": "Cuando una pieza o Barrera del Líder vaya a ser destruida, este Medabot se destruye en su lugar."
+  },
+  {
+   "row": "BuffWord45",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a01992545b52",
+   "t": "Mira de Radar"
+  },
+  {
+   "row": "BuffWord45",
+   "sub": 0,
+   "col": "m_text",
+   "src": "f67815e88038",
+   "t": "El próximo daño al Líder rival inflige además, solo 1 vez, el mismo daño."
+  },
+  {
+   "row": "BuffWord46",
+   "sub": 0,
+   "col": "m_title",
+   "src": "194068e0300b",
+   "t": "Contraataque"
+  },
+  {
+   "row": "BuffWord46",
+   "sub": 0,
+   "col": "m_text",
+   "src": "39ec9c11d5a1",
+   "t": "Cuando este Medabot recibe daño en el turno rival, inflige el mismo daño a 1 Medabot rival aleatorio."
+  },
+  {
+   "row": "BuffWord47",
+   "sub": 0,
+   "col": "m_title",
+   "src": "b3f38eb8d1e9",
+   "t": "Guardia 2000"
+  },
+  {
+   "row": "BuffWord47",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0dcfdad35f06",
+   "t": "Cuando este Medabot recibe un ataque normal, su poder aumenta en 2000. Tras el ataque, el poder se restaura."
+  },
+  {
+   "row": "BuffWord48",
+   "sub": 0,
+   "col": "m_title",
+   "src": "ea4bcb4256eb",
+   "t": "Guardia Antihabilidad"
+  },
+  {
+   "row": "BuffWord48",
+   "sub": 0,
+   "col": "m_text",
+   "src": "0288a9bd4909",
+   "t": "No recibe daño de Medabots con habilidad (acción)."
+  },
+  {
+   "row": "BuffWord49",
+   "sub": 0,
+   "col": "m_title",
+   "src": "96593857bab6",
+   "t": "Supercelda"
+  },
+  {
+   "row": "BuffWord49",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9ae4ca6a8363",
+   "t": "El costo de acción y el de Enfriamiento rápido no pueden reducirse por efectos."
+  },
+  {
+   "row": "BuffWord50",
+   "sub": 0,
+   "col": "m_title",
+   "src": "f21c7d8e0edc",
+   "t": "Contraataque de habilidad"
+  },
+  {
+   "row": "BuffWord50",
+   "sub": 0,
+   "col": "m_text",
+   "src": "364b00a5fc27",
+   "t": "Cuando el rival activa una habilidad (acción), inflige 8000 de daño al Líder rival."
+  },
+  {
+   "row": "BuffWord51",
+   "sub": 0,
+   "col": "m_title",
+   "src": "2eb5dea7fc49",
+   "t": "Más Reserva táctica"
+  },
+  {
+   "row": "BuffWord51",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e70e66af1433",
+   "t": "La Reserva táctica aumenta."
+  },
+  {
+   "row": "BuffWord52",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8e40f7ab159a",
+   "t": "Reflector"
+  },
+  {
+   "row": "BuffWord52",
+   "sub": 0,
+   "col": "m_text",
+   "src": "391ed1bdd7b2",
+   "t": "Al recibir daño de un ataque normal, inflige el mismo daño al Líder rival."
+  },
+  {
+   "row": "BuffWord53",
+   "sub": 0,
+   "col": "m_title",
+   "src": "46f70513ace6",
+   "t": "Medafuerza sellada"
+  },
+  {
+   "row": "BuffWord53",
+   "sub": 0,
+   "col": "m_text",
+   "src": "3f821fb2f648",
+   "t": "No puedes activar la Medafuerza hasta el final de tu turno."
+  },
+  {
+   "row": "BuffWord54",
+   "sub": 0,
+   "col": "m_title",
+   "src": "747377bcba04",
+   "t": "Inmersión rápida"
+  },
+  {
+   "row": "BuffWord54",
+   "sub": 0,
+   "col": "m_text",
+   "src": "17af5d95a622",
+   "t": "Hasta el inicio de tu próximo turno,\nsi este Medabot recibe un ataque\nnormal, su poder aumenta en 2000.\nTras el ataque rival, el poder\nse restaura."
+  },
+  {
+   "row": "BuffWord55",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9ec318692e9d",
+   "t": "Energía máxima fija"
+  },
+  {
+   "row": "BuffWord55",
+   "sub": 0,
+   "col": "m_text",
+   "src": "5c60ed309720",
+   "t": "La energía máxima pasa a ser 10."
+  },
+  {
+   "row": "BuffWord56",
+   "sub": 0,
+   "col": "m_title",
+   "src": "aaa4df181a0e",
+   "t": "Poder Espejo"
+  },
+  {
+   "row": "BuffWord56",
+   "sub": 0,
+   "col": "m_text",
+   "src": "ecd597d26ab4",
+   "t": "El poder de este Medabot iguala al del Medabot que lo atacó normalmente."
+  },
+  {
+   "row": "BuffWord57",
+   "sub": 0,
+   "col": "m_title",
+   "src": "93524e7ef17b",
+   "t": "Furia de Reloj"
+  },
+  {
+   "row": "BuffWord58",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e386870add48",
+   "t": "Confusión"
+  },
+  {
+   "row": "BuffWord58",
+   "sub": 0,
+   "col": "m_text",
+   "src": "514b4bce3003",
+   "t": "Ataca normalmente a un Medabot aleatorio."
+  },
+  {
+   "row": "BuffWord59",
+   "sub": 0,
+   "col": "m_title",
+   "src": "adb4030fd247",
+   "t": "Superguardia"
+  },
+  {
+   "row": "BuffWord59",
+   "sub": 0,
+   "col": "m_text",
+   "src": "963ac9ad55ef",
+   "t": "Cuando el jugador rival elige un\nMedabot como objetivo, debe elegir\na este Medabot siempre que sea posible."
+  },
+  {
+   "row": "BuffWord60",
+   "sub": 0,
+   "col": "m_title",
+   "src": "804910963a4b",
+   "t": "Guardia Absoluta"
+  },
+  {
+   "row": "BuffWord60",
+   "sub": 0,
+   "col": "m_text",
+   "src": "fe6f6373aeaf",
+   "t": "No puede quedar en [Shock], [Congelación], [Atadura] ni [Quemadura]."
+  },
+  {
+   "row": "BuffWord61",
+   "sub": 0,
+   "col": "m_title",
+   "src": "3b6f0e92b6f6",
+   "t": "Guardia Congelante"
+  },
+  {
+   "row": "BuffWord61",
+   "sub": 0,
+   "col": "m_text",
+   "src": "6ac44a1a98eb",
+   "t": "Cuando este Medabot ataca normalmente o recibe un ataque normal, el objetivo queda en [Congelación]."
+  },
+  {
+   "row": "BuffWord62",
+   "sub": 0,
+   "col": "m_title",
+   "src": "21ca6de3dd37",
+   "t": "Dron Espada"
+  },
+  {
+   "row": "BuffWord62",
+   "sub": 0,
+   "col": "m_text",
+   "src": "13580a6ca7a2",
+   "t": "Cuando se usa una carta de Táctica de tipo [Apoyo], inflige 6000 de daño a 1 Medabot rival aleatorio."
+  },
+  {
+   "row": "BuffWord63",
+   "sub": 0,
+   "col": "m_title",
+   "src": "74bc490cc0c9",
+   "t": "Daño adicional"
+  },
+  {
+   "row": "BuffWord63",
+   "sub": 0,
+   "col": "m_text",
+   "src": "087aa695c7b0",
+   "t": "Cuando este Medabot ataca normalmente en solitario, inflige daño adicional igual a su poder actual."
+  },
+  {
+   "row": "BuffWord64",
+   "sub": 0,
+   "col": "m_title",
+   "src": "86c93a1a585b",
+   "t": "Golpe de Combate"
+  },
+  {
+   "row": "BuffWord64",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b187ec158aed",
+   "t": "Cuando este Medabot recibe un ataque normal, el objetivo queda en [Atadura] hasta el final del turno rival."
+  },
+  {
+   "row": "BuffWord65",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7e1fb5775333",
+   "t": "Guardia 4000"
+  },
+  {
+   "row": "BuffWord65",
+   "sub": 0,
+   "col": "m_text",
+   "src": "1e32d38c9e81",
+   "t": "Cuando este Medabot recibe un ataque normal, su poder aumenta en 4000. Tras el ataque, el poder se restaura."
+  },
+  {
+   "row": "BuffWord66",
+   "sub": 0,
+   "col": "m_title",
+   "src": "766804765a69",
+   "t": "Destierro"
+  },
+  {
+   "row": "BuffWord67",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c0c868843034",
+   "t": "Sobrecarga"
+  },
+  {
+   "row": "BuffWord67",
+   "sub": 0,
+   "col": "m_text",
+   "src": "bec50b849102",
+   "t": "Cuando este Medabot ataca normalmente al Líder rival, el jugador rival roba 2 cartas de su mazo. Si con este efecto su mano llega a 6 o más cartas, el rival elige 1 de sus piezas y la destruye."
+  },
+  {
+   "row": "BuffWord68",
+   "sub": 0,
+   "col": "m_title",
+   "src": "9874c80edd8f",
+   "t": "Reinicio de poder"
+  },
+  {
+   "row": "BuffWord68",
+   "sub": 0,
+   "col": "m_text",
+   "src": "9782065fe08d",
+   "t": "El poder vuelve a su valor base. Se anulan los aumentos y reducciones de poder aplicados antes de este efecto."
+  },
+  {
+   "row": "BuffWord69",
+   "sub": 0,
+   "col": "m_title",
+   "src": "7f46fe339222",
+   "t": "Guardia de Púas"
+  },
+  {
+   "row": "BuffWord69",
+   "sub": 0,
+   "col": "m_text",
+   "src": "cddadecd69e1",
+   "t": "Cuando este Medabot recibe daño en el turno rival, inflige al Líder rival ese daño reducido en 2000."
+  },
+  {
+   "row": "BuffWord70",
+   "sub": 0,
+   "col": "m_title",
+   "src": "8ce667ed046f",
+   "t": "Hiperreparación"
+  },
+  {
+   "row": "BuffWord70",
+   "sub": 0,
+   "col": "m_text",
+   "src": "27e68883eb22",
+   "t": "Permanente: al final de tu turno, si tu Barrera no está al máximo, elige 1 carta de tu mano y conviértela en Barrera."
+  },
+  {
+   "row": "BuffWord71",
+   "sub": 0,
+   "col": "m_title",
+   "src": "37979d862afd",
+   "t": "Restonación"
+  },
+  {
+   "row": "BuffWord71",
+   "sub": 0,
+   "col": "m_text",
+   "src": "b4f2d20b9c69",
+   "t": "Al inicio de tu próximo turno, destruye 2 de tus Barreras."
+  },
+  {
+   "row": "BuffWord72",
+   "sub": 0,
+   "col": "m_title",
+   "src": "a62f5a9dc6cd",
+   "t": "Autorreparación"
+  },
+  {
+   "row": "BuffWord72",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8b2a6163baeb",
+   "t": "Al final de tu turno, si tu Barrera no está al máximo, puedes elegir 1 carta de tu mano y convertirla en Barrera."
+  },
+  {
+   "row": "BuffWord73",
+   "sub": 0,
+   "col": "m_title",
+   "src": "229c81655887",
+   "t": "Trampas anuladas"
+  },
+  {
+   "row": "BuffWord73",
+   "sub": 0,
+   "col": "m_text",
+   "src": "e83fe18e2126",
+   "t": "Hasta el final del turno rival, ninguna Trampa se activa."
+  },
+  {
+   "row": "BuffWord74",
+   "sub": 0,
+   "col": "m_title",
+   "src": "da6494018583",
+   "t": "Plantas anuladas"
+  },
+  {
+   "row": "BuffWord74",
+   "sub": 0,
+   "col": "m_text",
+   "src": "55c9ba0e1adc",
+   "t": "Hasta el final del turno rival, todas las Plantas pierden su efecto."
+  },
+  {
+   "row": "BuffWord75",
+   "sub": 0,
+   "col": "m_title",
+   "src": "d51283059bb8",
+   "t": "Todoterreno"
+  },
+  {
+   "row": "BuffWord75",
+   "sub": 0,
+   "col": "m_text",
+   "src": "07769830247a",
+   "t": "Sus piernas son aptas en cualquier terreno."
+  },
+  {
+   "row": "BuffWord76",
+   "sub": 0,
+   "col": "m_title",
+   "src": "724ab7730cf2",
+   "t": "Ignorar [No puede atacar]"
+  },
+  {
+   "row": "BuffWord76",
+   "sub": 0,
+   "col": "m_text",
+   "src": "73f135328a48",
+   "t": "Anula [No puede atacar]."
+  },
+  {
+   "row": "BuffWord77",
+   "sub": 0,
+   "col": "m_title",
+   "src": "275ead2f2ee9",
+   "t": "Conversión de Escudo"
+  },
+  {
+   "row": "BuffWord77",
+   "sub": 0,
+   "col": "m_text",
+   "src": "34e6e0755096",
+   "t": "Al inicio de tu próximo turno, convierte 2 de tus Barreras en Mano de Barrera."
+  },
+  {
+   "row": "BuffWord78",
+   "sub": 0,
+   "col": "m_title",
+   "src": "c23ef8385184",
+   "t": "Alta Movilidad"
+  },
+  {
+   "row": "BuffWord78",
+   "sub": 0,
+   "col": "m_text",
+   "src": "8dc034bde819",
+   "t": "Hasta el inicio de tu próximo turno,\nanula los efectos que elijan a este\nMedabot como objetivo.\n«Elegir como objetivo» se refiere a\nefectos de habilidad (acción),\nMedafuerza, Táctica o Medaguerrero\nque seleccionan a este Medabot.\nNo incluye efectos fijos al Líder,\nglobales ni aleatorios."
+  },
+  {
+   "row": "BuffWord79",
+   "sub": 0,
+   "col": "m_title",
+   "src": "e15f709fb917",
+   "t": "Mayor costo de Ataque cruzado"
+  },
+  {
+   "row": "BuffWord79",
+   "sub": 0,
+   "col": "m_text",
+   "src": "a5c55d180afe",
+   "t": "El costo de acción del Ataque cruzado aumenta en 2."
+  }
+ ]
+}

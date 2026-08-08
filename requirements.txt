@@ -1,0 +1,6 @@
+# Runtime dependencies. Python 3.10 or newer.
+UnityPy>=1.22,<2
+Pillow>=10.0
+
+# Development only (tests and coverage):
+#   pip install -r requirements-dev.txt

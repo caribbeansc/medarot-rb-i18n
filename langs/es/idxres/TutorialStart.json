@@ -1,0 +1,26 @@
+{
+ "table": "TutorialStart",
+ "entries": [
+  {
+   "row": "Tutorial00",
+   "sub": 0,
+   "col": "message",
+   "src": "1b925907fb0b",
+   "t": "¡Te damos la bienvenida a\nMedarot Card Robattle RB!\nAhora te enseñaré los fundamentos\nde la Robobatalla de Cartas."
+  },
+  {
+   "row": "Tutorial01",
+   "sub": 0,
+   "col": "message",
+   "src": "c2adc6d7855c",
+   "t": "Has aprendido los fundamentos\nde la Robobatalla de Cartas.\n¡Disfrútala con el mazo y los\nconocimientos que has obtenido!"
+  },
+  {
+   "row": "Tutorial00_2",
+   "sub": 0,
+   "col": "message",
+   "src": "b45646fee487",
+   "t": "Muy bien, comencemos con la Práctica 1."
+  }
+ ]
+}

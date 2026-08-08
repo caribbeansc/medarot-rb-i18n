@@ -1,0 +1,2581 @@
+{
+ "table": "SkillDef",
+ "entries": [
+  {
+   "row": "NormalAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9e78a6f0d8f6",
+   "t": ""
+  },
+  {
+   "row": "CrossAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de837692e5f3",
+   "t": ""
+  },
+  {
+   "row": "CannotAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "94e5142a4a6d",
+   "t": ""
+  },
+  {
+   "row": "Skill100",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7094c0872fe7",
+   "t": ""
+  },
+  {
+   "row": "Skill101",
+   "sub": 0,
+   "col": "m_name",
+   "src": "84c575342938",
+   "t": ""
+  },
+  {
+   "row": "Skill102",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9369a7f58920",
+   "t": ""
+  },
+  {
+   "row": "Skill103",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8716c44c2e45",
+   "t": ""
+  },
+  {
+   "row": "Skill104",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d3c30ef1168d",
+   "t": ""
+  },
+  {
+   "row": "Skill105",
+   "sub": 0,
+   "col": "m_name",
+   "src": "def317b366c1",
+   "t": ""
+  },
+  {
+   "row": "Skill106",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f478ba714b73",
+   "t": ""
+  },
+  {
+   "row": "Skill107",
+   "sub": 0,
+   "col": "m_name",
+   "src": "490cef17e846",
+   "t": ""
+  },
+  {
+   "row": "Skill108",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc828d572ac0",
+   "t": ""
+  },
+  {
+   "row": "Cooler",
+   "sub": 0,
+   "col": "m_name",
+   "src": "845b72e58d98",
+   "t": ""
+  },
+  {
+   "row": "Skill110",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dd762cb8e2ef",
+   "t": ""
+  },
+  {
+   "row": "Skill112",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de26daf467eb",
+   "t": ""
+  },
+  {
+   "row": "Skill113",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1abd86c7469",
+   "t": ""
+  },
+  {
+   "row": "Skill115",
+   "sub": 0,
+   "col": "m_name",
+   "src": "33aa95bca45a",
+   "t": ""
+  },
+  {
+   "row": "Skill116",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f0ea06c3dafa",
+   "t": ""
+  },
+  {
+   "row": "Skill117",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9eff3f7e9e3a",
+   "t": ""
+  },
+  {
+   "row": "Skill119",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2246a698a9a0",
+   "t": ""
+  },
+  {
+   "row": "Skill120",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1282da82aa55",
+   "t": ""
+  },
+  {
+   "row": "Skill121",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b124d794d974",
+   "t": ""
+  },
+  {
+   "row": "Skill122",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17452632b0fe",
+   "t": ""
+  },
+  {
+   "row": "Skill123",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa28be6a44ef",
+   "t": ""
+  },
+  {
+   "row": "Skill124",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": ""
+  },
+  {
+   "row": "Skill125",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6ef19beb596a",
+   "t": ""
+  },
+  {
+   "row": "Skill126",
+   "sub": 0,
+   "col": "m_name",
+   "src": "90f6e0dac3b3",
+   "t": ""
+  },
+  {
+   "row": "Skill127",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1ac7002ff803",
+   "t": ""
+  },
+  {
+   "row": "Skill128",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f3bc815a190f",
+   "t": ""
+  },
+  {
+   "row": "Skill129",
+   "sub": 0,
+   "col": "m_name",
+   "src": "876a67690bce",
+   "t": ""
+  },
+  {
+   "row": "Skill201",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1166cba4e6f1",
+   "t": ""
+  },
+  {
+   "row": "Skill204",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b19a68130879",
+   "t": ""
+  },
+  {
+   "row": "Skill205",
+   "sub": 0,
+   "col": "m_name",
+   "src": "aa8fb66ee2cf",
+   "t": ""
+  },
+  {
+   "row": "Skill206",
+   "sub": 0,
+   "col": "m_name",
+   "src": "38f8a17ec656",
+   "t": ""
+  },
+  {
+   "row": "Skill207",
+   "sub": 0,
+   "col": "m_name",
+   "src": "429fd7cde2f1",
+   "t": ""
+  },
+  {
+   "row": "Skill208",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9f87472c9ba2",
+   "t": ""
+  },
+  {
+   "row": "Skill210",
+   "sub": 0,
+   "col": "m_name",
+   "src": "432a75071f9f",
+   "t": ""
+  },
+  {
+   "row": "Skill212",
+   "sub": 0,
+   "col": "m_name",
+   "src": "043e15deff10",
+   "t": ""
+  },
+  {
+   "row": "Skill216",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cce82ad7564b",
+   "t": ""
+  },
+  {
+   "row": "Skill218",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9db61f841e64",
+   "t": ""
+  },
+  {
+   "row": "Skill222",
+   "sub": 0,
+   "col": "m_name",
+   "src": "69f6981064f6",
+   "t": ""
+  },
+  {
+   "row": "Skill223",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17230015e471",
+   "t": ""
+  },
+  {
+   "row": "Skill225",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1147e150216c",
+   "t": ""
+  },
+  {
+   "row": "Skill227",
+   "sub": 0,
+   "col": "m_name",
+   "src": "05275a552e14",
+   "t": ""
+  },
+  {
+   "row": "Skill229",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41bb658782b1",
+   "t": ""
+  },
+  {
+   "row": "Skill230",
+   "sub": 0,
+   "col": "m_name",
+   "src": "50e8b8559756",
+   "t": ""
+  },
+  {
+   "row": "Skill231",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4d2c0275f869",
+   "t": ""
+  },
+  {
+   "row": "Skill233",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d436ee8070c7",
+   "t": ""
+  },
+  {
+   "row": "Skill235",
+   "sub": 0,
+   "col": "m_name",
+   "src": "71e14f145000",
+   "t": ""
+  },
+  {
+   "row": "Skill236",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1dd389e0b30",
+   "t": ""
+  },
+  {
+   "row": "Skill237",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ae22ad03845a",
+   "t": ""
+  },
+  {
+   "row": "Skill243",
+   "sub": 0,
+   "col": "m_name",
+   "src": "63d283bd249a",
+   "t": ""
+  },
+  {
+   "row": "Skill244",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b82b0c02e93e",
+   "t": ""
+  },
+  {
+   "row": "Skill245",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1368426d1c57",
+   "t": ""
+  },
+  {
+   "row": "Skill247",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c64b796c1d0d",
+   "t": ""
+  },
+  {
+   "row": "Skill248",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7f1ff87d97d5",
+   "t": ""
+  },
+  {
+   "row": "Skill249",
+   "sub": 0,
+   "col": "m_name",
+   "src": "69ba30f61f1c",
+   "t": ""
+  },
+  {
+   "row": "Skill250",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3e812c2f873f",
+   "t": ""
+  },
+  {
+   "row": "Skill251",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7f1ff87d97d5",
+   "t": ""
+  },
+  {
+   "row": "Skill253",
+   "sub": 0,
+   "col": "m_name",
+   "src": "30947c144d30",
+   "t": ""
+  },
+  {
+   "row": "Skill254",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cf23684ad096",
+   "t": ""
+  },
+  {
+   "row": "Skill255",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d6114a22109b",
+   "t": ""
+  },
+  {
+   "row": "Skill256",
+   "sub": 0,
+   "col": "m_name",
+   "src": "395b3e81e6c8",
+   "t": ""
+  },
+  {
+   "row": "Skill257",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b0a79d99a526",
+   "t": ""
+  },
+  {
+   "row": "Skill261",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5e782472f3e5",
+   "t": ""
+  },
+  {
+   "row": "Skill263",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eccf29f80f22",
+   "t": ""
+  },
+  {
+   "row": "Skill265",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d6e7b32524be",
+   "t": ""
+  },
+  {
+   "row": "Skill269",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5f6628e40272",
+   "t": ""
+  },
+  {
+   "row": "Skill271",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c6f4d455d134",
+   "t": ""
+  },
+  {
+   "row": "Skill272",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4d59929b7c59",
+   "t": ""
+  },
+  {
+   "row": "Skill274",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0aa404809eed",
+   "t": ""
+  },
+  {
+   "row": "Skill275",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bd44326a0abe",
+   "t": ""
+  },
+  {
+   "row": "Skill277",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f45db554b48e",
+   "t": ""
+  },
+  {
+   "row": "Skill278",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8271ff24fa95",
+   "t": ""
+  },
+  {
+   "row": "Skill279",
+   "sub": 0,
+   "col": "m_name",
+   "src": "380bc16d2d5f",
+   "t": ""
+  },
+  {
+   "row": "Skill281",
+   "sub": 0,
+   "col": "m_name",
+   "src": "094f34cb83a0",
+   "t": ""
+  },
+  {
+   "row": "Skill282",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c093b68ea806",
+   "t": ""
+  },
+  {
+   "row": "Skill283",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f02b50f4917a",
+   "t": ""
+  },
+  {
+   "row": "Skill284",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76b618b09588",
+   "t": ""
+  },
+  {
+   "row": "Skill287",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4c43d5ab85ce",
+   "t": ""
+  },
+  {
+   "row": "Skill289",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f55c8e81da1f",
+   "t": ""
+  },
+  {
+   "row": "Skill290",
+   "sub": 0,
+   "col": "m_name",
+   "src": "266e5a1efb24",
+   "t": ""
+  },
+  {
+   "row": "Skill291",
+   "sub": 0,
+   "col": "m_name",
+   "src": "68ba2f11a12c",
+   "t": ""
+  },
+  {
+   "row": "Skill294",
+   "sub": 0,
+   "col": "m_name",
+   "src": "caeb96b00185",
+   "t": ""
+  },
+  {
+   "row": "CrossFight",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d7af2f203dca",
+   "t": ""
+  },
+  {
+   "row": "Skill297",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0ad17a736f81",
+   "t": ""
+  },
+  {
+   "row": "Skill299",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c33e3969166e",
+   "t": ""
+  },
+  {
+   "row": "Skill301",
+   "sub": 0,
+   "col": "m_name",
+   "src": "34da98d72059",
+   "t": ""
+  },
+  {
+   "row": "Skill303",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7de80c8c6a9e",
+   "t": ""
+  },
+  {
+   "row": "Skill306",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8742ad406a27",
+   "t": ""
+  },
+  {
+   "row": "Skill308",
+   "sub": 0,
+   "col": "m_name",
+   "src": "19da5ed481b7",
+   "t": ""
+  },
+  {
+   "row": "Skill309",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9ce4bb0f5cb7",
+   "t": ""
+  },
+  {
+   "row": "Skill310",
+   "sub": 0,
+   "col": "m_name",
+   "src": "86a438e2c41e",
+   "t": ""
+  },
+  {
+   "row": "Skill318",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4caab65bb889",
+   "t": ""
+  },
+  {
+   "row": "Skill320",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b2b6ab5329b",
+   "t": ""
+  },
+  {
+   "row": "Skill323",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0d175eb4a7b2",
+   "t": ""
+  },
+  {
+   "row": "Skill325",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af516bd081af",
+   "t": ""
+  },
+  {
+   "row": "Skill326",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c4af33e29215",
+   "t": ""
+  },
+  {
+   "row": "Skill327",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cce82ad7564b",
+   "t": ""
+  },
+  {
+   "row": "Skill328",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17230015e471",
+   "t": ""
+  },
+  {
+   "row": "Skill400",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af30e552184e",
+   "t": ""
+  },
+  {
+   "row": "Skill402",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": ""
+  },
+  {
+   "row": "Skill403",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e36d489fb955",
+   "t": ""
+  },
+  {
+   "row": "Skill406",
+   "sub": 0,
+   "col": "m_name",
+   "src": "94d29cf6ffdb",
+   "t": ""
+  },
+  {
+   "row": "Skill407",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b19a68130879",
+   "t": ""
+  },
+  {
+   "row": "Skill408",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52a9ede6bb32",
+   "t": ""
+  },
+  {
+   "row": "Skill409",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7422e08ee427",
+   "t": ""
+  },
+  {
+   "row": "Skill410",
+   "sub": 0,
+   "col": "m_name",
+   "src": "caeb96b00185",
+   "t": ""
+  },
+  {
+   "row": "Skill414",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3a8db466f032",
+   "t": ""
+  },
+  {
+   "row": "Skill416",
+   "sub": 0,
+   "col": "m_name",
+   "src": "941a7fce7146",
+   "t": ""
+  },
+  {
+   "row": "Skill417",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa972574572e",
+   "t": ""
+  },
+  {
+   "row": "Skill419",
+   "sub": 0,
+   "col": "m_name",
+   "src": "88a00c3f3ba6",
+   "t": ""
+  },
+  {
+   "row": "Skill420",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00199f8d8e96",
+   "t": ""
+  },
+  {
+   "row": "Skill421",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7dd0d46a7c62",
+   "t": ""
+  },
+  {
+   "row": "Skill425",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37e1df209e8b",
+   "t": ""
+  },
+  {
+   "row": "Skill428",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b1e114215fd5",
+   "t": ""
+  },
+  {
+   "row": "Skill430",
+   "sub": 0,
+   "col": "m_name",
+   "src": "87799423d3d1",
+   "t": ""
+  },
+  {
+   "row": "Skill431",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3a8db466f032",
+   "t": ""
+  },
+  {
+   "row": "Skill433",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eb4acd9037c3",
+   "t": ""
+  },
+  {
+   "row": "Skill442",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eac1a90a8e05",
+   "t": ""
+  },
+  {
+   "row": "Skill445",
+   "sub": 0,
+   "col": "m_name",
+   "src": "179464cc3aba",
+   "t": ""
+  },
+  {
+   "row": "Skill448",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e5744b8673b5",
+   "t": ""
+  },
+  {
+   "row": "Skill458",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e910ade1fa01",
+   "t": ""
+  },
+  {
+   "row": "Skill461",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2f836a1441b3",
+   "t": ""
+  },
+  {
+   "row": "Skill463",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ff888efec140",
+   "t": ""
+  },
+  {
+   "row": "Skill464",
+   "sub": 0,
+   "col": "m_name",
+   "src": "91f8f7f620b2",
+   "t": ""
+  },
+  {
+   "row": "Skill465",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c1417850338",
+   "t": ""
+  },
+  {
+   "row": "Skill466",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ae22ad03845a",
+   "t": ""
+  },
+  {
+   "row": "Skill468",
+   "sub": 0,
+   "col": "m_name",
+   "src": "39ff731ef76b",
+   "t": ""
+  },
+  {
+   "row": "Skill469",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fcc1f6b569ed",
+   "t": ""
+  },
+  {
+   "row": "Skill470",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9bebd0c8bc53",
+   "t": ""
+  },
+  {
+   "row": "Skill471",
+   "sub": 0,
+   "col": "m_name",
+   "src": "044dfbed4571",
+   "t": ""
+  },
+  {
+   "row": "Skill472",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d3ca9f912d53",
+   "t": ""
+  },
+  {
+   "row": "Skill473",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8d559c9ef41f",
+   "t": ""
+  },
+  {
+   "row": "Skill474",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d436ee8070c7",
+   "t": ""
+  },
+  {
+   "row": "Skill475",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8742ad406a27",
+   "t": ""
+  },
+  {
+   "row": "Skill476",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3fa130d536bb",
+   "t": ""
+  },
+  {
+   "row": "Skill478",
+   "sub": 0,
+   "col": "m_name",
+   "src": "38cc34d9f430",
+   "t": ""
+  },
+  {
+   "row": "Skill479",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e07d3c93325e",
+   "t": ""
+  },
+  {
+   "row": "Skill480",
+   "sub": 0,
+   "col": "m_name",
+   "src": "160eba8438a7",
+   "t": ""
+  },
+  {
+   "row": "Skill482",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1602a77fc9fa",
+   "t": ""
+  },
+  {
+   "row": "Skill483",
+   "sub": 0,
+   "col": "m_name",
+   "src": "355497fe962d",
+   "t": ""
+  },
+  {
+   "row": "Skill484",
+   "sub": 0,
+   "col": "m_name",
+   "src": "407564502523",
+   "t": ""
+  },
+  {
+   "row": "Skill485",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5a8cd8c7ef2c",
+   "t": ""
+  },
+  {
+   "row": "Skill488",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1e85fd36bc14",
+   "t": ""
+  },
+  {
+   "row": "Fusion",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c320e5706454",
+   "t": ""
+  },
+  {
+   "row": "Skill492",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill493",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill494",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill495",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill496",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill497",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill498",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill499",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill500",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill501",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill502",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill503",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill504",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill505",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill506",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill507",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill508",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill509",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill510",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill511",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill512",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill513",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill514",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill515",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1db3dbc9582",
+   "t": ""
+  },
+  {
+   "row": "Skill516",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill517",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill518",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill519",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill520",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill521",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill522",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill523",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill524",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill525",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Skill526",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6c40a622556a",
+   "t": ""
+  },
+  {
+   "row": "Medarotter00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9732da869c5c",
+   "t": ""
+  },
+  {
+   "row": "Medarotter01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "54cd98fff6e9",
+   "t": ""
+  },
+  {
+   "row": "Medarotter02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7d69850b1f00",
+   "t": ""
+  },
+  {
+   "row": "Medarotter03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5af117a71c07",
+   "t": ""
+  },
+  {
+   "row": "Medarotter04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "840abf8f4ee6",
+   "t": ""
+  },
+  {
+   "row": "Medarotter05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b873343c73a4",
+   "t": ""
+  },
+  {
+   "row": "Medarotter06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0365c542e8e9",
+   "t": ""
+  },
+  {
+   "row": "Medarotter07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7fff07817088",
+   "t": ""
+  },
+  {
+   "row": "Medarotter08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5d895177770e",
+   "t": ""
+  },
+  {
+   "row": "Medarotter09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e374507cb155",
+   "t": ""
+  },
+  {
+   "row": "Medarotter10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "29ec9f429fa5",
+   "t": ""
+  },
+  {
+   "row": "Medarotter11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3346765ff4bc",
+   "t": ""
+  },
+  {
+   "row": "Medarotter12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "56e029c80f2e",
+   "t": ""
+  },
+  {
+   "row": "Medarotter13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "881d32cb5c24",
+   "t": ""
+  },
+  {
+   "row": "Medarotter14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "09f7a13c804a",
+   "t": ""
+  },
+  {
+   "row": "Medarotter15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "094803ce1c64",
+   "t": ""
+  },
+  {
+   "row": "Medarotter16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "932627ccfb7b",
+   "t": ""
+  },
+  {
+   "row": "Medarotter17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48f29e3fb6f9",
+   "t": ""
+  },
+  {
+   "row": "Medarotter18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b7d5eb5bc136",
+   "t": ""
+  },
+  {
+   "row": "Medarotter19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6ac88fc5104f",
+   "t": ""
+  },
+  {
+   "row": "Medarotter20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "261aa984d6e9",
+   "t": ""
+  },
+  {
+   "row": "Medarotter21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "576bc26be3a2",
+   "t": ""
+  },
+  {
+   "row": "Medarotter22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8605e2641789",
+   "t": ""
+  },
+  {
+   "row": "Medarotter23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6b7223cfbba9",
+   "t": ""
+  },
+  {
+   "row": "Medarotter24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e13712bf6758",
+   "t": ""
+  },
+  {
+   "row": "Medarotter25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c3f0f225d68a",
+   "t": ""
+  },
+  {
+   "row": "Medarotter26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "02882b833dc2",
+   "t": ""
+  },
+  {
+   "row": "Medarotter27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9b8e5c274476",
+   "t": ""
+  },
+  {
+   "row": "MedaForce00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74d6ca96cabb",
+   "t": ""
+  },
+  {
+   "row": "MedaForce01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "74d6ca96cabb",
+   "t": ""
+  },
+  {
+   "row": "MedaForce02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1a1b8ba0dd6d",
+   "t": ""
+  },
+  {
+   "row": "MedaForce03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1a1b8ba0dd6d",
+   "t": ""
+  },
+  {
+   "row": "MedaForce04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3909b59fb5f2",
+   "t": ""
+  },
+  {
+   "row": "MedaForce05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3909b59fb5f2",
+   "t": ""
+  },
+  {
+   "row": "MedaForce06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ba2e8f18b8d3",
+   "t": ""
+  },
+  {
+   "row": "MedaForce07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ba2e8f18b8d3",
+   "t": ""
+  },
+  {
+   "row": "MedaForce08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b40889aa0d7f",
+   "t": ""
+  },
+  {
+   "row": "MedaForce09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b40889aa0d7f",
+   "t": ""
+  },
+  {
+   "row": "MedaForce10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a48aa06ce347",
+   "t": ""
+  },
+  {
+   "row": "MedaForce11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a48aa06ce347",
+   "t": ""
+  },
+  {
+   "row": "MedaForce12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76c35dbb3cb5",
+   "t": ""
+  },
+  {
+   "row": "MedaForce13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "76c35dbb3cb5",
+   "t": ""
+  },
+  {
+   "row": "MedaForce14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "585be49d3e26",
+   "t": ""
+  },
+  {
+   "row": "MedaForce15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "585be49d3e26",
+   "t": ""
+  },
+  {
+   "row": "MedaForce16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc272435b3c9",
+   "t": ""
+  },
+  {
+   "row": "MedaForce17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc272435b3c9",
+   "t": ""
+  },
+  {
+   "row": "MedaForce18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de7488ae2df4",
+   "t": ""
+  },
+  {
+   "row": "MedaForce19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "de7488ae2df4",
+   "t": ""
+  },
+  {
+   "row": "MedaForce20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c23ef8385184",
+   "t": ""
+  },
+  {
+   "row": "MedaForce21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c23ef8385184",
+   "t": ""
+  },
+  {
+   "row": "MedaForce22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dcd1308bbe1b",
+   "t": ""
+  },
+  {
+   "row": "MedaForce23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "dcd1308bbe1b",
+   "t": ""
+  },
+  {
+   "row": "MedaForce24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0076af5e4e7c",
+   "t": ""
+  },
+  {
+   "row": "MedaForce25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0076af5e4e7c",
+   "t": ""
+  },
+  {
+   "row": "MedaForce26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a26cc9b7c265",
+   "t": ""
+  },
+  {
+   "row": "MedaForce27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a26cc9b7c265",
+   "t": ""
+  },
+  {
+   "row": "MedaForce28",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": ""
+  },
+  {
+   "row": "MedaForce29",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": ""
+  },
+  {
+   "row": "MedaForce30",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37979d862afd",
+   "t": ""
+  },
+  {
+   "row": "MedaForce31",
+   "sub": 0,
+   "col": "m_name",
+   "src": "37979d862afd",
+   "t": ""
+  },
+  {
+   "row": "MedaForce32",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ee4b1e15390c",
+   "t": ""
+  },
+  {
+   "row": "MedaForce33",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ee4b1e15390c",
+   "t": ""
+  },
+  {
+   "row": "MedaForce34",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8e40f7ab159a",
+   "t": ""
+  },
+  {
+   "row": "MedaForce35",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8e40f7ab159a",
+   "t": ""
+  },
+  {
+   "row": "MedaForce36",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52c6a1af9651",
+   "t": ""
+  },
+  {
+   "row": "MedaForce37",
+   "sub": 0,
+   "col": "m_name",
+   "src": "52c6a1af9651",
+   "t": ""
+  },
+  {
+   "row": "MedaForce38",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ab618b6df1eb",
+   "t": ""
+  },
+  {
+   "row": "MedaForce39",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ab618b6df1eb",
+   "t": ""
+  },
+  {
+   "row": "MedaForce40",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": ""
+  },
+  {
+   "row": "MedaForce41",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": ""
+  },
+  {
+   "row": "MedaForce42",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": ""
+  },
+  {
+   "row": "MedaForce43",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": ""
+  },
+  {
+   "row": "MedaForce44",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": ""
+  },
+  {
+   "row": "MedaForce45",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": ""
+  },
+  {
+   "row": "MedaForce46",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": ""
+  },
+  {
+   "row": "MedaForce47",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": ""
+  },
+  {
+   "row": "Tactics00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "494ff866d40e",
+   "t": ""
+  },
+  {
+   "row": "Tactics01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e69002de87b7",
+   "t": ""
+  },
+  {
+   "row": "Tactics02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fdedc35278a1",
+   "t": ""
+  },
+  {
+   "row": "Tactics03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "27c646dc80b7",
+   "t": ""
+  },
+  {
+   "row": "Tactics04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "58ff5c5653cd",
+   "t": ""
+  },
+  {
+   "row": "Tactics05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0c8fdd7e49f5",
+   "t": ""
+  },
+  {
+   "row": "Tactics06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e68fab25fb16",
+   "t": ""
+  },
+  {
+   "row": "Tactics07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "926fe276500b",
+   "t": ""
+  },
+  {
+   "row": "Tactics08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f2abdb125648",
+   "t": ""
+  },
+  {
+   "row": "Tactics09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e183ee8622a4",
+   "t": ""
+  },
+  {
+   "row": "Tactics10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "17bd718484c8",
+   "t": ""
+  },
+  {
+   "row": "Tactics11",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1983d510396",
+   "t": ""
+  },
+  {
+   "row": "Tactics12",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8638563fc57e",
+   "t": ""
+  },
+  {
+   "row": "Tactics13",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a6cac023ee3b",
+   "t": ""
+  },
+  {
+   "row": "Tactics14",
+   "sub": 0,
+   "col": "m_name",
+   "src": "360a368bfc71",
+   "t": ""
+  },
+  {
+   "row": "Tactics15",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3cd7af1c84c7",
+   "t": ""
+  },
+  {
+   "row": "Tactics16",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa236b1ec87e",
+   "t": ""
+  },
+  {
+   "row": "Tactics17",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fb30d666a3ba",
+   "t": ""
+  },
+  {
+   "row": "Tactics18",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bb685d25194d",
+   "t": ""
+  },
+  {
+   "row": "Tactics19",
+   "sub": 0,
+   "col": "m_name",
+   "src": "97e7235d170e",
+   "t": ""
+  },
+  {
+   "row": "Tactics20",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e1496f6c5bd2",
+   "t": ""
+  },
+  {
+   "row": "Tactics21",
+   "sub": 0,
+   "col": "m_name",
+   "src": "26c9a45dbbaa",
+   "t": ""
+  },
+  {
+   "row": "Tactics22",
+   "sub": 0,
+   "col": "m_name",
+   "src": "266a566bb9a7",
+   "t": ""
+  },
+  {
+   "row": "Tactics23",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4371b073b710",
+   "t": ""
+  },
+  {
+   "row": "Tactics24",
+   "sub": 0,
+   "col": "m_name",
+   "src": "223a04d498d3",
+   "t": ""
+  },
+  {
+   "row": "Tactics25",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b3d65fcf09b6",
+   "t": ""
+  },
+  {
+   "row": "Tactics26",
+   "sub": 0,
+   "col": "m_name",
+   "src": "adbf3827e94a",
+   "t": ""
+  },
+  {
+   "row": "Tactics27",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d9300b5b1cb8",
+   "t": ""
+  },
+  {
+   "row": "Tactics28",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a5a1a0c37e24",
+   "t": ""
+  },
+  {
+   "row": "Tactics29",
+   "sub": 0,
+   "col": "m_name",
+   "src": "866eb08cc6e0",
+   "t": ""
+  },
+  {
+   "row": "Tactics30",
+   "sub": 0,
+   "col": "m_name",
+   "src": "07e1d25071d6",
+   "t": ""
+  },
+  {
+   "row": "Tactics31",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f5cebf9f901e",
+   "t": ""
+  },
+  {
+   "row": "Tactics32",
+   "sub": 0,
+   "col": "m_name",
+   "src": "43f3d817c9a3",
+   "t": ""
+  },
+  {
+   "row": "Tactics33",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b04a5e7f68e",
+   "t": ""
+  },
+  {
+   "row": "Tactics34",
+   "sub": 0,
+   "col": "m_name",
+   "src": "884051c39d12",
+   "t": ""
+  },
+  {
+   "row": "Tactics35",
+   "sub": 0,
+   "col": "m_name",
+   "src": "50149efe4340",
+   "t": ""
+  },
+  {
+   "row": "Tactics36",
+   "sub": 0,
+   "col": "m_name",
+   "src": "30a502c91018",
+   "t": ""
+  },
+  {
+   "row": "Tactics37",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a4953420a97b",
+   "t": ""
+  },
+  {
+   "row": "Tactics38",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f28a4bf0db93",
+   "t": ""
+  },
+  {
+   "row": "Tactics39",
+   "sub": 0,
+   "col": "m_name",
+   "src": "36c5753839be",
+   "t": ""
+  },
+  {
+   "row": "Tactics40",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5bf24bf104b8",
+   "t": ""
+  },
+  {
+   "row": "Tactics41",
+   "sub": 0,
+   "col": "m_name",
+   "src": "943ccfb24368",
+   "t": ""
+  },
+  {
+   "row": "Tactics42",
+   "sub": 0,
+   "col": "m_name",
+   "src": "db6c45441ef4",
+   "t": ""
+  },
+  {
+   "row": "Tactics43",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4f6205af6e2e",
+   "t": ""
+  },
+  {
+   "row": "Tactics44",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c0dce59edd23",
+   "t": ""
+  },
+  {
+   "row": "Tactics45",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eec3e3a3854f",
+   "t": ""
+  },
+  {
+   "row": "Tactics46",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2828d4bcbd5e",
+   "t": ""
+  },
+  {
+   "row": "Tactics47",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c044cfdab154",
+   "t": ""
+  },
+  {
+   "row": "Tactics48",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48bcd508df86",
+   "t": ""
+  },
+  {
+   "row": "Tactics49",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a08642b5a169",
+   "t": ""
+  },
+  {
+   "row": "Tactics50",
+   "sub": 0,
+   "col": "m_name",
+   "src": "66e3d9fa6f95",
+   "t": ""
+  },
+  {
+   "row": "Tactics51",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d85e83c8b5dd",
+   "t": ""
+  },
+  {
+   "row": "Tactics52",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c8626ecf3a66",
+   "t": ""
+  },
+  {
+   "row": "Tactics53",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f8704b449eb6",
+   "t": ""
+  },
+  {
+   "row": "Tactics54",
+   "sub": 0,
+   "col": "m_name",
+   "src": "64b36a2430b7",
+   "t": ""
+  },
+  {
+   "row": "Tactics55",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d034f87e9ac0",
+   "t": ""
+  },
+  {
+   "row": "Tactics56",
+   "sub": 0,
+   "col": "m_name",
+   "src": "805018a8a1e8",
+   "t": ""
+  },
+  {
+   "row": "Tactics57",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0c861fb842fb",
+   "t": ""
+  },
+  {
+   "row": "Tactics58",
+   "sub": 0,
+   "col": "m_name",
+   "src": "7849e9ed2ee1",
+   "t": ""
+  },
+  {
+   "row": "Tactics59",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fce935cbc828",
+   "t": ""
+  },
+  {
+   "row": "Tactics60",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0809ab3e0611",
+   "t": ""
+  },
+  {
+   "row": "Tactics61",
+   "sub": 0,
+   "col": "m_name",
+   "src": "770cf30da5c9",
+   "t": ""
+  },
+  {
+   "row": "Tactics62",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b779edd1c679",
+   "t": ""
+  },
+  {
+   "row": "Tactics63",
+   "sub": 0,
+   "col": "m_name",
+   "src": "57224e5c9551",
+   "t": ""
+  },
+  {
+   "row": "Tactics64",
+   "sub": 0,
+   "col": "m_name",
+   "src": "aaa39656393a",
+   "t": ""
+  },
+  {
+   "row": "Tactics65",
+   "sub": 0,
+   "col": "m_name",
+   "src": "919c417bc2d5",
+   "t": ""
+  },
+  {
+   "row": "Tactics66",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c5f252a5788b",
+   "t": ""
+  },
+  {
+   "row": "Tactics67",
+   "sub": 0,
+   "col": "m_name",
+   "src": "035ae7ae2afa",
+   "t": ""
+  },
+  {
+   "row": "Tactics68",
+   "sub": 0,
+   "col": "m_name",
+   "src": "747377bcba04",
+   "t": ""
+  },
+  {
+   "row": "Tactics69",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a0c9e45677ea",
+   "t": ""
+  },
+  {
+   "row": "Tactics70",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6af9bf76a066",
+   "t": ""
+  },
+  {
+   "row": "Trap00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ace3c0ba8c3d",
+   "t": ""
+  },
+  {
+   "row": "Trap01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0e532646ce2b",
+   "t": ""
+  },
+  {
+   "row": "Trap02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "0452f3e71e45",
+   "t": ""
+  },
+  {
+   "row": "Trap03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e00a51b29882",
+   "t": ""
+  },
+  {
+   "row": "Trap04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a38e0e2d423e",
+   "t": ""
+  },
+  {
+   "row": "Trap05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "c1066343036e",
+   "t": ""
+  },
+  {
+   "row": "Trap06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "47289d2b2dac",
+   "t": ""
+  },
+  {
+   "row": "Trap07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "02c47996b281",
+   "t": ""
+  },
+  {
+   "row": "Trap08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6103cd2e6dbe",
+   "t": ""
+  },
+  {
+   "row": "Plant00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "d2d08722a057",
+   "t": ""
+  },
+  {
+   "row": "Plant01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "43469c1b7a38",
+   "t": ""
+  },
+  {
+   "row": "Plant02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "3b96a4190f82",
+   "t": ""
+  },
+  {
+   "row": "Plant03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9f45240cbe6d",
+   "t": ""
+  },
+  {
+   "row": "Plant04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "00da4061becd",
+   "t": ""
+  },
+  {
+   "row": "Plant05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "82ba085c19c4",
+   "t": ""
+  },
+  {
+   "row": "BreakParts",
+   "sub": 0,
+   "col": "m_name",
+   "src": "9a0cc0c22223",
+   "t": ""
+  },
+  {
+   "row": "BreakShield",
+   "sub": 0,
+   "col": "m_name",
+   "src": "58c28ae1aa20",
+   "t": ""
+  },
+  {
+   "row": "ReturnSupport",
+   "sub": 0,
+   "col": "m_name",
+   "src": "98e19ea64389",
+   "t": ""
+  },
+  {
+   "row": "SelfDamageByPower",
+   "sub": 0,
+   "col": "m_name",
+   "src": "6760bccb26fc",
+   "t": ""
+  },
+  {
+   "row": "HiDefence",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41eb890ba077",
+   "t": ""
+  },
+  {
+   "row": "RadarSight",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f43c4af4d07b",
+   "t": ""
+  },
+  {
+   "row": "Guard2000",
+   "sub": 0,
+   "col": "m_name",
+   "src": "eac775f6b9ec",
+   "t": ""
+  },
+  {
+   "row": "CounterActiveSkill",
+   "sub": 0,
+   "col": "m_name",
+   "src": "59137c7c9965",
+   "t": ""
+  },
+  {
+   "row": "RapidDive",
+   "sub": 0,
+   "col": "m_name",
+   "src": "207ac6b1696b",
+   "t": ""
+  },
+  {
+   "row": "Confusion",
+   "sub": 0,
+   "col": "m_name",
+   "src": "48215fecf18b",
+   "t": ""
+  },
+  {
+   "row": "FreezeGuard",
+   "sub": 0,
+   "col": "m_name",
+   "src": "32dc51bb535b",
+   "t": ""
+  },
+  {
+   "row": "SwordDrone",
+   "sub": 0,
+   "col": "m_name",
+   "src": "ecff1f4f74bb",
+   "t": ""
+  },
+  {
+   "row": "ContinuousAttack",
+   "sub": 0,
+   "col": "m_name",
+   "src": "e0affbb2942b",
+   "t": ""
+  },
+  {
+   "row": "FightingBash",
+   "sub": 0,
+   "col": "m_name",
+   "src": "41a33f4b5ac5",
+   "t": ""
+  },
+  {
+   "row": "Guard4000",
+   "sub": 0,
+   "col": "m_name",
+   "src": "218817d0ea41",
+   "t": ""
+  },
+  {
+   "row": "OverCharge",
+   "sub": 0,
+   "col": "m_name",
+   "src": "b122ab0cb656",
+   "t": ""
+  },
+  {
+   "row": "NeedleGuard",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cb804b41174d",
+   "t": ""
+  },
+  {
+   "row": "Reflector",
+   "sub": 0,
+   "col": "m_name",
+   "src": "edff5f28a062",
+   "t": ""
+  },
+  {
+   "row": "AutoRepair",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a62f5a9dc6cd",
+   "t": ""
+  },
+  {
+   "row": "HyperRepair",
+   "sub": 0,
+   "col": "m_name",
+   "src": "8ce667ed046f",
+   "t": ""
+  },
+  {
+   "row": "Restoration",
+   "sub": 0,
+   "col": "m_name",
+   "src": "bcec0646fa43",
+   "t": ""
+  },
+  {
+   "row": "ConvertShield",
+   "sub": 0,
+   "col": "m_name",
+   "src": "a5e5f2d4a097",
+   "t": ""
+  },
+  {
+   "row": "SearchEnemy",
+   "sub": 0,
+   "col": "m_name",
+   "src": "1046fc3d0ee9",
+   "t": ""
+  },
+  {
+   "row": "Burn",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5fdd001c503b",
+   "t": ""
+  },
+  {
+   "row": "HiDefenceCPU",
+   "sub": 0,
+   "col": "m_name",
+   "src": "5cf903390ea7",
+   "t": ""
+  }
+ ]
+}

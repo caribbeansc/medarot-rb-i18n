@@ -1,0 +1,82 @@
+{
+ "table": "CharacterDef",
+ "entries": [
+  {
+   "row": "Chara00",
+   "sub": 0,
+   "col": "m_name",
+   "src": "27ffeb62f499",
+   "t": ""
+  },
+  {
+   "row": "Chara01",
+   "sub": 0,
+   "col": "m_name",
+   "src": "af0adf328516",
+   "t": ""
+  },
+  {
+   "row": "Chara02",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f736919ad92e",
+   "t": ""
+  },
+  {
+   "row": "Chara03",
+   "sub": 0,
+   "col": "m_name",
+   "src": "fa89f09c5b5d",
+   "t": ""
+  },
+  {
+   "row": "Chara04",
+   "sub": 0,
+   "col": "m_name",
+   "src": "f96000b73a76",
+   "t": ""
+  },
+  {
+   "row": "Chara05",
+   "sub": 0,
+   "col": "m_name",
+   "src": "cc6333f74582",
+   "t": ""
+  },
+  {
+   "row": "Chara06",
+   "sub": 0,
+   "col": "m_name",
+   "src": "2a6bb1f3a643",
+   "t": ""
+  },
+  {
+   "row": "Chara07",
+   "sub": 0,
+   "col": "m_name",
+   "src": "834ac1327790",
+   "t": ""
+  },
+  {
+   "row": "Chara08",
+   "sub": 0,
+   "col": "m_name",
+   "src": "4ddee72a7fd8",
+   "t": ""
+  },
+  {
+   "row": "Chara09",
+   "sub": 0,
+   "col": "m_name",
+   "src": "da804df21bc9",
+   "t": ""
+  },
+  {
+   "row": "Chara10",
+   "sub": 0,
+   "col": "m_name",
+   "src": "052a2eba77d6",
+   "t": ""
+  }
+ ]
+}
