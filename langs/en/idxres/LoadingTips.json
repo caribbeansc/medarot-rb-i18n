@@ -118,14 +118,14 @@
    "sub": 0,
    "col": "m_title",
    "src": "b728a66020e1",
-   "t": "No Attack"
+   "t": "Cannot Attack"
   },
   {
    "row": "Tips08",
    "sub": 0,
    "col": "m_text",
    "src": "322780c610eb",
-   "t": "[No Attack] blocks normal attacks and Cross Attacks,\nbut the Medabot can still counterattack!"
+   "t": "[Cannot Attack] blocks normal attacks and Cross Attacks,\nbut the Medabot can still counterattack!"
   },
   {
    "row": "Tips09",
@@ -195,7 +195,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "c31498b7e619",
-   "t": "[Set] is an action paid with the listed Set Points.\nIt places traps and plants on the field!"
+   "t": "[Deploy] is an action paid with the listed Deploy points.\nIt places traps and plants on the field!"
   },
   {
    "row": "Tips14",

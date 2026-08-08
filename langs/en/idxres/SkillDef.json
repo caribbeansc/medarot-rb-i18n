@@ -20,7 +20,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "94e5142a4a6d",
-   "t": "No Attack (Passive)"
+   "t": "Cannot Attack (Trait)"
   },
   {
    "row": "Skill100",
@@ -48,49 +48,49 @@
    "sub": 0,
    "col": "m_name",
    "src": "8716c44c2e45",
-   "t": "Anger (Passive)"
+   "t": "Anger (Trait)"
   },
   {
    "row": "Skill104",
    "sub": 0,
    "col": "m_name",
    "src": "d3c30ef1168d",
-   "t": "Heavy Arm (Passive)"
+   "t": "Heavy Arm (Trait)"
   },
   {
    "row": "Skill105",
    "sub": 0,
    "col": "m_name",
    "src": "def317b366c1",
-   "t": "Close Combat (Passive)"
+   "t": "Close Combat (Trait)"
   },
   {
    "row": "Skill106",
    "sub": 0,
    "col": "m_name",
    "src": "f478ba714b73",
-   "t": "Deathlock (Passive)"
+   "t": "Deathlock (Trait)"
   },
   {
    "row": "Skill107",
    "sub": 0,
    "col": "m_name",
    "src": "490cef17e846",
-   "t": "Accel (Passive)"
+   "t": "Accel (Trait)"
   },
   {
    "row": "Skill108",
    "sub": 0,
    "col": "m_name",
    "src": "cc828d572ac0",
-   "t": "Snow Type (Passive)"
+   "t": "Snow Type (Trait)"
   },
   {
    "row": "Cooler",
    "sub": 0,
    "col": "m_name",
    "src": "845b72e58d98",
-   "t": "Cooler (Passive)"
+   "t": "Cooler (Trait)"
   },
   {
    "row": "Skill110",
@@ -111,14 +111,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "e1abd86c7469",
-   "t": "Auto Repair (Passive)"
+   "t": "Auto Repair (Trait)"
   },
   {
    "row": "Skill115",
    "sub": 0,
    "col": "m_name",
    "src": "33aa95bca45a",
-   "t": "Hoplite (Passive)"
+   "t": "Hoplite (Trait)"
   },
   {
    "row": "Skill116",
@@ -132,14 +132,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "9eff3f7e9e3a",
-   "t": "Setup Prep (Passive)"
+   "t": "Setup Prep (Trait)"
   },
   {
    "row": "Skill119",
    "sub": 0,
    "col": "m_name",
    "src": "2246a698a9a0",
-   "t": "Pupa (Passive)"
+   "t": "Pupa (Trait)"
   },
   {
    "row": "Skill120",
@@ -181,7 +181,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "6ef19beb596a",
-   "t": "Captor (Passive)"
+   "t": "Captor (Trait)"
   },
   {
    "row": "Skill126",
@@ -202,14 +202,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "f3bc815a190f",
-   "t": "Virus (Passive)"
+   "t": "Virus (Trait)"
   },
   {
    "row": "Skill129",
    "sub": 0,
    "col": "m_name",
    "src": "876a67690bce",
-   "t": "All-Terrain (Passive)"
+   "t": "All-Terrain (Trait)"
   },
   {
    "row": "Skill201",
@@ -230,14 +230,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "aa8fb66ee2cf",
-   "t": "Bloodstain (Passive)"
+   "t": "Bloodstain (Trait)"
   },
   {
    "row": "Skill206",
    "sub": 0,
    "col": "m_name",
    "src": "38f8a17ec656",
-   "t": "Charge Buster (Passive)"
+   "t": "Charge Buster (Trait)"
   },
   {
    "row": "Skill207",
@@ -251,7 +251,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "9f87472c9ba2",
-   "t": "Through Shot (Passive)"
+   "t": "Through Shot (Trait)"
   },
   {
    "row": "Skill210",
@@ -265,56 +265,56 @@
    "sub": 0,
    "col": "m_name",
    "src": "043e15deff10",
-   "t": "Crossfire (Passive)"
+   "t": "Crossfire (Trait)"
   },
   {
    "row": "Skill216",
    "sub": 0,
    "col": "m_name",
    "src": "cce82ad7564b",
-   "t": "Thunder (Passive)"
+   "t": "Thunder (Trait)"
   },
   {
    "row": "Skill218",
    "sub": 0,
    "col": "m_name",
    "src": "9db61f841e64",
-   "t": "Hammer (Passive)"
+   "t": "Hammer (Trait)"
   },
   {
    "row": "Skill222",
    "sub": 0,
    "col": "m_name",
    "src": "69f6981064f6",
-   "t": "Rush (Passive)"
+   "t": "Rush (Trait)"
   },
   {
    "row": "Skill223",
    "sub": 0,
    "col": "m_name",
    "src": "17230015e471",
-   "t": "Fire (Passive)"
+   "t": "Fire (Trait)"
   },
   {
    "row": "Skill225",
    "sub": 0,
    "col": "m_name",
    "src": "1147e150216c",
-   "t": "Destroy (Passive)"
+   "t": "Destroy (Trait)"
   },
   {
    "row": "Skill227",
    "sub": 0,
    "col": "m_name",
    "src": "05275a552e14",
-   "t": "Canceler (Passive)"
+   "t": "Canceler (Trait)"
   },
   {
    "row": "Skill229",
    "sub": 0,
    "col": "m_name",
    "src": "41bb658782b1",
-   "t": "Count Attack (Passive)"
+   "t": "Count Attack (Trait)"
   },
   {
    "row": "Skill230",
@@ -370,7 +370,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "b82b0c02e93e",
-   "t": "Holy Grace (Passive)"
+   "t": "Holy Grace (Trait)"
   },
   {
    "row": "Skill245",
@@ -398,7 +398,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "69ba30f61f1c",
-   "t": "White Mage (Passive)"
+   "t": "White Mage (Trait)"
   },
   {
    "row": "Skill250",
@@ -419,7 +419,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "30947c144d30",
-   "t": "Reversal (Passive)"
+   "t": "Reversal (Trait)"
   },
   {
    "row": "Skill254",
@@ -433,7 +433,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "d6114a22109b",
-   "t": "Alert (Passive)"
+   "t": "Alert (Trait)"
   },
   {
    "row": "Skill256",
@@ -468,7 +468,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "d6e7b32524be",
-   "t": "Mirror Guard (Passive)"
+   "t": "Mirror Guard (Trait)"
   },
   {
    "row": "Skill269",
@@ -489,14 +489,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "4d59929b7c59",
-   "t": "Joint Setup (Passive)"
+   "t": "Joint Setup (Trait)"
   },
   {
    "row": "Skill274",
    "sub": 0,
    "col": "m_name",
    "src": "0aa404809eed",
-   "t": "Charm (Passive)"
+   "t": "Charm (Trait)"
   },
   {
    "row": "Skill275",
@@ -510,14 +510,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "f45db554b48e",
-   "t": "Fortress (Passive)"
+   "t": "Fortress (Trait)"
   },
   {
    "row": "Skill278",
    "sub": 0,
    "col": "m_name",
    "src": "8271ff24fa95",
-   "t": "Revenger (Passive)"
+   "t": "Revenger (Trait)"
   },
   {
    "row": "Skill279",
@@ -531,14 +531,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "094f34cb83a0",
-   "t": "H Survivor (Passive)"
+   "t": "H Survivor (Trait)"
   },
   {
    "row": "Skill282",
    "sub": 0,
    "col": "m_name",
    "src": "c093b68ea806",
-   "t": "Clock Rage (Passive)"
+   "t": "Clock Rage (Trait)"
   },
   {
    "row": "Skill283",
@@ -552,21 +552,21 @@
    "sub": 0,
    "col": "m_name",
    "src": "76b618b09588",
-   "t": "Optical (Passive)"
+   "t": "Optical (Trait)"
   },
   {
    "row": "Skill287",
    "sub": 0,
    "col": "m_name",
    "src": "4c43d5ab85ce",
-   "t": "Power Rifle (Passive)"
+   "t": "Power Rifle (Trait)"
   },
   {
    "row": "Skill289",
    "sub": 0,
    "col": "m_name",
    "src": "f55c8e81da1f",
-   "t": "Charge Blade (Passive)"
+   "t": "Charge Blade (Trait)"
   },
   {
    "row": "Skill290",
@@ -594,35 +594,35 @@
    "sub": 0,
    "col": "m_name",
    "src": "d7af2f203dca",
-   "t": "Cross Fight (Passive)"
+   "t": "Cross Fight (Trait)"
   },
   {
    "row": "Skill297",
    "sub": 0,
    "col": "m_name",
    "src": "0ad17a736f81",
-   "t": "Freeze (Passive)"
+   "t": "Freeze (Trait)"
   },
   {
    "row": "Skill299",
    "sub": 0,
    "col": "m_name",
    "src": "c33e3969166e",
-   "t": "Confusion (Passive)"
+   "t": "Confusion (Trait)"
   },
   {
    "row": "Skill301",
    "sub": 0,
    "col": "m_name",
    "src": "34da98d72059",
-   "t": "MF Seal (Passive)"
+   "t": "MF Seal (Trait)"
   },
   {
    "row": "Skill303",
    "sub": 0,
    "col": "m_name",
    "src": "7de80c8c6a9e",
-   "t": "All-Rounder (Passive)"
+   "t": "All-Rounder (Trait)"
   },
   {
    "row": "Skill306",
@@ -636,7 +636,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "19da5ed481b7",
-   "t": "Ward (Passive)"
+   "t": "Ward (Trait)"
   },
   {
    "row": "Skill309",
@@ -650,7 +650,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "86a438e2c41e",
-   "t": "Brilliance (Passive)"
+   "t": "Brilliance (Trait)"
   },
   {
    "row": "Skill318",
@@ -692,14 +692,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "cce82ad7564b",
-   "t": "Thunder (Passive)"
+   "t": "Thunder (Trait)"
   },
   {
    "row": "Skill328",
    "sub": 0,
    "col": "m_name",
    "src": "17230015e471",
-   "t": "Fire (Passive)"
+   "t": "Fire (Trait)"
   },
   {
    "row": "Skill400",
@@ -741,7 +741,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "52a9ede6bb32",
-   "t": "Missile (Passive)"
+   "t": "Missile (Trait)"
   },
   {
    "row": "Skill409",
@@ -762,21 +762,21 @@
    "sub": 0,
    "col": "m_name",
    "src": "3a8db466f032",
-   "t": "Break Hammer (Passive)"
+   "t": "Break Hammer (Trait)"
   },
   {
    "row": "Skill416",
    "sub": 0,
    "col": "m_name",
    "src": "941a7fce7146",
-   "t": "Pile (Passive)"
+   "t": "Pile (Trait)"
   },
   {
    "row": "Skill417",
    "sub": 0,
    "col": "m_name",
    "src": "fa972574572e",
-   "t": "Beam Sword (Passive)"
+   "t": "Beam Sword (Trait)"
   },
   {
    "row": "Skill419",
@@ -790,7 +790,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "00199f8d8e96",
-   "t": "Power Blade (Passive)"
+   "t": "Power Blade (Trait)"
   },
   {
    "row": "Skill421",
@@ -825,7 +825,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "3a8db466f032",
-   "t": "Break Hammer (Passive)"
+   "t": "Break Hammer (Trait)"
   },
   {
    "row": "Skill433",
@@ -839,14 +839,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "eac1a90a8e05",
-   "t": "Time Attack (Passive)"
+   "t": "Time Attack (Trait)"
   },
   {
    "row": "Skill445",
    "sub": 0,
    "col": "m_name",
    "src": "179464cc3aba",
-   "t": "Melee Bash (Action)"
+   "t": "Strike Bash (Action)"
   },
   {
    "row": "Skill448",
@@ -937,7 +937,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "8d559c9ef41f",
-   "t": "Shot Guard (Action)"
+   "t": "Shoot Guard (Action)"
   },
   {
    "row": "Skill474",
@@ -1679,14 +1679,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": "Restoration"
+   "t": "Restnation"
   },
   {
    "row": "MedaForce31",
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": "Restoration"
+   "t": "Restnation"
   },
   {
    "row": "MedaForce32",
@@ -2498,7 +2498,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "41a33f4b5ac5",
-   "t": "For Melee Bash"
+   "t": "For Strike Bash"
   },
   {
    "row": "Guard4000",
@@ -2547,14 +2547,14 @@
    "sub": 0,
    "col": "m_name",
    "src": "bcec0646fa43",
-   "t": "For Restoration"
+   "t": "For Restnation"
   },
   {
    "row": "ConvertShield",
    "sub": 0,
    "col": "m_name",
    "src": "a5e5f2d4a097",
-   "t": "For Shield Conversion"
+   "t": "For Barrier Conversion"
   },
   {
    "row": "SearchEnemy",

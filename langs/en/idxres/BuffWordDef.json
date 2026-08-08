@@ -62,14 +62,14 @@
    "sub": 0,
    "col": "m_title",
    "src": "8d274dc16dd0",
-   "t": "Tactic Damage Up"
+   "t": "Tactics Damage Up"
   },
   {
    "row": "BuffWord04",
    "sub": 0,
    "col": "m_text",
    "src": "7a9a8e6e5664",
-   "t": "Tactic card damage increases by {0}."
+   "t": "Tactics card damage increases by {0}."
   },
   {
    "row": "BuffWord05",
@@ -314,7 +314,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "f2def35a54e9",
-   "t": "Tactic Cost Up"
+   "t": "Tactics Cost Up"
   },
   {
    "row": "BuffWord22",
@@ -328,7 +328,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "d745e6a8510f",
-   "t": "Tactic Stock Lost"
+   "t": "Tactics Stock Lost"
   },
   {
    "row": "BuffWord23",
@@ -412,7 +412,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "9d5e4fb5b463",
-   "t": "Tactic Damage Nullified"
+   "t": "Tactics Damage Nullified"
   },
   {
    "row": "BuffWord29",
@@ -510,7 +510,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "092f560bc141",
-   "t": "Shot Guard"
+   "t": "Shoot Guard"
   },
   {
    "row": "BuffWord36",
@@ -531,7 +531,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "90a4d152ab4e",
-   "t": "When it ceases function from [Snipe], the leader's Barrier is destroyed."
+   "t": "When it ceases to function from [Snipe], the leader's Barrier is destroyed."
   },
   {
    "row": "BuffWord38",
@@ -608,7 +608,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "b728a66020e1",
-   "t": "No Attack"
+   "t": "Cannot Attack"
   },
   {
    "row": "BuffWord43",
@@ -720,7 +720,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "2eb5dea7fc49",
-   "t": "Tactic Stock Up"
+   "t": "Tactics Stock Up"
   },
   {
    "row": "BuffWord51",
@@ -895,7 +895,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "86c93a1a585b",
-   "t": "Melee Bash"
+   "t": "Strike Bash"
   },
   {
    "row": "BuffWord64",
@@ -986,7 +986,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "37979d862afd",
-   "t": "Restoration"
+   "t": "Restnation"
   },
   {
    "row": "BuffWord71",
@@ -1056,21 +1056,21 @@
    "sub": 0,
    "col": "m_title",
    "src": "724ab7730cf2",
-   "t": "No Attack Ignored"
+   "t": "Cannot Attack Ignored"
   },
   {
    "row": "BuffWord76",
    "sub": 0,
    "col": "m_text",
    "src": "73f135328a48",
-   "t": "Nullifies [No Attack]."
+   "t": "Nullifies [Cannot Attack]."
   },
   {
    "row": "BuffWord77",
    "sub": 0,
    "col": "m_title",
    "src": "275ead2f2ee9",
-   "t": "Shield Conversion"
+   "t": "Barrier Conversion"
   },
   {
    "row": "BuffWord77",

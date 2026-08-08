@@ -146,7 +146,7 @@
    "sub": 0,
    "col": "m_title",
    "src": "b728a66020e1",
-   "t": "No Attack"
+   "t": "Cannot Attack"
   },
   {
    "row": "KeyWord10",
@@ -349,7 +349,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "4ac1c74078d2",
-   "t": "When an enemy Medabot activates an ability\n(action), negate it unless the target is a\n[Shooting] or [Melee] type.\nA trap is destroyed the moment it activates."
+   "t": "When an enemy Medabot activates an ability\n(action), negate it unless the target is a\n[Shoot] or [Strike] type.\nA trap is destroyed the moment it activates."
   },
   {
    "row": "KeyWord26",
@@ -671,7 +671,7 @@
    "sub": 0,
    "col": "m_text",
    "src": "3cbca6b8f8ae",
-   "t": "These are: [Shock] [Freeze] [Bind] [Burn]\n[Action Cost Up] [Quick Cooldown Cost Up]\n[Trait Seal] [Deathlock] [Tactics Cost Up]."
+   "t": "These are: [Shock] [Freeze] [Bind] [Burn]\n[Action Cost Up] [Quick Cooldown Cost Up]\n[Trait Sealed] [Deathlock] [Tactics Cost Up]."
   }
  ]
 }

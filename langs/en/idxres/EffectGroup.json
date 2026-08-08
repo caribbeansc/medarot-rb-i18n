@@ -174,7 +174,7 @@
    "sub": 0,
    "col": "name",
    "src": "092f560bc141",
-   "t": "Shot Guard"
+   "t": "Shoot Guard"
   },
   {
    "row": "Grtling",
@@ -573,7 +573,7 @@
    "sub": 0,
    "col": "name",
    "src": "86c93a1a585b",
-   "t": "Melee Bash"
+   "t": "Strike Bash"
   },
   {
    "row": "Guard_Needle",

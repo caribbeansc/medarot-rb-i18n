@@ -6,7 +6,7 @@
    "sub": 0,
    "col": "text",
    "src": "df3535a64718",
-   "t": "Confirm"
+   "t": "OK"
   },
   {
    "row": "Return",
@@ -461,7 +461,7 @@
    "sub": 0,
    "col": "text",
    "src": "4c978e9b7c93",
-   "t": "Multiplayer Battle"
+   "t": "Multiplayer"
   },
   {
    "row": "Header_MultiOnline",
@@ -566,14 +566,14 @@
    "sub": 0,
    "col": "text",
    "src": "4c978e9b7c93",
-   "t": "Multiplayer Battle"
+   "t": "Multiplayer"
   },
   {
    "row": "ModeMenu_SelectName03",
    "sub": 0,
    "col": "text",
    "src": "e44f9e63dcc3",
-   "t": "Buy Packs"
+   "t": "Packs"
   },
   {
    "row": "ModeMenu_SelectName04",
@@ -657,7 +657,7 @@
    "sub": 0,
    "col": "text",
    "src": "b34a70eeb390",
-   "t": "Rocky Area"
+   "t": "Rocky"
   },
   {
    "row": "Terrain_Desert",
@@ -685,14 +685,14 @@
    "sub": 0,
    "col": "text",
    "src": "fd378c02c495",
-   "t": "Waterside"
+   "t": "Shore"
   },
   {
    "row": "Terrain_Mountain",
    "sub": 0,
    "col": "text",
    "src": "ba25382dec8f",
-   "t": "Mountains"
+   "t": "Mountain"
   },
   {
    "row": "Terrain_Cyber",
@@ -937,7 +937,7 @@
    "sub": 0,
    "col": "text",
    "src": "868310e193d1",
-   "t": "None"
+   "t": "Off"
   },
   {
    "row": "MultiSelect_SearchComment_All",
@@ -972,7 +972,7 @@
    "sub": 0,
    "col": "text",
    "src": "3acd6a124067",
-   "t": "Close room"
+   "t": "Close"
   },
   {
    "row": "MultiLobby_ExitDialog_Guest_Text",
@@ -1182,7 +1182,7 @@
    "sub": 0,
    "col": "text",
    "src": "15e8c79d5605",
-   "t": "Go to Nintendo eShop"
+   "t": "eShop"
   },
   {
    "row": "TrialEShopDialog",
@@ -1301,7 +1301,7 @@
    "sub": 0,
    "col": "text",
    "src": "901a99ef46c7",
-   "t": "Save and return"
+   "t": "Save"
   }
  ]
 }

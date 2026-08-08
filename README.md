@@ -100,10 +100,39 @@ tables, and the update only rewrites fifteen lines and adds nine, so the Spanish
 pack carries both wordings and the build picks the one your dump actually has. The
 tool recognises which release you have and installs the mod under the right game.
 
-**Was AI involved?** Heavily, and it is written down rather than glossed over. The
-tools were built by an LLM against the specifications in [docs/specs/](docs/specs/),
-with tests as the constraint; the translations were generated the same way and
-checked by playing.
+**Was AI involved?** Heavily, and it is written down rather than glossed over.
+See [How this was built](#how-this-was-built).
+
+## How this was built
+
+An LLM wrote this, and the interesting part is not that — it is what it was made
+to write against.
+
+Nothing was implemented until the behaviour was written down. There are **nine
+specifications** in [docs/specs/](docs/specs/) with **87 numbered requirements**,
+from the binary layout of the game's data tables to the exit codes of the CLI, and
+a requirement without a test is treated as a bug in the spec. **302 tests** name
+the requirements they cover in their docstrings, so a failure tells you which rule
+broke; 286 of them run on a synthetic dump with no game files at all, and line
+coverage sits at 80%. On top of that the output is checked against reality: four
+retail dumps, every data table round-tripped byte for byte, and the built mod
+compared file by file against the pipeline this was ported from. The translations
+went through their own gauntlet — mechanical checks for placeholders, markup,
+charset and leftover Japanese, then independent review passes for terminology
+consistency and for whether it reads like a game.
+
+The constraints earned their keep. Tests written from the specs caught a cell
+address that collided when a table repeated a row key, and a cache whose files
+never reached the mod, silently shipping cramped text on 28 screens. Diffing a
+build against the reference pipeline caught a font fallback chain that closed on
+itself. The pack test caught the glossary quoting the very characters it told you
+to replace. The review pass caught the same concept translated four different ways
+across batches. None of those were found by reading the code.
+
+So: do not trust this because an LLM wrote it carefully. Trust it as far as the
+specs, the tests and the four dumps go — and no further. Everything they do not
+cover is exactly as unverified as it sounds, and the translations themselves are
+machine output that one person played through, not a professional localisation.
 
 ## No game data, by design
 
@@ -133,14 +162,12 @@ including a UnityPy bug that silently corrupts 30 of this game's textures.
 
 ```
 pip install -r requirements-dev.txt
-pytest -m "not game"     # 285 tests on a synthetic dump; no game files needed
+pytest -m "not game"     # 286 tests on a synthetic dump; no game files needed
 pytest                   # + 16 more against your own dump(s)
 ```
 
-301 tests, 80% line coverage. Verified against four real dumps — both releases,
-each with and without the update: every data table round-trips byte-for-byte, the
-Spanish pack covers every translatable cell in all four, and the built mod matches
-the reference pipeline file for file.
+What that suite is for, and what it has caught, is in
+[How this was built](#how-this-was-built).
 
 ## Licence
 

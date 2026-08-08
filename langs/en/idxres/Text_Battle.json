@@ -27,7 +27,7 @@
    "sub": 0,
    "col": "text",
    "src": "a6eea7a44811",
-   "t": "Standby Phase"
+   "t": "Preparation Phase"
   },
   {
    "row": "ActionPhase",
@@ -251,7 +251,7 @@
    "sub": 0,
    "col": "text",
    "src": "50d5105f4d67",
-   "t": "End Standby Phase"
+   "t": "End Preparation Phase"
   },
   {
    "row": "PhaseEnd_End",
@@ -300,7 +300,7 @@
    "sub": 0,
    "col": "text",
    "src": "01d02955c404",
-   "t": "End the Standby Phase?"
+   "t": "End the Preparation Phase?"
   },
   {
    "row": "Caution_Title_End",

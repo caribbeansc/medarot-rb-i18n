@@ -370,14 +370,14 @@
    "sub": 0,
    "col": "text",
    "src": "718823f1aa04",
-   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer during the Standby Phase and the End Phase."
+   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer during the Preparation Phase and the End Phase."
   },
   {
    "row": "Tutorial_Practice02_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "ab66d89a056b",
-   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer in the Standby Phase or the End Phase."
+   "t": "First, transfer a Medabot other than your Leader.\nYou can transfer in the Preparation Phase or the End Phase."
   },
   {
    "row": "Tutorial_Practice02_Message03",
@@ -797,14 +797,14 @@
    "sub": 0,
    "col": "text",
    "src": "70b69e433d7c",
-   "t": "You can swap parts during the Standby Phase.\nBefore equipping one, take a look at the field."
+   "t": "You can swap parts during the Preparation Phase.\nBefore equipping one, take a look at the field."
   },
   {
    "row": "Tutorial_Practice03_Message02",
    "sub": 0,
    "col": "text_en",
    "src": "ea5465391f14",
-   "t": "Parts can only be swapped during the Standby Phase.\nIt is the Standby Phase now, so equip a part right away!"
+   "t": "Parts can only be swapped during the Preparation Phase.\nIt is the Preparation Phase now, so equip a part right away!"
   },
   {
    "row": "Tutorial_Practice03_Message03",
@@ -867,14 +867,14 @@
    "sub": 0,
    "col": "text",
    "src": "10ce64bda5d4",
-   "t": "Parts can be swapped any number of times\nin the Standby Phase, so a wrong pick is fine."
+   "t": "Parts can be swapped any number of times\nin the Preparation Phase, so a wrong pick is fine."
   },
   {
    "row": "Tutorial_Practice03_Message07",
    "sub": 0,
    "col": "text_en",
    "src": "10ce64bda5d4",
-   "t": "Parts can be swapped any number of times\nin the Standby Phase, so a wrong pick is fine."
+   "t": "Parts can be swapped any number of times\nin the Preparation Phase, so a wrong pick is fine."
   },
   {
    "row": "Tutorial_Practice03_Message08",
@@ -979,14 +979,14 @@
    "sub": 0,
    "col": "text",
    "src": "e4b5644ca72e",
-   "t": "But the enemy's Barrier was gone, and still\nit didn't cease functioning: a part blocked.\nBoth Barriers and parts can take a leader's hits."
+   "t": "But the enemy's Barrier was gone, and still\nit didn't cease to functioning: a part blocked.\nBoth Barriers and parts can take a leader's hits."
   },
   {
    "row": "Tutorial_Practice03_Message15",
    "sub": 0,
    "col": "text_en",
    "src": "e6152df265ee",
-   "t": "But the enemy had no Barrier up, and still\nit didn't cease functioning: a part defended it.\nBoth Barriers and parts can take a leader's hits."
+   "t": "But the enemy had no Barrier up, and still\nit didn't cease to functioning: a part defended it.\nBoth Barriers and parts can take a leader's hits."
   },
   {
    "row": "Tutorial_Practice03_Message16",
@@ -1798,14 +1798,14 @@
    "sub": 0,
    "col": "text",
    "src": "369bf68985b0",
-   "t": "It means it holds what is needed to play\nMelee type Tactics cards.\nThis is called [Tactics Stock]."
+   "t": "It means it holds what is needed to play\nStrike type Tactics cards.\nThis is called [Tactics Stock]."
   },
   {
    "row": "Tutorial_Practice07_Message05",
    "sub": 0,
    "col": "text_en",
    "src": "ec1766dfd991",
-   "t": "It means it holds what is needed to play\nMelee type Tactics cards.\nThis is called Tactics Stock."
+   "t": "It means it holds what is needed to play\nStrike type Tactics cards.\nThis is called Tactics Stock."
   },
   {
    "row": "Tutorial_Practice07_Message06",
@@ -1868,14 +1868,14 @@
    "sub": 0,
    "col": "text",
    "src": "9c9e1c9345db",
-   "t": "Every enemy support Medabot ceased function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
+   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
   },
   {
    "row": "Tutorial_Practice07_Message10",
    "sub": 0,
    "col": "text_en",
    "src": "9c9e1c9345db",
-   "t": "Every enemy support Medabot ceased function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
+   "t": "Every enemy support Medabot ceased to function!\nTactics cards hit the moment you play them,\nbut mind the Stock your Medabots hold."
   },
   {
    "row": "Tutorial_Practice07_Message11",
@@ -1994,14 +1994,14 @@
    "sub": 0,
    "col": "text",
    "src": "ff3b90d320eb",
-   "t": "Your Melee type Medabots got stronger!\nMedafighter cards are strong but limited."
+   "t": "Your Strike type Medabots got stronger!\nMedafighter cards are strong but limited."
   },
   {
    "row": "Tutorial_Practice08_Message04",
    "sub": 0,
    "col": "text_en",
    "src": "88fddbab5e02",
-   "t": "Your Melee type Medabots got stronger!\nThis card costs nothing and hits hard.\nBut its use is limited. Look here."
+   "t": "Your Strike type Medabots got stronger!\nThis card costs nothing and hits hard.\nBut its use is limited. Look here."
   },
   {
    "row": "Tutorial_Practice08_Message04_1",
@@ -2113,7 +2113,7 @@
    "sub": 0,
    "col": "text",
    "src": "112522aa09dc",
-   "t": "[Snipe] deals damage equal to your power.\nRaise your power to make tougher foes\ncease function. It draws no counterattack."
+   "t": "[Snipe] deals damage equal to your power.\nRaise your power to make tougher foes\ncease to function. It draws no counterattack."
   },
   {
    "row": "Tutorial_PracticeKBT_Dialog_Body01",

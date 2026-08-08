@@ -202,7 +202,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [curable status effects] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from all your Medabots."
   },
   {
    "row": "Leader13",
@@ -958,7 +958,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d662bdd65c8e",
-   "t": "If you have 3 [Melee] type Medabots on your field, all your Medabots gain 1000 power."
+   "t": "If you have 3 [Strike] type Medabots on your field, all your Medabots gain 1000 power."
   },
   {
    "row": "Support35",
@@ -1105,7 +1105,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2759b302b55",
-   "t": "When you make a Cross Attack with only [Melee] type Medabots, the action cost is reduced by 2."
+   "t": "When you make a Cross Attack with only [Strike] type Medabots, the action cost is reduced by 2."
   },
   {
    "row": "Support45",
@@ -1119,7 +1119,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Can be activated if there are 6 or more\n[Melee] type Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\n[Strike] type Medabots in your discard pile."
   },
   {
    "row": "Support45",
@@ -1140,7 +1140,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "950449a38c0f",
-   "t": "After this Medabot's normal attack, it uses [Follow-up] on the same target once for each time [Frenzy] activated this turn. If there is no target, it uses [Follow-up] at random."
+   "t": "After this Medabot's normal attack, it uses [Finisher] on the same target once for each time [Frenzy] activated this turn. If there is no target, it uses [Finisher] at random."
   },
   {
    "row": "Support47",
@@ -1168,7 +1168,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Can be activated if there are 6 or more\n[Melee] type Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\n[Strike] type Medabots in your discard pile."
   },
   {
    "row": "Support48",
@@ -1378,7 +1378,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2578b132ae4",
-   "t": "When one of your Medabots uses quick cooldown, if it is not [Support] type and its Charge is 4 or more, use [Follow-up] on 1 random opponent's Medabot (max 2 times per turn)."
+   "t": "When one of your Medabots uses quick cooldown, if it is not [Support] type and its Charge is 4 or more, use [Finisher] on 1 random opponent's Medabot (max 2 times per turn)."
   },
   {
    "row": "Support63",
@@ -1448,7 +1448,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [curable status effects] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from all your Medabots."
   },
   {
    "row": "Support67",
@@ -1560,7 +1560,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [curable status effects] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from all your Medabots."
   },
   {
    "row": "Support74",
@@ -1602,7 +1602,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4be6ae76d626",
-   "t": "Remove [Curable Ailments] from all your Medabots. Your Medabots nullify the damage they take once. This effect does not stack."
+   "t": "Remove [Curable Status Ailments] from all your Medabots. Your Medabots nullify the damage they take once. This effect does not stack."
   },
   {
    "row": "Support76",
@@ -2512,7 +2512,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": "Equipped by Abyss Greater: gain [Shooting]."
+   "t": "Equipped by Abyss Greater: gain [Shoot]."
   },
   {
    "row": "Parts14",
@@ -2540,7 +2540,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": "Equipped by Abyss Greater: gain [Shooting]."
+   "t": "Equipped by Abyss Greater: gain [Shoot]."
   },
   {
    "row": "Parts15",
@@ -2568,7 +2568,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "277a86af4390",
-   "t": "Equipped by Abyss Greater: gain [Shooting]."
+   "t": "Equipped by Abyss Greater: gain [Shoot]."
   },
   {
    "row": "Parts16",
@@ -2610,7 +2610,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": "Equipped by Chibehemoth: gain [Shooting]."
+   "t": "Equipped by Chibehemoth: gain [Shoot]."
   },
   {
    "row": "Parts18",
@@ -2638,7 +2638,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": "Equipped by Chibehemoth: gain [Shooting]."
+   "t": "Equipped by Chibehemoth: gain [Shoot]."
   },
   {
    "row": "Parts19",
@@ -2666,7 +2666,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2da8764d851b",
-   "t": "Equipped by Chibehemoth: gain [Shooting]."
+   "t": "Equipped by Chibehemoth: gain [Shoot]."
   },
   {
    "row": "Parts76",
@@ -2708,7 +2708,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": "Equipped by Riarira: gain [Shooting]."
+   "t": "Equipped by Riarira: gain [Shoot]."
   },
   {
    "row": "Parts78",
@@ -2736,7 +2736,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": "Equipped by Riarira: gain [Shooting]."
+   "t": "Equipped by Riarira: gain [Shoot]."
   },
   {
    "row": "Parts79",
@@ -2764,7 +2764,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0e9552a1b16d",
-   "t": "Equipped by Riarira: gain [Shooting]."
+   "t": "Equipped by Riarira: gain [Shoot]."
   },
   {
    "row": "Parts124",
@@ -2806,7 +2806,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": "Equipped by Arcadia: gain [Shooting]."
+   "t": "Equipped by Arcadia: gain [Shoot]."
   },
   {
    "row": "Parts126",
@@ -2834,7 +2834,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": "Equipped by Arcadia: gain [Shooting]."
+   "t": "Equipped by Arcadia: gain [Shoot]."
   },
   {
    "row": "Parts127",
@@ -2862,7 +2862,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "d3939ca22c7a",
-   "t": "Equipped by Arcadia: gain [Shooting]."
+   "t": "Equipped by Arcadia: gain [Shoot]."
   },
   {
    "row": "Parts116",
@@ -2904,7 +2904,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": "Equipped by Meteoranisi: gain [Shooting]."
+   "t": "Equipped by Meteoranisi: gain [Shoot]."
   },
   {
    "row": "Parts118",
@@ -2932,7 +2932,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": "Equipped by Meteoranisi: gain [Shooting]."
+   "t": "Equipped by Meteoranisi: gain [Shoot]."
   },
   {
    "row": "Parts119",
@@ -2960,7 +2960,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "bad594efc50d",
-   "t": "Equipped by Meteoranisi: gain [Shooting]."
+   "t": "Equipped by Meteoranisi: gain [Shoot]."
   },
   {
    "row": "Parts20",
@@ -3002,7 +3002,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": "Equipped by Rokusho: gain [Melee]."
+   "t": "Equipped by Rokusho: gain [Strike]."
   },
   {
    "row": "Parts22",
@@ -3030,7 +3030,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": "Equipped by Rokusho: gain [Melee]."
+   "t": "Equipped by Rokusho: gain [Strike]."
   },
   {
    "row": "Parts23",
@@ -3058,7 +3058,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0b5dcbfb2566",
-   "t": "Equipped by Rokusho: gain [Melee]."
+   "t": "Equipped by Rokusho: gain [Strike]."
   },
   {
    "row": "Parts24",
@@ -3100,7 +3100,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": "Equipped by Titan Beetle: gain [Melee]."
+   "t": "Equipped by Titan Beetle: gain [Strike]."
   },
   {
    "row": "Parts26",
@@ -3128,7 +3128,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": "Equipped by Titan Beetle: gain [Melee]."
+   "t": "Equipped by Titan Beetle: gain [Strike]."
   },
   {
    "row": "Parts27",
@@ -3149,14 +3149,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Melee] tactic stock."
+   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Strike] tactic stock."
   },
   {
    "row": "Parts27",
    "sub": 0,
    "col": "m_skillText2",
    "src": "906b67e49922",
-   "t": "Equipped by Titan Beetle: gain [Melee]."
+   "t": "Equipped by Titan Beetle: gain [Strike]."
   },
   {
    "row": "Parts28",
@@ -3198,7 +3198,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": "Equipped by Hawk Dakar: gain [Melee]."
+   "t": "Equipped by Hawk Dakar: gain [Strike]."
   },
   {
    "row": "Parts30",
@@ -3226,7 +3226,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": "Equipped by Hawk Dakar: gain [Melee]."
+   "t": "Equipped by Hawk Dakar: gain [Strike]."
   },
   {
    "row": "Parts31",
@@ -3247,14 +3247,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Melee] tactic stock."
+   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Strike] tactic stock."
   },
   {
    "row": "Parts31",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2cddc6c0abed",
-   "t": "Equipped by Hawk Dakar: gain [Melee]."
+   "t": "Equipped by Hawk Dakar: gain [Strike]."
   },
   {
    "row": "Parts32",
@@ -3296,7 +3296,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": "Equipped by Frappe: gain [Melee]."
+   "t": "Equipped by Frappe: gain [Strike]."
   },
   {
    "row": "Parts34",
@@ -3324,7 +3324,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": "Equipped by Frappe: gain [Melee]."
+   "t": "Equipped by Frappe: gain [Strike]."
   },
   {
    "row": "Parts35",
@@ -3352,7 +3352,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "66b34ddf1a1e",
-   "t": "Equipped by Frappe: gain [Melee]."
+   "t": "Equipped by Frappe: gain [Strike]."
   },
   {
    "row": "Parts128",
@@ -3394,7 +3394,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": "Equipped by Shaman Miko: gains [Melee]."
+   "t": "Equipped by Shaman Miko: gains [Strike]."
   },
   {
    "row": "Parts130",
@@ -3422,7 +3422,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": "Equipped by Shaman Miko: gains [Melee]."
+   "t": "Equipped by Shaman Miko: gains [Strike]."
   },
   {
    "row": "Parts131",
@@ -3450,7 +3450,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "b96671f9776c",
-   "t": "Equipped by Shaman Miko: gains [Melee]."
+   "t": "Equipped by Shaman Miko: gains [Strike]."
   },
   {
    "row": "Parts72",
@@ -3492,7 +3492,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": "Equipped by Shushu Pop: gains [Melee]."
+   "t": "Equipped by Shushu Pop: gains [Strike]."
   },
   {
    "row": "Parts74",
@@ -3520,7 +3520,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": "Equipped by Shushu Pop: gains [Melee]."
+   "t": "Equipped by Shushu Pop: gains [Strike]."
   },
   {
    "row": "Parts75",
@@ -3548,7 +3548,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "58ede7173919",
-   "t": "Equipped by Shushu Pop: gains [Melee]."
+   "t": "Equipped by Shushu Pop: gains [Strike]."
   },
   {
    "row": "Parts80",
@@ -3590,7 +3590,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Melee]."
+   "t": "Equipped by Cheerful Bunny: gains [Strike]."
   },
   {
    "row": "Parts82",
@@ -3618,7 +3618,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Melee]."
+   "t": "Equipped by Cheerful Bunny: gains [Strike]."
   },
   {
    "row": "Parts83",
@@ -3646,7 +3646,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Melee]."
+   "t": "Equipped by Cheerful Bunny: gains [Strike]."
   },
   {
    "row": "Parts120",
@@ -3688,7 +3688,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": "Equipped by Thrud: gains [Melee]."
+   "t": "Equipped by Thrud: gains [Strike]."
   },
   {
    "row": "Parts122",
@@ -3716,7 +3716,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": "Equipped by Thrud: gains [Melee]."
+   "t": "Equipped by Thrud: gains [Strike]."
   },
   {
    "row": "Parts123",
@@ -3744,7 +3744,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "0df64282d6a3",
-   "t": "Equipped by Thrud: gains [Melee]."
+   "t": "Equipped by Thrud: gains [Strike]."
   },
   {
    "row": "Parts36",
@@ -4150,7 +4150,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": "Equipped by Particle: gain [Recovery]."
+   "t": "Equipped by Particle: gain [Heal]."
   },
   {
    "row": "Parts52",
@@ -4178,7 +4178,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": "Equipped by Particle: gain [Recovery]."
+   "t": "Equipped by Particle: gain [Heal]."
   },
   {
    "row": "Parts53",
@@ -4206,7 +4206,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "33e7e72fdf74",
-   "t": "Equipped by Particle: gain [Recovery]."
+   "t": "Equipped by Particle: gain [Heal]."
   },
   {
    "row": "Parts54",
@@ -4976,7 +4976,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc115e5e9437",
-   "t": "Every Medabot of the [Melee] type loses its abilities (traits), part abilities included, except Conceal."
+   "t": "Every Medabot of the [Strike] type loses its abilities (traits), part abilities included, except Conceal."
   },
   {
    "row": "Parts115",
@@ -5067,7 +5067,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "bf76df9a4599",
-   "t": "Remove [Curable Ailments] from all your\nMedabots.\nReduce the enemy's Deploy points by 4."
+   "t": "Remove [Curable Status Ailments] from all your\nMedabots.\nReduce the enemy's Deploy points by 4."
   },
   {
    "row": "Parts92",
@@ -5683,7 +5683,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": "Restoration"
+   "t": "Restnation"
   },
   {
    "row": "Medaforce30",
@@ -5697,7 +5697,7 @@
    "sub": 0,
    "col": "m_name",
    "src": "37979d862afd",
-   "t": "Restoration"
+   "t": "Restnation"
   },
   {
    "row": "Medaforce31",
@@ -6138,7 +6138,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dbe85f033e6c",
-   "t": "Choose 1 of your [Melee] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Strike] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics15",
@@ -6152,7 +6152,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "818bdbfcacba",
-   "t": "Choose 1 of your [Melee] type Medabots. It gains 1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Strike] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics16",
@@ -6376,7 +6376,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [curable status effects] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from all your Medabots."
   },
   {
    "row": "Tactics42",
@@ -6418,7 +6418,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cef552d87d32",
-   "t": "Choose 1 of your [Repair] type Medabots. It gains 1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Heal] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics45",
@@ -6432,7 +6432,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ae4cc77d627a",
-   "t": "Choose 1 of your [Repair] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Heal] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics46",
@@ -6656,7 +6656,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1f9b7ea21390",
-   "t": "Put 1 of your own Supports in the\ndiscard pile.\nGain 4 Set points."
+   "t": "Put 1 of your own Supports in the\ndiscard pile.\nGain 4 Deploy points."
   },
   {
    "row": "Tactics52",
@@ -6670,7 +6670,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "69b4e0295073",
-   "t": "Gain 2 Set points."
+   "t": "Gain 2 Deploy points."
   },
   {
    "row": "Tactics53",
@@ -6698,7 +6698,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a4f86b013ba",
-   "t": "Choose 1 of your [Set] type Medabots. It gains 1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Deploy] type Medabots. It gains 1000 power until the start of your next turn."
   },
   {
    "row": "Tactics55",
@@ -6712,7 +6712,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9ee23737b91c",
-   "t": "Choose 1 of your [Set] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Deploy] type Medabots. It gains 2000 power until the end of the turn."
   },
   {
    "row": "Tactics56",
@@ -6740,7 +6740,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "84f3e822cbe7",
-   "t": "[Set: 4] Set a [Charge Trap]."
+   "t": "[Deploy: 4] Set a [Charge Trap]."
   },
   {
    "row": "Tactics58",
@@ -6754,7 +6754,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f417605fba75",
-   "t": "Gain 4 Set Points."
+   "t": "Gain 4 Deploy points."
   },
   {
    "row": "Tactics59",
@@ -6768,7 +6768,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b90728cbdef6",
-   "t": "[Set: 4] Set a [Hand Trap]."
+   "t": "[Deploy: 4] Set a [Hand Trap]."
   },
   {
    "row": "Tactics60",
@@ -6950,7 +6950,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e9b2d7ba891",
-   "t": "Until the end of the turn, all your [Melee] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Strike] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter02",
@@ -7006,7 +7006,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "62db4f392306",
-   "t": "Until the end of the turn, all your [Set] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Deploy] type Medabots gain 2000 power."
   },
   {
    "row": "Medarotter06",
@@ -7020,7 +7020,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "27833cda32c8",
-   "t": "Until the start of your next turn, all your [Shoot] and [Melee] type Medabots gain 1000 power."
+   "t": "Until the start of your next turn, all your [Shoot] and [Strike] type Medabots gain 1000 power."
   },
   {
    "row": "Medarotter07",
@@ -7034,7 +7034,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d74fcbf0edb",
-   "t": "Until the start of your next turn, all your [Support], [Heal], [Defense] and [Set] type Medabots gain 1000 power."
+   "t": "Until the start of your next turn, all your [Support], [Heal], [Defense] and [Deploy] type Medabots gain 1000 power."
   },
   {
    "row": "Medarotter08",
@@ -7062,7 +7062,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9adc59322cb4",
-   "t": "Draw 2 random [Shoot] or [Melee] type cards from your deck."
+   "t": "Draw 2 random [Shoot] or [Strike] type cards from your deck."
   },
   {
    "row": "Medarotter10",
@@ -7202,7 +7202,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f4f0265fefaf",
-   "t": "Reduce the opponent's Set Points by 3 and gain 3 Set Points."
+   "t": "Reduce the opponent's Deploy points by 3 and gain 3 Deploy points."
   },
   {
    "row": "Medarotter20",
@@ -7440,7 +7440,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f544d1620841",
-   "t": "When an opponent's Medabot activates an$ability (action), nullify it if the target is$not [Shoot] or [Melee] type.\nThe trap is destroyed when it activates."
+   "t": "When an opponent's Medabot activates an$ability (action), nullify it if the target is$not [Shoot] or [Strike] type.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Plant00",
@@ -7468,7 +7468,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "74e86fde854f",
-   "t": "Permanent: At the end of your turn, if your barriers are not at maximum, choose 1 card in your hand and make it a barrier."
+   "t": "Continuous: At the end of your turn, if your barriers are not at maximum, choose 1 card in your hand and make it a barrier."
   },
   {
    "row": "Plant02",
@@ -7524,7 +7524,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9208e320c59c",
-   "t": "Permanent: Every player's maximum energy$becomes 10."
+   "t": "Continuous: Every player's maximum energy$becomes 10."
   },
   {
    "row": "Dummy_Shield",
