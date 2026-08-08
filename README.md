@@ -105,23 +105,26 @@ pack carries both wordings and the build picks the one your dump actually has. T
 tool recognises which release you have and installs the mod under the right game.
 
 **Was AI involved?** Heavily, and it is written down rather than glossed over.
-See [How this was built](#how-this-was-built).
+See the [AI collaboration statement](#ai-collaboration-statement).
 
-## Written by an AI, and what that is worth
+## AI collaboration statement
 
-An LLM wrote the tools and generated both translations. What it was made to write
-against: **nine specifications** with **87 numbered requirements**
-([docs/specs/](docs/specs/)), **302 tests** that name the requirement each one
-covers, 80% line coverage, and the output checked against four retail dumps and
-against the pipeline this was ported from, file by file. The translations went
-through mechanical checks and independent review passes of their own.
+This project was built together with an LLM: it wrote the tools and produced both
+translations, working against constraints agreed up front. **Nine specifications**
+with **87 numbered requirements** ([docs/specs/](docs/specs/)), **302 tests** that
+each name the requirement they cover, 80% line coverage, and output checked against
+four retail dumps and against the pipeline this was ported from, file by file. The
+translations had their own passes: mechanical checks, then independent review for
+terminology and readability.
 
-That is not decoration: the constraints caught a cell address that collided on
-repeated row keys, a cache whose files never reached the mod, a font fallback
-chain that closed on itself, and the same concept translated four ways across
-batches. None of it was found by reading the code.
+The constraints did the work: they caught a cell address that collided on repeated
+row keys, a cache whose files never reached the mod, a font fallback chain that
+closed on itself, and the same concept translated four ways across batches. None of
+that turned up by reading the code.
 
-So trust it as far as the specs, the tests and the four dumps go, and no further.
+The specs, the tests and the four dumps are what stand behind this. Past them,
+treat it as unverified — including the translations, which are machine output with
+one human playthrough behind the Spanish and none yet behind the English.
 
 ## No game data, by design
 
@@ -155,8 +158,8 @@ pytest -m "not game"     # 286 tests on a synthetic dump; no game files needed
 pytest                   # + 16 more against your own dump(s)
 ```
 
-What that suite is for, and what it has caught, is in
-[How this was built](#how-this-was-built).
+What that suite is for, and what it has caught, is in the
+[AI collaboration statement](#ai-collaboration-statement).
 
 ## Licence
 
