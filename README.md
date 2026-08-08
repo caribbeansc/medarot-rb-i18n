@@ -5,24 +5,22 @@
 **What this repository is for:** handing anyone the tooling to translate it,
 without reverse-engineering anything themselves. You point it at your own dump,
 type your text, and it builds you a mod. Adding a language takes a folder, not
-code.
+code — and improving a translation that is already here takes a pull request.
 
-It also ships translations:
+It starts out with two translations:
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
 | Español | 3823 / 4032 | 18 | playable, played end to end |
 | English | 3926 / 4127 | 18 | playable, not play-tested yet |
 
+Both were written by an LLM, so take them as **a starting point, not a finished
+localisation**. They make a game that has no translation playable today; the goal
+is to polish them from here, together. Fixing a line takes a minute, and every
+correction reaches everyone — see [Improve a translation](#improve-a-translation).
+
 What is left untranslated in both is what should be: the staff credits and the
 crowdfunding backers, which are real names.
-
-**Both translations were written entirely by an LLM.** The Spanish one was then
-played from start to finish by its author, who found nothing badly broken; the
-English one has not been through a full playthrough yet. Take them as a
-**reference, not as a high-quality, error-free translation**: they are a way to
-play a game that has none, and a starting point to correct. If you find something
-wrong, fix it. That is what the tooling is for.
 
 > **You need your own copy of the game.** These tools read the files from your own
 > dump. They do not contain the game and cannot get it for you. All four
@@ -65,6 +63,20 @@ steps print progress as they go.
 Finally, enable mods for the game in your emulator and start it. **On a real
 Switch**, use **7** instead of 6: it writes a ZIP to unpack at the root of your SD
 card. If anything goes wrong, `python mrb.py doctor` says what is missing.
+
+## Improve a translation
+
+The fastest way to help is to fix what is already there. Run `python mrb.py
+extract` and you get every line of the game with the Japanese on one side and the
+current translation on the other; edit the ones that read wrong, then:
+
+```
+python mrb.py sync es        # or en
+python mrb.py validate es
+```
+
+Commit `langs/<lang>/` and open a pull request. Small ones are the most welcome —
+"fixed 30 card names" is easier to review than a rewrite, and lands sooner.
 
 ## Translate it into your language
 
