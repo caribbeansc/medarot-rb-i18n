@@ -62,11 +62,13 @@ def test_r4_source_text_detection(text, expected):
 
 def test_r4_scan_tree_finds_and_skips_the_right_files(tmp_path):
     """SPEC-005/R-4: text files are scanned, binaries are skipped."""
+    from pathlib import Path
+
     (tmp_path / "clean.json").write_text('{"t": "Aceptar"}', encoding="utf-8")
     (tmp_path / "dirty.json").write_text(f'{{"t": "{JP_HELLO}"}}', encoding="utf-8")
     (tmp_path / "art.png").write_bytes(JP_HELLO.encode("utf-8"))
     offenders = catalog.scan_tree_for_source_text(tmp_path)
-    assert [p.split("/")[-1] for p in offenders] == ["dirty.json"]
+    assert [Path(p).name for p in offenders] == ["dirty.json"]
 
 
 def test_check_no_source_text_covers_notes():
