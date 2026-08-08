@@ -68,7 +68,7 @@ Leg types: **Biped**, **Multi-leg**, **Vehicle**, **Flight**, **Submarine**,
 3. **Keep the markers.** Placeholders `{0}`, `{1}`, line breaks `\n` and tags such
    as `<color=#FF3174>` or `<size=-5>` are copied over exactly. Numbers (2000,
    3000, 10000) and the parametric `X` stay as they are.
-4. **Full-width brackets** `【…】` become `[ ]`; translate what is inside them.
+4. **Full-width brackets** become square ones `[ ]`; translate what is inside.
 5. **Do not translate what the game already shows in English** (`New`,
    `New Record`, `MAX`).
 6. **Do not translate names of real people**: `StaffCredits` and
