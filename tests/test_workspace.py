@@ -1,4 +1,4 @@
-"""SPEC-005 — the bilingual working copy and publishing (extract / sync)."""
+"""SPEC-005: the bilingual working copy and publishing (extract / sync)."""
 
 from __future__ import annotations
 

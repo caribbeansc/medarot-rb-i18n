@@ -25,7 +25,7 @@ SOFTWARE.
 This licence covers the SOFTWARE in this repository: everything under
 `medarot/`, `tests/`, `docs/` and `mrb.py`.
 
-The TRANSLATIONS under `langs/` are licensed separately, under CC BY-SA 4.0 —
+The TRANSLATIONS under `langs/` are licensed separately, under CC BY-SA 4.0,
 see LICENSE-TRANSLATIONS.
 
 Neither licence grants any right in *Medarot Card Robattle RB* itself. This

@@ -1,4 +1,4 @@
-"""Step 2 — make the game's fonts able to draw the target language.
+"""Step 2: make the game's fonts able to draw the target language.
 
 The two main fonts (FOT-CometStd-B, FOT-RodinPro-DB) have no accented glyphs, but
 other fonts shipped in the same bundle do. TextMeshPro resolves a missing glyph
@@ -78,7 +78,7 @@ def run(project: Project, pack: LanguagePack, out_root: Path) -> StepResult:
             if name in fonts:
                 wanted.append(fonts[name])
             else:
-                result.note(f"fallback font {name!r} not in this dump — ignored")
+                result.note(f"fallback font {name!r} not in this dump: ignored")
 
         # Everything reachable from the chosen fallbacks, following their own
         # chains. Adding a fallback to one of these would close a loop:

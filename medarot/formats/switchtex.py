@@ -2,8 +2,8 @@
 
 UnityPy <= 1.25.3 decides whether a Switch texture is swizzled with
 ``gobs_per_block > 1``, but that value is the *height of the block in GOBs*, and
-Unity picks 1 for short textures. With ``gobs == 1`` the data is read — and
-rewritten — as linear: scrambled blocks and a magenta band. 30 textures in this
+Unity picks 1 for short textures. With ``gobs == 1`` the data is read: and
+rewritten: as linear: scrambled blocks and a magenta band. 30 textures in this
 game are affected.
 
 ``apply_fix()`` must run before the first ``UnityPy.load()`` in the process.

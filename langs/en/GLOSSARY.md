@@ -62,7 +62,7 @@ Leg types: **Biped**, **Multi-leg**, **Vehicle**, **Flight**, **Submarine**,
 
 1. **Space is tight.** This is a card-game UI on a handheld. Always pick the
    shortest wording that keeps the meaning. English is usually shorter than the
-   Japanese, but not always — watch card names and button labels.
+   Japanese, but not always, watch card names and button labels.
 2. **Sentence case** for descriptions; **Title Case** for card, part and keyword
    names.
 3. **Keep the markers.** Placeholders `{0}`, `{1}`, line breaks `\n` and tags such

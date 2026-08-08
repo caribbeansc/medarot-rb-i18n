@@ -1,4 +1,4 @@
-"""SPEC-002 — Unity serialized strings (raw patching)."""
+"""SPEC-002. Unity serialized strings (raw patching)."""
 
 from __future__ import annotations
 

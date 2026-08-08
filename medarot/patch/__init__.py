@@ -3,7 +3,7 @@
 Every step follows the same two rules (SPEC-006/R-1, R-4):
 
 * read from the mod tree if the file is already there, else from the prepared
-  cache, else from the pristine romfs — so no step can undo another;
+  cache, else from the pristine romfs: so no step can undo another;
 * verify what it wrote by reading it back, and fail rather than ship a broken
   bundle.
 """

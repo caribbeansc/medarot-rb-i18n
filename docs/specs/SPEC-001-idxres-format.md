@@ -1,4 +1,4 @@
-# SPEC-001 — `IdxRes2[2.0]` table format
+# SPEC-001: `IdxRes2[2.0]` table format
 
 The game keeps most of its data-driven text in 107 files under
 `Data/StreamingAssets/IdxResData/IdxRes_*.bytes`. They are **loose files** in the

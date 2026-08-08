@@ -18,7 +18,7 @@ from pathlib import Path
 #:
 #: The sister release (Kabuto Ver.) is a different title with a different id. The
 #: file formats are identical, so the tools work on it, but the mod has to be
-#: installed under *its* id — hence `mrb setup --title-id`.
+#: installed under *its* id: hence `mrb setup --title-id`.
 TITLE_ID = "0100CB6024FF8000"
 
 CONFIG_NAME = "mrb.config.json"
@@ -293,8 +293,8 @@ def load(root: Path | None = None) -> Project:
     """Load the project, picking up a configured or auto-detected romfs.
 
     Precedence: ``MEDAROT_ROMFS`` / ``MEDAROT_TITLE_ID``, then the stored config,
-    then the usual places. The environment wins so that a second dump — the
-    Kabuto release, say — can be worked on without disturbing the saved setup.
+    then the usual places. The environment wins so that a second dump: the
+    Kabuto release, say: can be worked on without disturbing the saved setup.
     """
     root = Path(root) if root else repo_root()
     romfs = None
@@ -338,7 +338,7 @@ def load(root: Path | None = None) -> Project:
 class ModTarget:
     """A directory where an emulator looks for mods."""
     emulator: str
-    path: Path        # <…>/<title id>/  — the mod goes in a subdirectory of this
+    path: Path        # <…>/<title id>/ : the mod goes in a subdirectory of this
     style: str        # "ryujinx" | "yuzu"
 
 

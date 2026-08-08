@@ -1,6 +1,6 @@
 """Turn a language pack plus the user's romfs into a LayeredFS mod.
 
-Step order is fixed and load-bearing — see ``docs/specs/SPEC-006-build-pipeline.md``.
+Step order is fixed and load-bearing: see ``docs/specs/SPEC-006-build-pipeline.md``.
 """
 
 from __future__ import annotations
@@ -154,7 +154,7 @@ def run(project: Project, pack: LanguagePack, *, only=None, skip=None,
 
     # Copy the pack's own extras verbatim, if it ships any. They are laid out the
     # way the mod is (``romfs/…``), so they land in the mod directory, not inside
-    # ``romfs/`` — otherwise the path would be doubled.
+    # ``romfs/``: otherwise the path would be doubled.
     extras = pack.directory / "mod_extras"
     if extras.is_dir():
         copied = 0

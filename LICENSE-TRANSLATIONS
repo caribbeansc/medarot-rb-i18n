@@ -1,4 +1,4 @@
-The translations in this repository — everything under `langs/` — are licensed
+The translations in this repository: everything under `langs/`: are licensed
 under the Creative Commons Attribution-ShareAlike 4.0 International licence
 (CC BY-SA 4.0).
 
@@ -13,7 +13,7 @@ What is covered:
   * the translated strings in `langs/<code>/idxres/*.json` and
     `langs/<code>/labels.json`;
   * the glossaries, name lists and credits in `langs/<code>/*.md`;
-  * the texture deltas in `langs/<code>/textures/delta/` — the pixels the
+  * the texture deltas in `langs/<code>/textures/delta/`: the pixels the
     translation adds, not the artwork they sit on.
 
 What is NOT covered, because it is not ours to license:

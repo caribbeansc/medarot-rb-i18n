@@ -3,7 +3,7 @@
 This toolkit deliberately does **not** draw text for you: image editing belongs in
 an image editor. What it does is the part that is specific to this game:
 
-1. ``mrb assets`` exports a texture out of your own dump as a PNG — decoded
+1. ``mrb assets`` exports a texture out of your own dump as a PNG: decoded
    correctly, including the 30 textures that the UnityPy swizzle bug corrupts;
 2. you edit that PNG however you like (Photoshop, GIMP, Krita, Aseprite…);
 3. ``mrb textures <lang> --import edited.png`` diffs it against the original and
@@ -64,7 +64,7 @@ def original_image(project: Project, name: str) -> Image.Image:
             f"'mrb setup', then 'mrb assets --list'") from exc
     if image is None:
         raise TextureError(
-            f"texture {name!r} not found in your dump — check the name with "
+            f"texture {name!r} not found in your dump: check the name with "
             f"'mrb assets --list --filter {name[:8]}'")
     return image
 
@@ -83,7 +83,8 @@ def import_edited(project: Project, pack: LanguagePack, png_path,
     overlay, mask, percent = texdiff.make_diff(original, edited)
     if percent == 0.0:
         raise TextureError(
-            f"{name}: the image is identical to the original — nothing to store")
+            f"{name}: the image is identical to the original, so there is nothing "
+            f"to store")
     delta = pack.delta_dir / f"{name}.png"
     texdiff.save_diff(delta, overlay, mask)
     return DeltaResult(name=name, delta=delta, mask=texdiff.mask_path(delta),
@@ -96,7 +97,7 @@ def edge_contact(original: Image.Image, edited: Image.Image,
 
     A translation is usually wider than the Japanese it replaces, and the game
     clips it silently: the giveaway is an edit that runs into an edge where the
-    original texture had nothing. Comparing against the original matters — plenty
+    original texture had nothing. Comparing against the original matters: plenty
     of textures legitimately paint all the way to the border, and flagging those
     would bury the real cases in noise.
     """
@@ -134,7 +135,7 @@ def index_path(pack: LanguagePack) -> Path:
 
 
 def load_index(pack: LanguagePack) -> dict:
-    """``{texture name: {"text": ..., "note": ...}}`` — documentation only."""
+    """``{texture name: {"text": ..., "note": ...}}``. Documentation only."""
     path = index_path(pack)
     if not path.exists():
         return {}

@@ -1,4 +1,4 @@
-# SPEC-008 — Translation validator
+# SPEC-008: Translation validator
 
 `mrb validate <lang>` catches the mistakes that would otherwise be found by
 playing the game for an hour.
@@ -33,7 +33,7 @@ playing the game for an hour.
 - **R-6** `--strict` promotes every warning to an error.
 - **R-7** The validator never writes to disk.
 - **R-9** An entry whose original is a character repertoire or a line-breaking
-  table — long, no spaces, nearly every character distinct — is reported when it
+  table: long, no spaces, nearly every character distinct: is reported when it
   has been changed. The engine reads those fields; dropping the kana from them
   breaks line wrapping across the whole game.
 - **R-8** A translation identical to its source is exempt from the charset check.

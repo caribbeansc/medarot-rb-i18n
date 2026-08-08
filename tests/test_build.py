@@ -1,4 +1,4 @@
-"""SPEC-006 — build pipeline (the parts that need no Unity files)."""
+"""SPEC-006: build pipeline (the parts that need no Unity files)."""
 
 from __future__ import annotations
 

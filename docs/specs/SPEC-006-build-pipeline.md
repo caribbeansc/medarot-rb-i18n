@@ -1,4 +1,4 @@
-# SPEC-006 — Build pipeline and mod layout
+# SPEC-006: Build pipeline and mod layout
 
 `mrb build <lang>` turns a language pack plus the user's own romfs into a
 LayeredFS mod.
@@ -95,7 +95,7 @@ only the path differs.
   accordingly, so the user does not have to know it. The identifier is Unity's
   `build-guid` in `Data/boot.config`, which is unique per build and therefore
   distinguishes all four known dumps: Kuwagata Ver. and Kabuto Ver., each with and
-  without the v1.1 update. Nothing coarser works — **without the update the two
+  without the v1.1 update. Nothing coarser works: **without the update the two
   releases ship a byte-identical romfs except for four files**, with the same
   names, sizes and table contents throughout. An unrecognised build keeps the
   configured title id and says so rather than guessing.

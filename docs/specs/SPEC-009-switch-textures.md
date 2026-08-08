@@ -1,4 +1,4 @@
-# SPEC-009 — Switch block-linear textures
+# SPEC-009: Switch block-linear textures
 
 UnityPy ≤ 1.25.3 mis-detects whether a Switch texture is swizzled:
 

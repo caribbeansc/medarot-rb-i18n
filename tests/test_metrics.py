@@ -1,4 +1,4 @@
-"""The TextMeshPro metric fix — the part that needs no Unity files.
+"""The TextMeshPro metric fix: the part that needs no Unity files.
 
 Why it exists at all: the game's text components are tuned for fixed-width kana,
 with negative letter spacing and glyph squeezing enabled. With Latin letters the

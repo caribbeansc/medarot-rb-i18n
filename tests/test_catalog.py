@@ -1,4 +1,4 @@
-"""SPEC-005 — copyright-safe translation keys."""
+"""SPEC-005: copyright-safe translation keys."""
 
 from __future__ import annotations
 
@@ -48,12 +48,12 @@ def test_r3_same_source_twice_is_not_a_collision():
     (JP_HELLO, True),          # hiragana
     (JP_MENU, True),           # katakana
     ("日本", True),             # kanji
-    ("？", True),               # fullwidth punctuation — still the game's text
+    ("？", True),               # fullwidth punctuation: still the game's text
     ("　", True),               # ideographic space
     ("Aceptar", False),
     ("¡Vamos!", False),
     ("New Record", False),
-    ("↑ ♪ —", False),
+    ("↑ ♪ -", False),
 ])
 def test_r4_source_text_detection(text, expected):
     """SPEC-005/R-4: what counts as source text."""

@@ -1,4 +1,4 @@
-"""Step 1 — translate the IdxRes data tables.
+"""Step 1: translate the IdxRes data tables.
 
 These are loose files in the romfs, so this step alone already produces a working
 mod: no Unity bundle is involved.
@@ -79,7 +79,7 @@ def run(project: Project, pack: LanguagePack, out_root: Path, *,
                     result.skipped += 1
                     result.note(
                         f"{table_name}/{row_key}/{column}: this dump has different "
-                        f"text (no matching translation), skipped — "
+                        f"text (no matching translation), skipped: "
                         f"--allow-stale forces it")
                     continue
                 entry = next(iter(variants.values()))

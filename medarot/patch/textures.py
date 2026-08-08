@@ -1,9 +1,9 @@
-"""Steps 4, 6 and 7 — inject translated textures.
+"""Steps 4, 6 and 7: inject translated textures.
 
 Text baked into artwork lives in three places, and all three have to be patched:
 
 * the UI bundles under ``aa/Switch/``;
-* a **second copy** inside ``sharedassets*.assets`` — the battle screens use this
+* a **second copy** inside ``sharedassets*.assets``: the battle screens use this
   one, so patching only the bundle changes nothing on screen;
 * the sprite atlases, where the sprite is read from the packed atlas texture
   rather than from the loose one.

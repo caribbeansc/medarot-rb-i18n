@@ -1,6 +1,6 @@
-# SPEC-002 — Unity serialized strings (raw patching)
+# SPEC-002: Unity serialized strings (raw patching)
 
-Some screens — the battle scene above all — do not read their labels from
+Some screens: the battle scene above all: do not read their labels from
 bundles but from the scene files themselves (`Data/level*`,
 `Data/sharedassets*.assets`). Those `MonoBehaviour`s carry no usable typetree
 (the script definitions are not in the file), so their strings must be found and

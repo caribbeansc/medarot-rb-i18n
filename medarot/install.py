@@ -30,7 +30,7 @@ def built_mod(project: Project, pack: LanguagePack) -> Path:
     mod = project.build_lang(pack.code) / pack.mod_name
     if not (mod / "romfs").is_dir():
         raise InstallError(
-            f"nothing built for {pack.code} yet — run:  mrb build {pack.code}")
+            f"nothing built for {pack.code} yet: run:  mrb build {pack.code}")
     return mod
 
 
@@ -43,7 +43,7 @@ def targets(explicit=None, title_id: str | None = None) -> list[ModTarget]:
 
 
 def plan(project: Project, pack: LanguagePack, explicit=None) -> list[tuple[ModTarget, Path]]:
-    """``[(target, final mod directory)]`` — what an install would write."""
+    """``[(target, final mod directory)]``: what an install would write."""
     return [(target, target.path / pack.mod_name)
             for target in targets(explicit, project.title_id)]
 

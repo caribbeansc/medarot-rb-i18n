@@ -3,11 +3,11 @@
 Both are LayeredFS; they differ only in where the files go and whether a mod has
 a name:
 
-*emulator* — Ryujinx-family and yuzu-family read a **named** mod directory::
+*emulator*. Ryujinx-family and yuzu-family read a **named** mod directory::
 
     <mods dir>/<title id>/MedarotRB_ES/romfs/Data/…
 
-*atmosphere* — real hardware (Atmosphère CFW) reads one romfs tree per title,
+*atmosphere*: real hardware (Atmosphère CFW) reads one romfs tree per title,
 with no room for a mod name, straight off the SD card::
 
     sdmc:/atmosphere/contents/0100CB6024FF8000/romfs/Data/…
@@ -55,7 +55,7 @@ def source_romfs(project: Project, pack: LanguagePack) -> Path:
     romfs = project.build_lang(pack.code) / pack.mod_name / "romfs"
     if not romfs.is_dir():
         raise PackageError(
-            f"nothing built for {pack.code} yet — run:  mrb build {pack.code}")
+            f"nothing built for {pack.code} yet: run:  mrb build {pack.code}")
     return romfs
 
 
@@ -114,7 +114,7 @@ def install_to_sd(project: Project, pack: LanguagePack, sd_root) -> Package:
     """
     sd_root = Path(sd_root).expanduser()
     if not sd_root.is_dir():
-        raise PackageError(f"{sd_root}: not a directory — is the SD card mounted?")
+        raise PackageError(f"{sd_root}: not a directory: is the SD card mounted?")
     romfs = source_romfs(project, pack)
 
     target = sd_root / relative_root(pack, ATMOSPHERE, project.title_id)

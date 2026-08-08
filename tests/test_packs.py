@@ -57,8 +57,8 @@ def test_catalogs_are_well_formed(code):
 def test_no_duplicate_keys(code):
     """SPEC-005/R-9: one entry per (position, fingerprint).
 
-    A position may legitimately appear twice — the same cell holds different text
-    in the base game and after the update — but never twice for the same text.
+    A position may legitimately appear twice: the same cell holds different text
+    in the base game and after the update: but never twice for the same text.
     """
     pack = lang.get(LANGS, code)
     for table in pack.tables():

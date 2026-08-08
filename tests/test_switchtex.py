@@ -1,4 +1,4 @@
-"""SPEC-009 — Switch block-linear textures (the UnityPy swizzle bug)."""
+"""SPEC-009. Switch block-linear textures (the UnityPy swizzle bug)."""
 
 from __future__ import annotations
 
@@ -26,7 +26,7 @@ def test_r1_fix_is_applied_and_idempotent():
 
 
 def test_r1_gobs_one_is_swizzled():
-    """SPEC-009/R-1: the whole point — gobs_per_block == 1 is still swizzled."""
+    """SPEC-009/R-1. The whole point: gobs_per_block == 1 is still swizzled."""
     switchtex.apply_fix()
     assert TextureSwizzler.is_switch_swizzled(BuildTarget.Switch, blob_for(0)) is True
     assert TextureSwizzler.is_switch_swizzled(BuildTarget.Switch, blob_for(2)) is True

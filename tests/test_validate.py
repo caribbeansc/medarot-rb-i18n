@@ -1,4 +1,4 @@
-"""SPEC-008 — translation validator."""
+"""SPEC-008: translation validator."""
 
 from __future__ import annotations
 

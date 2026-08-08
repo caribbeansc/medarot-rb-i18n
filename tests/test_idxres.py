@@ -1,4 +1,4 @@
-"""SPEC-001 — IdxRes2[2.0] table format."""
+"""SPEC-001. IdxRes2[2.0] table format."""
 
 from __future__ import annotations
 
@@ -125,6 +125,6 @@ def test_parse_file_and_roundtrip_ok(tmp_path, sample_table):
 def test_r3_roundtrip_on_every_retail_table(real_project):
     """SPEC-001/R-3 against the real thing: all 107 tables, byte-exact."""
     files = sorted(real_project.tables_dir.glob("IdxRes_*.bytes"))
-    assert len(files) >= 100, "not enough tables — is this the right romfs?"
+    assert len(files) >= 100, "not enough tables: is this the right romfs?"
     bad = [p.name for p in files if not idxres.roundtrip_ok(p)]
     assert not bad, f"round-trip failed for: {bad}"

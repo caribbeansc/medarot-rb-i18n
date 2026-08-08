@@ -26,7 +26,7 @@ EXIT_FAILED = 1
 EXIT_USAGE = 2
 EXIT_NO_GAME = 3
 
-TITLE = "MEDAROT CARD ROBATTLE RB — translation toolkit"
+TITLE = "MEDAROT CARD ROBATTLE RB: translation toolkit"
 
 
 # ------------------------------------------------------------------ status --
@@ -37,18 +37,18 @@ def status_lines(project: Project) -> None:
         ui.kv("Release", f"{config.release_name(project.title_id)} "
                          f"({project.title_id})")
     else:
-        ui.kv("Game files", "not configured — menu option 1", status="fail")
+        ui.kv("Game files", "not configured: menu option 1", status="fail")
 
     if project.base_cache.exists():
         count = sum(1 for _ in project.base_cache.rglob("*") if _.is_file())
         ui.kv("Prepared", f"{count} files cached", status="ok")
     else:
-        ui.kv("Prepared", "not yet (menu option 2) — Latin text will look cramped",
+        ui.kv("Prepared", "not yet (menu option 2). Latin text will look cramped",
               status="warn")
 
     inventory = extract.inventory_path(project, "tables")
     if inventory.exists():
-        ui.kv("Extracted", f"yes — {project.work}", status="ok")
+        ui.kv("Extracted", f"yes: {project.work}", status="ok")
     else:
         ui.kv("Extracted", "not yet (menu option 3)", status="warn")
 
@@ -60,7 +60,7 @@ def status_lines(project: Project) -> None:
         stats = pack.stats()
         total = stats["text_total"] + stats["labels_total"]
         done = stats["text_translated"] + stats["labels_translated"]
-        percent = f"{100.0 * done / total:.0f}%" if total else "—"
+        percent = f"{100.0 * done / total:.0f}%" if total else "-"
         ui.kv(f"  {pack.code}",
               f"{pack.name}: {done}/{total} strings ({percent}), "
               f"{stats['textures']} textures")
@@ -72,7 +72,7 @@ def _resolve_pack(project: Project, code: str | None) -> LanguagePack:
     packs = lang.discover(project.langs)
     if not packs:
         raise LangError(
-            "no language packs in langs/ — run:  mrb newlang <code> --name <name>")
+            "no language packs in langs/: run:  mrb newlang <code> --name <name>")
     if len(packs) == 1:
         return packs[0]
     raise LangError("more than one language available: pass the code, e.g. "
@@ -88,7 +88,7 @@ def _pick_pack(project: Project, code: str | None = None) -> LanguagePack:
         raise LangError("no language packs in langs/")
     if len(packs) == 1:
         return packs[0]
-    return ui.choose(packs, "Language", labeller=lambda p: f"{p.code} — {p.name}")
+    return ui.choose(packs, "Language", labeller=lambda p: f"{p.code}: {p.name}")
 
 
 # ---------------------------------------------------------------- commands --
@@ -116,7 +116,7 @@ def cmd_setup(project: Project, args) -> int:
         return EXIT_NO_GAME
     ui.ok(f"Game files: {project.romfs}")
     if release:
-        ui.ok(f"Recognised {release} — mods will install under {project.title_id}")
+        ui.ok(f"Recognised {release}: mods will install under {project.title_id}")
     else:
         ui.warn(f"Release not recognised (build {config.build_guid(project.romfs)}); "
                 f"keeping title id {project.title_id}.")
@@ -134,7 +134,7 @@ def cmd_status(project: Project, args) -> int:
     if targets:
         ui.kv("Emulators", ", ".join(sorted({t.emulator for t in targets})), status="ok")
     else:
-        ui.kv("Emulators", "none detected — install with --to <dir>", status="warn")
+        ui.kv("Emulators", "none detected: install with --to <dir>", status="warn")
     ui.out()
     return EXIT_OK
 
@@ -216,7 +216,7 @@ def cmd_build(project: Project, args) -> int:
     for warning in report.warnings:
         ui.warn(warning)
     if not report.ok():
-        ui.fail("nothing was applied — is anything translated yet?")
+        ui.fail("nothing was applied: is anything translated yet?")
         return EXIT_FAILED
     ui.ok(f"{report.applied} strings/textures in {report.files} files")
     ui.ok(f"Mod: {report.mod_dir}")
@@ -301,7 +301,7 @@ def cmd_newlang(project: Project, args) -> int:
         packs = lang.discover(project.langs)
         if packs and ui.confirm("Copy the key list from an existing language?", True):
             template = ui.choose(packs, "Copy keys from",
-                                 labeller=lambda p: f"{p.code} — {p.name}")
+                                 labeller=lambda p: f"{p.code}: {p.name}")
     pack = lang.create(project.langs, args.code, name, template=template)
     ui.ok(f"Created {pack.directory}")
     ui.info("Next:  mrb extract --lang " + pack.code)
@@ -316,7 +316,7 @@ def cmd_textures(project: Project, args) -> int:
         ui.ok(f"{result.name}: {result.percent:.1f}% of the pixels changed")
         if not result.fits():
             ui.warn(f"your text reaches the {', '.join(result.touches)} edge(s) of "
-                    f"the texture, where the original had nothing — the game will "
+                    f"the texture, where the original had nothing: the game will "
                     f"most likely clip it. Shorten the line rather than shrinking "
                     f"the letters.")
         ui.info(f"delta: {result.delta}")
@@ -335,7 +335,7 @@ def cmd_textures(project: Project, args) -> int:
         ui.detail("mrb assets --name Card_Change")
         ui.detail(f"mrb textures {pack.code} --import work/assets/dlg/Card_Change.png")
         return EXIT_OK
-    ui.table([(r["texture"], "yes" if r["delta"] else "—", r["size"], r["format"],
+    ui.table([(r["texture"], "yes" if r["delta"] else "-", r["size"], r["format"],
                r["copies"], r["text"][:32]) for r in rows],
              headers=["texture", "delta", "size", "format", "copies", "says"])
     ui.info(f"{sum(1 for r in rows if r['delta'])}/{len(rows)} have a delta in "
@@ -367,7 +367,7 @@ def cmd_csv(project: Project, args) -> int:
     pack = _resolve_pack(project, args.lang)
     space = workspace_mod.ensure(project, pack)
     if not space.exists():
-        ui.fail("no working copy yet — run:  mrb extract")
+        ui.fail("no working copy yet: run:  mrb extract")
         return EXIT_FAILED
     if args.import_file:
         report = csvio.import_csv(space, args.import_file)
@@ -393,7 +393,7 @@ def cmd_doctor(project: Project, args) -> int:
             version = getattr(imported, "__version__", "?")
             ui.ok(f"{module} {version}")
         except ImportError:
-            ui.fail(f"{module} is missing — pip install -r requirements.txt")
+            ui.fail(f"{module} is missing: pip install -r requirements.txt")
             problems += 1
 
     ui.heading("Game files")
@@ -417,7 +417,7 @@ def cmd_doctor(project: Project, args) -> int:
             ui.ok(f"{pack.code}: no source text, safe to publish")
 
     ui.heading("Emulators")
-    ui.info(f"{config.release_name(project.title_id)} — title id {project.title_id}")
+    ui.info(f"{config.release_name(project.title_id)}: title id {project.title_id}")
     targets = config.detect_mod_targets(project.title_id)
     if targets:
         for target in targets:
@@ -444,7 +444,7 @@ def cmd_doctor(project: Project, args) -> int:
 def edit_loop(project: Project, pack: LanguagePack) -> int:
     space = workspace_mod.ensure(project, pack)
     if not space.exists():
-        ui.fail("no working copy yet — run option 3 (extract) first")
+        ui.fail("no working copy yet: run option 3 (extract) first")
         return EXIT_FAILED
 
     pending = space.pending()
@@ -536,7 +536,7 @@ def menu_translate(project: Project) -> None:
 
 def interactive(project: Project) -> int:
     while True:
-        ui.banner(TITLE, "fan translation toolkit — your dump stays on your machine")
+        ui.banner(TITLE, "fan translation toolkit: your dump stays on your machine")
         status_lines(project)
         choice = ui.menu([
             ("1", "Point me at the game", "set the romfs folder"),

@@ -1,4 +1,4 @@
-"""Language-independent step — un-cramp TextMeshPro for non-Japanese text.
+"""Language-independent step: un-cramp TextMeshPro for non-Japanese text.
 
 The game's text components are tuned for fixed-width kana::
 
@@ -8,7 +8,7 @@ The game's text components are tuned for fixed-width kana::
 
 With kana (~36 px wide) that is still readable. With Latin letters (~10-18 px)
 the glyphs overlap and strokes disappear: "Wild Ucorn" showed as "W'd Ucorn".
-Zeroing both makes TMP shrink the text — which stays readable — instead.
+Zeroing both makes TMP shrink the text: which stays readable: instead.
 
 This does not depend on the language, only on "not Japanese", so it runs once
 into ``work/<title id>/base/`` and every language build reuses it

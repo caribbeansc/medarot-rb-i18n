@@ -5,19 +5,19 @@
 **What this repository is for:** handing anyone the tooling to translate it,
 without reverse-engineering anything themselves. You point it at your own dump,
 type your text, and it builds you a mod. Adding a language takes a folder, not
-code — and improving a translation that is already here takes a pull request.
+code, and improving a translation that is already here takes a pull request.
 
 It starts out with two translations:
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
 | Español | 3823 / 4032 | 18 | playable, played end to end |
-| English | 3926 / 4127 | 18 | playable, not play-tested yet |
+| English | 3926 / 4127 | 18 | playable, played end to end |
 
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. They make a game that has no translation playable today; the goal
 is to polish them from here, together. Fixing a line takes a minute, and every
-correction reaches everyone — see [Fix a line](#fix-a-line-or-add-a-language).
+correction reaches everyone. See [Fix a line](#fix-a-line-or-add-a-language).
 
 What is left untranslated in both is what should be: the staff credits and the
 crowdfunding backers, which are real names.
@@ -77,7 +77,7 @@ python mrb.py validate fr    # catches missing {0}, broken <tags>, overlong line
 python mrb.py build fr
 ```
 
-Then commit `langs/<lang>/` and open a pull request — small ones land soonest.
+Then commit `langs/<lang>/` and open a pull request. Small ones land soonest.
 Font settings and artwork with text drawn into it:
 [docs/ADDING_A_LANGUAGE.md](docs/ADDING_A_LANGUAGE.md).
 
@@ -110,7 +110,7 @@ experienced developer, and the game was played through with the mod installed.**
 
 The constraints earned their place: they caught a cell address that collided on
 repeated row keys, a cache whose files never reached the mod, and a font fallback
-chain that closed on itself — none of which turned up by reading the code.
+chain that closed on itself. None of that turned up by reading the code.
 
 ## No game data, by design
 

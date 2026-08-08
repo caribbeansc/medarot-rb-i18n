@@ -21,7 +21,7 @@ and the battle screen stays Japanese. Skip the metrics and Latin letters overlap
 **1. The data tables are loose files.** `IdxRes_*.bytes` sit in the romfs, not in
 a Unity bundle, so LayeredFS can replace them without touching the Addressables
 catalog. That is why a translation of the game's *text* needs no Unity surgery at
-all — and why `mrb build --only tables` already produces something playable.
+all: and why `mrb build --only tables` already produces something playable.
 
 **2. Text is duplicated between bundles and scenes.** Many labels and textures
 exist twice: once in a bundle under `aa/Switch/`, and once inside
@@ -47,7 +47,7 @@ and every language build reuses it.
 swizzled with `gobs_per_block > 1`, but that value is the height of the block in
 GOBs and Unity picks 1 for short textures. Those textures are read *and rewritten*
 as linear data: scrambled blocks and a magenta band. The fix is one comparison,
-applied before any Unity file is opened — see
+applied before any Unity file is opened: see
 [SPEC-009](specs/SPEC-009-switch-textures.md). The failure is invisible when
 extracting and only shows up on screen, which is why a test scans the source to
 make sure no module can bypass it.
@@ -62,7 +62,7 @@ error concentrates on the high-contrast edges of the new letters and peaks aroun
 
 That is the codec, not the pipeline. Two builds of the same translation will not
 produce byte-identical bundles, and comparing bundles byte-for-byte is not a
-useful test — comparing the decoded pixels, with a tolerance, is.
+useful test: comparing the decoded pixels, with a tolerance, is.
 
 ## Versions of the game
 
@@ -71,7 +71,7 @@ the v1.1 update.
 
 The two releases carry **identical data tables**. In fact, without the update
 their romfs is byte-identical except for four files (`boot.config`,
-`globalgamemanagers`, `resources.assets` and IL2CPP's `global-metadata.dat`) — the
+`globalgamemanagers`, `resources.assets` and IL2CPP's `global-metadata.dat`): the
 difference between Kuwagata and Kabuto arrives with the update, which swaps eight
 bundles of background and gacha art. So a translation of the text applies to any
 of them.
@@ -125,13 +125,13 @@ game data, and the half that holds game data never leaves your machine
 Order is load-bearing. A step that touches a file an earlier step wrote starts
 from the *written* copy, so no step can undo another.
 
-1. `tables` — the 107 data tables
-2. `fonts` — fallback chain, kerning
-3. `bundle-labels` — TMP labels in prefabs
-4. `bundle-textures` — artwork in bundles
-5. `scene-labels` — text inside `level*` / `*.assets`
-6. `scene-textures` — artwork inside `level*` / `*.assets`
-7. `sprite-atlas` — artwork as packed into sprite atlases
+1. `tables`: the 107 data tables
+2. `fonts`: fallback chain, kerning
+3. `bundle-labels`. TMP labels in prefabs
+4. `bundle-textures`: artwork in bundles
+5. `scene-labels`: text inside `level*` / `*.assets`
+6. `scene-textures`: artwork inside `level*` / `*.assets`
+7. `sprite-atlas`: artwork as packed into sprite atlases
 
 `mrb build <lang> --only tables,fonts` or `--skip sprite-atlas` if you are
 iterating on one thing. Every patched file is re-opened and read back before the

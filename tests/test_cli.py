@@ -1,4 +1,4 @@
-"""SPEC-007 — command line interface."""
+"""SPEC-007: command line interface."""
 
 from __future__ import annotations
 

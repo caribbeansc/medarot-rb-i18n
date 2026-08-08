@@ -1,4 +1,4 @@
-"""Step 3 — translate TextMeshPro labels serialized inside UI bundles.
+"""Step 3: translate TextMeshPro labels serialized inside UI bundles.
 
 Those labels are not in the data tables: they are baked into prefabs, so they are
 addressed by ``(bundle, path_id, field)`` from the inventory built by
@@ -22,7 +22,7 @@ def run(project: Project, pack: LanguagePack, out_root: Path, *,
 
     inventory = extract.read_inventory(project, "bundle_labels")
     if inventory is None:
-        result.note("no bundle inventory yet — run 'mrb extract'")
+        result.note("no bundle inventory yet: run 'mrb extract'")
         return result
 
     translations = pack.label_catalog().by_fingerprint()

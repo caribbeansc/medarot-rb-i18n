@@ -1,4 +1,4 @@
-# SPEC-004 — Language pack layout
+# SPEC-004: Language pack layout
 
 A language is a directory. Adding one must not require touching a single line of
 Python.
@@ -30,7 +30,7 @@ langs/<code>/
     "fix_tmp_metrics": true
   },
   "validation": {
-    "extra_chars": "áéíóúÁÉÍÓÚñÑüÜ¡¿«»—–…·♪",
+    "extra_chars": "áéíóúÁÉÍÓÚñÑüÜ¡¿«»-–…·♪",
     "max_line": 46,
     "length_factor": 1.25
   },

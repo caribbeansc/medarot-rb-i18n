@@ -40,7 +40,7 @@ Edit `langs/fr/lang.json`:
     "fix_tmp_metrics": true
   },
   "validation": {
-    "extra_chars": "àâçéèêëîïôùûüÿœÀÂÇÉÈÊËÎÏÔÙÛÜŸŒ«»—…♪↑↓",
+    "extra_chars": "àâçéèêëîïôùûüÿœÀÂÇÉÈÊËÎÏÔÙÛÜŸŒ«»-…♪↑↓",
     "max_line": 46,
     "length_factor": 1.25
   },
@@ -50,20 +50,20 @@ Edit `langs/fr/lang.json`:
 
 What each switch does:
 
-- **`font.fallbacks`** — the game's two main fonts have no accented glyphs. Any
+- **`font.fallbacks`**: the game's two main fonts have no accented glyphs. Any
   language that needs them lists, *by name*, fonts in the game that do:
   `FOT-CezannePro-DB SDF` and `LiberationSans SDF` both carry a complete Latin
   set. English needs none of this; French, Portuguese and German do.
-- **`font.global_fallbacks`** — also fill TextMeshPro's global fallback list, so
+- **`font.global_fallbacks`**: also fill TextMeshPro's global fallback list, so
   any font you did not think of is covered too.
-- **`font.neutralize_kerning`** — the game ships kerning pairs tuned for Japanese
+- **`font.neutralize_kerning`**: the game ships kerning pairs tuned for Japanese
   that overlap Latin letters. Leave this on for any Latin-script language.
-- **`font.fix_tmp_metrics`** — undo the negative letter spacing and glyph
+- **`font.fix_tmp_metrics`**: undo the negative letter spacing and glyph
   squeezing. Leave it on unless your language really is fixed-width.
-- **`validation.extra_chars`** — every non-ASCII character your language is
+- **`validation.extra_chars`**: every non-ASCII character your language is
   allowed to use. Anything else is reported as an error, which is how typos and
   stray characters get caught.
-- **`ascii_fallback`** — used only by `mrb build --ascii`, for players whose font
+- **`ascii_fallback`**: used only by `mrb build --ascii`, for players whose font
   patch did not take.
 
 ## 3. Get the source text

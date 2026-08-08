@@ -7,7 +7,7 @@ own** dump. About fifteen minutes, most of it waiting.
 
 | Platform | How |
 |---|---|
-| Windows | [python.org](https://www.python.org/downloads/) — tick *Add python.exe to PATH* |
+| Windows | [python.org](https://www.python.org/downloads/): tick *Add python.exe to PATH* |
 | macOS | `brew install python` (or python.org) |
 | Linux | `sudo apt install python3 python3-pip python3-venv` (or your package manager) |
 
@@ -37,7 +37,7 @@ The virtual environment is optional but keeps things tidy. Without it, use
 ## 3. The game files
 
 The tools need the game's **romfs**: the extracted data of your own cartridge or
-dump. All four combinations are tested — Kuwagata Ver. and Kabuto Ver., each with
+dump. All four combinations are tested. Kuwagata Ver. and Kabuto Ver., each with
 and without the v1.1 update.
 
 With the update you get nine extra lines of menu text that the base game does not
@@ -86,7 +86,7 @@ python mrb.py setup --romfs /path/to/your-romfs
 python mrb.py doctor
 ```
 
-`setup` recognises which release you have — Kuwagata Ver. or Kabuto Ver. — and
+`setup` recognises which release you have. Kuwagata Ver. or Kabuto Ver.: and
 sets the title id for you, so the mod installs under the right game. Override it
 with `--title-id` if you have something it does not know.
 

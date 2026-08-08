@@ -101,9 +101,9 @@ def scan_bundle_labels(project: Project) -> tuple[list[dict], list[dict]]:
 
     Returns ``(labels, other)``:
 
-    * ``labels`` — TextMeshPro text fields, which the build can patch:
+    * ``labels``. TextMeshPro text fields, which the build can patch:
       ``{"bundle", "pid", "field", "text"}``
-    * ``other`` — any other Japanese string found in a typetree, reported for
+    * ``other``: any other Japanese string found in a typetree, reported for
       research only. Patching those blind would be reckless, but knowing they
       exist is useful.
     """

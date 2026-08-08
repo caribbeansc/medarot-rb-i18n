@@ -100,8 +100,8 @@ def test_fingerprints_are_unique_across_the_whole_game(real_project):
 def test_the_spanish_pack_covers_this_dump(real_project):
     """Every translatable cell has an entry written for *this* dump's wording.
 
-    A position may carry several entries — one per version of the game
-    (SPEC-005/R-9) — so what matters is that one of them matches, not that all do.
+    A position may carry several entries: one per version of the game
+    (SPEC-005/R-9): so what matters is that one of them matches, not that all do.
     """
     from medarot import lang
 

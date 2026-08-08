@@ -1,4 +1,4 @@
-# SPEC-003 — Texture translation delta
+# SPEC-003: Texture translation delta
 
 Some text is baked into textures (prologue cards, button art, tutorial art).
 Shipping the translated texture would mean shipping the game's artwork, so this
@@ -23,7 +23,7 @@ image editor you like, and import it back. Only the diff is kept.
 
 - **R-1** `make_diff(original, translated)` returns `(overlay, mask, percent)`
   where `overlay` is RGBA of the same size, transparent outside the mask.
-- **R-2** A pixel counts as changed if any of R, G, B or A differs — **except**
+- **R-2** A pixel counts as changed if any of R, G, B or A differs: **except**
   that two fully transparent pixels are equal regardless of their RGB. Without
   this, the delta of a texture with an alpha background would be the whole image.
 - **R-3** `apply_diff(original, *make_diff(original, translated)[:2])` reproduces

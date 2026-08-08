@@ -1,4 +1,4 @@
-"""SPEC-006/R-8, R-9 — installing into emulators, and detecting them."""
+"""SPEC-006/R-8, R-9: installing into emulators, and detecting them."""
 
 from __future__ import annotations
 

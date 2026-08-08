@@ -1,4 +1,4 @@
-"""SPEC-006/R-11 … R-14 — packaging for emulators and for Atmosphère."""
+"""SPEC-006/R-11 … R-14: packaging for emulators and for Atmosphère."""
 
 from __future__ import annotations
 

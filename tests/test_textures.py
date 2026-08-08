@@ -1,4 +1,4 @@
-"""SPEC-003/R-8, R-9 — importing edited artwork, and the texture index."""
+"""SPEC-003/R-8, R-9: importing edited artwork, and the texture index."""
 
 from __future__ import annotations
 

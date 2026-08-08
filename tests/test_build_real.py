@@ -1,6 +1,6 @@
 """End-to-end build against a real dump (SPEC-006).
 
-These are the tests that exercise the Unity-facing steps — bundle labels, scene
+These are the tests that exercise the Unity-facing steps: bundle labels, scene
 labels, textures, sprite atlases, fonts. They cannot run without the game, so they
 are marked ``game`` and skipped on a clean checkout.
 

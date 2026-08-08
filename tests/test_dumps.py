@@ -1,8 +1,8 @@
 """Check a language pack against every dump you have.
 
 The game exists in four shapes: Kuwagata Ver. and Kabuto Ver., each with and
-without the v1.1 update. They share their data tables almost exactly — the update
-rewrites fifteen cells and adds nine — so one pack can cover all four, provided it
+without the v1.1 update. They share their data tables almost exactly: the update
+rewrites fifteen cells and adds nine: so one pack can cover all four, provided it
 carries an entry for each wording (SPEC-005/R-9).
 
 Point the suite at as many as you have::

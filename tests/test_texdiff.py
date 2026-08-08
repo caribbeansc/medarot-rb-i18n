@@ -1,4 +1,4 @@
-"""SPEC-003 — texture translation delta."""
+"""SPEC-003: texture translation delta."""
 
 from __future__ import annotations
 

@@ -1,7 +1,7 @@
-# SPEC-005 — Copyright-safe translation keys
+# SPEC-005: Copyright-safe translation keys
 
 The Japanese script of the game is the publisher's copyrighted work. This
-repository must be redistributable, so **it stores no source text at all** — not
+repository must be redistributable, so **it stores no source text at all**: not
 even as a comment. What it stores is a *reference* to a string plus the
 translation of it.
 
@@ -21,8 +21,8 @@ reconstruct anything.
 
 ### Content-addressed (bundles and scenes)
 
-A label serialized in a prefab or a scene has no stable address — the same string
-appears in dozens of objects — so it is addressed by the fingerprint itself:
+A label serialized in a prefab or a scene has no stable address: the same string
+appears in dozens of objects: so it is addressed by the fingerprint itself:
 
 ```json
 {"src": "3fa9c1e0b7d2", "t": "Turno {0}", "note": "battle HUD"}
@@ -59,8 +59,8 @@ and looks the translation up by that hash.
   Text the game already ships in English (`"New Record"`, `"MAX"`) is left
   untouched, because it coexisted with Japanese and will coexist with any other
   target language.
-- **R-7** The work files under `work/` — the only place where source text and
-  translation sit side by side — are excluded from version control by
+- **R-7** The work files under `work/`: the only place where source text and
+  translation sit side by side: are excluded from version control by
   `.gitignore`, and `mrb sync` strips the source text when promoting them into
   `langs/`.
 - **R-8** `mrb doctor` re-runs the R-4 check over the whole `langs/` tree so a

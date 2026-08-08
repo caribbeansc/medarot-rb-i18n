@@ -188,7 +188,7 @@ def run(pack: LanguagePack, workspace=None) -> Report:
     leftovers = catalog.scan_tree_for_source_text(pack.directory)
     for path in leftovers:
         report.add(ERROR, pack.code, "pack", path,
-                   "file contains source text — it must not be published "
+                   "file contains source text: it must not be published "
                    "(SPEC-005/R-4)")
 
     return report

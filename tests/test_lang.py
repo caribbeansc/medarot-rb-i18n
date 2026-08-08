@@ -1,4 +1,4 @@
-"""SPEC-004 — language pack layout."""
+"""SPEC-004: language pack layout."""
 
 from __future__ import annotations
 

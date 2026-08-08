@@ -13,7 +13,7 @@ from __future__ import annotations
 import re
 import struct
 
-#: Kana and CJK ideographs — what "the text is still Japanese" means here.
+#: Kana and CJK ideographs: what "the text is still Japanese" means here.
 JP_RE = re.compile(r"[぀-ヿ㐀-鿿]")
 CTRL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
 

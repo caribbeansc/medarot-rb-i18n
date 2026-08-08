@@ -2,11 +2,11 @@
 
 Two kinds, both a JSON object with an ``entries`` list:
 
-*positional* — an IdxRes table cell, addressed by where it lives::
+*positional*: an IdxRes table cell, addressed by where it lives::
 
     {"row": "Ok", "sub": 0, "col": "text", "src": "8b1a7f22c0d4", "t": "Aceptar"}
 
-*content-addressed* — a label serialized in a bundle or scene, addressed by the
+*content-addressed*: a label serialized in a bundle or scene, addressed by the
 fingerprint of the original::
 
     {"src": "3fa9c1e0b7d2", "t": "Turno {0}", "note": "battle HUD"}
@@ -75,8 +75,8 @@ def cell_key(row: str, sub: int, col: str, n: int = 0) -> tuple:
 def entry_key(entry: dict, kind: str):
     """The identity of an entry: where it lives *and* which text it translates.
 
-    A cell can hold different Japanese in different versions of the game — the
-    v1.1 update rewrote fifteen of them — and those may need different
+    A cell can hold different Japanese in different versions of the game: the
+    v1.1 update rewrote fifteen of them: and those may need different
     translations. So the fingerprint is part of the key, and a position may appear
     more than once (SPEC-005/R-9).
     """

@@ -63,7 +63,7 @@ pytest                     # includes the tests that need your own dump
 House rules that are not negotiable, because each one has burned this project
 once:
 
-- **Never call `UnityPy.load` directly.** Import `medarot.unity` — it applies the
+- **Never call `UnityPy.load` directly.** Import `medarot.unity`: it applies the
   Switch swizzle fix first. A test scans the source tree for violations.
 - **Re-inject textures with `target_format=d.m_TextureFormat`.** Letting the
   library pick breaks ASTC 5x5.

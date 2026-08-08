@@ -1,8 +1,8 @@
-"""Step 5 — translate text serialized inside the scenes.
+"""Step 5: translate text serialized inside the scenes.
 
 The battle screen reads its labels from ``Data/level3`` and
 ``Data/sharedassets*.assets``, not from bundles, and those ``MonoBehaviour``s
-have no usable typetree — so the strings are replaced in the raw object bytes
+have no usable typetree: so the strings are replaced in the raw object bytes
 (SPEC-002).
 """
 

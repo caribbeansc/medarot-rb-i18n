@@ -1,4 +1,4 @@
-# SPEC-007 — Command-line interface
+# SPEC-007: Command-line interface
 
 `mrb` is meant to be usable by a translator who has never opened a terminal for
 anything else. Running it with no arguments must be enough.
@@ -6,7 +6,7 @@ anything else. Running it with no arguments must be enough.
 ```
 $ python mrb.py
 
-  MEDAROT RB — translation toolkit
+  MEDAROT RB: translation toolkit
 
   Game files    ✓ romfs found      (…/romfs)
   Base cache    ✗ not prepared     (run 2)
@@ -44,7 +44,7 @@ python mrb.py doctor
 ## Requirements
 
 - **R-1** With no arguments and a TTY, `mrb` shows the menu. With no arguments
-  and **no** TTY (pipe, CI), it prints `status` and exits 0 — it never blocks
+  and **no** TTY (pipe, CI), it prints `status` and exits 0: it never blocks
   waiting for input.
 - **R-2** Any subcommand runs without ever prompting; missing information is an
   error with a message that names the flag to pass.
@@ -55,8 +55,8 @@ python mrb.py doctor
 - **R-5** Every destructive action (overwriting a build, installing over an
   existing mod, deleting a cache) states the exact path and asks for
   confirmation. `--yes` pre-answers, and non-interactive runs require it.
-- **R-6** The menu recomputes and shows project state — romfs present, cache
-  prepared, per-language progress — every time it is drawn, so it doubles as the
+- **R-6** The menu recomputes and shows project state: romfs present, cache
+  prepared, per-language progress: every time it is drawn, so it doubles as the
   status display.
 - **R-7** Exit codes: `0` success, `1` a step failed, `2` bad usage,
   `3` the game files are missing or unusable.

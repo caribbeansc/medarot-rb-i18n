@@ -1,6 +1,6 @@
 """Texture deltas: version only what the translation adds.
 
-Instead of storing the translated texture — which is the game's artwork — store
+Instead of storing the translated texture: which is the game's artwork: store
 the difference against the original:
 
     <name>.png        RGBA overlay: final value of every changed pixel
