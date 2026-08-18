@@ -107,11 +107,18 @@ Rules that matter:
 - Keep TextMeshPro tags (`<color=#…>`, `<size=…>`, `<nobr>`) exactly as they are.
 - Translate inside `【…】`, keep the brackets.
 - Use `\n` for line breaks. Menu labels and buttons are tight, so keep those
-  under ~46 characters; the card and keyword description panels (`CardDef`
-  `m_skillText1/2`, `KeyWordDef` and `BuffWordDef` `m_text`) fit 3 lines of
-  ~92. The game word-wraps on its own, so a `\n` only forces an earlier break:
-  splitting those descriptions short pushes them past the panel and the text
-  spills out instead of being clipped. Raise `max_line` in `lang.json` to match
+  under ~46 characters.
+- **Card skill texts (`CardDef` `m_skillText1/2`) need manual `\n` breaks.**
+  The card detail panels auto-size instead of word-wrapping: a long text
+  without `\n` gets squeezed into a single line that spills past the panel,
+  and a manual line wider than the panel either gets crammed or re-wraps
+  leaving orphan words. Keep every line at ~40 characters or less (35 units
+  of the proportional model in `tools/rewrap_cards.py` — run it to re-break
+  a whole language automatically), and keep skill1 + skill2 to 6 lines total
+  (8 if the card only has one block). That is the JP designer's own spec,
+  found in the placeholder text of the panel component.
+- The keyword description panel (`KeyWordDef` and `BuffWordDef` `m_text`)
+  is wider: it fits 3 lines of ~92. Raise `max_line` in `lang.json` to match
   the longest panel you actually use.
 - Do not translate text the game already shows in English (`New Record`, `MAX`).
 

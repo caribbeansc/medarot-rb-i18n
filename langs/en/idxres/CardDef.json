@@ -27,7 +27,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "228c98147840",
-   "t": "[Snipe: Leader only] If you have 2 or fewer Barriers and this effect destroys a\npart or Barrier of the enemy Leader, choose and destroy 1 additional enemy part."
+   "t": "[Snipe: Leader only] If you have 2 or\nfewer Barriers and this effect destroys\na part or Barrier of the enemy Leader,\nchoose and destroy 1 additional enemy\npart."
   },
   {
    "row": "Leader02",
@@ -41,7 +41,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": "Until the end of the opponent's next turn, negate\none enemy effect that targets this Medabot."
+   "t": "Until the end of the opponent's next turn,\nnegate one enemy effect that targets this\nMedabot."
   },
   {
    "row": "Leader03",
@@ -55,7 +55,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "adeedbe6c1b8",
-   "t": "When one of your parts is destroyed, its power\nincreases by 3000 until the start of your next turn."
+   "t": "When one of your parts is destroyed, its\npower increases by 3000 until the start of\nyour next turn."
   },
   {
    "row": "Leader04",
@@ -69,7 +69,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0eb4a38e79f1",
-   "t": "While the total energy of both sides is 12 or less, its power increases by 3000."
+   "t": "While the total energy of both sides is 12\nor less, its power increases by 3000."
   },
   {
    "row": "Leader05",
@@ -83,7 +83,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73b82183658a",
-   "t": "Choose 1 opponent Medabot; it gets [Freeze] until the opponent's turn ends."
+   "t": "Choose 1 opponent Medabot; it gets\n[Freeze] until the opponent's turn ends."
   },
   {
    "row": "Leader06",
@@ -97,7 +97,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d20e539a3ce2",
-   "t": "Deal 4000 damage to all enemy Medabots. Gain 1 [Piercing Rounds] tactics\ncard for each part, Barrier and Medabot destroyed by this effect."
+   "t": "Deal 4000 damage to all enemy\nMedabots. Gain 1 [Piercing Rounds]\ntactics card for each part, Barrier and\nMedabot destroyed by this effect."
   },
   {
    "row": "Leader06",
@@ -118,7 +118,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9c302f1035e7",
-   "t": "Deal 6000 damage to the enemy Leader and 4000 damage to all enemy\nSupports. Until the end of the next enemy turn, enemy action\ncosts and quick cooldown costs cannot be reduced by effects."
+   "t": "Deal 6000 damage to the enemy Leader\nand 4000 damage to all enemy Supports.\nUntil the end of the next enemy turn,\nenemy action costs and quick cooldown\ncosts cannot be reduced by effects."
   },
   {
    "row": "Leader07",
@@ -153,14 +153,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": "When this Medabot destroys a part or Barrier of the enemy Leader with a normal\nattack, inflict [Deathlock] on your opponent until the end of their Action phase."
+   "t": "When this Medabot destroys an enemy\nLeader part or Barrier with a normal\nattack, inflict [Deathlock] on the opponent\nuntil the end of their Action phase."
   },
   {
    "row": "Leader09",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2a4f9040a7cd",
-   "t": "While the enemy has 5 or more cards in hand, this Medabot's power increases by 2000."
+   "t": "While the enemy has 5 or more cards in\nhand, this Medabot gains 2000 power."
   },
   {
    "row": "Leader10",
@@ -174,7 +174,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": "[Conserve] Until the end of your next turn, this\nMedabot's action cost is reduced by 2 (never below 1)."
+   "t": "[Conserve] Until the end of your next turn,\nthis Medabot's action cost is reduced by\n2 (never below 1)."
   },
   {
    "row": "Leader11",
@@ -188,7 +188,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "aae9a65fd640",
-   "t": "If there is a Medabot with [Freeze] on the field, this\nMedabot's quick cooldown cost is reduced by 1 (never below 1)."
+   "t": "If there is a Medabot with [Freeze] on\nthe field, this Medabot's quick cooldown\ncost is reduced by 1 (never below 1)."
   },
   {
    "row": "Leader12",
@@ -202,7 +202,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [Curable Status Ailments] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots."
   },
   {
    "row": "Leader13",
@@ -216,7 +216,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f0e59eedcb8d",
-   "t": "While you have 3 or fewer cards in hand, power increases by 3000."
+   "t": "While you have 3 or fewer cards in hand,\npower increases by 3000."
   },
   {
    "row": "Leader14",
@@ -265,14 +265,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": "While you have 2 or fewer cards in hand, the quick cooldown cost of all\nyour Medabots is reduced by 1 (never below 1). This effect does not stack."
+   "t": "While you have 2 or fewer cards in hand,\nthe quick cooldown cost of all your\nMedabots is reduced by 1 (never below 1).\nThis effect does not stack."
   },
   {
    "row": "Leader16",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader17",
@@ -286,14 +286,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3f58db15f580",
-   "t": "Until the start of your next turn, the maximum energy of both sides\nincreases by 2. This Medabot cannot quick cooldown this turn."
+   "t": "Until the start of your next turn, the\nmaximum energy of both sides increases\nby 2. This Medabot cannot quick\ncooldown this turn."
   },
   {
    "row": "Leader17",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader18",
@@ -307,14 +307,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b28f76954347",
-   "t": "Its parts change to [Memorize] and [Remember], and the Leader changes to Navi-Commune."
+   "t": "Its parts change to [Memorize] and\n[Remember], and the Leader changes to\nNavi-Commune."
   },
   {
    "row": "Leader18",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader19",
@@ -335,7 +335,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader20",
@@ -349,14 +349,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2fa46faef4a6",
-   "t": "At the end of your turn, if this Medabot is not Overheated\nand your Barrier is not at maximum, activate [Repair]."
+   "t": "At the end of your turn, if this Medabot is\nnot Overheated and your Barrier is not at\nmaximum, activate [Repair]."
   },
   {
    "row": "Leader20",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader21",
@@ -370,7 +370,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "09ca841a14a4",
-   "t": "Its parts change to [Countract] and [Naturize], and the Leader changes to Particle."
+   "t": "Its parts change to [Countract] and\n[Naturize], and the Leader changes to\nParticle."
   },
   {
    "row": "Leader22",
@@ -384,14 +384,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cfcbf910663e",
-   "t": "While you have 3 [Defense] type Medabots on your field, all your Medabots gain 2000 power."
+   "t": "While you have 3 [Defense] type\nMedabots on your field, all your Medabots\ngain 2000 power."
   },
   {
    "row": "Leader22",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Leader23",
@@ -405,7 +405,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "559c59ca12ba",
-   "t": "This Medabot negates the damage it takes once. This effect does\nnot stack. Until the start of your next turn, it gains [Guard]."
+   "t": "This Medabot negates the damage it\ntakes once. This effect does not stack.\nUntil the start of your next turn, it gains\n[Guard]."
   },
   {
    "row": "Leader24",
@@ -419,7 +419,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
+   "t": "When this Medabot makes a normal\nattack, gain 2 Deploy points."
   },
   {
    "row": "Leader24",
@@ -440,7 +440,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
+   "t": "When this Medabot makes a normal\nattack, gain 2 Deploy points."
   },
   {
    "row": "Leader25",
@@ -496,7 +496,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Snipe] If the target has [Guard], this damage increases by 3000."
+   "t": "[Snipe] If the target has [Guard], this\ndamage increases by 3000."
   },
   {
    "row": "Support04",
@@ -510,7 +510,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1224955d39f",
-   "t": "[Snipe] If the target's charge is 8 or more, this damage increases by 5000."
+   "t": "[Snipe] If the target's charge is 8 or\nmore, this damage increases by 5000."
   },
   {
    "row": "Support05",
@@ -524,7 +524,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f9d228c389c5",
-   "t": "[Snipe] If the target is on Standby, this damage increases by 3000."
+   "t": "[Snipe] If the target is on Standby, this\ndamage increases by 3000."
   },
   {
    "row": "Support06",
@@ -559,7 +559,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrier: 3] When this Medabot activates an ability (action), the damage increases by 2000."
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage increases\nby 2000."
   },
   {
    "row": "Support09",
@@ -580,7 +580,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrier: 3] When this Medabot activates an ability (action), the damage increases by 2000."
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage increases\nby 2000."
   },
   {
    "row": "Support10",
@@ -594,7 +594,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4c4f85656792",
-   "t": "[Barrier: 5] When one of your [Shoot] type Medabots\nuses an ability (Action), the damage increases by 1000."
+   "t": "[Barrier: 5] When one of your [Shoot] type\nMedabots uses an ability (Action), the\ndamage increases by 1000."
   },
   {
    "row": "Support11",
@@ -615,7 +615,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "7d57634e3f5e",
-   "t": "When this Medabot destroys a target with [Snipe], recover 2 [Shoot] type Tactics stock."
+   "t": "When this Medabot destroys a target with\n[Snipe], recover 2 [Shoot] type Tactics\nstock."
   },
   {
    "row": "Support12",
@@ -629,7 +629,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e12dc9f9fc5d",
-   "t": "Damage from your [Shoot] type tactics cards increases by 1000."
+   "t": "Damage from your [Shoot] type tactics\ncards increases by 1000."
   },
   {
    "row": "Support13",
@@ -643,14 +643,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7d61c8878d5",
-   "t": "When you use a [Shoot] type tactics card, activate [Snipe] against 1 random enemy Medabot."
+   "t": "When you use a [Shoot] type tactics\ncard, activate [Snipe] against 1 random\nenemy Medabot."
   },
   {
    "row": "Support13",
    "sub": 0,
    "col": "m_skillText2",
    "src": "65a007229473",
-   "t": "[Frenzy] This effect lasts until the start of your next turn."
+   "t": "[Frenzy] This effect lasts until the start\nof your next turn."
   },
   {
    "row": "Support14",
@@ -664,14 +664,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0e0f7d28cb4",
-   "t": "Can be activated if you have 6 or more [Shoot] type Medabots in your discard pile."
+   "t": "Can be activated if you have 6 or more\n[Shoot] type Medabots in your discard\npile."
   },
   {
    "row": "Support14",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e0f1172bc90e",
-   "t": "[Snipe] If this effect destroys the target, gain 2 random [Shoot] type tactics cards."
+   "t": "[Snipe] If this effect destroys the target,\ngain 2 random [Shoot] type tactics cards."
   },
   {
    "row": "Support15",
@@ -685,7 +685,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "679c970ccebc",
-   "t": "[Snipe] Deal 6000 extra damage to the target for each [Shoot] type tactics card\nused this turn (max 3); this counts as [Snipe]. Then destroy this Medabot."
+   "t": "[Snipe] Deal 6000 extra damage to the\ntarget for each [Shoot] type tactics card\nused this turn (max 3); this counts as\n[Snipe]. Then destroy this Medabot."
   },
   {
    "row": "Support16",
@@ -734,7 +734,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "4d985dcfb40f",
-   "t": "[Barrier: 3] When this Medabot activates an ability (action), the damage increases by 2000."
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage increases\nby 2000."
   },
   {
    "row": "Support19",
@@ -748,14 +748,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0855345bd172",
-   "t": "[Conserve] Until the end of your next turn, this\nMedabot's action cost is reduced by 2 (never below 1)."
+   "t": "[Conserve] Until the end of your next turn,\nthis Medabot's action cost is reduced by\n2 (never below 1)."
   },
   {
    "row": "Support19",
    "sub": 0,
    "col": "m_skillText2",
    "src": "d39bde129bca",
-   "t": "[Snipe] If the target's charge is 8 or more, this damage increases by 4000."
+   "t": "[Snipe] If the target's charge is 8 or\nmore, this damage increases by 4000."
   },
   {
    "row": "Support20",
@@ -769,7 +769,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": "Choose 1 opponent Medabot and deal 4000 damage. The target\nloses its ability (trait) until the opponent's turn ends."
+   "t": "Choose 1 opponent Medabot and deal\n4000 damage. The target loses its ability\n(trait) until the opponent's turn ends."
   },
   {
    "row": "Support21",
@@ -797,7 +797,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e27ca1414052",
-   "t": "When another Medabot is destroyed by an ability effect, its\npower increases by 1000. [Threshold: 10000] When this Medabot\ndestroys an enemy Medabot, choose and destroy 1 enemy part."
+   "t": "When another Medabot is destroyed by\nan ability effect, its power increases\nby 1000. [Threshold: 10000] When this\nMedabot destroys an enemy Medabot,\nchoose and destroy 1 enemy part."
   },
   {
    "row": "Support23",
@@ -811,7 +811,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "67e47f6393fe",
-   "t": "Choose 1 enemy Medabot and deal 20000 damage to it. If [Snipe]\nwas activated 2 or more times this turn, deal 20000 extra damage."
+   "t": "Choose 1 enemy Medabot and deal 20000\ndamage to it. If [Snipe] was activated 2\nor more times this turn, deal 20000 extra\ndamage."
   },
   {
    "row": "Support24",
@@ -839,7 +839,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": "[Frenzy] When this Medabot makes a normal attack, apply\n[Shock] to the target until the end of the opponent's turn."
+   "t": "[Frenzy] When this Medabot makes a\nnormal attack, apply [Shock] to the target\nuntil the end of the opponent's turn."
   },
   {
    "row": "Support27",
@@ -853,7 +853,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenzy] When this Medabot makes a normal attack, apply\n[Burn] to the target until the end of the opponent's turn."
+   "t": "[Frenzy] When this Medabot makes a\nnormal attack, apply [Burn] to the target\nuntil the end of the opponent's turn."
   },
   {
    "row": "Support28",
@@ -867,7 +867,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de213ee0a632",
-   "t": "When this Medabot makes a normal attack, if the target's Charge is higher than\nits own, its power increases by 1000 for each point of Charge difference."
+   "t": "When this Medabot makes a normal\nattack, if the target's Charge is higher\nthan its own, its power increases by 1000\nfor each point of Charge difference."
   },
   {
    "row": "Support29",
@@ -881,7 +881,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "31e4371b2fe5",
-   "t": "Transfer a Medabot with [Barrier Limit] from your hand to an empty slot on your\nfield, overheated. Then put the top 6 cards of your deck into the discard pile."
+   "t": "Transfer a Medabot with [Barrier Limit]\nfrom your hand to an empty slot on your\nfield, overheated. Then put the top 6\ncards of your deck into the discard pile."
   },
   {
    "row": "Support30",
@@ -909,7 +909,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e0e7d23fc6c",
-   "t": "[Frenzy] When this Medabot makes a normal attack, apply\n[Shock] to the target until the end of the opponent's turn."
+   "t": "[Frenzy] When this Medabot makes a\nnormal attack, apply [Shock] to the target\nuntil the end of the opponent's turn."
   },
   {
    "row": "Support33",
@@ -923,7 +923,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
+   "t": "When this Medabot destroys an enemy\nBarrier by attacking alone, destroy 1 extra\nBarrier."
   },
   {
    "row": "Support34",
@@ -944,7 +944,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "2c95f4e9a0a6",
-   "t": "Choose 1 opponent's Medabot and apply [Bind] to it until the end of the opponent's turn."
+   "t": "Choose 1 enemy Medabot and apply\n[Bind] to it until the end of their turn."
   },
   {
    "row": "Support35",
@@ -958,14 +958,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d662bdd65c8e",
-   "t": "If you have 3 [Strike] type Medabots on your field, all your Medabots gain 1000 power."
+   "t": "If you have 3 [Strike] type Medabots on\nyour field, all your Medabots gain 1000\npower."
   },
   {
    "row": "Support35",
    "sub": 0,
    "col": "m_skillText2",
    "src": "498f4a3a44ca",
-   "t": "When this Medabot attacks normally, the target gets [Freeze] until the opponent's turn ends."
+   "t": "When this Medabot attacks normally, the\ntarget gets [Freeze] until the opponent's\nturn ends."
   },
   {
    "row": "Support36",
@@ -986,7 +986,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "bddd057246b3",
-   "t": "When this Medabot makes or receives a normal attack, if the\ntarget was not destroyed, the target attacks at random."
+   "t": "When this Medabot makes or receives\na normal attack, if the target was not\ndestroyed, the target attacks at random."
   },
   {
    "row": "Support37",
@@ -1028,7 +1028,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenzy] When this Medabot makes a normal attack, apply\n[Burn] to the target until the end of the opponent's turn."
+   "t": "[Frenzy] When this Medabot makes a\nnormal attack, apply [Burn] to the target\nuntil the end of the opponent's turn."
   },
   {
    "row": "Support40",
@@ -1049,7 +1049,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "126e6c51120b",
-   "t": "[Frenzy] When this Medabot makes a normal attack, apply\n[Burn] to the target until the end of the opponent's turn."
+   "t": "[Frenzy] When this Medabot makes a\nnormal attack, apply [Burn] to the target\nuntil the end of the opponent's turn."
   },
   {
    "row": "Support42",
@@ -1063,14 +1063,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": "Until the start of your next turn, gain \"When the opponent chooses\na Medabot as a target, they must choose this Medabot if possible.\""
+   "t": "Until the start of your next turn, gain\n\"When the opponent chooses a Medabot\nas a target, they must choose this one if\npossible.\""
   },
   {
    "row": "Support42",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2c95f4e9a0a6",
-   "t": "Choose 1 opponent's Medabot and apply [Bind] to it until the end of the opponent's turn."
+   "t": "Choose 1 enemy Medabot and apply\n[Bind] to it until the end of their turn."
   },
   {
    "row": "Support43",
@@ -1084,7 +1084,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": "Choose 1 of your destroyed parts at random and add a copy\nof it to your spare parts. Then destroy this Medabot."
+   "t": "Choose 1 of your destroyed parts at\nrandom and add a copy of it to your spare\nparts. Then destroy this Medabot."
   },
   {
    "row": "Support44",
@@ -1105,7 +1105,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2759b302b55",
-   "t": "When you make a Cross Attack with only [Strike]\ntype Medabots, the action cost is reduced by 2."
+   "t": "When you make a Cross Attack with only\n[Strike] type Medabots, the action cost is\nreduced by 2."
   },
   {
    "row": "Support45",
@@ -1119,14 +1119,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Can be activated if there are 6 or more [Strike] type Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\n[Strike] type Medabots in your discard\npile."
   },
   {
    "row": "Support45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "c7a91eb30ced",
-   "t": "When this Medabot destroys a part or Barrier of the enemy Leader,\nyour opponent cannot use Medaforce until the end of their next turn."
+   "t": "If this Medabot destroys an enemy\nLeader part or Barrier, the opponent\ncannot use Medaforce next turn."
   },
   {
    "row": "Support46",
@@ -1140,7 +1140,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "950449a38c0f",
-   "t": "After this Medabot's normal attack, it uses [Finisher] on the same target once for each\ntime [Frenzy] activated this turn. If there is no target, it uses [Finisher] at random."
+   "t": "After this Medabot's normal attack, it\nuses [Finisher] on the same target once\nfor each time [Frenzy] activated this turn.\nIf there is no target, it uses [Finisher] at\nrandom."
   },
   {
    "row": "Support47",
@@ -1154,7 +1154,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fb1eac663bd",
-   "t": "When this Medabot destroys an overheated Medabot with a normal\nattack, deal damage equal to the destroyed Medabot's power to all\nopponent's Medabots, once for each unit that joined that attack."
+   "t": "When this Medabot destroys an\noverheated Medabot with a normal\nattack, deal damage equal to the\ndestroyed Medabot's power to all\nopponent's Medabots, once for each unit\nthat joined that attack."
   },
   {
    "row": "Support48",
@@ -1168,14 +1168,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d877e2d304f9",
-   "t": "Can be activated if there are 6 or more [Strike] type Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\n[Strike] type Medabots in your discard\npile."
   },
   {
    "row": "Support48",
    "sub": 0,
    "col": "m_skillText2",
    "src": "7592ccec88a3",
-   "t": "This Medabot nullifies damage once. This effect does not stack.\nUntil the start of your next turn, it gains [Super Guard]."
+   "t": "This Medabot nullifies damage once. This\neffect does not stack. Until the start of\nyour next turn, it gains [Super Guard]."
   },
   {
    "row": "Support49",
@@ -1189,7 +1189,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5fbeb13b6d9f",
-   "t": "When this Medabot makes a normal attack, the cost of the opponent's\n[Tactics Cards] increases by 1 until the end of the opponent's turn."
+   "t": "When this Medabot makes a normal\nattack, the cost of the opponent's\n[Tactics Cards] increases by 1 until the\nend of the opponent's turn."
   },
   {
    "row": "Support50",
@@ -1203,7 +1203,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "58fba845ed00",
-   "t": "When this Medabot makes a normal attack, the target loses its ability (trait)\nuntil the end of the opponent's turn. When this Medabot destroys a part or\nbarrier of the opponent's Leader, destroy 1 more of the opponent's parts."
+   "t": "When this Medabot makes a normal\nattack, the target loses its ability (trait)\nuntil the end of the opponent's turn. When\nthis Medabot destroys a part or barrier of\nthe opponent's Leader, destroy 1 more of\nthe opponent's parts."
   },
   {
    "row": "Support51",
@@ -1224,7 +1224,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn.\nThis Medabot cannot Quick cooldown this\nturn."
   },
   {
    "row": "Support53",
@@ -1238,7 +1238,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn.\nThis Medabot cannot Quick cooldown this\nturn."
   },
   {
    "row": "Support54",
@@ -1252,7 +1252,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": "Until the end of the turn, the next damage to the\nenemy Leader deals that same damage 1 extra time."
+   "t": "Until the end of the turn, the next damage\nto the enemy Leader deals that same\ndamage 1 extra time."
   },
   {
    "row": "Support55",
@@ -1266,7 +1266,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "619b0a283344",
-   "t": "While you have 2 or fewer cards in hand, the quick cooldown cost of all\nyour Medabots is reduced by 1 (never below 1). This effect does not stack."
+   "t": "While you have 2 or fewer cards in hand,\nthe quick cooldown cost of all your\nMedabots is reduced by 1 (never below 1).\nThis effect does not stack."
   },
   {
    "row": "Support56",
@@ -1280,7 +1280,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": "Until the end of the turn, the next damage to the\nenemy Leader deals that same damage 1 extra time."
+   "t": "Until the end of the turn, the next damage\nto the enemy Leader deals that same\ndamage 1 extra time."
   },
   {
    "row": "Support57",
@@ -1294,7 +1294,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": "All your Medabots except this one gain 2000 power until the start of\nyour next turn. This Medabot cannot use quick cooldown this turn."
+   "t": "All your Medabots except this one gain\n2000 power until the start of your next\nturn. This Medabot cannot use quick\ncooldown this turn."
   },
   {
    "row": "Support58",
@@ -1308,7 +1308,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a84c9ef10dee",
-   "t": "Until the end of the turn, the next ability (action) activated\ncosts 0. This Medabot cannot use quick cooldown this turn."
+   "t": "Until the end of the turn, the next ability\n(action) activated costs 0. This Medabot\ncannot use quick cooldown this turn."
   },
   {
    "row": "Support59",
@@ -1322,7 +1322,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn.\nThis Medabot cannot Quick cooldown this\nturn."
   },
   {
    "row": "Support59",
@@ -1343,7 +1343,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e40b09eb3cc2",
-   "t": "All your Medabots except this one gain 2000 power until the start of\nyour next turn. This Medabot cannot use quick cooldown this turn."
+   "t": "All your Medabots except this one gain\n2000 power until the start of your next\nturn. This Medabot cannot use quick\ncooldown this turn."
   },
   {
    "row": "Support61",
@@ -1357,7 +1357,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "02ae37069cba",
-   "t": "While this Medabot is on the field, all Medabots\nlose their abilities (traits) except Conceal."
+   "t": "While this Medabot is on the field, all\nMedabots lose their abilities (traits)\nexcept Conceal."
   },
   {
    "row": "Support62",
@@ -1371,14 +1371,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "80409e5dc3f1",
-   "t": "Can be activated if there are 6 or more Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\nMedabots in your discard pile."
   },
   {
    "row": "Support62",
    "sub": 0,
    "col": "m_skillText2",
    "src": "e2578b132ae4",
-   "t": "When one of your Medabots uses quick cooldown, if it is not [Support] type and its Charge\nis 4 or more, use [Finisher] on 1 random opponent's Medabot (max 2 times per turn)."
+   "t": "When a non-[Support] Medabot of yours\nuses quick cooldown with Charge 4 or\nmore, use [Finisher] on 1 random enemy\nMedabot (max 2 times per turn)."
   },
   {
    "row": "Support63",
@@ -1392,14 +1392,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0c7eca12f009",
-   "t": "All your Medabots except this one gain 2000 power until the start of your next turn."
+   "t": "All your Medabots except this one gain\n2000 power until the start of your next\nturn."
   },
   {
    "row": "Support63",
    "sub": 0,
    "col": "m_skillText2",
    "src": "0cf1a111e70b",
-   "t": "Until the end of the opponent's next turn, negate\none enemy effect that targets this Medabot."
+   "t": "Until the end of the opponent's next turn,\nnegate one enemy effect that targets this\nMedabot."
   },
   {
    "row": "Support64",
@@ -1413,7 +1413,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "859c169d075a",
-   "t": "When this Medabot is transferred by an effect, all your\nMedabots gain 4000 power until the start of your next turn."
+   "t": "When this Medabot is transferred by an\neffect, all your Medabots gain 4000 power\nuntil the start of your next turn."
   },
   {
    "row": "Support65",
@@ -1427,7 +1427,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": "[Repair] From turn 4 on, this effect can choose up to 2 cards."
+   "t": "[Repair] From turn 4 on, this effect can\nchoose up to 2 cards."
   },
   {
    "row": "Support66",
@@ -1441,14 +1441,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": "Until the end of the turn, enemy traps do not activate."
+   "t": "Until the end of the turn, enemy traps do\nnot activate."
   },
   {
    "row": "Support66",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [Curable Status Ailments] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots."
   },
   {
    "row": "Support67",
@@ -1483,7 +1483,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1777ae624f40",
-   "t": "Choose 1 of your destroyed parts at random and add a copy\nof it to your spare parts. Then destroy this Medabot."
+   "t": "Choose 1 of your destroyed parts at\nrandom and add a copy of it to your spare\nparts. Then destroy this Medabot."
   },
   {
    "row": "Support70",
@@ -1497,7 +1497,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Repair] With 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
+   "t": "[Repair] With 4 or more Barrier Hand\ncards, this effect can choose up to 2\ncards."
   },
   {
    "row": "Support71",
@@ -1511,7 +1511,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "77fe9595f6e8",
-   "t": "[Repair] From turn 4 on, this effect can choose up to 2 cards."
+   "t": "[Repair] From turn 4 on, this effect can\nchoose up to 2 cards."
   },
   {
    "row": "Support71",
@@ -1532,7 +1532,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a8bc7f5c3cd",
-   "t": "When you use a [Heal] type tactics card, this Medabot gains 1000 power."
+   "t": "When you use a [Heal] type tactics card,\nthis Medabot gains 1000 power."
   },
   {
    "row": "Support72",
@@ -1553,14 +1553,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": "All your Medabots except this one gain 2000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "All your Medabots except this one\ngain 2000 power until the start of your\nnext turn. This Medabot cannot Quick\ncooldown this turn."
   },
   {
    "row": "Support73",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [Curable Status Ailments] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots."
   },
   {
    "row": "Support74",
@@ -1581,7 +1581,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "e863e86b575e",
-   "t": "[Conserve] Gains 2000 power. [Threshold: 10000] At the start of your\nAction Phase, deal 10000 damage twice to the opponent's Leader."
+   "t": "[Conserve] Gains 2000 power.\n[Threshold: 10000] At the start of your\nAction Phase, deal 10000 damage twice\nto the opponent's Leader."
   },
   {
    "row": "Support75",
@@ -1595,14 +1595,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0fc94a7d1d61",
-   "t": "Can be activated if there are 6 or more [Heal] type Medabots in your discard pile."
+   "t": "Can be activated if there are 6 or more\n[Heal] type Medabots in your discard pile."
   },
   {
    "row": "Support75",
    "sub": 0,
    "col": "m_skillText2",
    "src": "4be6ae76d626",
-   "t": "Remove [Curable Status Ailments] from all your Medabots. Your Medabots\nnullify the damage they take once. This effect does not stack."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots. Your Medabots nullify\nthe damage they take once. This effect\ndoes not stack."
   },
   {
    "row": "Support76",
@@ -1616,7 +1616,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a424783bf0da",
-   "t": "When this Medabot destroys a part or barrier of the opponent's Leader, if your Barrier\nHand has 5 or more cards and the opponent has 3 or fewer barriers, you win the Robattle."
+   "t": "When this Medabot destroys a part or\nbarrier of the opponent's Leader, if your\nBarrier Hand has 5 or more cards and the\nopponent has 3 or fewer barriers, you win\nthe Robattle."
   },
   {
    "row": "Support77",
@@ -1630,7 +1630,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Support78",
@@ -1651,7 +1651,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "670a205f9293",
-   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
+   "t": "When this Medabot destroys an enemy\nBarrier by attacking alone, destroy 1 extra\nBarrier."
   },
   {
    "row": "Support79",
@@ -1665,14 +1665,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Support79",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support80",
@@ -1686,7 +1686,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
+   "t": "Until the start of your next turn, gain\n[Guard] and [Counter]."
   },
   {
    "row": "Support80",
@@ -1714,14 +1714,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "96fe281ee97b",
-   "t": "[Guard] When this Medabot is targeted by a normal\nattack, its power becomes the same as the target's."
+   "t": "[Guard] When this Medabot is targeted by\na normal attack, its power becomes the\nsame as the target's."
   },
   {
    "row": "Support82",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support83",
@@ -1735,7 +1735,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": "Until the start of your next turn, gains [Guard] and\n\"Takes no damage from Medabots with an ability (action).\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"Takes no damage from\nMedabots with an ability (action).\""
   },
   {
    "row": "Support84",
@@ -1763,7 +1763,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
+   "t": "Until the start of your next turn, gain\n[Guard] and [Counter]."
   },
   {
    "row": "Support86",
@@ -1777,14 +1777,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
+   "t": "Until the start of your next turn, gain\n[Guard] and [Counter]."
   },
   {
    "row": "Support86",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support87",
@@ -1798,14 +1798,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "93aa47f7eda1",
-   "t": "Until the start of your next turn, gains [Guard] and\n\"Takes no damage from Medabots with an ability (action).\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"Takes no damage from\nMedabots with an ability (action).\""
   },
   {
    "row": "Support87",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support88",
@@ -1819,14 +1819,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot takes damage from\nan ability (action), choose 1 enemy [Shoot] type Support and return it to the deck.\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"When damaged by an ability\n(action), choose 1 enemy [Shoot] type\nSupport and return it to the deck.\""
   },
   {
    "row": "Support88",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support89",
@@ -1840,7 +1840,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Support89",
@@ -1861,14 +1861,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": "Until the start of your next turn, gains [Guard] and \"This\nMedabot cannot get [Shock], [Freeze], [Bind] or [Burn].\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"This Medabot cannot get\n[Shock], [Freeze], [Bind] or [Burn].\""
   },
   {
    "row": "Support90",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support91",
@@ -1882,14 +1882,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Support91",
    "sub": 0,
    "col": "m_skillText2",
    "src": "5a5ea816f2a3",
-   "t": "This Medabot cannot make normal attacks."
+   "t": "This Medabot cannot make normal\nattacks."
   },
   {
    "row": "Support92",
@@ -1903,7 +1903,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8492a48e71a9",
-   "t": "Until the start of your next turn, gains [Guard], \"Takes no damage\nfrom Medabots with an ability (action).\" and \"When the enemy\nactivates an ability (action), deal 8000 damage to the enemy Leader.\""
+   "t": "Until the start of your next turn, gains\n[Guard], \"Takes no damage from\nMedabots with an ability (action).\" and\n\"When the enemy activates an ability\n(action), deal 8000 damage to the enemy\nLeader.\""
   },
   {
    "row": "Support93",
@@ -1917,7 +1917,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2429e1c9bbc9",
-   "t": "Until the start of your next turn, gains\\n[Guard] and \"The enemy's action\ncost\\nincreases by 1.\" If your Leader was not targeted by a normal attack\nduring the previous enemy turn, deal 6000 damage to all enemy Medabots."
+   "t": "Until the start of your next turn, gains\n[Guard] and \"The enemy's action cost\nincreases by 1.\" If your Leader was not\ntargeted by a normal attack during the\nprevious enemy turn, deal 6000 damage\nto all enemy Medabots."
   },
   {
    "row": "Support94",
@@ -1945,7 +1945,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
+   "t": "When this Medabot makes a normal\nattack, gain 2 Deploy points."
   },
   {
    "row": "Support96",
@@ -1959,7 +1959,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "70c7903e8d2a",
-   "t": "If this Medabot and \"Twinkle Star\" are on your\nfield, gain 6 Deploy points at the end of your turn."
+   "t": "If this Medabot and \"Twinkle Star\" are on\nyour field, gain 6 Deploy points at the end\nof your turn."
   },
   {
    "row": "Support96",
@@ -1980,7 +1980,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3bafdfe07945",
-   "t": "Can be activated if Shiny Star is on your field. Traps currently deployed\nactivate twice. This turn, this Medabot cannot use quick cooldown."
+   "t": "Can be activated if Shiny Star is on your\nfield. Traps currently deployed activate\ntwice. This turn, this Medabot cannot use\nquick cooldown."
   },
   {
    "row": "Support97",
@@ -2001,7 +2001,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "40d6cb5d1442",
-   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
+   "t": "When this Medabot makes a normal\nattack, gain 2 Deploy points."
   },
   {
    "row": "Support99",
@@ -2015,7 +2015,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": "Can be activated if 3 or more Medabots with the [Deploy] type are in your discard."
+   "t": "Can be activated if 3 or more Medabots\nwith the [Deploy] type are in your discard."
   },
   {
    "row": "Support99",
@@ -2036,14 +2036,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": "Choose 1 enemy Medabot, put it into Overheat and\ninflict [Bind] on it until the end of the enemy turn."
+   "t": "Choose 1 enemy Medabot, put it into\nOverheat and inflict [Bind] on it until the\nend of the enemy turn."
   },
   {
    "row": "Support100",
    "sub": 0,
    "col": "m_skillText2",
    "src": "40d6cb5d1442",
-   "t": "When this Medabot makes a normal attack, gain 2 Deploy points."
+   "t": "When this Medabot makes a normal\nattack, gain 2 Deploy points."
   },
   {
    "row": "Support101",
@@ -2057,7 +2057,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a62b073a9a46",
-   "t": "Gain 6 Deploy points. Then put this Medabot and your entire hand into the discard pile."
+   "t": "Gain 6 Deploy points. Then put this\nMedabot and your entire hand into the\ndiscard pile."
   },
   {
    "row": "Support102",
@@ -2092,7 +2092,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "57519cabb301",
-   "t": "Can be activated if 3 or more Medabots with the [Deploy] type are in your discard."
+   "t": "Can be activated if 3 or more Medabots\nwith the [Deploy] type are in your discard."
   },
   {
    "row": "Support103",
@@ -2113,7 +2113,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5c6ecd5a1762",
-   "t": "When this Medabot makes or is targeted by a normal attack, if\nthe target is not the [Deploy] type, its power increases by 1000\nuntil the start of your next turn and you gain 4 Deploy points."
+   "t": "When this Medabot makes or is targeted\nby a normal attack, if the target is not\nthe [Deploy] type, its power increases by\n1000 until the start of your next turn and\nyou gain 4 Deploy points."
   },
   {
    "row": "Support105",
@@ -2127,7 +2127,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3b162c40524d",
-   "t": "Can be activated if 3 or more Medabots with the [Deploy] type are in the discard pile."
+   "t": "Can be activated if 3 or more Medabots\nwith the [Deploy] type are in the discard\npile."
   },
   {
    "row": "Support105",
@@ -2148,7 +2148,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4467e0af9fba",
-   "t": "[Guard] When this Medabot is targeted by a normal attack, gain 4 Deploy points."
+   "t": "[Guard] When this Medabot is targeted by\na normal attack, gain 4 Deploy points."
   },
   {
    "row": "Support106",
@@ -2169,7 +2169,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e5a8ccbb3de",
-   "t": "When this Medabot is transferred by an effect, its power increases by 4000.\nAlso, gain 4 Deploy points and deal 8000 damage to all enemy Medabots."
+   "t": "When this Medabot is transferred by\nan effect, its power increases by 4000.\nAlso, gain 4 Deploy points and deal 8000\ndamage to all enemy Medabots."
   },
   {
    "row": "Support107",
@@ -2211,7 +2211,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e903e5b4b294",
-   "t": "Choose 1 enemy Medabot and deal 3000 damage to it. If this effect\ndestroys the target, gain 1 random [Shoot] type Tactics card."
+   "t": "Choose 1 enemy Medabot and deal 3000\ndamage to it. If this effect destroys the\ntarget, gain 1 random [Shoot] type Tactics\ncard."
   },
   {
    "row": "Parts01",
@@ -2239,7 +2239,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7d57634e3f5e",
-   "t": "When this Medabot destroys a target with [Snipe], recover 2 [Shoot] type Tactics stock."
+   "t": "When this Medabot destroys a target with\n[Snipe], recover 2 [Shoot] type Tactics\nstock."
   },
   {
    "row": "Parts02",
@@ -2267,7 +2267,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": "Deal 4000 damage to all enemy Medabots. For each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random [Shoot] type Tactics card."
+   "t": "Deal 4000 damage to all enemy\nMedabots. For each part, Barrier and\nMedabot destroyed by this effect, gain 1\nrandom [Shoot] type Tactics card."
   },
   {
    "row": "Parts03",
@@ -2309,7 +2309,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "26b9a9526a47",
-   "t": "Deal 4000 damage to all enemy Medabots. For each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random [Shoot] type Tactics card."
+   "t": "Deal 4000 damage to all enemy\nMedabots. For each part, Barrier and\nMedabot destroyed by this effect, gain 1\nrandom [Shoot] type Tactics card."
   },
   {
    "row": "Parts05",
@@ -2337,7 +2337,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4d985dcfb40f",
-   "t": "[Barrier: 3] When this Medabot activates an ability (action), the damage increases by 2000."
+   "t": "[Barrier: 3] When this Medabot activates\nan ability (action), the damage increases\nby 2000."
   },
   {
    "row": "Parts06",
@@ -2365,7 +2365,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0ccc3b9c0ed3",
-   "t": "Deal 6000 damage to all enemy Medabots. For each part, Barrier and Medabot\ndestroyed by this effect, gain 1 random [Shoot] type Tactics card."
+   "t": "Deal 6000 damage to all enemy\nMedabots. For each part, Barrier and\nMedabot destroyed by this effect, gain 1\nrandom [Shoot] type Tactics card."
   },
   {
    "row": "Parts07",
@@ -2407,7 +2407,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f0aa3587fd6a",
-   "t": "Choose 1 enemy Medabot and deal 5000 damage to it. If the enemy\nhas 5 or more Tactics stock, this damage increases by 2000."
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it. If the enemy has 5 or more\nTactics stock, this damage increases by\n2000."
   },
   {
    "row": "Parts09",
@@ -2435,7 +2435,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Snipe] If the target has [Guard], this damage increases by 3000."
+   "t": "[Snipe] If the target has [Guard], this\ndamage increases by 3000."
   },
   {
    "row": "Parts10",
@@ -2463,7 +2463,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "From turn 2 on, at the start of your turn, if this Medabot is on Standby, this effect\nactivates. At the start of the Action phase, deal 6000 damage to 1 random enemy Medabot."
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts11",
@@ -2505,7 +2505,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8d3da2016fe8",
-   "t": "[Snipe: Leader only] If this effect destroys a part or Barrier of the enemy Leader, choose\nand destroy 1 more enemy part or Barrier. Choose 1 of your own parts and destroy it."
+   "t": "[Snipe: Leader only] If this effect\ndestroys a part or Barrier of the enemy\nLeader, choose and destroy 1 more\nenemy part or Barrier. Choose 1 of your\nown parts and destroy it."
   },
   {
    "row": "Parts13",
@@ -2533,7 +2533,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": "Choose 1 enemy Medabot and deal 6000 damage. Inflict\n[Bind] on it until the end of the opponent's turn."
+   "t": "Choose 1 enemy Medabot and deal 6000\ndamage. Inflict [Bind] on it until the end\nof the opponent's turn."
   },
   {
    "row": "Parts14",
@@ -2561,7 +2561,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "From turn 2 on, at the start of your turn, if this Medabot is on Standby, this effect\nactivates. At the start of the Action phase, deal 6000 damage to 1 random enemy Medabot."
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts15",
@@ -2631,7 +2631,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "From turn 2 on, at the start of your turn, if this Medabot is on Standby, this effect\nactivates. At the start of the Action phase, deal 6000 damage to 1 random enemy Medabot."
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts18",
@@ -2659,7 +2659,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cdaca6324904",
-   "t": "When this Medabot destroys the opponent leader's part or barrier,\nif they have 5 or more parts left, choose and destroy 1 more part."
+   "t": "When this Medabot destroys the\nopponent leader's part or barrier, if they\nhave 5 or more parts left, choose and\ndestroy 1 more part."
   },
   {
    "row": "Parts19",
@@ -2701,7 +2701,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6e381d853705",
-   "t": "Choose 1 opponent Medabot; it gets [Shock] until the opponent's turn ends."
+   "t": "Choose 1 opponent Medabot; it gets\n[Shock] until the opponent's turn ends."
   },
   {
    "row": "Parts77",
@@ -2729,7 +2729,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d5f4bc0d490",
-   "t": "When this Medabot attacks normally, the target gets [Shock] until the opponent's turn ends."
+   "t": "When this Medabot attacks normally, the\ntarget gets [Shock] until the opponent's\nturn ends."
   },
   {
    "row": "Parts78",
@@ -2799,7 +2799,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "fb7b1295570e",
-   "t": "If the opponent has no Support in play, the action cost\nof a normal attack drops by 2 (cost cannot go below 1)."
+   "t": "If the opponent has no Support in play,\nthe action cost of a normal attack drops\nby 2 (cost cannot go below 1)."
   },
   {
    "row": "Parts125",
@@ -2897,7 +2897,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3949ba60cdad",
-   "t": "Choose 1 opponent Medabot and deal 4000 damage. The target\nloses its ability (trait) until the opponent's turn ends."
+   "t": "Choose 1 opponent Medabot and deal\n4000 damage. The target loses its ability\n(trait) until the opponent's turn ends."
   },
   {
    "row": "Parts117",
@@ -2925,7 +2925,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "92662fc49e29",
-   "t": "When this Medabot destroys the opponent leader's part or barrier,\nall opponent Medabots get [Shock] until their turn ends."
+   "t": "When this Medabot destroys the\nopponent leader's part or barrier, all\nopponent Medabots get [Shock] until their\nturn ends."
   },
   {
    "row": "Parts118",
@@ -2953,7 +2953,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0f66b27f5a56",
-   "t": "[Snipe] When this effect damages the opponent's leader, the\nnext damage to their leader this turn is dealt 1 extra time."
+   "t": "[Snipe] When this effect damages the\nopponent's leader, the next damage to\ntheir leader this turn is dealt 1 extra time."
   },
   {
    "row": "Parts119",
@@ -2995,7 +2995,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
+   "t": "When this Medabot destroys an enemy\nBarrier by attacking alone, destroy 1 extra\nBarrier."
   },
   {
    "row": "Parts21",
@@ -3023,7 +3023,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "393706406dc6",
-   "t": "When this Medabot destroys an opponent Medabot with [Guard], recover 3 energy."
+   "t": "When this Medabot destroys an opponent\nMedabot with [Guard], recover 3 energy."
   },
   {
    "row": "Parts22",
@@ -3051,7 +3051,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f185894921e9",
-   "t": "When this Medabot attacks normally on its own, [Finisher] 1 random opponent Medabot."
+   "t": "When this Medabot attacks normally on\nits own, [Finisher] 1 random opponent\nMedabot."
   },
   {
    "row": "Parts23",
@@ -3121,7 +3121,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7364c0a17acc",
-   "t": "Until the start of your next turn, gains [Guard] and \"This\nMedabot cannot get [Shock], [Freeze], [Bind] or [Burn].\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"This Medabot cannot get\n[Shock], [Freeze], [Bind] or [Burn].\""
   },
   {
    "row": "Parts26",
@@ -3149,7 +3149,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Strike] tactic stock."
+   "t": "When this Medabot destroys an opponent\nMedabot, recover 2 [Strike] tactic stock."
   },
   {
    "row": "Parts27",
@@ -3191,7 +3191,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0642c5fef114",
-   "t": "Choose 1 opponent Medabot. Its action cost rises by 2 until the start of your next turn."
+   "t": "Choose 1 opponent Medabot. Its action\ncost rises by 2 until the start of your next\nturn."
   },
   {
    "row": "Parts29",
@@ -3247,7 +3247,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a1234db20f40",
-   "t": "When this Medabot destroys an opponent Medabot, recover 2 [Strike] tactic stock."
+   "t": "When this Medabot destroys an opponent\nMedabot, recover 2 [Strike] tactic stock."
   },
   {
    "row": "Parts31",
@@ -3289,7 +3289,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "498f4a3a44ca",
-   "t": "When this Medabot attacks normally, the target gets [Freeze] until the opponent's turn ends."
+   "t": "When this Medabot attacks normally, the\ntarget gets [Freeze] until the opponent's\nturn ends."
   },
   {
    "row": "Parts33",
@@ -3317,7 +3317,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65f5d906b47d",
-   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot makes or\ntakes a normal attack, the target gets [Freeze] until the opponent's turn ends.\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"When this Medabot makes\nor takes a normal attack, the target gets\n[Freeze] until the opponent's turn ends.\""
   },
   {
    "row": "Parts34",
@@ -3345,7 +3345,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73b82183658a",
-   "t": "Choose 1 opponent Medabot; it gets [Freeze] until the opponent's turn ends."
+   "t": "Choose 1 opponent Medabot; it gets\n[Freeze] until the opponent's turn ends."
   },
   {
    "row": "Parts35",
@@ -3387,7 +3387,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "65abb4351a64",
-   "t": "Choose 1 enemy Medabot, put it into Overheat and\ninflict [Bind] on it until the end of the enemy turn."
+   "t": "Choose 1 enemy Medabot, put it into\nOverheat and inflict [Bind] on it until the\nend of the enemy turn."
   },
   {
    "row": "Parts129",
@@ -3415,7 +3415,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f2e3f915d229",
-   "t": "When this Medabot makes a normal attack, the target loses its ability\n(trait) and gets [Bind] until the end of the next enemy turn."
+   "t": "When this Medabot makes a normal\nattack, the target loses its ability (trait)\nand gets [Bind] until the end of the next\nenemy turn."
   },
   {
    "row": "Parts130",
@@ -3443,7 +3443,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": "When this Medabot destroys a part or Barrier of the enemy Leader,\nyour opponent cannot use Medaforce until the end of their next turn."
+   "t": "If this Medabot destroys an enemy\nLeader part or Barrier, the opponent\ncannot use Medaforce next turn."
   },
   {
    "row": "Parts131",
@@ -3485,7 +3485,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c7a91eb30ced",
-   "t": "When this Medabot destroys a part or Barrier of the enemy Leader,\nyour opponent cannot use Medaforce until the end of their next turn."
+   "t": "If this Medabot destroys an enemy\nLeader part or Barrier, the opponent\ncannot use Medaforce next turn."
   },
   {
    "row": "Parts73",
@@ -3513,7 +3513,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b215a1cd7425",
-   "t": "When this Medabot destroys a part or Barrier of the enemy Leader with a normal\nattack, inflict [Deathlock] on your opponent until the end of their Action phase."
+   "t": "When this Medabot destroys an enemy\nLeader part or Barrier with a normal\nattack, inflict [Deathlock] on the opponent\nuntil the end of their Action phase."
   },
   {
    "row": "Parts74",
@@ -3541,7 +3541,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "670a205f9293",
-   "t": "When this Medabot destroys an enemy Barrier by attacking alone, destroy 1 extra Barrier."
+   "t": "When this Medabot destroys an enemy\nBarrier by attacking alone, destroy 1 extra\nBarrier."
   },
   {
    "row": "Parts75",
@@ -3583,14 +3583,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "09095d5225d1",
-   "t": "When this Medabot makes a normal attack on the enemy Leader, your opponent draws 2 cards\nfrom their deck. Then, if they have 6 or more cards in hand, destroy 1 extra enemy part."
+   "t": "When this Medabot makes a normal\nattack on the enemy Leader, they draw 2\ncards. If their hand has 6 or more cards,\ndestroy 1 extra enemy part."
   },
   {
    "row": "Parts81",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Strike]."
+   "t": "Equipped by Cheerful Bunny: gains\n[Strike]."
   },
   {
    "row": "Parts82",
@@ -3611,14 +3611,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Repair] With 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
+   "t": "[Repair] With 4 or more Barrier Hand\ncards, this effect can choose up to 2\ncards."
   },
   {
    "row": "Parts82",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Strike]."
+   "t": "Equipped by Cheerful Bunny: gains\n[Strike]."
   },
   {
    "row": "Parts83",
@@ -3639,14 +3639,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "13782c29bea4",
-   "t": "When this Medabot destroys an enemy Medabot, recover 2 [Support] Tactics stock."
+   "t": "When this Medabot destroys an enemy\nMedabot, recover 2 [Support] Tactics\nstock."
   },
   {
    "row": "Parts83",
    "sub": 0,
    "col": "m_skillText2",
    "src": "060abe77e6f7",
-   "t": "Equipped by Cheerful Bunny: gains [Strike]."
+   "t": "Equipped by Cheerful Bunny: gains\n[Strike]."
   },
   {
    "row": "Parts120",
@@ -3681,7 +3681,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc040eda46cb",
-   "t": "Choose 1 enemy Medabot and deal 6000 damage. Until the\nstart of your next turn, gain 2 [Defense] Tactics stock."
+   "t": "Choose 1 enemy Medabot and deal 6000\ndamage. Until the start of your next turn,\ngain 2 [Defense] Tactics stock."
   },
   {
    "row": "Parts121",
@@ -3709,7 +3709,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cabc0db3e233",
-   "t": "When this Medabot makes a normal attack, inflict\n[Burn] on the target until the end of the enemy turn."
+   "t": "When this Medabot makes a normal\nattack, inflict [Burn] on the target until the\nend of the enemy turn."
   },
   {
    "row": "Parts122",
@@ -3737,7 +3737,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Parts123",
@@ -3779,14 +3779,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d0df52b587b1",
-   "t": "Until the end of the turn, the next damage to the\nenemy Leader deals that same damage 1 extra time."
+   "t": "Until the end of the turn, the next damage\nto the enemy Leader deals that same\ndamage 1 extra time."
   },
   {
    "row": "Parts37",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": "Equipped by Doctor Study: gains [Support]."
+   "t": "Equipped by Doctor Study: gains\n[Support]."
   },
   {
    "row": "Parts38",
@@ -3807,14 +3807,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "30f9c977e83f",
-   "t": "Until the end of the turn, when you use a [Support] Tactics card, deal\n7000 damage to 1 random enemy Medabot. This effect does not stack."
+   "t": "Until the end of the turn, when you use a\n[Support] Tactics card, deal 7000 damage\nto 1 random enemy Medabot. This effect\ndoes not stack."
   },
   {
    "row": "Parts38",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": "Equipped by Doctor Study: gains [Support]."
+   "t": "Equipped by Doctor Study: gains\n[Support]."
   },
   {
    "row": "Parts39",
@@ -3835,14 +3835,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn.\nThis Medabot cannot Quick cooldown this\nturn."
   },
   {
    "row": "Parts39",
    "sub": 0,
    "col": "m_skillText2",
    "src": "ae3c369df60e",
-   "t": "Equipped by Doctor Study: gains [Support]."
+   "t": "Equipped by Doctor Study: gains\n[Support]."
   },
   {
    "row": "Parts40",
@@ -3863,7 +3863,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6603d75a001f",
-   "t": "Can be used when Navi-Commune has\\n[Memorize] and [Remember] equipped. The\npart cards turn into [Drive A]\\nand [Drive B], and the Leader Medachanges."
+   "t": "Can be used when Navi-Commune has\n[Memorize] and [Remember] equipped.\nThe part cards turn into [Drive A] and\n[Drive B], and the Leader Medachanges."
   },
   {
    "row": "Parts41",
@@ -3884,14 +3884,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": "Choose 1 of your Supports; add the Leader's Power to it until\nend of turn. This Medabot cannot use Quick cooldown this turn."
+   "t": "Choose 1 of your Supports; add the\nLeader's Power to it until end of turn.\nThis Medabot cannot use Quick cooldown\nthis turn."
   },
   {
    "row": "Parts41",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": "Equipped by Navi-Commune: gains [Support]."
+   "t": "Equipped by Navi-Commune: gains\n[Support]."
   },
   {
    "row": "Parts42",
@@ -3912,14 +3912,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f6bba3f13a45",
-   "t": "Negates [Cannot Attack]. When this Medabot destroys a part or Barrier of the enemy\nLeader, if the enemy has 5 or more parts left, choose and destroy 1 extra enemy part."
+   "t": "Negates [Cannot Attack]. If this Medabot\ndestroys an enemy Leader part or Barrier\nand the enemy has 5 or more parts left,\nchoose and destroy 1 extra enemy part."
   },
   {
    "row": "Parts42",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": "Equipped by Navi-Commune: gains [Support]."
+   "t": "Equipped by Navi-Commune: gains\n[Support]."
   },
   {
    "row": "Parts43",
@@ -3940,14 +3940,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": "Until the end of the turn, enemy traps do not activate."
+   "t": "Until the end of the turn, enemy traps do\nnot activate."
   },
   {
    "row": "Parts43",
    "sub": 0,
    "col": "m_skillText2",
    "src": "f4dd0ff670d1",
-   "t": "Equipped by Navi-Commune: gains [Support]."
+   "t": "Equipped by Navi-Commune: gains\n[Support]."
   },
   {
    "row": "Parts44",
@@ -3968,14 +3968,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "75c00c2996ac",
-   "t": "Choose 1 of your Supports. Its next solo normal attack performs\n[Finisher]. This Medabot cannot use Quick cooldown this turn."
+   "t": "Choose 1 of your Supports. Its next solo\nnormal attack performs [Finisher]. This\nMedabot cannot use Quick cooldown this\nturn."
   },
   {
    "row": "Parts44",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "This part cannot be destroyed or changed. It cannot be targeted while defending."
+   "t": "This part cannot be destroyed or\nchanged, nor targeted while defending."
   },
   {
    "row": "Parts45",
@@ -3996,14 +3996,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f402537a7e1e",
-   "t": "Choose 1 of your Supports; add the Leader's Power to it until\nend of turn. This Medabot cannot use Quick cooldown this turn."
+   "t": "Choose 1 of your Supports; add the\nLeader's Power to it until end of turn.\nThis Medabot cannot use Quick cooldown\nthis turn."
   },
   {
    "row": "Parts45",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "This part cannot be destroyed or changed. It cannot be targeted while defending."
+   "t": "This part cannot be destroyed or\nchanged, nor targeted while defending."
   },
   {
    "row": "Parts46",
@@ -4038,7 +4038,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Repair] With 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
+   "t": "[Repair] With 4 or more Barrier Hand\ncards, this effect can choose up to 2\ncards."
   },
   {
    "row": "Parts47",
@@ -4094,7 +4094,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d1211c4f5993",
-   "t": "From turn 2 on, at the start of your turn, if this Medabot is on Standby, this effect\nactivates. At the start of the Action phase, deal 6000 damage to 1 random enemy Medabot."
+   "t": "From turn 2 on, at the start of your turn,\nif this Medabot is on Standby, this effect\nactivates. At the start of the Action\nphase, deal 6000 damage to 1 random\nenemy Medabot."
   },
   {
    "row": "Parts49",
@@ -4122,7 +4122,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "25c62f42dedf",
-   "t": "Can be used when Particle has [Naturize] and [Countract] equipped. The\npart cards turn into [Drive A] and [Drive B], and the Leader Medachanges."
+   "t": "Can be used when Particle has [Naturize]\nand [Countract] equipped. The part cards\nturn into [Drive A] and [Drive B], and the\nLeader Medachanges."
   },
   {
    "row": "Parts51",
@@ -4171,7 +4171,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "03374f41e157",
-   "t": "[Snipe: Leader only] If you have 2 or fewer Barriers and this effect destroys\na part or Barrier of the enemy Leader, choose and destroy 1 extra enemy part."
+   "t": "[Snipe: Leader only] If you have 2 or\nfewer Barriers and this effect destroys\na part or Barrier of the enemy Leader,\nchoose and destroy 1 extra enemy part."
   },
   {
    "row": "Parts52",
@@ -4199,7 +4199,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0faf31b5d462",
-   "t": "Until the end of the turn, enemy traps do not activate."
+   "t": "Until the end of the turn, enemy traps do\nnot activate."
   },
   {
    "row": "Parts53",
@@ -4227,14 +4227,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1df61a5d22e3",
-   "t": "Until the start of your next turn, gain [Guard] and [Counter]."
+   "t": "Until the start of your next turn, gain\n[Guard] and [Counter]."
   },
   {
    "row": "Parts54",
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "This part cannot be destroyed or changed. It cannot be targeted while defending."
+   "t": "This part cannot be destroyed or\nchanged, nor targeted while defending."
   },
   {
    "row": "Parts55",
@@ -4262,7 +4262,7 @@
    "sub": 0,
    "col": "m_skillText2",
    "src": "1af3c34676b0",
-   "t": "This part cannot be destroyed or changed. It cannot be targeted while defending."
+   "t": "This part cannot be destroyed or\nchanged, nor targeted while defending."
   },
   {
    "row": "Parts56",
@@ -4297,14 +4297,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Parts57",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": "Equipped by Armor Chario: gain [Defense]."
+   "t": "Equipped by Armor Chario: gain\n[Defense]."
   },
   {
    "row": "Parts58",
@@ -4325,14 +4325,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dfdc1b03456a",
-   "t": "[Snipe] If the target has [Guard], this damage increases by 3000."
+   "t": "[Snipe] If the target has [Guard], this\ndamage increases by 3000."
   },
   {
    "row": "Parts58",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": "Equipped by Armor Chario: gain [Defense]."
+   "t": "Equipped by Armor Chario: gain\n[Defense]."
   },
   {
    "row": "Parts59",
@@ -4353,14 +4353,14 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e442d046451b",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, inflict [Bind] on the target until the end of the opponent's turn.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\ninflict [Bind] on the target until the end of\nthe opponent's turn.\""
   },
   {
    "row": "Parts59",
    "sub": 0,
    "col": "m_skillText2",
    "src": "2faa7baa3bde",
-   "t": "Equipped by Armor Chario: gain [Defense]."
+   "t": "Equipped by Armor Chario: gain\n[Defense]."
   },
   {
    "row": "Parts60",
@@ -4395,7 +4395,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f420a312777f",
-   "t": "Until the start of your next turn, gain [Guard] and \"When this Medabot is hit by a\nnormal attack, its power increases by 2000. After the attack, power returns to normal.\""
+   "t": "Until the start of your next turn, gain\n[Guard] and \"When hit by a normal attack,\nits power increases by 2000. After the\nattack, power returns to normal.\""
   },
   {
    "row": "Parts61",
@@ -4451,7 +4451,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "37495557f6e8",
-   "t": "Until the start of your next turn, gain \"When the opponent chooses\na Medabot as a target, they must choose this Medabot if possible.\""
+   "t": "Until the start of your next turn, gain\n\"When the opponent chooses a Medabot\nas a target, they must choose this one if\npossible.\""
   },
   {
    "row": "Parts63",
@@ -4521,7 +4521,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "88f2cfacab09",
-   "t": "Choose 1 Medabot. Its action cost increases by 2 until the end of the opponent's turn."
+   "t": "Choose 1 Medabot. Its action cost\nincreases by 2 until the end of the\nopponent's turn."
   },
   {
    "row": "Parts66",
@@ -4549,7 +4549,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "73a14547e528",
-   "t": "Choose 1 enemy Medabot and deal 6000 damage. Inflict\n[Bind] on it until the end of the opponent's turn."
+   "t": "Choose 1 enemy Medabot and deal 6000\ndamage. Inflict [Bind] on it until the end\nof the opponent's turn."
   },
   {
    "row": "Parts67",
@@ -4647,7 +4647,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0cf1a111e70b",
-   "t": "Until the end of the opponent's next turn, negate\none enemy effect that targets this Medabot."
+   "t": "Until the end of the opponent's next turn,\nnegate one enemy effect that targets this\nMedabot."
   },
   {
    "row": "Parts71",
@@ -4689,7 +4689,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "668179c84c98",
-   "t": "Choose 1 enemy Medabot and deal 8000 damage. If this Medabot has [Burn], destroy 1\nrandom enemy part. Then this Medabot gains [Burn] until the start of your next turn."
+   "t": "Choose 1 enemy Medabot and deal 8000\ndamage. If this Medabot has [Burn],\ndestroy 1 random enemy part. Then this\nMedabot gains [Burn] until the start of\nyour next turn."
   },
   {
    "row": "Parts96",
@@ -4724,7 +4724,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb22a2910309",
-   "t": "Deal 5000 damage to all enemy Supports. If this Medabot was on Standby at the start of\nthe turn, this damage increases by 1000. Banish every Medabot destroyed by this effect."
+   "t": "Deal 5000 damage to all enemy Supports.\nIf this Medabot was on Standby at the\nstart of the turn, this damage increases\nby 1000. Banish every Medabot destroyed\nby this effect."
   },
   {
    "row": "Parts108",
@@ -4759,7 +4759,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "69651a23f825",
-   "t": "Choose 1 Medabot and deal 10000 damage. If a Tactics card was used this\nturn, also destroy 1 enemy part. Choose 1 of your parts and destroy it."
+   "t": "Choose 1 Medabot and deal 10000\ndamage. If a Tactics card was used this\nturn, also destroy 1 enemy part. Choose 1\nof your parts and destroy it."
   },
   {
    "row": "Parts110",
@@ -4780,7 +4780,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d39bde129bca",
-   "t": "[Snipe] If the target's charge is 8 or more, this damage increases by 4000."
+   "t": "[Snipe] If the target's charge is 8 or\nmore, this damage increases by 4000."
   },
   {
    "row": "Parts86",
@@ -4815,7 +4815,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e1d979f16955",
-   "t": "When this Medabot makes a normal attack on the enemy Leader, or is\nhit by one from it, choose 1 enemy Support on Standby and return\nit to the deck. If that happens, destroy 1 random enemy part."
+   "t": "When this Medabot makes a normal\nattack on the enemy Leader, or is hit by\none from it, choose 1 enemy Support on\nStandby and return it to the deck. If that\nhappens, destroy 1 random enemy part."
   },
   {
    "row": "Parts98",
@@ -4850,7 +4850,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d995c11a1bb7",
-   "t": "When this Medabot makes or receives a normal attack, if the\ntarget has [Guard], this Medabot's power increases by 4000."
+   "t": "When this Medabot makes or receives a\nnormal attack, if the target has [Guard],\nthis Medabot's power increases by 4000."
   },
   {
    "row": "Parts111",
@@ -4885,7 +4885,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9e8a67a76f87",
-   "t": "When this Medabot makes a normal attack, the target gains 1 of [Shock], [Freeze], [Bind]\nor [Burn] at random until the end of the opponent's turn. When this Medabot destroys a\npart or a barrier of an enemy Leader on Standby, the opponent destroys 1 more part."
+   "t": "When this Medabot makes a normal\nattack, the target gains 1 of [Shock],\n[Freeze], [Bind] or [Burn] at random until\nthe end of the opponent's turn. When this\nMedabot destroys a part or a barrier of an\nenemy Leader on Standby, the opponent\ndestroys 1 more part."
   },
   {
    "row": "Parts113",
@@ -4906,7 +4906,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1dd2c93bdc8",
-   "t": "Choose 1 enemy Medabot and return its power to its base value."
+   "t": "Choose 1 enemy Medabot and return its\npower to its base value."
   },
   {
    "row": "Parts88",
@@ -4941,7 +4941,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ec0727c13f5",
-   "t": "All your Medabots except this one gain 2000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "All your Medabots except this one\ngain 2000 power until the start of your\nnext turn. This Medabot cannot Quick\ncooldown this turn."
   },
   {
    "row": "Parts104",
@@ -4976,7 +4976,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cc115e5e9437",
-   "t": "Every Medabot of the [Strike] type loses its abilities\n(traits), part abilities included, except Conceal."
+   "t": "Every Medabot of the [Strike] type loses\nits abilities (traits), part abilities included,\nexcept Conceal."
   },
   {
    "row": "Parts115",
@@ -4997,7 +4997,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c666bf42a5f3",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start\nof your next turn. This Medabot cannot Quick cooldown this turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn.\nThis Medabot cannot Quick cooldown this\nturn."
   },
   {
    "row": "Parts90",
@@ -5032,7 +5032,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f49cea1a7fe",
-   "t": "[Repair] With 4 or more Barrier Hand cards, this effect can choose up to 2 cards."
+   "t": "[Repair] With 4 or more Barrier Hand\ncards, this effect can choose up to 2\ncards."
   },
   {
    "row": "Parts106",
@@ -5067,7 +5067,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "bf76df9a4599",
-   "t": "Remove [Curable Status Ailments] from all your\nMedabots. Reduce the enemy's Deploy points by 4."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots. Reduce the enemy's\nDeploy points by 4."
   },
   {
    "row": "Parts92",
@@ -5102,7 +5102,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "fa8759c09beb",
-   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot is hit by a normal\nattack, its power increases by 4000. After the attack, its power returns to normal.\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"When this Medabot is hit by\na normal attack, its power increases by\n4000. After the attack, its power returns\nto normal.\""
   },
   {
    "row": "Parts102",
@@ -5137,7 +5137,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b2633ae2d1",
-   "t": "Until the start of your next turn, gains [Guard] and \"When this Medabot takes damage from\nan ability (action), choose 1 enemy [Shoot] type Support and return it to the deck.\""
+   "t": "Until the start of your next turn, gains\n[Guard] and \"When damaged by an ability\n(action), choose 1 enemy [Shoot] type\nSupport and return it to the deck.\""
   },
   {
    "row": "Parts114",
@@ -5158,7 +5158,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d4cbb8291b8f",
-   "t": "Until the start of your next turn, gains [Guard] and [Counter].\n[Counter] damage is reduced by 2000 and its target becomes the Leader."
+   "t": "Until the start of your next turn, gains\n[Guard] and [Counter]. [Counter] damage\nis reduced by 2000 and its target\nbecomes the Leader."
   },
   {
    "row": "Parts94",
@@ -5270,7 +5270,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": "Deal 6000 damage to the enemy Leader. When you destroy a part\nor Barrier of the enemy Leader, destroy 1 more enemy part."
+   "t": "Deal 6000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy\npart."
   },
   {
    "row": "Medaforce01",
@@ -5284,7 +5284,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": "Deal 7000 damage to the enemy Leader. When you destroy a part\nor Barrier of the enemy Leader, destroy 1 more enemy part."
+   "t": "Deal 7000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy\npart."
   },
   {
    "row": "Medaforce02",
@@ -5298,7 +5298,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2b2ba76ee6eb",
-   "t": "Deal 4000 damage to all enemy Medabots."
+   "t": "Deal 4000 damage to all enemy\nMedabots."
   },
   {
    "row": "Medaforce03",
@@ -5312,7 +5312,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "43ce854c48ef",
-   "t": "Deal 5000 damage to all enemy Medabots."
+   "t": "Deal 5000 damage to all enemy\nMedabots."
   },
   {
    "row": "Medaforce04",
@@ -5354,7 +5354,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "70bc69b3e7cd",
-   "t": "Draw 2 random [Shoot] type Tactics cards from your deck."
+   "t": "Draw 2 random [Shoot] type Tactics\ncards from your deck."
   },
   {
    "row": "Medaforce07",
@@ -5368,7 +5368,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "43575b46e6b9",
-   "t": "Draw 3 random [Shoot] type Tactics cards from your deck."
+   "t": "Draw 3 random [Shoot] type Tactics\ncards from your deck."
   },
   {
    "row": "Medaforce08",
@@ -5382,7 +5382,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d63a7533fbda",
-   "t": "Deal 6000 damage to the enemy Leader. When you destroy a part\nor Barrier of the enemy Leader, destroy 1 more enemy part."
+   "t": "Deal 6000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy\npart."
   },
   {
    "row": "Medaforce09",
@@ -5396,7 +5396,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "262eb4a2c765",
-   "t": "Deal 7000 damage to the enemy Leader. When you destroy a part\nor Barrier of the enemy Leader, destroy 1 more enemy part."
+   "t": "Deal 7000 damage to the enemy Leader.\nWhen you destroy a part or Barrier of the\nenemy Leader, destroy 1 more enemy\npart."
   },
   {
    "row": "Medaforce10",
@@ -5410,7 +5410,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2b2ba76ee6eb",
-   "t": "Deal 4000 damage to all enemy Medabots."
+   "t": "Deal 4000 damage to all enemy\nMedabots."
   },
   {
    "row": "Medaforce11",
@@ -5424,7 +5424,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "43ce854c48ef",
-   "t": "Deal 5000 damage to all enemy Medabots."
+   "t": "Deal 5000 damage to all enemy\nMedabots."
   },
   {
    "row": "Medaforce12",
@@ -5438,7 +5438,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f1a7b4499b00",
-   "t": "Choose 1 enemy Medabot and deal 4000 damage to it. The\ntarget gets [Shock] until the end of the enemy's turn."
+   "t": "Choose 1 enemy Medabot and deal 4000\ndamage to it. The target gets [Shock]\nuntil the end of the enemy's turn."
   },
   {
    "row": "Medaforce13",
@@ -5452,7 +5452,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "25f56a42d686",
-   "t": "Choose 1 enemy Medabot and deal 5000 damage to it. The\ntarget gets [Shock] until the end of the enemy's turn."
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it. The target gets [Shock]\nuntil the end of the enemy's turn."
   },
   {
    "row": "Medaforce14",
@@ -5466,7 +5466,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "52f25b29ccb0",
-   "t": "Choose 1 enemy Medabot and deal 4000 damage to it. The\ntarget gets [Bind] until the end of the enemy's turn."
+   "t": "Choose 1 enemy Medabot and deal 4000\ndamage to it. The target gets [Bind] until\nthe end of the enemy's turn."
   },
   {
    "row": "Medaforce15",
@@ -5480,7 +5480,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "61ffb825257f",
-   "t": "Choose 1 enemy Medabot and deal 5000 damage to it. The\ntarget gets [Bind] until the end of the enemy's turn."
+   "t": "Choose 1 enemy Medabot and deal 5000\ndamage to it. The target gets [Bind] until\nthe end of the enemy's turn."
   },
   {
    "row": "Medaforce16",
@@ -5494,7 +5494,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "52d82e336d05",
-   "t": "Until the start of your next turn, your Leader gains 2000 power."
+   "t": "Until the start of your next turn, your\nLeader gains 2000 power."
   },
   {
    "row": "Medaforce17",
@@ -5508,7 +5508,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cb757a1abd45",
-   "t": "Until the start of your next turn, your Leader gains 4000 power."
+   "t": "Until the start of your next turn, your\nLeader gains 4000 power."
   },
   {
    "row": "Medaforce18",
@@ -5522,7 +5522,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d36823825fb8",
-   "t": "Until the start of your next turn, your maximum energy increases by 2."
+   "t": "Until the start of your next turn, your\nmaximum energy increases by 2."
   },
   {
    "row": "Medaforce19",
@@ -5536,7 +5536,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c81cf4c0a6f4",
-   "t": "Until the start of your next turn, your maximum energy increases by 4."
+   "t": "Until the start of your next turn, your\nmaximum energy increases by 4."
   },
   {
    "row": "Medaforce20",
@@ -5550,7 +5550,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": "Until the start of your next turn, all your Medabots gain 1000 power.\nWhile it is active, new effects that target them are nullified."
+   "t": "Until the start of your next turn, all your\nMedabots gain 1000 power. While it is\nactive, new effects that target them are\nnullified."
   },
   {
    "row": "Medaforce21",
@@ -5564,7 +5564,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "04d97e37f9cf",
-   "t": "Until the start of your next turn, all your Medabots gain 1000 power.\nWhile it is active, new effects that target them are nullified."
+   "t": "Until the start of your next turn, all your\nMedabots gain 1000 power. While it is\nactive, new effects that target them are\nnullified."
   },
   {
    "row": "Medaforce22",
@@ -5578,7 +5578,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05b07eafe027",
-   "t": "The next ability (Action) you activate costs 2."
+   "t": "The next ability (Action) you activate\ncosts 2."
   },
   {
    "row": "Medaforce23",
@@ -5592,7 +5592,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "04b06929f81d",
-   "t": "The next ability (Action) you activate costs 0."
+   "t": "The next ability (Action) you activate\ncosts 0."
   },
   {
    "row": "Medaforce24",
@@ -5606,7 +5606,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3321c1edbc2c",
-   "t": "Add copies of 2 random cards from your discard pile to your deck, parts excluded."
+   "t": "Add copies of 2 random cards from your\ndiscard pile to your deck, parts excluded."
   },
   {
    "row": "Medaforce25",
@@ -5620,7 +5620,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d6a76dbe5076",
-   "t": "Add copies of 4 random cards from your discard pile to your deck, parts excluded."
+   "t": "Add copies of 4 random cards from your\ndiscard pile to your deck, parts excluded."
   },
   {
    "row": "Medaforce26",
@@ -5634,7 +5634,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7f4517612607",
-   "t": "Choose 1 of your destroyed parts at random and add\na copy of it to your spare parts. Do this 1 time."
+   "t": "Choose 1 of your destroyed parts at\nrandom and add a copy of it to your spare\nparts. Do this 1 time."
   },
   {
    "row": "Medaforce27",
@@ -5648,7 +5648,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "512807f40004",
-   "t": "Choose 1 of your destroyed parts at random and add\na copy of it to your spare parts. Do this 2 times."
+   "t": "Choose 1 of your destroyed parts at\nrandom and add a copy of it to your spare\nparts. Do this 2 times."
   },
   {
    "row": "Medaforce28",
@@ -5662,7 +5662,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": "Continuous: At the end of your turn, if your Barrier is not at its\nmaximum, you may choose 1 card in your hand and make it a Barrier."
+   "t": "Continuous: At the end of your turn, if\nyour Barrier is not at its maximum, you\nmay choose 1 card in your hand and\nmake it a Barrier."
   },
   {
    "row": "Medaforce29",
@@ -5676,7 +5676,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "5a2acfaad7b7",
-   "t": "Continuous: At the end of your turn, if your Barrier is not at its\nmaximum, you may choose 1 card in your hand and make it a Barrier."
+   "t": "Continuous: At the end of your turn, if\nyour Barrier is not at its maximum, you\nmay choose 1 card in your hand and\nmake it a Barrier."
   },
   {
    "row": "Medaforce30",
@@ -5690,7 +5690,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": "Choose 2 cards in your hand and make them Barriers. At\nthe start of your next turn, destroy 2 of your Barriers."
+   "t": "Choose 2 cards in your hand and make\nthem Barriers. At the start of your next\nturn, destroy 2 of your Barriers."
   },
   {
    "row": "Medaforce31",
@@ -5704,7 +5704,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "de465b4a5fde",
-   "t": "Choose 2 cards in your hand and make them Barriers. At\nthe start of your next turn, destroy 2 of your Barriers."
+   "t": "Choose 2 cards in your hand and make\nthem Barriers. At the start of your next\nturn, destroy 2 of your Barriers."
   },
   {
    "row": "Medaforce32",
@@ -5718,7 +5718,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b1ccc5bb7c61",
-   "t": "Until the start of your next turn, your Medabots take no damage from Tactics cards."
+   "t": "Until the start of your next turn, your\nMedabots take no damage from Tactics\ncards."
   },
   {
    "row": "Medaforce33",
@@ -5732,7 +5732,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b1ccc5bb7c61",
-   "t": "Until the start of your next turn, your Medabots take no damage from Tactics cards."
+   "t": "Until the start of your next turn, your\nMedabots take no damage from Tactics\ncards."
   },
   {
    "row": "Medaforce34",
@@ -5746,7 +5746,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": "Until the start of your next turn, when one of your Medabots is\nhit by a normal attack, deal the same damage to the enemy Leader."
+   "t": "Until the start of your next turn, when\none of your Medabots is hit by a normal\nattack, deal the same damage to the\nenemy Leader."
   },
   {
    "row": "Medaforce35",
@@ -5760,7 +5760,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cf5ebfcf7242",
-   "t": "Until the start of your next turn, when one of your Medabots is\nhit by a normal attack, deal the same damage to the enemy Leader."
+   "t": "Until the start of your next turn, when\none of your Medabots is hit by a normal\nattack, deal the same damage to the\nenemy Leader."
   },
   {
    "row": "Medaforce36",
@@ -5774,7 +5774,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": "Until the start of your next turn, your Medabots halve the damage they take from abilities."
+   "t": "Until the start of your next turn, your\nMedabots halve the damage they take\nfrom abilities."
   },
   {
    "row": "Medaforce37",
@@ -5788,7 +5788,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "81f5416e369d",
-   "t": "Until the start of your next turn, your Medabots halve the damage they take from abilities."
+   "t": "Until the start of your next turn, your\nMedabots halve the damage they take\nfrom abilities."
   },
   {
    "row": "Medaforce38",
@@ -5802,7 +5802,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": "Until the start of your next turn, all your Medabots gain 2000 power when\nhit by a normal attack. This effect lasts until the start of your next turn."
+   "t": "Until the start of your next turn, all your\nMedabots gain 2000 power when hit by a\nnormal attack. This effect lasts until the\nstart of your next turn."
   },
   {
    "row": "Medaforce39",
@@ -5816,7 +5816,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d3b94fc41099",
-   "t": "Until the start of your next turn, all your Medabots gain 2000 power when\nhit by a normal attack. This effect lasts until the start of your next turn."
+   "t": "Until the start of your next turn, all your\nMedabots gain 2000 power when hit by a\nnormal attack. This effect lasts until the\nstart of your next turn."
   },
   {
    "row": "Medaforce40",
@@ -5998,7 +5998,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8f97e3279a8c",
-   "t": "Choose 1 of your [Shoot] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Shoot] type Medabots.\nIt gains 2000 power until the end of the\nturn."
   },
   {
    "row": "Tactics05",
@@ -6012,7 +6012,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3e6f2b3e630a",
-   "t": "Choose 1 of your [Shoot] type Medabots. It gains\n1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Shoot] type Medabots.\nIt gains 1000 power until the start of your\nnext turn."
   },
   {
    "row": "Tactics06",
@@ -6026,7 +6026,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Choose 1 random opponent's Medabot and deal 6000 damage. Do this twice."
+   "t": "Choose 1 random opponent's Medabot\nand deal 6000 damage. Do this twice."
   },
   {
    "row": "Tactics07",
@@ -6040,7 +6040,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "05143f4d3923",
-   "t": "Choose 1 enemy Support. Until the end of the opponent's turn,\nif the target is destroyed by [Snipe], destroy 1 enemy Barrier."
+   "t": "Choose 1 enemy Support. Until the end\nof the opponent's turn, if the target is\ndestroyed by [Snipe], destroy 1 enemy\nBarrier."
   },
   {
    "row": "Tactics08",
@@ -6054,7 +6054,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "7772e496fa39",
-   "t": "Deal 3000 damage to 1 random enemy Medabot. Then return this card to your hand.\nAt the end of the End phase of that turn, put this card in the discard pile."
+   "t": "Deal 3000 damage to 1 random enemy\nMedabot. Then return this card to your\nhand. At the end of the End phase of that\nturn, put this card in the discard pile."
   },
   {
    "row": "Tactics09",
@@ -6068,7 +6068,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f7a1c7083e48",
-   "t": "Choose 1 of your Medabots and 1 enemy Medabot. Deal damage equal to your chosen\nMedabot's power to the enemy Medabot. This effect also counts as [Snipe]."
+   "t": "Choose 1 of your Medabots and 1 enemy\nMedabot. Deal damage equal to your\nchosen Medabot's power to the enemy\nMedabot. This effect also counts as\n[Snipe]."
   },
   {
    "row": "Tactics10",
@@ -6138,7 +6138,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dbe85f033e6c",
-   "t": "Choose 1 of your [Strike] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Strike] type Medabots.\nIt gains 2000 power until the end of the\nturn."
   },
   {
    "row": "Tactics15",
@@ -6152,7 +6152,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "818bdbfcacba",
-   "t": "Choose 1 of your [Strike] type Medabots. It gains\n1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Strike] type Medabots.\nIt gains 1000 power until the start of your\nnext turn."
   },
   {
    "row": "Tactics16",
@@ -6166,7 +6166,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Choose 1 random opponent's Medabot and deal 6000 damage. Do this twice."
+   "t": "Choose 1 random opponent's Medabot\nand deal 6000 damage. Do this twice."
   },
   {
    "row": "Tactics17",
@@ -6180,7 +6180,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "292d41f27425",
-   "t": "Choose 1 enemy Medabot. Until the end of the opponent's turn,\nit gains 1 of [Shock], [Freeze], [Bind] or [Burn] at random."
+   "t": "Choose 1 enemy Medabot. Until the end of\nthe opponent's turn, it gains 1 of [Shock],\n[Freeze], [Bind] or [Burn] at random."
   },
   {
    "row": "Tactics18",
@@ -6194,7 +6194,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a66c7b41248",
-   "t": "Choose 1 of your Medabots. Until the end of the turn, when the\ntarget destroys a Medabot with a Cross Attack, choose 1 enemy\npart and destroy it. This effect is lost once it activates."
+   "t": "Choose 1 of your Medabots. Until the end\nof the turn, when the target destroys a\nMedabot with a Cross Attack, choose 1\nenemy part and destroy it. This effect is\nlost once it activates."
   },
   {
    "row": "Tactics19",
@@ -6208,7 +6208,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "10d8aebaf3bf",
-   "t": "Choose 1 Standby Medabot of yours with [Frenzy]. It normal attacks a random enemy\nMedabot, then takes damage equal to its own power (this damage cannot be reduced)."
+   "t": "Choose 1 Standby Medabot of yours with\n[Frenzy]. It normal attacks a random\nenemy Medabot, then takes damage\nequal to its own power (this damage\ncannot be reduced)."
   },
   {
    "row": "Tactics30",
@@ -6264,7 +6264,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2cf6f324ecd",
-   "t": "Choose 1 of your Medabots. Until the end of the turn, when the\ntarget destroys the enemy leader's part or Barrier, choose 1\nenemy part and destroy it. This effect is lost once it activates."
+   "t": "Choose 1 of your Medabots. Until the end\nof the turn, when the target destroys the\nenemy leader's part or Barrier, choose 1\nenemy part and destroy it. This effect is\nlost once it activates."
   },
   {
    "row": "Tactics34",
@@ -6278,7 +6278,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ae75976700cb",
-   "t": "Choose 1 of your Medabots. It gains 1000 power until the start of your next turn."
+   "t": "Choose 1 of your Medabots. It gains 1000\npower until the start of your next turn."
   },
   {
    "row": "Tactics35",
@@ -6292,7 +6292,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c019191d7d92",
-   "t": "Choose 1 of your [Support] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Support] type\nMedabots. It gains 2000 power until the\nend of the turn."
   },
   {
    "row": "Tactics36",
@@ -6306,7 +6306,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "302078e6a48e",
-   "t": "Choose 1 of your Medabots. It gains 3000 power until the start of your next turn."
+   "t": "Choose 1 of your Medabots. It gains 3000\npower until the start of your next turn."
   },
   {
    "row": "Tactics37",
@@ -6320,7 +6320,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2ebc50943378",
-   "t": "Quick cooldown 1 of your Supports. Return it to the deck at the end of the End phase."
+   "t": "Quick cooldown 1 of your Supports.\nReturn it to the deck at the end of the\nEnd phase."
   },
   {
    "row": "Tactics38",
@@ -6334,7 +6334,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "22da0e5650e6",
-   "t": "Choose 1 Support. Its power becomes 5000."
+   "t": "Choose 1 Support. Its power becomes\n5000."
   },
   {
    "row": "Tactics39",
@@ -6376,7 +6376,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ce8d1ba9c7a9",
-   "t": "Remove [Curable Status Ailments] from all your Medabots."
+   "t": "Remove [Curable Status Ailments] from\nall your Medabots."
   },
   {
    "row": "Tactics42",
@@ -6404,7 +6404,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cd9825c65668",
-   "t": "[Revive: 6 or more] The Medabot revived by this effect gains 4000 power."
+   "t": "[Revive: 6 or more] The Medabot revived\nby this effect gains 4000 power."
   },
   {
    "row": "Tactics44",
@@ -6418,7 +6418,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cef552d87d32",
-   "t": "Choose 1 of your [Heal] type Medabots. It gains\n1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Heal] type Medabots.\nIt gains 1000 power until the start of your\nnext turn."
   },
   {
    "row": "Tactics45",
@@ -6432,7 +6432,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ae4cc77d627a",
-   "t": "Choose 1 of your [Heal] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Heal] type Medabots.\nIt gains 2000 power until the end of the\nturn."
   },
   {
    "row": "Tactics46",
@@ -6446,7 +6446,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6392e079c3a9",
-   "t": "Make up to 2 cards from the top of your deck into Barriers."
+   "t": "Make up to 2 cards from the top of your\ndeck into Barriers."
   },
   {
    "row": "Tactics47",
@@ -6460,7 +6460,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b0583f834bef",
-   "t": "[Revive: 4 or less] The Medabot revived by this effect gains 1000 power."
+   "t": "[Revive: 4 or less] The Medabot revived\nby this effect gains 1000 power."
   },
   {
    "row": "Tactics48",
@@ -6488,7 +6488,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6392e079c3a9",
-   "t": "Make up to 2 cards from the top of your deck into Barriers."
+   "t": "Make up to 2 cards from the top of your\ndeck into Barriers."
   },
   {
    "row": "Tactics20",
@@ -6544,7 +6544,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a3be133a0f80",
-   "t": "Choose 1 of your Supports. Until the start of your next\nturn, it gains [Guard] and [Cannot Attack], and 4000 power."
+   "t": "Choose 1 of your Supports. Until the start\nof your next turn, it gains [Guard] and\n[Cannot Attack], and 4000 power."
   },
   {
    "row": "Tactics24",
@@ -6558,7 +6558,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ef3e4a6a2ff",
-   "t": "Choose 1 of your [Defense] type Medabots. It gains\n1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Defense] type\nMedabots. It gains 1000 power until the\nstart of your next turn."
   },
   {
    "row": "Tactics25",
@@ -6572,7 +6572,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "283bac25142a",
-   "t": "Choose 1 of your Medabots with [Guard]. Until the start of\nyour next turn, it gains [Cannot Attack] and 3000 power."
+   "t": "Choose 1 of your Medabots with [Guard].\nUntil the start of your next turn, it gains\n[Cannot Attack] and 3000 power."
   },
   {
    "row": "Tactics26",
@@ -6586,7 +6586,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b486077ea969",
-   "t": "All your Medabots nullify damage once. This effect does not stack."
+   "t": "All your Medabots nullify damage once.\nThis effect does not stack."
   },
   {
    "row": "Tactics27",
@@ -6600,7 +6600,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "da2978776556",
-   "t": "Choose 1 of your Supports. Until the start of your next turn, the\ntarget is destroyed in place of your leader's part or Barrier."
+   "t": "Choose 1 of your Supports. Until the start\nof your next turn, the target is destroyed\nin place of your leader's part or Barrier."
   },
   {
    "row": "Tactics28",
@@ -6614,7 +6614,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "871fe3b3bbb9",
-   "t": "Choose 1 of your Medabots; it nullifies damage once. This effect does not stack."
+   "t": "Choose 1 of your Medabots; it nullifies\ndamage once. This effect does not stack."
   },
   {
    "row": "Tactics29",
@@ -6628,7 +6628,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "68dc231af114",
-   "t": "Until the start of your next turn, all your Medabots\nreduce damage taken from Medaforce by 2000."
+   "t": "Until the start of your next turn, all your\nMedabots reduce damage taken from\nMedaforce by 2000."
   },
   {
    "row": "Tactics50",
@@ -6656,7 +6656,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1f9b7ea21390",
-   "t": "Put 1 of your own Supports in the discard pile. Gain 4 Deploy points."
+   "t": "Put 1 of your own Supports in the discard\npile. Gain 4 Deploy points."
   },
   {
    "row": "Tactics52",
@@ -6698,7 +6698,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8a4f86b013ba",
-   "t": "Choose 1 of your [Deploy] type Medabots. It gains\n1000 power until the start of your next turn."
+   "t": "Choose 1 of your [Deploy] type Medabots.\nIt gains 1000 power until the start of your\nnext turn."
   },
   {
    "row": "Tactics55",
@@ -6712,7 +6712,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9ee23737b91c",
-   "t": "Choose 1 of your [Deploy] type Medabots. It gains 2000 power until the end of the turn."
+   "t": "Choose 1 of your [Deploy] type Medabots.\nIt gains 2000 power until the end of the\nturn."
   },
   {
    "row": "Tactics56",
@@ -6726,7 +6726,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "956a02ab0887",
-   "t": "Choose 1 random opponent's Medabot and deal 6000 damage. Do this twice."
+   "t": "Choose 1 random opponent's Medabot\nand deal 6000 damage. Do this twice."
   },
   {
    "row": "Tactics57",
@@ -6782,7 +6782,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "fb7fb5b7e5e8",
-   "t": "Choose 1 of your Medabots. Its power increases by 200 until the start of your next turn."
+   "t": "Choose 1 of your Medabots. Its power\nincreases by 200 until the start of your\nnext turn."
   },
   {
    "row": "Tactics61",
@@ -6796,7 +6796,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6439b210cc78",
-   "t": "Until the end of your next turn, your max energy\nincreases by 1 (current value does not increase)."
+   "t": "Until the end of your next turn, your max\nenergy increases by 1 (current value does\nnot increase)."
   },
   {
    "row": "Tactics62",
@@ -6810,7 +6810,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b19e1d3b1434",
-   "t": "Until the end of your next turn, gain 1 tactic stock of your Leader's type."
+   "t": "Until the end of your next turn, gain 1\ntactic stock of your Leader's type."
   },
   {
    "row": "Tactics63",
@@ -6824,7 +6824,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3604bf96110e",
-   "t": "Choose 1 of your Medabots. Its quick cooldown cost becomes 2 until the end of the turn."
+   "t": "Choose 1 of your Medabots. Its quick\ncooldown cost becomes 2 until the end of\nthe turn."
   },
   {
    "row": "Tactics64",
@@ -6838,7 +6838,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1a94abf77fac",
-   "t": "Until the end of the turn, your Leader's action cost is reduced by 1 (never below 1)."
+   "t": "Until the end of the turn, your Leader's\naction cost is reduced by 1 (never below\n1)."
   },
   {
    "row": "Tactics65",
@@ -6852,7 +6852,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab1816466a1",
-   "t": "Until the end of the turn, your Leader's quick\ncooldown cost is reduced by 1 (never below 1)."
+   "t": "Until the end of the turn, your Leader's\nquick cooldown cost is reduced by 1\n(never below 1)."
   },
   {
    "row": "Tactics66",
@@ -6866,7 +6866,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1948befd6d2e",
-   "t": "Until the end of the turn, gain 1 tactic stock of your Leader's type."
+   "t": "Until the end of the turn, gain 1 tactic\nstock of your Leader's type."
   },
   {
    "row": "Tactics67",
@@ -6880,7 +6880,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "091b542fb28a",
-   "t": "Until the start of your next turn, Medaforce damage to your Leader is reduced by 3000."
+   "t": "Until the start of your next turn,\nMedaforce damage to your Leader is\nreduced by 3000."
   },
   {
    "row": "Tactics68",
@@ -6894,7 +6894,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "dc76ec42a511",
-   "t": "Until the start of your next turn, your Leader gains 2000 power when\nhit by a normal attack. Power returns to normal after the attack."
+   "t": "Until the start of your next turn, your\nLeader gains 2000 power when hit by a\nnormal attack. Power returns to normal\nafter the attack."
   },
   {
    "row": "Tactics69",
@@ -6908,7 +6908,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "256cdebf61c9",
-   "t": "Until the start of your next turn, ability damage to your Leader is reduced by 1000."
+   "t": "Until the start of your next turn, ability\ndamage to your Leader is reduced by\n1000."
   },
   {
    "row": "Tactics70",
@@ -6936,7 +6936,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "aa2682b70ec9",
-   "t": "Until the end of the turn, all your [Shoot] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Shoot]\ntype Medabots gain 2000 power."
   },
   {
    "row": "Medarotter01",
@@ -6950,7 +6950,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4e9b2d7ba891",
-   "t": "Until the end of the turn, all your [Strike] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Strike]\ntype Medabots gain 2000 power."
   },
   {
    "row": "Medarotter02",
@@ -6964,7 +6964,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b61209d06604",
-   "t": "Until the end of the turn, all your [Support] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your\n[Support] type Medabots gain 2000\npower."
   },
   {
    "row": "Medarotter03",
@@ -6978,7 +6978,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c3f8aef021d2",
-   "t": "Until the end of the turn, all your [Heal] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Heal]\ntype Medabots gain 2000 power."
   },
   {
    "row": "Medarotter04",
@@ -6992,7 +6992,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f8c55c50d3a2",
-   "t": "Until the end of the turn, all your [Defense] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your\n[Defense] type Medabots gain 2000\npower."
   },
   {
    "row": "Medarotter05",
@@ -7006,7 +7006,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "62db4f392306",
-   "t": "Until the end of the turn, all your [Deploy] type Medabots gain 2000 power."
+   "t": "Until the end of the turn, all your [Deploy]\ntype Medabots gain 2000 power."
   },
   {
    "row": "Medarotter06",
@@ -7020,7 +7020,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "27833cda32c8",
-   "t": "Until the start of your next turn, all your [Shoot]\nand [Strike] type Medabots gain 1000 power."
+   "t": "Until the start of your next turn, all your\n[Shoot] and [Strike] type Medabots gain\n1000 power."
   },
   {
    "row": "Medarotter07",
@@ -7034,7 +7034,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "2d74fcbf0edb",
-   "t": "Until the start of your next turn, all your [Support],\n[Heal], [Defense] and [Deploy] type Medabots gain 1000 power."
+   "t": "Until the start of your next turn, all your\n[Support], [Heal], [Defense] and [Deploy]\ntype Medabots gain 1000 power."
   },
   {
    "row": "Medarotter08",
@@ -7048,7 +7048,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "cd498beabcda",
-   "t": "Draw 1 random tactics card from your deck."
+   "t": "Draw 1 random tactics card from your\ndeck."
   },
   {
    "row": "Medarotter09",
@@ -7062,7 +7062,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9adc59322cb4",
-   "t": "Draw 2 random [Shoot] or [Strike] type cards from your deck."
+   "t": "Draw 2 random [Shoot] or [Strike] type\ncards from your deck."
   },
   {
    "row": "Medarotter10",
@@ -7076,7 +7076,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "734eb89c513a",
-   "t": "Draw 2 random [Support], [Heal] or [Defense] type cards from your deck."
+   "t": "Draw 2 random [Support], [Heal] or\n[Defense] type cards from your deck."
   },
   {
    "row": "Medarotter11",
@@ -7090,7 +7090,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "42a996b6501c",
-   "t": "Choose 1 opponent's Medabot and make it overheated."
+   "t": "Choose 1 opponent's Medabot and make\nit overheated."
   },
   {
    "row": "Medarotter12",
@@ -7104,7 +7104,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "368d03e5dc7c",
-   "t": "Until the end of the opponent's turn, ability damage to your Medabots is reduced by 2000."
+   "t": "Until the end of the opponent's turn,\nability damage to your Medabots is\nreduced by 2000."
   },
   {
    "row": "Medarotter13",
@@ -7118,7 +7118,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "197e4512da53",
-   "t": "Until the end of the opponent's turn, their Cross Attack action cost increases by 2."
+   "t": "Until the end of the opponent's turn, their\nCross Attack action cost increases by 2."
   },
   {
    "row": "Medarotter14",
@@ -7132,7 +7132,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "3a571c227628",
-   "t": "Until the end of the opponent's turn, their quick cooldown cost increases by 2."
+   "t": "Until the end of the opponent's turn, their\nquick cooldown cost increases by 2."
   },
   {
    "row": "Medarotter15",
@@ -7146,7 +7146,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "423d3f5dd73c",
-   "t": "At the end of the turn, put all your Medabots into Standby."
+   "t": "At the end of the turn, put all your\nMedabots into Standby."
   },
   {
    "row": "Medarotter16",
@@ -7160,7 +7160,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4fffe645cc2d",
-   "t": "Choose 1 overheated opponent's Medabot. It does not cool down at the turn's start."
+   "t": "Choose 1 overheated opponent's Medabot.\nIt does not cool down at the turn's start."
   },
   {
    "row": "Medarotter17",
@@ -7174,7 +7174,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "e83fe18e2126",
-   "t": "Until the end of the opponent's turn, no traps activate."
+   "t": "Until the end of the opponent's turn, no\ntraps activate."
   },
   {
    "row": "Medarotter18",
@@ -7188,7 +7188,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "55c9ba0e1adc",
-   "t": "Until the end of the opponent's turn, all Plants lose their effects."
+   "t": "Until the end of the opponent's turn, all\nPlants lose their effects."
   },
   {
    "row": "Medarotter19",
@@ -7202,7 +7202,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f4f0265fefaf",
-   "t": "Reduce the opponent's Deploy points by 3 and gain 3 Deploy points."
+   "t": "Reduce the opponent's Deploy points by\n3 and gain 3 Deploy points."
   },
   {
    "row": "Medarotter20",
@@ -7216,7 +7216,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b2bf9fe6d510",
-   "t": "Until the end of your next turn, all Medabots lose their tactic stock."
+   "t": "Until the end of your next turn, all\nMedabots lose their tactic stock."
   },
   {
    "row": "Medarotter21",
@@ -7230,7 +7230,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "8ab43ec7f4c3",
-   "t": "Choose 1 opponent's Medabot. It loses its ability\n(trait) until the end of the opponent's turn."
+   "t": "Choose 1 opponent's Medabot. It loses\nits ability (trait) until the end of the\nopponent's turn."
   },
   {
    "row": "Medarotter22",
@@ -7244,7 +7244,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "ab3b305cdd52",
-   "t": "Until the end of the turn, damage from tactics cards increases by 1000."
+   "t": "Until the end of the turn, damage from\ntactics cards increases by 1000."
   },
   {
    "row": "Medarotter23",
@@ -7258,7 +7258,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a0238cfdad06",
-   "t": "Choose 1 of your support Medabots. It cannot be\nchosen as a target until the opponent's turn ends."
+   "t": "Choose 1 of your support Medabots. It\ncannot be chosen as a target until the\nopponent's turn ends."
   },
   {
    "row": "Medarotter24",
@@ -7272,7 +7272,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "51545792c586",
-   "t": "Gain 1-3 random rare cards of your Leader's type."
+   "t": "Gain 1-3 random rare cards of your\nLeader's type."
   },
   {
    "row": "Medarotter25",
@@ -7286,7 +7286,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "1d6c27ef36f8",
-   "t": "Choose 1 card in your hand and add a copy of it to your hand."
+   "t": "Choose 1 card in your hand and add a\ncopy of it to your hand."
   },
   {
    "row": "Medarotter26",
@@ -7300,7 +7300,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a04c4466f5ea",
-   "t": "At the start of your next turn, move 2 of your barriers to your Barrier Hand."
+   "t": "At the start of your next turn, move 2 of\nyour barriers to your Barrier Hand."
   },
   {
    "row": "Medarotter27",
@@ -7314,7 +7314,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "a8abea345f9c",
-   "t": "Until the end of the turn, the next Medabot you transfer enters Standby."
+   "t": "Until the end of the turn, the next\nMedabot you transfer enters Standby."
   },
   {
    "row": "Trap00",
@@ -7328,7 +7328,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "84023f02d62e",
-   "t": "When the opponent's Leader activates an$ability (action), destroy\n1 of their parts. The trap is destroyed when it activates."
+   "t": "When the opponent's Leader activates\nan$ability (action), destroy 1 of their parts.\nThe trap is destroyed when it activates."
   },
   {
    "row": "Trap01",
@@ -7342,7 +7342,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "6e958c5bb1be",
-   "t": "When an opponent's Medabot activates an$ability (action), put up to 3 cards from$the\ntop of their deck into the discard pile. The trap is destroyed when it activates."
+   "t": "When an opponent's Medabot activates\nan$ability (action), put up to 3 cards\nfrom$the top of their deck into the\ndiscard pile. The trap is destroyed when\nit activates."
   },
   {
    "row": "Trap02",
@@ -7356,7 +7356,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "09d8935a6b94",
-   "t": "When the opponent uses a tactics card,$put up to 3 cards from the top of\ntheir$deck into the discard pile. The trap is destroyed when it activates."
+   "t": "When the opponent uses a tactics\ncard,$put up to 3 cards from the top of\ntheir$deck into the discard pile. The trap\nis destroyed when it activates."
   },
   {
    "row": "Trap03",
@@ -7370,7 +7370,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "161ae4456fc4",
-   "t": "When the opponent's Leader makes a normal$attack, deal 10000 damage\nto all their$Medabots. The trap is destroyed when it activates."
+   "t": "When the opponent's Leader makes a\nnormal$attack, deal 10000 damage to all\ntheir$Medabots. The trap is destroyed\nwhen it activates."
   },
   {
    "row": "Trap04",
@@ -7384,7 +7384,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "bcdeec44ed97",
-   "t": "When the opponent's Leader activates an$ability (action), deal 10000\ndamage to$all their Medabots. The trap is destroyed when it activates."
+   "t": "When the opponent's Leader activates\nan$ability (action), deal 10000 damage\nto$all their Medabots. The trap is\ndestroyed when it activates."
   },
   {
    "row": "Trap05",
@@ -7398,7 +7398,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "d2fed412fa5a",
-   "t": "When the opponent uses a Barrier Hand$card during their Action Phase, after$that effect\nresolves, make all their$Medabots overheated. The trap is destroyed when it activates."
+   "t": "When the opponent uses a Barrier\nHand$card during their Action Phase,\nafter$that effect resolves, make all\ntheir$Medabots overheated. The trap is\ndestroyed when it activates."
   },
   {
    "row": "Trap06",
@@ -7412,7 +7412,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0113f584bb51",
-   "t": "When the opponent uses a card from hand$during their Action Phase, after that$effect\nresolves, deal 10000 damage to$all their Medabots. The trap is destroyed when it activates."
+   "t": "When the opponent uses a card from\nhand$during their Action Phase, after\nthat$effect resolves, deal 10000 damage\nto$all their Medabots. The trap is\ndestroyed when it activates."
   },
   {
    "row": "Trap07",
@@ -7426,7 +7426,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "89333a997e7c",
-   "t": "When an opponent's Medabot gains power$outside a normal attack, choose 1 of their$support\nMedabots and return it to the deck. The trap is destroyed when it activates."
+   "t": "When an opponent's Medabot gains\npower$outside a normal attack, choose 1\nof their$support Medabots and return it to\nthe deck. The trap is destroyed when it\nactivates."
   },
   {
    "row": "Trap08",
@@ -7440,7 +7440,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "f544d1620841",
-   "t": "When an opponent's Medabot activates an$ability (action), nullify it if the\ntarget is$not [Shoot] or [Strike] type. The trap is destroyed when it activates."
+   "t": "When an opponent's Medabot activates\nan$ability (action), nullify it if the target\nis$not [Shoot] or [Strike] type. The trap is\ndestroyed when it activates."
   },
   {
    "row": "Plant00",
@@ -7454,7 +7454,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "b7c4f5fc159d",
-   "t": "Continuous: Your Medabots' action costs are reduced by 1 (never below 1)."
+   "t": "Continuous: Your Medabots' action costs\nare reduced by 1 (never below 1)."
   },
   {
    "row": "Plant01",
@@ -7468,7 +7468,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "74e86fde854f",
-   "t": "Continuous: At the end of your turn, if your barriers are not\nat maximum, choose 1 card in your hand and make it a barrier."
+   "t": "Continuous: At the end of your turn, if\nyour barriers are not at maximum, choose\n1 card in your hand and make it a barrier."
   },
   {
    "row": "Plant02",
@@ -7482,7 +7482,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "4b94f33ec1ac",
-   "t": "Continuous: Your Medaforce damage increases by 2000."
+   "t": "Continuous: Your Medaforce damage\nincreases by 2000."
   },
   {
    "row": "Plant03",
@@ -7496,7 +7496,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "c49600213101",
-   "t": "Continuous: At the end of the enemy turn, [Revive: 6 or more]"
+   "t": "Continuous: At the end of the enemy turn,\n[Revive: 6 or more]"
   },
   {
    "row": "Plant04",
@@ -7510,7 +7510,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "0478f9350df5",
-   "t": "Continuous: Enemy action costs increase by 1."
+   "t": "Continuous: Enemy action costs increase\nby 1."
   },
   {
    "row": "Plant05",
@@ -7524,7 +7524,7 @@
    "sub": 0,
    "col": "m_skillText1",
    "src": "9208e320c59c",
-   "t": "Continuous: Every player's maximum energy$becomes 10."
+   "t": "Continuous: Every player's maximum\nenergy$becomes 10."
   },
   {
    "row": "Dummy_Shield",
