@@ -6,8 +6,8 @@
 **メダロット カードロボトル RB** never left Japan, so it only speaks Japanese.
 
 **Just want to play?** Grab the ready-to-run patcher for Windows or macOS from
-the [**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest)
-— no Python, no terminal. See
+the [**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest).
+No Python, no terminal. See
 [Play it](#play-it--the-easy-way-no-python-no-terminal) below.
 
 **What this repository is for:** translating the game without reverse-engineering
@@ -50,7 +50,7 @@ game. Pick the file for your computer:
    have?  → menu → *About This Mac*.
 2. Double-click the `.zip` to unpack the app, then **right-click it and choose
    Open** (not a normal double-click) the first time. macOS asks once whether
-   you're sure — click **Open**. After that it opens like any app. This extra
+   you're sure; click **Open**. After that it opens like any app. This extra
    step is only because the app isn't signed with a paid Apple certificate.
 
 ### Then, on either system
@@ -72,7 +72,7 @@ game. Pick the file for your computer:
 
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. 100% means every line is translated, not that every line is
-right — the goal is to polish them from here, together. Fixing a line takes a
+right; the goal is to polish them from here, together. Fixing a line takes a
 minute, and every correction reaches everyone; see
 [Fix a line](#fix-a-line-or-add-a-language).
 

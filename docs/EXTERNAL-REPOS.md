@@ -50,6 +50,6 @@ needs nothing installed.
 
 - **[mdr-navi-i18n](https://github.com/caribbeansc/mdr-navi-i18n)** — the sister
   fan-translation project for the GBA *Medarot Navi* games. It shares this
-  repository's approach — language packs that hold a key plus a fingerprint of
-  the source string and the translation, never the game's own text — and the two
+  repository's approach: language packs that hold a key plus a fingerprint of
+  the source string and the translation, never the game's own text. The two
   keep their release scheme and README shape in sync.
