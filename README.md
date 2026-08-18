@@ -31,12 +31,30 @@ crowdfunding backers, which are real names.
 
 ---
 
-## Play it
+## Play it — the easy way (no Python, no terminal)
+
+Grab the patcher from the
+[**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest):
+`MedarotRB-Patcher-Windows.exe`, or the macOS app (Apple Silicon or Intel) —
+built automatically from this repository on every change, and containing
+nothing from the game.
+
+1. In your emulator, right-click the game → **Extract Data** → **RomFS**, into
+   an empty folder. That folder is the only thing the patcher needs.
+2. Double-click the patcher. Windows SmartScreen: *More info* → *Run anyway*.
+   macOS: unzip, then **right-click the app → Open** the first time (it is not
+   notarized — signing costs money, the code is all here to read).
+3. Pick that folder, pick a language, **Build the patch** (the first run
+   prepares a cache and takes 20-60 minutes, only once), then **Install into
+   emulator** — or **ZIP for SD card** for a real console with Atmosphère.
+
+## Play it — from source
 
 You need Python 3.10+ ([python.org](https://www.python.org/downloads/); on Windows
 tick *Add python.exe to PATH*) and your game's **romfs**: in your emulator,
 right-click the game, then **Extract Data** and **RomFS**, into an empty folder.
-Other routes are in [docs/SETUP.md](docs/SETUP.md).
+Other routes are in [docs/SETUP.md](docs/SETUP.md). `python gui.py` opens the
+same graphical patcher; the menu below does the same and more from the terminal.
 
 ```
 git clone https://github.com/caribbeansc/medarot-rb-i18n
