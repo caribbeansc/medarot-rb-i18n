@@ -77,18 +77,38 @@ class App:
 
         row = ttk.Frame(frame)
         row.pack(fill="x")
-        ttk.Label(row, text=tr("Game files (romfs):", "Archivos del juego (romfs):")).pack(side="left")
+        ttk.Label(row, text=tr("Game:", "Juego:"), width=10).pack(side="left")
         self.romfs_var = tk.StringVar()
         ttk.Entry(row, textvariable=self.romfs_var).pack(side="left", fill="x", expand=True, padx=6)
-        ttk.Button(row, text=tr("Browse…", "Elegir…"), command=self.pick_romfs).pack(side="left")
+        ttk.Button(row, text=tr("Backup…", "Backup…"), command=self.pick_backup).pack(side="left")
+        ttk.Button(row, text=tr("romfs folder…", "carpeta romfs…"), command=self.pick_romfs).pack(side="left", padx=(4, 0))
 
-        hint = tr("The folder that contains Data/StreamingAssets — extract it from "
-                  "YOUR OWN dump with your emulator's 'Extract Data > RomFS'.",
-                  "La carpeta que contiene Data/StreamingAssets — extráela de TU "
-                  "PROPIO volcado con 'Extract Data > RomFS' en tu emulador.")
-        ttk.Label(frame, text=hint, foreground="#666", wraplength=680).pack(fill="x", pady=(2, 8))
+        hint = tr("Pick a Switch backup (.xci / .nsp / .xcz / .nsz) and it extracts "
+                  "the romfs for you, or point it at a folder you already extracted "
+                  "(the one containing Data/StreamingAssets).",
+                  "Elige un backup de Switch (.xci / .nsp / .xcz / .nsz) y extrae el "
+                  "romfs por ti, o apunta a una carpeta que ya extrajiste (la que "
+                  "contiene Data/StreamingAssets).")
+        ttk.Label(frame, text=hint, foreground="#666", wraplength=680).pack(fill="x", pady=(2, 6))
+
+        # Extra fields that only matter for a backup: an optional update .nsp and
+        # the player's keys (auto-filled when found).
+        self.extra = ttk.Frame(frame)
+        upd = ttk.Frame(self.extra)
+        upd.pack(fill="x", pady=(0, 3))
+        ttk.Label(upd, text=tr("Update .nsp:", "Update .nsp:"), width=12).pack(side="left")
+        self.update_var = tk.StringVar()
+        ttk.Entry(upd, textvariable=self.update_var).pack(side="left", fill="x", expand=True, padx=6)
+        ttk.Button(upd, text=tr("optional…", "opcional…"), command=self.pick_update).pack(side="left")
+        keyrow = ttk.Frame(self.extra)
+        keyrow.pack(fill="x")
+        ttk.Label(keyrow, text=tr("prod.keys:", "prod.keys:"), width=12).pack(side="left")
+        self.keys_var = tk.StringVar()
+        ttk.Entry(keyrow, textvariable=self.keys_var).pack(side="left", fill="x", expand=True, padx=6)
+        ttk.Button(keyrow, text=tr("Browse…", "Elegir…"), command=self.pick_keys).pack(side="left")
 
         row2 = ttk.Frame(frame)
+        self.actions = row2
         row2.pack(fill="x", pady=(0, 8))
         ttk.Label(row2, text=tr("Language:", "Idioma:")).pack(side="left")
         self.lang_var = tk.StringVar()
@@ -143,6 +163,7 @@ class App:
                 self.lang_box.current(0)
             if project.has_romfs():
                 self.romfs_var.set(str(project.romfs))
+            self.refresh_extra()
         except Exception as exc:  # never die on startup
             self.put_log(f"!! {exc}")
 
@@ -154,6 +175,44 @@ class App:
         path = filedialog.askdirectory(title="romfs")
         if path:
             self.romfs_var.set(path)
+            self.refresh_extra()
+
+    def pick_backup(self) -> None:
+        path = filedialog.askopenfilename(
+            title=tr("Switch backup", "Backup de Switch"),
+            filetypes=[("Switch backup", "*.xci *.nsp *.xcz *.nsz"), ("All", "*.*")])
+        if path:
+            self.romfs_var.set(path)
+            self.refresh_extra()
+
+    def pick_update(self) -> None:
+        path = filedialog.askopenfilename(
+            title=tr("Update .nsp", "Update .nsp"),
+            filetypes=[("Update", "*.nsp *.nsz"), ("All", "*.*")])
+        if path:
+            self.update_var.set(path)
+
+    def pick_keys(self) -> None:
+        path = filedialog.askopenfilename(
+            title="prod.keys", filetypes=[("Keys", "*.keys"), ("All", "*.*")])
+        if path:
+            self.keys_var.set(path)
+
+    def is_backup(self, path: str) -> bool:
+        from medarot import backup
+        return bool(path) and backup.is_backup(path)
+
+    def refresh_extra(self) -> None:
+        """Show the update/keys fields only when a backup is selected."""
+        if self.is_backup(self.romfs_var.get().strip()):
+            self.extra.pack(fill="x", pady=(0, 8), before=self.actions)
+            if not self.keys_var.get():
+                from medarot import backup
+                found = backup.Keys.find(Path(self.romfs_var.get()).parent)
+                if found:
+                    self.keys_var.set(str(found.prod))
+        else:
+            self.extra.pack_forget()
 
     # ------------------------------------------------------------------ log --
     def put_log(self, line: str) -> None:
@@ -212,8 +271,15 @@ class App:
         self.status.set(tr("Done — see the log above.", "Hecho — revisa el registro."))
 
     def _setup(self, cli, project) -> bool:
-        code = cli.cmd_setup(project, argparse.Namespace(
-            romfs=self.romfs_var.get().strip(), title_id=None))
+        path = self.romfs_var.get().strip()
+        if self.is_backup(path):
+            keys = self.keys_var.get().strip() or None
+            update = self.update_var.get().strip() or None
+            code = cli.cmd_backup(project, argparse.Namespace(
+                backup=path, update=update, keys=keys))
+        else:
+            code = cli.cmd_setup(project, argparse.Namespace(
+                romfs=path, title_id=None))
         return code == cli.EXIT_OK
 
     def job_patch(self) -> None:
