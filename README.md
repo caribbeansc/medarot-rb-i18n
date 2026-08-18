@@ -23,8 +23,8 @@ counted here.
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
-| Español | 100% | 18 | playable, played end to end |
-| English | 100% | 18 | playable, played end to end |
+| Español | 100% | 18 textures | playable, played end to end |
+| English | 100% | 18 textures | playable, played end to end |
 
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. 100% means every line is translated, not that every line is
