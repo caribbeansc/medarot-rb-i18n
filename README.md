@@ -14,14 +14,12 @@ It starts out with two translations:
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
 | Español | 3823 / 4032 (95%) | 18 | playable, played end to end |
-| English | 3926 / 4127 (95%) | 18 | playable, played end to end |
+| English | 3820 / 4017 (95%) | 18 | playable, played end to end |
 
-The two counts don't line up, and that is not a mismatch in the game's text —
-it is the same game. The English pack was extracted with ~110 extra UI labels
-that never appear in normal play: hidden debug menus (`Start Single Player`,
-`Gacha drop check`) and Japanese developer notes to the animators. The Spanish
-pack drops them. Take those out and both packs cover the same real in-game text;
-the count is a slightly larger denominator for English, not more of the game.
+The two totals are close but not identical, and that is on purpose: Spanish
+carries 15 more strings because it keeps both wordings of the cells the v1.1
+update rewrites, so one pack fits the base game and the update alike. Everything
+else lines up — both cover the same in-game text.
 
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. They make a game that has no translation playable today; the goal
