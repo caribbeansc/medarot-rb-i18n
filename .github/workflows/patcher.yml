@@ -12,6 +12,13 @@ name: patcher
 on:
   push:
     branches: [main]
+    # Documentation never ends up inside the executable, so don't rebuild for it.
+    # Code and langs/*.json (which are bundled) still trigger a build.
+    paths-ignore:
+      - '**.md'
+      - 'docs/**'
+      - 'LICENSE*'
+      - 'NOTICE'
   workflow_dispatch:
 
 concurrency:
