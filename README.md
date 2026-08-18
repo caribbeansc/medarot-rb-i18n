@@ -1,5 +1,7 @@
 # Medarot Card Robattle RB, in your language
 
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="38">](https://buymeacoffee.com/caribbeansc)
+
 **メダロット カードロボトル RB** never left Japan, so it only speaks Japanese.
 
 **What this repository is for:** handing anyone the tooling to translate it,
@@ -149,9 +151,10 @@ What that suite is for, and what it has caught, is in the
 
 ## Support
 
-If this made the game playable for you, you can
-[buy me a coffee](https://buymeacoffee.com/caribbeansc). Fixing a line that reads
-wrong helps just as much.
+If this made the game playable for you, you can buy me a coffee. Fixing a line
+that reads wrong helps just as much.
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50">](https://buymeacoffee.com/caribbeansc)
 
 ## Licence
 
