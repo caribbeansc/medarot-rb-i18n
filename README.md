@@ -147,6 +147,12 @@ pytest                   # + 16 more against your own dump(s)
 What that suite is for, and what it has caught, is in the
 [AI collaboration statement](#ai-collaboration-statement).
 
+## Support
+
+If this made the game playable for you, you can
+[buy me a coffee](https://buymeacoffee.com/caribbeansc). Fixing a line that reads
+wrong helps just as much.
+
 ## Licence
 
 Code MIT ([LICENSE](LICENSE)); translations CC BY-SA 4.0
