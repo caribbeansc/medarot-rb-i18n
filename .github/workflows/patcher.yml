@@ -9,9 +9,9 @@ name: patcher
 # .xci/.nsp/.xcz/.nsz backup into a patched game with no terminal and no keys
 # setup. Nothing from the game is ever bundled.
 #
-# The macOS Intel runner (macos-13) is a scarce, slow-to-schedule resource, so
-# it must never hold the release hostage: Windows + Apple Silicon publish first,
-# and the Intel build uploads itself to the same release afterwards, best effort.
+# Windows + Apple Silicon publish the release first; the Intel build is
+# cross-compiled on the same abundant Apple Silicon runner (no scarce macos-13
+# queue) and uploads itself to the release afterwards, best effort.
 
 on:
   push:
@@ -137,36 +137,49 @@ jobs:
           app never contains game files or keys. (The macOS Intel build is \
           added a few minutes after the others.)"
 
-  # macOS Intel: a scarce runner, so it runs after the release exists and just
-  # uploads itself to it. If it never gets a runner, the release still stands.
+  # macOS Intel: cross-built on the abundant Apple Silicon runner instead of the
+  # scarce macos-13, so it no longer waits in a long queue. clang targets
+  # x86_64 for the C, and Rosetta runs an x86_64 Python so PyInstaller and the
+  # native wheels come out Intel. Runs after the release exists and uploads
+  # itself to it; best effort, so a failure never touches the published release.
   intel:
     needs: release
-    runs-on: macos-13
+    runs-on: macos-latest
     continue-on-error: true
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Install Python deps
+
+      - name: Enable Rosetta 2
+        run: softwareupdate --install-rosetta --agree-to-license || true
+
+      - name: Install a universal2 Python
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt pyinstaller nsz
-      - name: Build hactool
-        run: bash .github/build-hactool.sh
-      - name: Build
-        run: >
-          pyinstaller --noconfirm --clean --onefile --windowed
-          --name "MedarotRB-Patcher"
-          --add-data "langs:langs"
-          --add-binary "tools/bin/hactool:tools/bin"
-          --collect-all UnityPy
-          --collect-all nsz
-          gui.py
+          curl -fsSL -o python.pkg \
+            https://www.python.org/ftp/python/3.12.8/python-3.12.8-macos11.pkg
+          sudo installer -pkg python.pkg -target /
+
+      - name: Build hactool (x86_64)
+        run: bash .github/build-hactool.sh x86_64
+
+      - name: Build the x86_64 app
+        run: |
+          PY=/Library/Frameworks/Python.framework/Versions/3.12/bin/python3
+          arch -x86_64 "$PY" -m pip install --upgrade pip
+          arch -x86_64 "$PY" -m pip install -r requirements.txt pyinstaller nsz
+          arch -x86_64 "$PY" -m PyInstaller --noconfirm --clean --onefile --windowed \
+            --target-arch x86_64 \
+            --name "MedarotRB-Patcher" \
+            --add-data "langs:langs" \
+            --add-binary "tools/bin/hactool:tools/bin" \
+            --collect-all UnityPy \
+            --collect-all nsz \
+            gui.py
+
       - name: Package
         run: ditto -c -k --keepParent "dist/MedarotRB-Patcher.app" "MedarotRB-Patcher-macOS-Intel.zip"
+
       - name: Upload to the release
         env:
           GH_TOKEN: ${{ github.token }}
