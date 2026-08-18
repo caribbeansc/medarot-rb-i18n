@@ -9,21 +9,21 @@ without reverse-engineering anything themselves. You point it at your own dump,
 type your text, and it builds you a mod. Adding a language takes a folder, not
 code, and improving a translation that is already here takes a pull request.
 
-It starts out with two translations, measured against the game's 2784 Japanese
-text strings:
+It starts out with two translations. Both cover the game's full playable text —
+about 2640 Japanese lines. The only thing left in the original is the staff
+credits and the crowdfunding backers, which are real names, so those aren't
+counted here.
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
-| Español | 2646 / 2784 (95%) | 18 | playable, played end to end |
-| English | 2641 / 2784 (95%) | 18 | playable, played end to end |
+| Español | 100% | 18 | playable, played end to end |
+| English | 100% | 18 | playable, played end to end |
 
 Both were written by an LLM, so take them as **a starting point, not a finished
-localisation**. They make a game that has no translation playable today; the goal
-is to polish them from here, together. Fixing a line takes a minute, and every
-correction reaches everyone. See [Fix a line](#fix-a-line-or-add-a-language).
-
-What is left untranslated in both is what should be: the staff credits and the
-crowdfunding backers, which are real names.
+localisation**. 100% means every line is translated, not that every line is
+right — the goal is to polish them from here, together. Fixing a line takes a
+minute, and every correction reaches everyone. See
+[Fix a line](#fix-a-line-or-add-a-language).
 
 > **You need your own copy of the game.** These tools read the files from your own
 > dump. They do not contain the game and cannot get it for you. All four
