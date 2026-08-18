@@ -9,17 +9,13 @@ without reverse-engineering anything themselves. You point it at your own dump,
 type your text, and it builds you a mod. Adding a language takes a folder, not
 code, and improving a translation that is already here takes a pull request.
 
-It starts out with two translations:
+It starts out with two translations, measured against the game's 2784 Japanese
+text strings:
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
-| Español | 3823 / 4032 (95%) | 18 | playable, played end to end |
-| English | 3820 / 4017 (95%) | 18 | playable, played end to end |
-
-The two totals are close but not identical, and that is on purpose: Spanish
-carries 15 more strings because it keeps both wordings of the cells the v1.1
-update rewrites, so one pack fits the base game and the update alike. Everything
-else lines up — both cover the same in-game text.
+| Español | 2646 / 2784 (95%) | 18 | playable, played end to end |
+| English | 2641 / 2784 (95%) | 18 | playable, played end to end |
 
 Both were written by an LLM, so take them as **a starting point, not a finished
 localisation**. They make a game that has no translation playable today; the goal
