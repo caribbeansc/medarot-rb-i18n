@@ -8,6 +8,10 @@ name: patcher
 # (ISC-licensed) plus the nsz decompressor — so a player can turn their own
 # .xci/.nsp/.xcz/.nsz backup into a patched game with no terminal and no keys
 # setup. Nothing from the game is ever bundled.
+#
+# The macOS Intel runner (macos-13) is a scarce, slow-to-schedule resource, so
+# it must never hold the release hostage: Windows + Apple Silicon publish first,
+# and the Intel build uploads itself to the same release afterwards, best effort.
 
 on:
   push:
@@ -29,6 +33,7 @@ env:
   HACTOOL_VER: "1.4.0"
 
 jobs:
+  # Fast, reliable runners. These gate the release.
   build:
     strategy:
       fail-fast: false
@@ -38,8 +43,6 @@ jobs:
             artifact: MedarotRB-Patcher-Windows
           - os: macos-latest
             artifact: MedarotRB-Patcher-macOS-AppleSilicon
-          - os: macos-13
-            artifact: MedarotRB-Patcher-macOS-Intel
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
@@ -52,8 +55,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt pyinstaller nsz
 
-      # hactool decrypts the backup. SciresM ships a Windows binary; on macOS we
-      # build it from source (it is small C + OpenSSL).
       - name: Fetch hactool (Windows)
         if: runner.os == 'Windows'
         shell: pwsh
@@ -66,23 +67,7 @@ jobs:
 
       - name: Build hactool (macOS)
         if: runner.os == 'macOS'
-        run: |
-          brew install openssl@3
-          git clone --depth 1 --branch "$HACTOOL_VER" https://github.com/SciresM/hactool.git hactool_src || \
-            git clone --depth 1 https://github.com/SciresM/hactool.git hactool_src
-          cd hactool_src
-          cp config.mk.template config.mk
-          SSL="$(brew --prefix openssl@3)"
-          {
-            echo "CFLAGS += -I$SSL/include"
-            echo "LDFLAGS += -L$SSL/lib"
-          } >> config.mk
-          make -j3
-          cd ..
-          mkdir -p tools/bin
-          cp hactool_src/hactool tools/bin/hactool
-          chmod +x tools/bin/hactool
-          ./tools/bin/hactool --help >/dev/null 2>&1 || true
+        run: bash .github/build-hactool.sh
 
       - name: Build (Windows)
         if: runner.os == 'Windows'
@@ -110,7 +95,6 @@ jobs:
         if: runner.os == 'Windows'
         run: Move-Item dist/MedarotRB-Patcher.exe "${{ matrix.artifact }}.exe"
 
-      # ditto keeps the .app bundle structure and executable bit intact.
       - name: Package (macOS)
         if: runner.os == 'macOS'
         run: ditto -c -k --keepParent "dist/MedarotRB-Patcher.app" "${{ matrix.artifact }}.zip"
@@ -123,13 +107,13 @@ jobs:
             ${{ matrix.artifact }}.zip
           if-no-files-found: error
 
+  # Publish as soon as the fast builds are done — do not wait for Intel.
   release:
     needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
           path: out
@@ -139,13 +123,47 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release delete latest --yes --cleanup-tag || true
-          gh release create latest out/* \
+          gh release delete latest --repo "$GITHUB_REPOSITORY" --yes --cleanup-tag || true
+          gh release create latest out/* --repo "$GITHUB_REPOSITORY" \
             --title "Patcher (latest)" \
             --notes "Double-clickable patcher, built automatically from \
           ${GITHUB_SHA::7}. Pick a Switch backup (.xci/.nsp/.xcz/.nsz) or an \
           already-extracted romfs folder, pick a language, and it builds and \
-          installs the mod. Windows: run the .exe (SmartScreen: 'More info' > \
-          'Run anyway'). macOS: unzip, right-click the app > Open the first \
-          time (it is not notarized). Decrypting a backup needs YOUR OWN \
-          prod.keys; the app never contains game files or keys."
+          installs the mod. Decrypting a backup needs YOUR OWN prod.keys; the \
+          app never contains game files or keys. (The macOS Intel build is \
+          added a few minutes after the others.)"
+
+  # macOS Intel: a scarce runner, so it runs after the release exists and just
+  # uploads itself to it. If it never gets a runner, the release still stands.
+  intel:
+    needs: release
+    runs-on: macos-13
+    continue-on-error: true
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt pyinstaller nsz
+      - name: Build hactool
+        run: bash .github/build-hactool.sh
+      - name: Build
+        run: >
+          pyinstaller --noconfirm --clean --onefile --windowed
+          --name "MedarotRB-Patcher"
+          --add-data "langs:langs"
+          --add-binary "tools/bin/hactool:tools/bin"
+          --collect-all UnityPy
+          --collect-all nsz
+          gui.py
+      - name: Package
+        run: ditto -c -k --keepParent "dist/MedarotRB-Patcher.app" "MedarotRB-Patcher-macOS-Intel.zip"
+      - name: Upload to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload latest "MedarotRB-Patcher-macOS-Intel.zip" --repo "$GITHUB_REPOSITORY" --clobber
