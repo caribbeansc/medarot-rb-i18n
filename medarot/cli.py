@@ -93,6 +93,52 @@ def _pick_pack(project: Project, code: str | None = None) -> LanguagePack:
 
 # ---------------------------------------------------------------- commands --
 
+def _extract_backup(project: Project, backup_path, update=None,
+                    keys=None) -> str | None:
+    """Decrypt a game backup into a romfs under work/, return that path.
+
+    Used by both ``mrb setup --backup`` and the graphical patcher, so the two
+    share exactly one extraction path.
+    """
+    from . import backup as backup_mod
+
+    keys = keys or backup_mod.Keys.find(Path(backup_path).parent)
+    if keys is None:
+        raise backup_mod.BackupError(
+            "no prod.keys found. Put it in ~/.switch or your emulator's key "
+            "folder, or pass --keys /path/to/prod.keys.")
+    out = project.work / "extracted_romfs"
+    ui.heading(f"Extracting a romfs from {Path(backup_path).name}")
+    ui.info(f"Using keys: {keys.prod}")
+    result = backup_mod.extract(backup_path, out, keys=keys, update=update)
+    for warning in result.warnings:
+        ui.warn(warning)
+    ui.ok(f"Extracted {result.release or 'romfs'} "
+          f"({'with update' if result.used_update else 'base only'})")
+    return str(out)
+
+
+def cmd_backup(project: Project, args) -> int:
+    from . import backup as backup_mod
+
+    keys = None
+    if getattr(args, "keys", None):
+        prod = Path(args.keys)
+        title = prod.parent / "title.keys"
+        keys = backup_mod.Keys(prod, title if title.is_file() else None)
+    try:
+        romfs = _extract_backup(project, args.backup, args.update, keys)
+    except backup_mod.BackupError as exc:
+        ui.fail(str(exc))
+        return EXIT_FAILED
+    release = project.set_romfs(romfs)
+    ui.ok(f"Game files: {project.romfs}")
+    if release:
+        ui.ok(f"Recognised {release}: mods will install under {project.title_id}")
+    ui.info(f"Saved to {project.config_file.name}")
+    return EXIT_OK
+
+
 def cmd_setup(project: Project, args) -> int:
     if getattr(args, "title_id", None):
         project.set_title_id(args.title_id)
@@ -100,6 +146,15 @@ def cmd_setup(project: Project, args) -> int:
         if not args.romfs:
             return EXIT_OK
     romfs = args.romfs
+    # A backup (.xci/.nsp/.xcz/.nsz) passed as --romfs is extracted first.
+    if romfs:
+        from . import backup as backup_mod
+        if backup_mod.is_backup(romfs):
+            try:
+                romfs = _extract_backup(project, romfs)
+            except backup_mod.BackupError as exc:
+                ui.fail(str(exc))
+                return EXIT_FAILED
     if not romfs:
         if not ui.is_tty():
             ui.fail("pass the romfs directory: mrb setup --romfs /path/to/romfs")
@@ -602,10 +657,18 @@ def build_parser() -> argparse.ArgumentParser:
     sub = parser.add_subparsers(dest="command")
 
     setup = sub.add_parser("setup", help="tell the tool where your romfs is")
-    setup.add_argument("--romfs", help="path to the extracted romfs")
+    setup.add_argument("--romfs", help="path to the extracted romfs, or a backup "
+                       "(.xci/.nsp/.xcz/.nsz) to extract it from")
     setup.add_argument("--title-id", dest="title_id",
                        help="install under a different title (e.g. the Kabuto version)")
     setup.set_defaults(func=cmd_setup)
+
+    backup = sub.add_parser("backup", help="extract a romfs from a game backup "
+                            "(.xci/.nsp/.xcz/.nsz) with your own keys")
+    backup.add_argument("backup", help="the base backup (a cartridge dump or eShop .nsp)")
+    backup.add_argument("--update", help="an update .nsp to layer on top")
+    backup.add_argument("--keys", help="path to prod.keys (else auto-detected)")
+    backup.set_defaults(func=cmd_backup)
 
     status = sub.add_parser("status", help="show what is configured and how far along")
     status.set_defaults(func=cmd_status)

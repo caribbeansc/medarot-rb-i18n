@@ -39,14 +39,20 @@ Grab the patcher from the
 built automatically from this repository on every change, and containing
 nothing from the game.
 
-1. In your emulator, right-click the game → **Extract Data** → **RomFS**, into
-   an empty folder. That folder is the only thing the patcher needs.
-2. Double-click the patcher. Windows SmartScreen: *More info* → *Run anyway*.
+1. Double-click the patcher. Windows SmartScreen: *More info* → *Run anyway*.
    macOS: unzip, then **right-click the app → Open** the first time (it is not
    notarized — signing costs money, the code is all here to read).
-3. Pick that folder, pick a language, **Build the patch** (the first run
-   prepares a cache and takes 20-60 minutes, only once), then **Install into
-   emulator** — or **ZIP for SD card** for a real console with Atmosphère.
+2. Point it at your own dump. Either works:
+   - a **backup** — `.xci`, `.nsp`, or the compressed `.xcz` / `.nsz`. The
+     patcher extracts the romfs for you. This needs **your own `prod.keys`**
+     (it looks in `~/.switch` and your emulator's key folder automatically; if
+     an update `.nsp` carries title-key crypto, add it too). Keys never leave
+     your machine and are never bundled.
+   - a **folder** you already extracted with your emulator's *Extract Data →
+     RomFS* — no keys needed at all.
+3. Pick a language, **Build the patch** (the first run prepares a cache and
+   takes 20-60 minutes, only once), then **Install into emulator** — or **ZIP
+   for SD card** for a real console with Atmosphère.
 
 ## Play it — from source
 

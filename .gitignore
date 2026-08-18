@@ -16,6 +16,12 @@ work/
 build/
 dist/
 
+# Third-party extraction binaries: the patcher workflow fetches these per
+# platform at build time and bundles them; they are never committed.
+tools/bin/
+*.xcz
+*.nsz
+
 # Local configuration (points at your own dump).
 mrb.config.json
 
