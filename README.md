@@ -1,6 +1,6 @@
 # Medarot Card Robattle RB, in your language
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="38">](https://buymeacoffee.com/caribbeansc)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/caribbeansc)
 
 **メダロット カードロボトル RB** never left Japan, so it only speaks Japanese.
 
@@ -154,7 +154,7 @@ What that suite is for, and what it has caught, is in the
 If this made the game playable for you, you can buy me a coffee. Fixing a line
 that reads wrong helps just as much.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50">](https://buymeacoffee.com/caribbeansc)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/caribbeansc)
 
 ## Licence
 
