@@ -5,32 +5,21 @@
 
 **メダロット カードロボトル RB** never left Japan, so it only speaks Japanese.
 
-**Just want to play?** Download the ready-to-run patcher for Windows or macOS
-from the [**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest)
-— no Python, no terminal. It is rebuilt automatically whenever the translations
-change, so the download is always current. Details in
-[Play it — the easy way](#play-it--the-easy-way-no-python-no-terminal) below.
+**Just want to play?** Grab the ready-to-run patcher for Windows or macOS from
+the [**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest)
+— no Python, no terminal. See
+[Play it](#play-it--the-easy-way-no-python-no-terminal) below.
 
-**What this repository is for:** handing anyone the tooling to translate it,
-without reverse-engineering anything themselves. You point it at your own dump,
-type your text, and it builds you a mod. Adding a language takes a folder, not
-code, and improving a translation that is already here takes a pull request.
+**What this repository is for:** translating the game without reverse-engineering
+anything. Point it at your own dump, type your text, and it builds you a mod; a
+new language is a folder, not code.
 
-It starts out with two translations. Both cover the game's full playable text —
-about 2640 Japanese lines. The only thing left in the original is the staff
-credits and the crowdfunding backers, which are real names, so those aren't
-counted here.
+It starts out with two translations, both covering the game's full text:
 
 | Language | Text | Artwork | State |
 |---|---:|---:|---|
 | Español | 100% | 18 textures | playable, played end to end |
 | English | 100% | 18 textures | playable, played end to end |
-
-Both were written by an LLM, so take them as **a starting point, not a finished
-localisation**. 100% means every line is translated, not that every line is
-right — the goal is to polish them from here, together. Fixing a line takes a
-minute, and every correction reaches everyone. See
-[Fix a line](#fix-a-line-or-add-a-language).
 
 > **You need your own copy of the game.** These tools read the files from your own
 > dump. They do not contain the game and cannot get it for you. All four
@@ -78,6 +67,18 @@ game. Pick the file for your computer:
    a cache and takes 20–60 minutes; it only happens once.
 3. Click **Install into emulator**, or **ZIP for SD card** for a real Switch
    running Atmosphère.
+
+## About the translations
+
+Both were written by an LLM, so take them as **a starting point, not a finished
+localisation**. 100% means every line is translated, not that every line is
+right — the goal is to polish them from here, together. Fixing a line takes a
+minute, and every correction reaches everyone; see
+[Fix a line](#fix-a-line-or-add-a-language).
+
+What is left in the original is what should be: the staff credits and the
+crowdfunding backers, which are real names, so they aren't counted in the table.
+The two packs cover about 2640 Japanese lines of in-game text.
 
 ## Play it — from source
 
