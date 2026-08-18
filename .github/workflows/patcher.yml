@@ -16,13 +16,17 @@ name: patcher
 on:
   push:
     branches: [main]
-    # Documentation never ends up inside the executable, so don't rebuild for it.
-    # Code and langs/*.json (which are bundled) still trigger a build.
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
-      - 'LICENSE*'
-      - 'NOTICE'
+    # Only rebuild when something that actually ends up in the executable
+    # changes — the code, the bundled translations, or the build itself. A
+    # README typo or any other doc/test edit publishes no new release.
+    paths:
+      - 'gui.py'
+      - 'mrb.py'
+      - 'medarot/**'
+      - 'langs/**'
+      - 'requirements.txt'
+      - '.github/workflows/patcher.yml'
+      - '.github/build-hactool.sh'
   workflow_dispatch:
 
 concurrency:
