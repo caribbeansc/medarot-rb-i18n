@@ -34,26 +34,43 @@ minute, and every correction reaches everyone. See
 
 ## Play it — the easy way (no Python, no terminal)
 
-Grab the patcher from the
-[**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest):
-`MedarotRB-Patcher-Windows.exe`, or the macOS app (Apple Silicon or Intel) —
-built automatically from this repository on every change, and containing
-nothing from the game.
+Download the patcher from the
+[**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest).
+It is built automatically from this repository and contains nothing from the
+game. Pick the file for your computer:
 
-1. Double-click the patcher. Windows SmartScreen: *More info* → *Run anyway*.
-   macOS: unzip, then **right-click the app → Open** the first time (it is not
-   notarized — signing costs money, the code is all here to read).
-2. Point it at your own dump. Either works:
+### Windows
+
+1. Download **`MedarotRB-Patcher-Windows.exe`** and double-click it.
+2. The first time, Windows may warn that it doesn't recognise the app (it is
+   free software without a paid publisher certificate). Click **More info**,
+   then **Run anyway**. The whole source is in this repository if you want to
+   check it first.
+
+### macOS
+
+1. Download the app for your Mac: **`…macOS-AppleSilicon.zip`** for an M1/M2/M3
+   Mac, or **`…macOS-Intel.zip`** for an older Intel one. Not sure which you
+   have?  → menu → *About This Mac*.
+2. Double-click the `.zip` to unpack the app, then **right-click it and choose
+   Open** (not a normal double-click) the first time. macOS asks once whether
+   you're sure — click **Open**. After that it opens like any app. This extra
+   step is only because the app isn't signed with a paid Apple certificate.
+
+### Then, on either system
+
+1. Point the patcher at your own copy of the game. Either works:
    - a **backup** — `.xci`, `.nsp`, or the compressed `.xcz` / `.nsz`. The
-     patcher extracts the romfs for you. This needs **your own `prod.keys`**
-     (it looks in `~/.switch` and your emulator's key folder automatically; if
-     an update `.nsp` carries title-key crypto, add it too). Keys never leave
-     your machine and are never bundled.
+     patcher unpacks it for you. This needs **your own `prod.keys`** (it looks
+     in `~/.switch` and your emulator's key folder automatically; if an update
+     `.nsp` needs a title key, add it too). Your keys stay on your machine and
+     are never part of the download.
    - a **folder** you already extracted with your emulator's *Extract Data →
      RomFS* — no keys needed at all.
-3. Pick a language, **Build the patch** (the first run prepares a cache and
-   takes 20-60 minutes, only once), then **Install into emulator** — or **ZIP
-   for SD card** for a real console with Atmosphère.
+2. Pick a language and click **Build the patch**. The very first build prepares
+   a cache and takes 20–60 minutes; it only happens once.
+3. Click **Install into emulator**, or **ZIP for SD card** for a real Switch
+   running Atmosphère.
 
 ## Play it — from source
 
