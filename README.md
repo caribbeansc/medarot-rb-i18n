@@ -205,6 +205,31 @@ that reads wrong helps just as much.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/caribbeansc)
 
+## Credits
+
+Tools and prior work this project stands on — the detail lives in
+[NOTICE](NOTICE) and [docs/EXTERNAL-REPOS.md](docs/EXTERNAL-REPOS.md):
+
+- [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy) — reads and rewrites the
+  game's Unity assets: the data tables, scenes, TextMeshPro components, fonts
+  and Switch textures. Every string and texture this project patches goes
+  through it.
+- [SciresM/hactool](https://github.com/SciresM/hactool) — decrypts and extracts
+  the romfs from a Switch backup, applying an update over the base; bundled per
+  platform so the patcher can take a `.xci` / `.nsp` directly.
+- [nicoboss/nsz](https://github.com/nicoboss/nsz) — losslessly decompresses the
+  `.nsz` / `.xcz` backup formats before extraction.
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) — composites
+  the translated-texture deltas and handles every PNG the texture pipeline
+  touches.
+- [OpenSSL](https://www.openssl.org/) — the `libcrypto` hactool links for the
+  crypto that decrypts the game's NCAs.
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) —
+  freezes the tool into the double-clickable Windows and macOS executables.
+- [caribbeansc/mdr-navi-i18n](https://github.com/caribbeansc/mdr-navi-i18n) —
+  the sibling fan-translation project for the GBA *Medarot Navi* games, sharing
+  this repository's fingerprint-based packs that never hold the game's own text.
+
 ## Licence
 
 Code MIT ([LICENSE](LICENSE)); translations CC BY-SA 4.0
