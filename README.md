@@ -1,8 +1,15 @@
 # Medarot Card Robattle RB, in your language
 
+[![Download the patcher](https://img.shields.io/badge/Download-patcher%20for%20Windows%20%C2%B7%20macOS-2ea44f?style=for-the-badge&logo=github)](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/caribbeansc)
 
 **メダロット カードロボトル RB** never left Japan, so it only speaks Japanese.
+
+**Just want to play?** Download the ready-to-run patcher for Windows or macOS
+from the [**latest release**](https://github.com/caribbeansc/medarot-rb-i18n/releases/latest)
+— no Python, no terminal. It is rebuilt automatically whenever the translations
+change, so the download is always current. Details in
+[Play it — the easy way](#play-it--the-easy-way-no-python-no-terminal) below.
 
 **What this repository is for:** handing anyone the tooling to translate it,
 without reverse-engineering anything themselves. You point it at your own dump,
