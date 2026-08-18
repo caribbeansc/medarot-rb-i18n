@@ -111,31 +111,43 @@ jobs:
             ${{ matrix.artifact }}.zip
           if-no-files-found: error
 
-  # Publish as soon as the fast builds are done — do not wait for Intel.
+  # Publish as soon as the fast builds are done — do not wait for Intel. Each
+  # build gets its own dated, commit-pinned tag (v<YYYY.MM.DD>-<sha>) rather
+  # than a rolling 'latest', so the version history stays navigable; --latest
+  # keeps /releases/latest pointing at the newest one. Same scheme as the
+  # sister repo mdr-navi-i18n, for a consistent release list across both.
   release:
     needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    outputs:
+      tag: ${{ steps.publish.outputs.tag }}
     steps:
       - uses: actions/download-artifact@v4
         with:
           path: out
           merge-multiple: true
 
-      - name: Publish rolling release
+      - name: Publish a versioned release
+        id: publish
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          day="$(date -u +%Y.%m.%d)"
+          short="${GITHUB_SHA::7}"
+          tag="v${day}-${short}"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          # One-time migration off the old rolling 'latest' tag.
           gh release delete latest --repo "$GITHUB_REPOSITORY" --yes --cleanup-tag || true
-          gh release create latest out/* --repo "$GITHUB_REPOSITORY" \
-            --title "Patcher (latest)" \
-            --notes "Double-clickable patcher, built automatically from \
-          ${GITHUB_SHA::7}. Pick a Switch backup (.xci/.nsp/.xcz/.nsz) or an \
-          already-extracted romfs folder, pick a language, and it builds and \
-          installs the mod. Decrypting a backup needs YOUR OWN prod.keys; the \
-          app never contains game files or keys. (The macOS Intel build is \
-          added a few minutes after the others.)"
+          cat > notes.md <<EOF
+          **Version ${tag}**, built from commit ${GITHUB_SHA}.
+
+          Double-clickable patcher. Pick a Switch backup (.xci/.nsp/.xcz/.nsz) or an already-extracted romfs folder, pick a language, and it builds and installs the mod. Decrypting a backup needs YOUR OWN prod.keys; the app never contains game files or keys. (The macOS Intel build is added a few minutes after the others.)
+          EOF
+          gh release create "$tag" out/* --repo "$GITHUB_REPOSITORY" --latest \
+            --title "Patcher v${day} (${short})" \
+            --notes-file notes.md
 
   # macOS Intel: cross-built on the abundant Apple Silicon runner instead of the
   # scarce macos-13, so it no longer waits in a long queue. clang targets
@@ -183,4 +195,4 @@ jobs:
       - name: Upload to the release
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release upload latest "MedarotRB-Patcher-macOS-Intel.zip" --repo "$GITHUB_REPOSITORY" --clobber
+        run: gh release upload "${{ needs.release.outputs.tag }}" "MedarotRB-Patcher-macOS-Intel.zip" --repo "$GITHUB_REPOSITORY" --clobber
