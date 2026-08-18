@@ -1,31 +1,6 @@
 {
  "entries": [
   {
-   "src": "a0ef5b588aa9",
-   "t": "",
-   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
-  },
-  {
-   "src": "0b97a499a069",
-   "t": "",
-   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
-  },
-  {
-   "src": "049b2630bab9",
-   "t": "\r●Images\r\n  - PlayerIcon: player icon\r\n    Please swap in the player icon image\r\n    from the link below.\r\n    [Player icon folder]\r\n    \\NX\\Prj_Atom\\Assets\\Graphic\\2D\\General\\Texture\\PlayerIcon",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "92a204a52127",
-   "t": "---------------------------------------\n25/11/17 added\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\n\n●AnimatorEvents\r\n  - BattleCard_Anim\r\n    String[ImageSwitch]: timing of the image switch after Medachange\r\n\r\n●Materials\r\n  Please swap the material so the colour differs for player and opponent.\r\n  - Player: for the player\r\n  - Enemy: for the opponent\r\n\r\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\n    Please swap in an image matching the shape of the board card.\r\n\r\n●Animators\r\n  Battle_Anim\r\n  [Select Layer]: selection anim\r\n  - UnSelect  : not selected\r\n  - _Select   : selected\r\n                * The Select anim in [Select Layer] is no longer needed, please delete it.\r\n                  Once the data migration is done, please rename this one to [Select].\r\n  [Base Layer]\r\n  Please play the anim together with the Medachange effect.\r\n  - MC_RightPart_In    : right part (Medachange)\r\n  - MC_In              : leader (Medachange)\r\n  - MC_LeftPart_In     : left part (Medachange)\r\n  - MC_Rev_RightPart_In: right part (Medachange off)\r\n  - MC_Rev_In          : leader (Medachange off)\r\n  - MC_Rev_LeftPart_In : left part (Medachange off)\r\n  - MC_Spt_In          : support (Medachange)\r\n\r\n\r\n●ObjectNodes\r\n  Eff_MedaChange_Base: [glow effect swap target]\r\n---------------------------------------\nObject for getting coordinates\r\n●Transforms\r\n  ActionSelection: Medabot action UI\r\n  Num: UI for damage numbers etc.\r\n  Eff: effect-related (tentative)\n---------------------------------------",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "3558f52a6ad3",
-   "t": "---------------------------------------\nObject for getting coordinates\r\n●Transforms\r\n  ActionSelection: Medabot action UI\r\n  Num: UI for damage numbers etc.\r\n  Eff: effect-related (tentative)\n---------------------------------------",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
    "src": "c738b89ea684",
    "t": "<size=+8><voffset=-0.05em>1</voffset></size> pack</size>"
   },
@@ -38,298 +13,8 @@
    "t": "ID search only"
   },
   {
-   "src": "347b0fe13e22",
-   "t": "Check Tips",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "8b83b7d92644",
    "t": "Other Ver. Bonus"
-  },
-  {
-   "src": "621a63082901",
-   "t": "[Result: Win]Judgement_Win.prefab\r\n[Result: Lose]Judgement_Lose.prefab\r\n[Result: Draw]Judgement_Draw.prefab\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle  * If there is no NPC dialogue it stays on [Idle] and fades into the result sequence\r\n  - Out  : exit  * Please play this when it has to be cleared for NPC dialogue etc.\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "39be134c5b05",
-   "t": "",
-   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
-  },
-  {
-   "src": "dc99acec8056",
-   "t": "●Animators\r\n  Button: generic button anim",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "d2f494251690",
-   "t": "●Animators\r\n  Button: generic button anim\r\n\r\n●TextMeshProUGUIs\r\n  Key icon * external-character font\r\n  - Text_Key\r\n  - Text_Key_Off\r\n  - Text_Key_Select",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "ab5d888442fe",
-   "t": "●Animators\r\n  CostNum\r\n  [Base Layer]: anim for switching between the [normal] and [used] states\r\n  - Cost_In   : enter (switches the cost number)\r\n  - Cost_Idle : idle\r\n  - Cost_Out  : exit (played when the cost changes)\r\n  \r\n  [Max Layer]: selection state ON/OFF\r\n  - CostMax_In   : enter (switches the max cost number)\r\n  - CostMax_Idle : idle\r\n  - CosMaxt_Out  : exit (played when the max cost changes)\r\n  \r\n●TextMeshProUGUIs\r\n  - CostNum       : charge cost number\r\n  - CostNum_Eff   : charge cost number (for effects)\r\n  - CostNumMax    : max charge cost number\r\n  - CostNumMax_Eff: max charge cost number (for effects)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "02aa63abebf7",
-   "t": "●Animators\r\n  Deck_Thickness: thickness\r\n  - In  : enter * play it in sync with the card's [Appear]\r\n  - 07  : 7 cards\r\n  - 06  : 6 cards\r\n  - 05  : 5 cards\r\n  - 04  : 4 cards\r\n  - 03  : 3 cards\r\n  - 02  : 2 cards\r\n  - 01  : 1 card\r\n  - Hide: hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "2085bd8fbf5a",
-   "t": "●Animators\r\n  Fade: enter/exit anim\n    Please show it for the first time around when the shield is placed.\r\n    * Hidden when attacking or when Barrier is 0\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "8b43667b6335",
-   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  Please play it on level up\r\n  After the level up, loop the idle anim\r\n  If two levels are gained at once, please exit once first\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "83878d5dddd7",
-   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - Guide_00-03: control guide_button label prefab\r\n                 Please show as many as the screen needs.\r\n                 * If there are not enough, please add more.",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "10c8f3c0d31a",
-   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●Images\r\n  - MedarotterIcon: swap in the Medafighter card icon\r\n      Sprite name: Card_Medarotter_***_Icon\r\n",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "f936093a8438",
-   "t": "●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "68e84bda9925",
-   "t": "●Animators\r\n  Gauge: gauge\r\n         Please animate it to match the number of charge gauges\r\n         It unlocks from charge cost 11 upward, so please handle locked and unlocked in the anim\r\n  - Off: off\r\n  - On: on\r\n  - to_Off: from [on] to off\r\n  - to_On: from off to on\r\n  - On_Select: selected\r\n\r\n  - Open: unlocked\r\n  - to_Open: from locked to unlocked\r\n  - Close: locked\r\n  - to_Close: from unlocked to locked",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "1958203a12e8",
-   "t": "●Animators\r\n  Get: coin gain anim\r\n  - In   : enter\n      * Please play it at the same time as the count-up\r\n  - Idle : idle\r\n      * Loop the [idle] anim while the total amount is counting up\r\n  - Out  : exit\r\n      * When the total amount has finished counting up, please move from the [idle] anim to the [exit] anim\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "c1c57dce7227",
-   "t": "●Animators\r\n  MedaChange: please play it on Medachange.\r\n  - MedaChange: Medachange\n\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\r\n    Please swap in an image matching the shape of the board card.\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\r\n\r\n●ObjectNodes\r\n  Eff_MedaChange_Base: [glow effect swap target]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "9728d36c2880",
-   "t": "●Animators\r\n  MedaChange: please play it on Medachange.\r\n  - MedaChange: Medachange\r\n  - Reverse: Medachange off\n\n●Images\r\n  - Eff_MedaChange_Base: glow effect image\r\n    Please swap in an image matching the shape of the board card.\n\n●Sprites\r\n  - Eff_Meda_Default: Medabot, 1 type\r\n  - Eff_Meda_Shield: Medabot, 1 type + shield limit\r\n  - Eff_Meda_2Type: Medabot, 2 types\r\n  - Eff_PartsL: left part\r\n  - Eff_PartsL_Power: left part (with power)\r\n  - Eff_PartsR: right part\r\n\r\n●ObjectNodes\n  BattleCard: [board card]\r\n  Eff_MedaChange_Base: [glow effect swap target]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "004fea4d66c4",
-   "t": "●Animators\r\n  Select: selection cursor\n\r\n  [Select]\r\n  - UnSelect     : not selected\r\n  - Select_Player: selected (player)\r\n  [Select_Enemy]\r\n  - UnSelect_Enemy: not selected\r\n  - Select_Enemy   : selected (opponent)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "9577349422ff",
-   "t": "●Animators\r\n  TurnChangeEff: turn change effect\r\n     Please switch the effect when the turn\r\n     changes between [you] and [opponent].\r\n  \r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n     * played at the start of the turn\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n  [Change Layer]: turn effect\r\n  - Player  : your turn\r\n  - to_Player  : from [opponent's turn] to [your turn]\r\n  - Enemy  : opponent's turn\r\n  - to_Enemy  : from [your turn] to [opponent's turn]\n\nWe want the effect density to change with the background,\nso please switch the animator\n[TurnChangeEff_A.controller]\n  BG00\r\n  BG03\r\n  BG08\r\n\r\n[TurnChangeEff_B.controller]\r\n  BG01\r\n  BG02\r\n  BG04\r\n  BG05\r\n  BG07",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "ae0b86072355",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●Animators\r\n  Fade: [card] enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●ObjectNodes\r\n  - Card: card * please swap the card image in sync with the enter/exit anim.\n\r\n  - Btn: card detail open/close button\n    * the design was changed to SimpleBtn_Detail\n      please delete it once the new one is supported.\n\n  - SimpleBtn_Detail: [card detail open/close button]\n  - SimpleBtn_MedaChange: [simple button_Medachange]\r\n  - SimpleBtn_Key: [simple button_keyword]\n  - SimpleBtn_Buff: [simple button_status]\r\n    * hide it if the button is not needed\r\n      ",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "661de2a91267",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●ObjectNodes\r\n  - Btn_00: [Attack]\r\n  - Btn_01: [Cross Attack]\r\n  - Btn_02: [Ability 1]\r\n  - Btn_03: [Ability 2] * active only when there are two abilities\n  - Btn_MedaChange: [Medachange] * active only for Medabots with Medachange\r\n\r\n●Animators\r\n  Fade: [Medabot action UI] enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "2d358d0961d3",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - Info: [Your opponent is choosing a card]\r\n        * please change the body text if needed\r\n          the trailing [...] is played as a separate anim, so it is not needed\r\n  \r\n●Animators\r\n  Please make it enter and exit to match the opponent's selection state.\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "77ac41dd7a86",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - Text: dialogue body text\n\r\n●GameObjects\r\n  Btn_Area: please place generic buttons as needed.\r\n            generic button (with key icon) [Common_BtnKey.prefab]\r\n            generic button (no key icon) [Common_Btn.prefab]\r\n●Animators\r\n  Fade: enter/exit anim for the [simple dialogue]\r\n        please play it together with the blackout anim.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "84da3cbc40ae",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\n  - TotalCostNum: total charge\r\n\r  - TotalPowerNum: total power value\n  - TotalCostNum_Buff: total charge_for buff\r\n\r  - TotalPowerNum_Debuff: total charge_for debuff\n  * when the total charge becomes a buff or a debuff, please switch the display.\n\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)\n  - BtnKey_01: [Back] generic button (with key icon)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "23f2a0e16658",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\n\n●TextMeshProUGUIs\r\ndeleted- PlayerName: player name\r\n\n●Animators\r\n  Fade_CostFrame: charge cost frame_enter/exit anim\r\n    Please animate it when charge cost is spent.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - MedalIcon    : [Medal] prefab\r\n  - PlayerIcon   : [player icon] prefab\r\ndeleted- TypeIcon_Area: [tactic icon area] prefab\r\n  - CostNum      : [charge cost] prefab\n  - TypeIcon_Battle_00-09: [tactic icon] prefab\n  - MedarotterUseIcon: [Medafighter usage check icon]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "c498e708ef66",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played to match the turn change.\r\n  - Player : turn change (player)\r\n  - Enemy: turn change (opponent)\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "552cfe3b1b6c",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played to match the turn change.\r\n  - Player : phase change (player)\r\n  - Enemy: phase change (opponent)\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "130ace65a30a",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please play it on deck out\r\n  - Player : deck out (player)\r\n  - Enemy: deck out (opponent)\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "64a56668974d",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n\r\n●ObjectNodes\r\n  Please change the prefab that is played according to the win/loss result.\r\n  - Win : win\r\n  - Lose: loss\r\n  - Draw: draw",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "d3c760bccdd5",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "46d90339d34f",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●Animators\r\n  Fade: enter/exit anim\r\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n●ObjectNodes\r\n  - Btn: end phase button",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "219d21948740",
-   "t": "●Canvass\r\n  - Order: for changing [Order In Layer] priority\r\n  \r\n●ObjectNodes\n  Please use the prefab that matches the board card.\r\n  MedaChange_Player    : [Medachange (leader)_player]\r\n  MedaChangeSptA_Player: [Medachange (support A)_player]\r\n  MedaChangeSptB_Player: [Medachange (support B)_player]\r\n  MedaChange_Enemy    : [Medachange (leader)_opponent]\r\n  MedaChangeSptB_Enemy: [Medachange (support A)_opponent]\r\n  MedaChangeSptA_Enemy: [Medachange (support B)_opponent]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "3bcac1baea13",
-   "t": "●Canvass\r\n  - Order: please change the priority with [Order In Layer]\r\n          depending on the situation.\n\r\n●Animators\r\n  Fade: enter/exit anim for [board check]\r\n        please play it together with the blackout anim.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\r\n●ObjectNodes\r\n  - BtnKey: board check button",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "06ae80c6352c",
-   "t": "●GameObjects\r\n  - Font_Max: Max label\r\n      please show it only when the level is Max\r\n  \r\n●Images\r\n  - Gauge: gauge\r\n      please adjust the gauge value with FillAmount.",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "77b13703b5b4",
-   "t": "●GameObjects\r\n  - Line: line effect for selecting a target\r\n     It may look wrong when the lines cross, so we assigned\r\n     the LineRenderer [Order In Layer] UI: the -300 range.\r\n     If nothing breaks, leave it at -300; if crossing lines look wrong,\n     please manage the draw order with values in [-300 to -399].\r\n  \r\n    BezierLineRendererScript.cs\r\n    A script that draws a Bezier curve with a LineRenderer.\n    Set [Trans 1] to the [target] object and [Trans 2] to the [source] object.\n    On the board that should be the [BattleCard] inside [AreaCard].\r\n  \r\n    It would help if the [Control Point] [X] [Y] [Z] values could be adjusted\n    per display position, so the look can be tidied up.\r\n  \r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "4ba9167ae953",
-   "t": "●Images\r\n  - LegIcon: leg icon\r\n            please swap the image to match the leg type.\r\n\r\n●Sprite: tactic icon\r\n  - LegIcon_00: Biped\r\n  - LegIcon_01: Multi-leg\r\n  - LegIcon_02: Vehicle\r\n  - LegIcon_03: Flight\r\n  - LegIcon_04: Submarine\r\n  - LegIcon_05: Tank\r\n\r  - LegIcon_06: Hover\n  - LegIcon_07: ALL\n",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "2fa46d59681d",
-   "t": "●Images\r\n  - Medal: Medal\r\n    Please swap in the Medal image\r\n    from the link below.\r\n    [Medal folder]\r\n    \\NX\\Prj_Atom\\Assets\\Graphic\\2D\\General\\Texture\\Medal",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "0df757fa1942",
-   "t": "●Images\r\n  - TypeIcon: tactic icon\r\n            please swap the image to match the tactic type.\r\n\r\n●Sprite: tactic icon\r\n  - TypeIcon_00: Melee\r\n  - TypeIcon_01: Shoot\r\n  - TypeIcon_02: Assist\r\n  - TypeIcon_03: Heal\r\n  - TypeIcon_04: Defend\r\n  - TypeIcon_05: Trap\r\n\r\n●Animators\r\n  TypeIcon\r\n  [Base Layer]: anim for switching between the [normal] and [used] states\r\n  - Default   : normal\r\n  - to_Default: to normal (played when switching to the normal state)\r\n  - Used      : used\r\n  - to_Used   : to used (played when switching to the used state)\r\n  - Default_to_Close: from normal to closed\r\n  - Close           : closed\r\n  - Close_to_Default: from closed to normal\n  \r\n  [Select Layer]: selection state ON/OFF\r\n  - Select_In  : enter (played when selected)\r\n  - Select_Idle: idle\r\n  - Select_Out : exit (played when deselected)\r\n  - Select_Hide: hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "913bcf0ed58c",
-   "t": "●ObjectNodes\r\n  - CostGauge_01-16: [charge cost gauge_notch] \r\n    * the max is 16; anything above that is not handled in the display",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "928919f30f16",
-   "t": "●ObjectNodes\r\n  - MedalIcon    : [Medal] prefab",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "5caaf52d6944",
-   "t": "●ObjectNodes\r\n  - NumSet: number effect\n  - SelectIconNum: selection order icon\n  - DeckTrashNum: deck & discard count display\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "557d0ace413d",
-   "t": "●ObjectNodes\r\n  - PlayerInfo: [player info]\r\n  - EnemyInfo : [player info (opponent)]\r\n                Variant of PlayerInfo\n  - ActionSelection: [Medabot action UI]\n  - DetailCard.prefab: [card detail]\n  - Phase_Info.prefab: [phase info]\n  - Battle_Blackout.prefab: [blackout mask]\r\n  - Battle_DialogSimple.prefab: [simple dialogue]\r\n  - CheckBoard.prefab: [board check]\n  - TargetSelect.prefab: [target select window]\n  - NumArea.prefab: [number effects group]\n  - CutIn_Skill.prefab: [cut-in: skill]\r\n  - CutIn_Medaforce.prefab: [cut-in: Medaforce]\r\n  - CardUsed.prefab: [card used effect]\n  - CrossAttackInfo: [Cross Attack selection info]\n  - Judgement: [win/loss effect]\n  - TurnSwitch: [turn change effect]\n  - Result: [result screen]\n  - PhaseChange: [phase change effect]\n  - PlayText_Enemy: [play info text (opponent)]\n  - Deckout: [deck out effect]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "47e49d38e710",
-   "t": "●Sprites\r\n  - Leader_1 : leader (1 type)\r\n  - Leader_2 : leader (2 types)\r\n  - Support_1: support (1 type)\r\n  - Support_2: support (2 types)\r\n  - Parts_1  : part (1 type)\r\n  - Parts_2  : part (2 types)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "ff2b038c83a4",
-   "t": "●TextMeshProUGUIs\n  - GetExpNum: EXP gained [+number]\n\n●Animators\n  Fade: enter/exit anim\n  Please play it after the enter anim of Result's Fade anim\n  Please make it exit at the same time as the gauge rises.\n  - In   : enter\n  - Idle : idle\n         * display time set by the idle anim\n  - Out  : exit\n         * the gauge rises as it exits\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "9b10d7c0b681",
-   "t": "●TextMeshProUGUIs\r\n  Discard count [current/required]\r\n  - Text_CostNum\r\n  - Text_CostNum_Off\r\n  - Text_CostNum_Select\n\n●ObjectNodes\r\n  - TypeIcon: [tactic icon] prefab (attack type)\r",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "bca893725d1c",
-   "t": "●TextMeshProUGUIs\r\n  Please switch the text to match the phase.\r\n  [End Standby Phase]\r\n  [End Customize Phase]\r\n  [End Command Phase]\r\n  [End Battle Phase]\r\n  [End Command Phase 2]\r\n  [End End Phase]\r\n  \r\n  - Text: normal\r\n  - Text_Off: disabled\r\n  - Text_Select: selected\r\n  Key icon X button []\r\n  - KeyIcon: normal\r\n  - KeyIcon_Off: disabled\r\n  - KeyIcon_Select: selected",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "76d19ccf24c6",
-   "t": "●TextMeshProUGUIs\r\n  - CoinBaseNum: base reward amount\r\nx- CoinRecordNum: record reward amount  * deleted, no longer needed\r\n  - CoinBonusNum: bonus reward amount\r\n  - CoinTotalNum: total coins\r\n  - CoinNum: coins held\r\n  - MedalName: Medal name\r\n  - MedalLv: Medal level [Lv.current level/max level]\r\n              [Lv. <size=+10>2</size> / 6]\r\n  - NextLvNum: amount until the next level\r\n              [---] when at Max\n  - Text_CoinPercentNum: coin gain multiplier\r\n  - Text_CoinPercentNum_Eff: coin gain multiplier (for effects)\r\n              \r\n●SpriteAppliers\r\n  - Judgement: win/loss result\r\n      Please swap in the image matching the result.\r\n      Element0: win\r\n      Element1: loss\r\n      Element2: draw\r\n\r\n●AnimatorEvents\r\n  - Result\r\n    String[CoinTotalNum]: please change the total amount to the number with the multiplier added\n\n●Animators\r\n  Fade\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n         * may become unnecessary, we want to exit with a transition\r\n  - Hide : hidden\r\n\r\n  [State_Layer]: win/loss result\r\n  - Win  : win\r\n  - Lose : loss\r\n  - Draw : draw\n\r\n\r  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\n\n  [Reward Layer]: reward effect enter anim\r\n  - Hide_Reward_Tower : hidden (for the tower)\n  - In_Reward_Tower   : enter (for the tower)\r\n\r\n  [Tower Layer]: result switch\r\n      Please switch it for the Robattle Tower.\n  - General : normal\n  - Tower   : tower\n\n●Images\r\n  - Leader: leader artwork\r\n      Please swap in the leader's artwork.\r\n\r\n●ObjectNodes\r\n  - MedalIcon: [Medal icon]\r\n  - Result_Lvup: [result_level up]\r\n  - Result_GetExpNum: [result_EXP gained]\r\n  - Gauge_MedalExp: [Medal EXP gauge]\n  - MedacoinBag: [reward money bag]\n  - Result_GetTicket: ticket gain screen",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "867ce911c220",
-   "t": "●TextMeshProUGUIs\r\n  - CoinBaseNum: base reward amount\r\n  - CoinRecordNum: record reward amount\r\n  - CoinBonusNum: bonus reward amount\r\n  - CoinTotalNum: total coins\r\n  - CoinNum: coins held\r\n  - MedalName: Medal name\r\n  - MedalLv: Medal level [Lv.current level/max level]\r\n              [Lv. <size=+10>2</size> / 6]\r\n  - NextLvNum: amount until the next level\r\n              [---] when at Max\r\n              \r\n●SpriteAppliers\r\n  - Judgement: win/loss result\r\n      Please swap in the image matching the result.\r\n      Element0: win\r\n      Element1: loss\r\n      Element2: draw\r\n\r\n●Animators\r\n  Fade\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n         * may become unnecessary, we want to exit with a transition\r\n  - Hide : hidden\r\n\r\n  [State_Layer]: win/loss result\r\n  - Win  : win\r\n  - Lose : loss\r\n  - Draw : draw\n\r\n\r  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\n\n●Images\r\n  - Leader: leader artwork\r\n      Please swap in the leader's artwork.\r\n\r\n●ObjectNodes\r\n  - MedalIcon: [Medal icon]\r\n  - Result_Lvup: [result_level up]\r\n  - Result_GetExpNum: [result_EXP gained]\r\n  - Gauge_MedalExp: [Medal EXP gauge]",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "dadb0abeeec8",
-   "t": "●TextMeshProUGUIs\r\n  - KeyIcon: key icon * external-character font\r\n  - Guide  : control guide [Confirm], [Back] etc.",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "155a36c7b31b",
-   "t": "●TextMeshProUGUIs\r\n  - Num: [damage number]\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "8462fe817a84",
-   "t": "●TextMeshProUGUIs\r\n  - Num: [buff number]\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "2f7571f0d397",
-   "t": "●TextMeshProUGUIs\r\n  - PhaseName: phase name\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "b0f6110ed374",
-   "t": "●TextMeshProUGUIs\r\n  - Text: body text [Please choose a target]\r\n\r\n●Animators\r\n  Fade: enter/exit anim for the [target select window]\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\n\n●ObjectNodes\r\n  - BtnKey: generic button (with key icon)",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "c723c1f77028",
-   "t": "●TextMeshProUGUIs\r\n  - TicketBattleNum: battle reward amount\r\n  - TicketVerNum: other Ver. bonus amount\r\n  - TicketWinNum: win bonus amount\r\n  - TicketNum: tickets held\r\n\r\n●Sprites\r\n  Please swap the icon to match the ticket obtained.\r\n  - VerA: ticket icon_Kabuto\r\n  - VerB: ticket icon_Kuwagata\r\n\r\n●Images\r\n  - Ticket: ticket icon\r\n\r\n●Animators\r\n  Fade:\r\n  [Base Layer]: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n  \r\n  [Reward Layer]: reward effect enter anim\n  - Hide_Reward : hidden\n  - In_Reward   : enter\n    * please play [In_Reward] after entering on the BaseLayer\r\n\r\n●ObjectNodes\r\n  - Btn_00: generic button",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "3dc5c1e0f65b",
-   "t": "●TextMeshProUGUIs\r\n  - TurnNum: turn number\r\n\r\n●Animators\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle (display time is adjusted by the length of the idle anim)\r\n  - Out  : exit\r\n  - Hide : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "0545bfdc5d98",
-   "t": "●TextMeshProUGUIs\r\n  - TurnNum: turn number\r\n      [<size=-5>Turn </size>99]\r\n\r\n●AnimatorEvents\r\n  - NextTurn\r\n    String[NextTurn]: timing of the turn number switch\r\n\r\n●Animators\r\n  Please play it at the start of the turn\r\n  Fade: enter/exit anim\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit * there may be no exit timing\r\n  - Hide : hidden\r\n  - NextTurn  : turn change",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "0b87590c9dd4",
-   "t": "●TextMeshProUGUIs\r\n  charge cost or cooldown value\r\nx- Text_CostNum  * deleted, no longer needed\r\nx- Text_CostNum_Off  * deleted, no longer needed\r\nx- Text_CostNum_Select  * deleted, no longer needed\r\n  Please deactivate it if the value does not need to be shown\n\n  - Text_TrapNum: trap count\n\n●GameObjects\r\n  - Num_Filling: charge count\r\n  - Num_Cooling: cooldown count\r\n  - Num_Trap: trap count\r\n    Please deactivate it if the value does not need to be shown\n\n●Images\r\n  - Num_01_Filling: charge digit_1s\r\n  - Num_10_Filling: charge digit_10s  * shown only when a second digit is needed\r\n  - Num_01_Cooling: cooldown digit_1s\r\n  - Num_10_Cooling: cooldown digit_10s  * shown only when a second digit is needed",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "486a3cfab1b6",
-   "t": "●TextMeshProUGUIs\r\n  Please switch the text between [Details] and [Close] to match the open/closed state.\r\n  [Details] or [Close]\r\n  - Text: normal\r\n  - Text_Off: disabled\r\n  - Text_Select: selected\r\n  Key icon Y button []\r\n  - KeyIcon: normal\r\n  - KeyIcon_Off: disabled\r\n  - KeyIcon_Select: selected",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "a8886b3212f5",
-   "t": "●Transforms\r\n  - Cursor: cursor position\n\n●Animators\r\n  Fade_CostFrame: charge cost frame_enter/exit anim\r\n    Please animate it when charge cost is spent.\r\n  - In   : enter\r\n  - Idle : idle\r\n  - Out  : exit\r\n  - Hide : hidden\r\n\r\n●ObjectNodes\r\n  - CostNum      : [charge cost number]\n  - CostGauge  : [charge cost gauge]\n  - SelectCursor: selection cursor (for cost)",
-   "note": "developer note left in the scene, never shown in game"
   },
   {
    "src": "d6c05bd40059",
@@ -370,11 +55,6 @@
   {
    "src": "c66c8b622f97",
    "t": "Favorites\n"
-  },
-  {
-   "src": "90d5e37ab1e7",
-   "t": "Money",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "55629d217caa",
@@ -429,11 +109,6 @@
    "t": "Energy"
   },
   {
-   "src": "e6a5591a2e63",
-   "t": "Effect Test",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "a09e073f3351",
    "t": "Error Text 3"
   },
@@ -482,37 +157,12 @@
    "t": "Not enough cards\n"
   },
   {
-   "src": "0a3e92367ef5",
-   "t": "Card slowdown check",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "e4448fe427c6",
    "t": "Card Index"
   },
   {
-   "src": "b3fcc6b6cb97",
-   "t": "Card check",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "a18fbc12727e",
-   "t": "Card 1x display",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "f30cb39d6be8",
-   "t": "Card back check",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "db1ed45a1bc0",
    "t": "Gacha"
-  },
-  {
-   "src": "1badce58dcf8",
-   "t": "Gacha drop check",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "7a1ef7911599",
@@ -529,11 +179,6 @@
   {
    "src": "d9acb15aeab3",
    "t": "Keyword"
-  },
-  {
-   "src": "afa202c3c23b",
-   "t": "Keyword check",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "bbbf41ef1055",
@@ -584,11 +229,6 @@
    "t": "Sound"
   },
   {
-   "src": "ca2e5747fc5b",
-   "t": "Sound Test",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "e76fdcf2c006",
    "t": "Shoot Spider"
   },
@@ -607,11 +247,6 @@
   {
    "src": "616654205353",
    "t": "Skill Name aaaaa (Action)"
-  },
-  {
-   "src": "0af58228c22b",
-   "t": "Stage",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "c1135567f800",
@@ -634,22 +269,12 @@
    "t": "In deck"
   },
   {
-   "src": "250717a1ada5",
-   "t": "Save",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "1a1b8ba0dd6d",
    "t": "Sonic Shot"
   },
   {
    "src": "1171bbe78a70",
    "t": "Sort"
-  },
-  {
-   "src": "a20f57232e9f",
-   "t": "Title",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "572a6a52e9a6",
@@ -660,27 +285,12 @@
    "t": "By type ↑"
   },
   {
-   "src": "8d47aab80127",
-   "t": "Timer",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "c76bfd416ebf",
    "t": "Turn 99\n"
   },
   {
-   "src": "1c535b5c3774",
-   "t": "Dust",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "b0897bab82b0",
    "t": "Spend dust to create this card?"
-  },
-  {
-   "src": "cc3f6965e496",
-   "t": "Ticket",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "342528b973d0",
@@ -693,16 +303,6 @@
   {
    "src": "1230ddd9a232",
    "t": "Charge Blade (Constant): "
-  },
-  {
-   "src": "c5974713b068",
-   "t": "Tutorial",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "c03b79cd2047",
-   "t": "All Tutorials Cleared",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "f7adf6245b88",
@@ -737,11 +337,6 @@
    "t": "Deck Out"
   },
   {
-   "src": "66e8ad4ba91b",
-   "t": "Deck Shuffle",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "644c4bd6be8b",
    "t": "Deck List"
   },
@@ -766,16 +361,6 @@
    "t": "Deck Builder"
   },
   {
-   "src": "8712a92d1898",
-   "t": "Debug",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "2ec46cac476f",
-   "t": "Debug Action Order",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "af292b841c37",
    "t": "Discard"
   },
@@ -786,11 +371,6 @@
   {
    "src": "c47d33913ef0",
    "t": "Online Match"
-  },
-  {
-   "src": "ec316d4e0b64",
-   "t": "Battle Camera Angle Check",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "f0a22e1b94ee",
@@ -853,22 +433,12 @@
    "t": "End of Phase Check"
   },
   {
-   "src": "f31f25b1e7a3",
-   "t": "Font Size Check",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "3142a9cf8a77",
    "t": "Find a room hosted\nby a friend"
   },
   {
    "src": "5f6e1fe6b0d1",
    "t": "Search for a\nfriend's room"
-  },
-  {
-   "src": "3098584538b2",
-   "t": "Practice",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "91d1f8eae571",
@@ -893,11 +463,6 @@
   {
    "src": "ff5dfdedcc8d",
    "t": "Player Name aaaaaaa"
-  },
-  {
-   "src": "ad35f7df3f3a",
-   "t": "Player Deck",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "b25ace0065ed",
@@ -942,11 +507,6 @@
   {
    "src": "74c4893b3bde",
    "t": "Medal"
-  },
-  {
-   "src": "8ead3f94414f",
-   "t": "Medal Level Setup Scene",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "9ff283a1f4dc",
@@ -1050,11 +610,6 @@
    "t": "Rare"
   },
   {
-   "src": "45708022b7c4",
-   "t": "Rare Card Pop-Out Check",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "a28c73065c29",
    "t": "Rarity"
   },
@@ -1069,11 +624,6 @@
   {
    "src": "81d7b53b0aed",
    "t": "Rokusho"
-  },
-  {
-   "src": "7c7c45584dc3",
-   "t": "Logo",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "751dd2ab091a",
@@ -1108,16 +658,6 @@
    "t": "-"
   },
   {
-   "src": "7e0fbb856482",
-   "t": "Single Player",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "78d56504ea09",
-   "t": "Start Single Player",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "d43ed767d2b1",
    "t": "Card Robattle someone\nfrom around the world!"
   },
@@ -1150,18 +690,8 @@
    "t": "Save and return"
   },
   {
-   "src": "ca4d973c0b00",
-   "t": "Stop",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "535ee71f557e",
    "t": "Charge"
-  },
-  {
-   "src": "f32958520905",
-   "t": "Charge_Cooldown Cost Down",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "73c5747c7d9b",
@@ -1175,11 +705,6 @@
   {
    "src": "d3d2c11096f1",
    "t": "Total charge"
-  },
-  {
-   "src": "e3cefa68064c",
-   "t": "Unlock All",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "6cac16b39789",
@@ -1202,16 +727,6 @@
    "t": "Initial value"
   },
   {
-   "src": "5ed962917eba",
-   "t": "Reset",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
-   "src": "25afd0b01f16",
-   "t": "Other Version Save",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "a39ca290908e",
    "t": "Floor Reached"
   },
@@ -1222,11 +737,6 @@
   {
    "src": "b16a966a9465",
    "t": "Effect text\nMax 6 lines combined, 24 chars wide, 8 if one\nAaBbCcDdEeFfGgHhIiJjKkLl\n"
-  },
-  {
-   "src": "accf5eec17ca",
-   "t": "Video Check",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "9a81cb038340",
@@ -1313,11 +823,6 @@
    "t": "Waiting for your opponent's choice..."
   },
   {
-   "src": "672e023a66bc",
-   "t": "Opponent's Deck",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "d7c24ef36d58",
    "t": "Select a target"
   },
@@ -1332,11 +837,6 @@
   {
    "src": "543401b7ea82",
    "t": "Plains"
-  },
-  {
-   "src": "b321585fcfe1",
-   "t": "Object for getting coordinates\r\n●Transforms\r\n ActionSelection: Medabot action UI\r\n Num: UI for damage numbers, etc.\r\n Eff: effects-related (tentative)",
-   "note": "developer note left in the scene, never shown in game"
   },
   {
    "src": "6c6fa279e15d",
@@ -1365,11 +865,6 @@
   {
    "src": "f9c9f42e6311",
    "t": "Tactics"
-  },
-  {
-   "src": "6143478964f6",
-   "t": "Tactics Cost Zero",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "96cb391d9967",
@@ -1608,11 +1103,6 @@
    "t": "Confirm"
   },
   {
-   "src": "6aef72628b53",
-   "t": "View Background",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "c73d356eb6af",
    "t": "Ability 1"
   },
@@ -1637,33 +1127,8 @@
    "t": "Action Name (Action)"
   },
   {
-   "src": "a88b57eab28d",
-   "t": "For the display position, see the coordinate\r\nreference object [Num: UI such as damage values] in BattleCard_00.prefab.\n\n●Canvass\r\n - Order: for changing \"Order In Layer\" priority\r\n \r\n●ObjectNodes\r\n - DamegeNum: damage\r\n - BuffNum  : buff",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "81fba6eb2783",
-   "t": "For the display position, see the coordinate reference object for the deck.\r\n\r\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden\n\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\r\n\r\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "7223e075656c",
-   "t": "For the display position, see the coordinate reference object for the deck.\r\n\r\n●TextMeshProUGUIs\r\n - DeckNum: deck count\n\r\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\n\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
-   "src": "dc28d5d3321b",
-   "t": "For the display position, see the coordinate reference object for the discard pile.\r\n\r\n●TextMeshProUGUIs\r\n - TrashNum: discard pile count\n\n●Sprites\r\n - Num_0: 0\r\n - Num_1: 1\r\n - Num_2: 2\r\n - Num_3: 3\r\n - Num_4: 4\r\n - Num_5: 5\r\n - Num_6: 6\r\n - Num_7: 7\r\n - Num_8: 8\r\n - Num_9: 9\r\n\r\n●Images\r\n - ImgNum01: ones digit\r\n - ImgNum10: tens digit *hidden when single digit\r\n \r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden",
-   "note": "developer note left in the scene, never shown in game"
-  },
-  {
    "src": "6e46f28bc8b0",
    "t": "Description Text"
-  },
-  {
-   "src": "9682ba3b92f7",
-   "t": "Language",
-   "note": "debug menu, not reachable in normal play"
   },
   {
    "src": "cf747271c229",
@@ -1686,18 +1151,8 @@
    "t": "Robattle Card Fight\nwith players nearby!"
   },
   {
-   "src": "8f24df338894",
-   "t": "Connection Test",
-   "note": "debug menu, not reachable in normal play"
-  },
-  {
    "src": "4c978e9b7c93",
    "t": "Multiplayer Battle"
-  },
-  {
-   "src": "0efcaf13f440",
-   "t": "Shown on the battle card in the order selected.\r\n\r\nFor the display position, see the coordinate\r\nreference object [Num: UI such as damage values] in BattleCard_00.prefab.\n\n●Images\r\n - SelectNum: selection order icon\r\n              please swap the image to match the selection order.\n\r\n●Sprite: selection order\r\n - SelectNum_01: 1\r\n - SelectNum_02: 2\r\n - SelectNum_03: 3\r\n - SelectNum_04: 4\r\n - SelectNum_05: 5\r\r\n\r\n●Animators\r\n Fade: enter/exit animation\r\n - In    : enter\r\n - Idle  : idle\r\n - Out   : exit\r\n - Hide  : hidden",
-   "note": "developer note left in the scene, never shown in game"
   },
   {
    "src": "29f9117f3955",
@@ -1726,11 +1181,6 @@
   {
    "src": "0943908e8c16",
    "t": "Item"
-  },
-  {
-   "src": "3a73e5ffe251",
-   "t": "",
-   "note": "character repertoire / TextMeshPro line-breaking table: leave untranslated, the engine reads it"
   }
  ]
 }
