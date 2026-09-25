@@ -133,6 +133,55 @@ Then commit `langs/<lang>/` and open a pull request. Small ones land soonest.
 Font settings and artwork with text drawn into it:
 [docs/ADDING_A_LANGUAGE.md](docs/ADDING_A_LANGUAGE.md).
 
+## Extras: a secret code, a bonus for owning both versions, and cheats
+
+Two unlocks are easy to miss. Both were found by reading the game's code; they work
+with or without the translation.
+
+**The secret code.** On the title screen, while the game waits for you to press A,
+enter **↑ ↓ → ← L3 R3 X**:
+
+- The directions work with the D-pad or the left stick. L3 and R3 mean clicking the
+  sticks in.
+- A wrong button starts the sequence over.
+- A starts the game, so don't press it.
+- Finish before the title music ends, or the prologue starts playing.
+
+You get a *Secret Unlocked!* message, plus a player icon, a wallpaper and a card
+sleeve that can't be obtained any other way. It works once per save, and not in the
+trial version.
+
+**The Both Versions Bonus.** Kuwagata Ver. and Kabuto Ver. reward you for having
+both:
+
+- The same console and user needs save data for the other version (Kabuto ↔
+  Kuwagata). On an emulator, that means the same emulated user.
+- Once you've finished the tutorial, the main menu gives you the other version's
+  exclusive sleeves, wallpapers and player icons.
+- You also get two icons found nowhere else: God Emperor and Fermion.
+
+The bonus doesn't include cards. The other version's exclusive cards are created in
+the Card Library, and besides dust they cost **tickets**. Tickets only come from
+multiplayer battles: 1 per battle, +1 for a win, and +1 against the other version.
+
+**Don't edit the save file by hand.** `all.dat` records the size of each block, so
+changing the length of any value (`false` → `true`, `9` → `10`) makes the game
+treat the save as corrupt and start over. Setting the unlock flags by hand wouldn't
+help anyway: the rewards are handed out at the moment of unlocking, and a flag
+that's already set skips that step.
+
+**Cheats.** No second version, or nobody to play against?
+[extras/cheats](extras/cheats/) has two small patches, as cheats and as IPS patches.
+They work on a Switch with Atmosphère and on emulators (Eden and the rest of the yuzu
+family, and Ryujinx):
+
+- One makes the game grant the Both Versions Bonus and sets your tickets to 999.
+- The other also runs the developers' own *Unlock All* routine from their debug menu.
+  That menu's scene isn't shipped, so it can't be opened on any platform.
+
+Both patches have only been verified statically for now; the page explains
+everything.
+
 ## Questions
 
 **Will it break my save?** It changes text and pictures, not game logic. Back up

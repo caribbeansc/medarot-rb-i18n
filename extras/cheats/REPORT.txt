@@ -1,0 +1,420 @@
+== Kuwagata v1.1  (0100CB6024FF8000, build ID B46C7E9F17F4E3EE359CE7F0A1CBC8E5)
+  setup        0x2929ad0
+  site_flag    0x2929d5c
+  site_exist   0x2929ddc
+  site_open    0x292a0f8
+  site_setown  0x292a114
+  gw_slot      0x775b008
+  open_ver     0x27b98e0
+  unlock_all   0x29bab80
+  cave         0x29bbb60
+  cave_end     0x29bbd30
+ [both_versions_bonus]
+  GATE
+    029bbb60  str    x9, [sp, #-0x10]!
+    029bbb64  adrp   x9, #0x775b000
+    029bbb68  ldr    x9, [x9, #8]
+    029bbb6c  ldr    x9, [x9]
+    029bbb70  cbz    x9, #0x29bbb8c
+    029bbb74  ldr    x9, [x9, #0xb8]
+    029bbb78  ldr    x9, [x9]
+    029bbb7c  cbz    x9, #0x29bbb8c
+    029bbb80  ldrb   w8, [x9, #0x7c]
+    029bbb84  ldr    x9, [sp], #0x10
+    029bbb88  ret    
+    029bbb8c  mov    w8, #1
+    029bbb90  ldr    x9, [sp], #0x10
+    029bbb94  ret    
+    029bbb98  mov    x20, x9
+    029bbb9c  ldr    x0, [x0, #0x308]
+  TICKETS
+    029bbba0  adrp   x9, #0x775b000
+    029bbba4  ldr    x9, [x9, #8]
+    029bbba8  ldr    x9, [x9]
+    029bbbac  cbz    x9, #0x29bbbc4
+    029bbbb0  ldr    x9, [x9, #0xb8]
+    029bbbb4  ldr    x9, [x9]
+    029bbbb8  cbz    x9, #0x29bbbc4
+    029bbbbc  mov    w8, #1
+    029bbbc0  strb   w8, [x9, #0x7c]
+    029bbbc4  mov    w8, #0x3e7
+    029bbbc8  str    w8, [x0, #0x20]
+    029bbbcc  b      #0x27b98e0
+  site_flag
+    02929d58  bl     #0x27b6630
+    02929d5c  bl     #0x29bbb60
+    02929d60  cbnz   w8, #0x292a18c
+  site_exist
+    02929dd8  ldr    x1, [x8, #0x10]
+    02929ddc  mov    w0, #1
+    02929de0  ldr    x8, [x22]
+  site_open
+    0292a0f4  mov    x1, xzr
+    0292a0f8  bl     #0x29bbba0
+    0292a0fc  ldr    x8, [x20]
+  site_setown
+    0292a110  mov    x1, xzr
+    0292a114  bl     #0x27b6da0
+    0292a118  mov    x0, x22
+ [unlock_everything]
+  GATE
+    029bbb60  str    x9, [sp, #-0x10]!
+    029bbb64  adrp   x9, #0x775b000
+    029bbb68  ldr    x9, [x9, #8]
+    029bbb6c  ldr    x9, [x9]
+    029bbb70  cbz    x9, #0x29bbb8c
+    029bbb74  ldr    x9, [x9, #0xb8]
+    029bbb78  ldr    x9, [x9]
+    029bbb7c  cbz    x9, #0x29bbb8c
+    029bbb80  ldrb   w8, [x9, #0x7c]
+    029bbb84  ldr    x9, [sp], #0x10
+    029bbb88  ret    
+    029bbb8c  mov    w8, #1
+    029bbb90  ldr    x9, [sp], #0x10
+    029bbb94  ret    
+    029bbb98  mov    x20, x9
+    029bbb9c  ldr    x0, [x0, #0x308]
+  TICKETS
+    029bbba0  adrp   x9, #0x775b000
+    029bbba4  ldr    x9, [x9, #8]
+    029bbba8  ldr    x9, [x9]
+    029bbbac  cbz    x9, #0x29bbbc4
+    029bbbb0  ldr    x9, [x9, #0xb8]
+    029bbbb4  ldr    x9, [x9]
+    029bbbb8  cbz    x9, #0x29bbbc4
+    029bbbbc  mov    w8, #1
+    029bbbc0  strb   w8, [x9, #0x7c]
+    029bbbc4  mov    w8, #0x3e7
+    029bbbc8  str    w8, [x0, #0x20]
+    029bbbcc  b      #0x27b98e0
+  site_flag
+    02929d58  bl     #0x27b6630
+    02929d5c  bl     #0x29bbb60
+    02929d60  cbnz   w8, #0x292a18c
+  site_exist
+    02929dd8  ldr    x1, [x8, #0x10]
+    02929ddc  mov    w0, #1
+    02929de0  ldr    x8, [x22]
+  site_open
+    0292a0f4  mov    x1, xzr
+    0292a0f8  bl     #0x29bbba0
+    0292a0fc  ldr    x8, [x20]
+  site_setown
+    0292a110  mov    x1, xzr
+    0292a114  bl     #0x29bab80
+    0292a118  mov    x0, x22
+== Kuwagata v1.0  (0100CB6024FF8000, build ID D58905BFCD096B9E4AFD0DFA39AA06B1)
+  setup        0x29284d0
+  site_flag    0x292875c
+  site_exist   0x29287dc
+  site_open    0x2928af8
+  site_setown  0x2928b14
+  gw_slot      0x7756d80
+  open_ver     0x27b9ad0
+  unlock_all   0x29b8990
+  cave         0x29b9970
+  cave_end     0x29b9b40
+ [both_versions_bonus]
+  GATE
+    029b9970  str    x9, [sp, #-0x10]!
+    029b9974  adrp   x9, #0x7756000
+    029b9978  ldr    x9, [x9, #0xd80]
+    029b997c  ldr    x9, [x9]
+    029b9980  cbz    x9, #0x29b999c
+    029b9984  ldr    x9, [x9, #0xb8]
+    029b9988  ldr    x9, [x9]
+    029b998c  cbz    x9, #0x29b999c
+    029b9990  ldrb   w8, [x9, #0x7c]
+    029b9994  ldr    x9, [sp], #0x10
+    029b9998  ret    
+    029b999c  mov    w8, #1
+    029b99a0  ldr    x9, [sp], #0x10
+    029b99a4  ret    
+    029b99a8  mov    x20, x9
+    029b99ac  ldr    x0, [x0, #0xf60]
+  TICKETS
+    029b99b0  adrp   x9, #0x7756000
+    029b99b4  ldr    x9, [x9, #0xd80]
+    029b99b8  ldr    x9, [x9]
+    029b99bc  cbz    x9, #0x29b99d4
+    029b99c0  ldr    x9, [x9, #0xb8]
+    029b99c4  ldr    x9, [x9]
+    029b99c8  cbz    x9, #0x29b99d4
+    029b99cc  mov    w8, #1
+    029b99d0  strb   w8, [x9, #0x7c]
+    029b99d4  mov    w8, #0x3e7
+    029b99d8  str    w8, [x0, #0x20]
+    029b99dc  b      #0x27b9ad0
+  site_flag
+    02928758  bl     #0x27b6820
+    0292875c  bl     #0x29b9970
+    02928760  cbnz   w8, #0x2928b8c
+  site_exist
+    029287d8  ldr    x1, [x8, #0x10]
+    029287dc  mov    w0, #1
+    029287e0  ldr    x8, [x22]
+  site_open
+    02928af4  mov    x1, xzr
+    02928af8  bl     #0x29b99b0
+    02928afc  ldr    x8, [x20]
+  site_setown
+    02928b10  mov    x1, xzr
+    02928b14  bl     #0x27b6f90
+    02928b18  mov    x0, x22
+ [unlock_everything]
+  GATE
+    029b9970  str    x9, [sp, #-0x10]!
+    029b9974  adrp   x9, #0x7756000
+    029b9978  ldr    x9, [x9, #0xd80]
+    029b997c  ldr    x9, [x9]
+    029b9980  cbz    x9, #0x29b999c
+    029b9984  ldr    x9, [x9, #0xb8]
+    029b9988  ldr    x9, [x9]
+    029b998c  cbz    x9, #0x29b999c
+    029b9990  ldrb   w8, [x9, #0x7c]
+    029b9994  ldr    x9, [sp], #0x10
+    029b9998  ret    
+    029b999c  mov    w8, #1
+    029b99a0  ldr    x9, [sp], #0x10
+    029b99a4  ret    
+    029b99a8  mov    x20, x9
+    029b99ac  ldr    x0, [x0, #0xf60]
+  TICKETS
+    029b99b0  adrp   x9, #0x7756000
+    029b99b4  ldr    x9, [x9, #0xd80]
+    029b99b8  ldr    x9, [x9]
+    029b99bc  cbz    x9, #0x29b99d4
+    029b99c0  ldr    x9, [x9, #0xb8]
+    029b99c4  ldr    x9, [x9]
+    029b99c8  cbz    x9, #0x29b99d4
+    029b99cc  mov    w8, #1
+    029b99d0  strb   w8, [x9, #0x7c]
+    029b99d4  mov    w8, #0x3e7
+    029b99d8  str    w8, [x0, #0x20]
+    029b99dc  b      #0x27b9ad0
+  site_flag
+    02928758  bl     #0x27b6820
+    0292875c  bl     #0x29b9970
+    02928760  cbnz   w8, #0x2928b8c
+  site_exist
+    029287d8  ldr    x1, [x8, #0x10]
+    029287dc  mov    w0, #1
+    029287e0  ldr    x8, [x22]
+  site_open
+    02928af4  mov    x1, xzr
+    02928af8  bl     #0x29b99b0
+    02928afc  ldr    x8, [x20]
+  site_setown
+    02928b10  mov    x1, xzr
+    02928b14  bl     #0x29b8990
+    02928b18  mov    x0, x22
+== Kabuto v1.1  (0100DE4023982000, build ID 68A3D35B3729E2FCC6C9E56C88EE74C3)
+  setup        0x2929990
+  site_flag    0x2929c1c
+  site_exist   0x2929c9c
+  site_open    0x2929fb8
+  site_setown  0x2929fd4
+  gw_slot      0x775b008
+  open_ver     0x27b97a0
+  unlock_all   0x29baa40
+  cave         0x29bba20
+  cave_end     0x29bbbf0
+ [both_versions_bonus]
+  GATE
+    029bba20  str    x9, [sp, #-0x10]!
+    029bba24  adrp   x9, #0x775b000
+    029bba28  ldr    x9, [x9, #8]
+    029bba2c  ldr    x9, [x9]
+    029bba30  cbz    x9, #0x29bba4c
+    029bba34  ldr    x9, [x9, #0xb8]
+    029bba38  ldr    x9, [x9]
+    029bba3c  cbz    x9, #0x29bba4c
+    029bba40  ldrb   w8, [x9, #0x7c]
+    029bba44  ldr    x9, [sp], #0x10
+    029bba48  ret    
+    029bba4c  mov    w8, #1
+    029bba50  ldr    x9, [sp], #0x10
+    029bba54  ret    
+    029bba58  mov    x20, x9
+    029bba5c  ldr    x0, [x0, #0x308]
+  TICKETS
+    029bba60  adrp   x9, #0x775b000
+    029bba64  ldr    x9, [x9, #8]
+    029bba68  ldr    x9, [x9]
+    029bba6c  cbz    x9, #0x29bba84
+    029bba70  ldr    x9, [x9, #0xb8]
+    029bba74  ldr    x9, [x9]
+    029bba78  cbz    x9, #0x29bba84
+    029bba7c  mov    w8, #1
+    029bba80  strb   w8, [x9, #0x7c]
+    029bba84  mov    w8, #0x3e7
+    029bba88  str    w8, [x0, #0x20]
+    029bba8c  b      #0x27b97a0
+  site_flag
+    02929c18  bl     #0x27b64f0
+    02929c1c  bl     #0x29bba20
+    02929c20  cbnz   w8, #0x292a04c
+  site_exist
+    02929c98  ldr    x1, [x8, #0x10]
+    02929c9c  mov    w0, #1
+    02929ca0  ldr    x8, [x22]
+  site_open
+    02929fb4  mov    x1, xzr
+    02929fb8  bl     #0x29bba60
+    02929fbc  ldr    x8, [x20]
+  site_setown
+    02929fd0  mov    x1, xzr
+    02929fd4  bl     #0x27b6c60
+    02929fd8  mov    x0, x22
+ [unlock_everything]
+  GATE
+    029bba20  str    x9, [sp, #-0x10]!
+    029bba24  adrp   x9, #0x775b000
+    029bba28  ldr    x9, [x9, #8]
+    029bba2c  ldr    x9, [x9]
+    029bba30  cbz    x9, #0x29bba4c
+    029bba34  ldr    x9, [x9, #0xb8]
+    029bba38  ldr    x9, [x9]
+    029bba3c  cbz    x9, #0x29bba4c
+    029bba40  ldrb   w8, [x9, #0x7c]
+    029bba44  ldr    x9, [sp], #0x10
+    029bba48  ret    
+    029bba4c  mov    w8, #1
+    029bba50  ldr    x9, [sp], #0x10
+    029bba54  ret    
+    029bba58  mov    x20, x9
+    029bba5c  ldr    x0, [x0, #0x308]
+  TICKETS
+    029bba60  adrp   x9, #0x775b000
+    029bba64  ldr    x9, [x9, #8]
+    029bba68  ldr    x9, [x9]
+    029bba6c  cbz    x9, #0x29bba84
+    029bba70  ldr    x9, [x9, #0xb8]
+    029bba74  ldr    x9, [x9]
+    029bba78  cbz    x9, #0x29bba84
+    029bba7c  mov    w8, #1
+    029bba80  strb   w8, [x9, #0x7c]
+    029bba84  mov    w8, #0x3e7
+    029bba88  str    w8, [x0, #0x20]
+    029bba8c  b      #0x27b97a0
+  site_flag
+    02929c18  bl     #0x27b64f0
+    02929c1c  bl     #0x29bba20
+    02929c20  cbnz   w8, #0x292a04c
+  site_exist
+    02929c98  ldr    x1, [x8, #0x10]
+    02929c9c  mov    w0, #1
+    02929ca0  ldr    x8, [x22]
+  site_open
+    02929fb4  mov    x1, xzr
+    02929fb8  bl     #0x29bba60
+    02929fbc  ldr    x8, [x20]
+  site_setown
+    02929fd0  mov    x1, xzr
+    02929fd4  bl     #0x29baa40
+    02929fd8  mov    x0, x22
+== Kabuto v1.0  (0100DE4023982000, build ID 5DE2B2AB6B086CA3A3534A80C58B3154)
+  setup        0x2928390
+  site_flag    0x292861c
+  site_exist   0x292869c
+  site_open    0x29289b8
+  site_setown  0x29289d4
+  gw_slot      0x7756d80
+  open_ver     0x27b9990
+  unlock_all   0x29b8850
+  cave         0x29b9830
+  cave_end     0x29b9a00
+ [both_versions_bonus]
+  GATE
+    029b9830  str    x9, [sp, #-0x10]!
+    029b9834  adrp   x9, #0x7756000
+    029b9838  ldr    x9, [x9, #0xd80]
+    029b983c  ldr    x9, [x9]
+    029b9840  cbz    x9, #0x29b985c
+    029b9844  ldr    x9, [x9, #0xb8]
+    029b9848  ldr    x9, [x9]
+    029b984c  cbz    x9, #0x29b985c
+    029b9850  ldrb   w8, [x9, #0x7c]
+    029b9854  ldr    x9, [sp], #0x10
+    029b9858  ret    
+    029b985c  mov    w8, #1
+    029b9860  ldr    x9, [sp], #0x10
+    029b9864  ret    
+    029b9868  mov    x20, x9
+    029b986c  ldr    x0, [x0, #0xf60]
+  TICKETS
+    029b9870  adrp   x9, #0x7756000
+    029b9874  ldr    x9, [x9, #0xd80]
+    029b9878  ldr    x9, [x9]
+    029b987c  cbz    x9, #0x29b9894
+    029b9880  ldr    x9, [x9, #0xb8]
+    029b9884  ldr    x9, [x9]
+    029b9888  cbz    x9, #0x29b9894
+    029b988c  mov    w8, #1
+    029b9890  strb   w8, [x9, #0x7c]
+    029b9894  mov    w8, #0x3e7
+    029b9898  str    w8, [x0, #0x20]
+    029b989c  b      #0x27b9990
+  site_flag
+    02928618  bl     #0x27b66e0
+    0292861c  bl     #0x29b9830
+    02928620  cbnz   w8, #0x2928a4c
+  site_exist
+    02928698  ldr    x1, [x8, #0x10]
+    0292869c  mov    w0, #1
+    029286a0  ldr    x8, [x22]
+  site_open
+    029289b4  mov    x1, xzr
+    029289b8  bl     #0x29b9870
+    029289bc  ldr    x8, [x20]
+  site_setown
+    029289d0  mov    x1, xzr
+    029289d4  bl     #0x27b6e50
+    029289d8  mov    x0, x22
+ [unlock_everything]
+  GATE
+    029b9830  str    x9, [sp, #-0x10]!
+    029b9834  adrp   x9, #0x7756000
+    029b9838  ldr    x9, [x9, #0xd80]
+    029b983c  ldr    x9, [x9]
+    029b9840  cbz    x9, #0x29b985c
+    029b9844  ldr    x9, [x9, #0xb8]
+    029b9848  ldr    x9, [x9]
+    029b984c  cbz    x9, #0x29b985c
+    029b9850  ldrb   w8, [x9, #0x7c]
+    029b9854  ldr    x9, [sp], #0x10
+    029b9858  ret    
+    029b985c  mov    w8, #1
+    029b9860  ldr    x9, [sp], #0x10
+    029b9864  ret    
+    029b9868  mov    x20, x9
+    029b986c  ldr    x0, [x0, #0xf60]
+  TICKETS
+    029b9870  adrp   x9, #0x7756000
+    029b9874  ldr    x9, [x9, #0xd80]
+    029b9878  ldr    x9, [x9]
+    029b987c  cbz    x9, #0x29b9894
+    029b9880  ldr    x9, [x9, #0xb8]
+    029b9884  ldr    x9, [x9]
+    029b9888  cbz    x9, #0x29b9894
+    029b988c  mov    w8, #1
+    029b9890  strb   w8, [x9, #0x7c]
+    029b9894  mov    w8, #0x3e7
+    029b9898  str    w8, [x0, #0x20]
+    029b989c  b      #0x27b9990
+  site_flag
+    02928618  bl     #0x27b66e0
+    0292861c  bl     #0x29b9830
+    02928620  cbnz   w8, #0x2928a4c
+  site_exist
+    02928698  ldr    x1, [x8, #0x10]
+    0292869c  mov    w0, #1
+    029286a0  ldr    x8, [x22]
+  site_open
+    029289b4  mov    x1, xzr
+    029289b8  bl     #0x29b9870
+    029289bc  ldr    x8, [x20]
+  site_setown
+    029289d0  mov    x1, xzr
+    029289d4  bl     #0x29b8850
+    029289d8  mov    x0, x22
