@@ -164,12 +164,6 @@ The bonus doesn't include cards. The other version's exclusive cards are created
 the Card Library, and besides dust they cost **tickets**. Tickets only come from
 multiplayer battles: 1 per battle, +1 for a win, and +1 against the other version.
 
-**Don't edit the save file by hand.** `all.dat` records the size of each block, so
-changing the length of any value (`false` → `true`, `9` → `10`) makes the game
-treat the save as corrupt and start over. Setting the unlock flags by hand wouldn't
-help anyway: the rewards are handed out at the moment of unlocking, and a flag
-that's already set skips that step.
-
 **Cheats.** No second version, or nobody to play against?
 [extras/cheats](extras/cheats/) has two small patches, as cheats and as IPS patches.
 They work on a Switch with Atmosphère and on emulators (Eden and the rest of the yuzu
@@ -178,9 +172,6 @@ family, and Ryujinx):
 - One makes the game grant the Both Versions Bonus and sets your tickets to 999.
 - The other also runs the developers' own *Unlock All* routine from their debug menu.
   That menu's scene isn't shipped, so it can't be opened on any platform.
-
-Both patches have only been verified statically for now; the page explains
-everything.
 
 ## Questions
 
